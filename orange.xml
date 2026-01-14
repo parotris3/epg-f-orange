@@ -3,154 +3,278 @@
   <channel id="Fútbol 1">
     <display-name>Fútbol 1</display-name>
   </channel>
-  <channel id="Fútbol 2">
-    <display-name>Fútbol 2</display-name>
-  </channel>
-  <channel id="Fútbol 3">
-    <display-name>Fútbol 3</display-name>
-  </channel>
-  <programme start="20261104210000 +0100" stop="20261104230000 +0100" channel="Fútbol 1">
-    <title>LIVERPOOL VS REAL MADRID</title>
-  </programme>
-  <programme start="20261104210000 +0100" stop="20261104230000 +0100" channel="Fútbol 1">
-    <title>ATLÉTICO VS UNION SG</title>
-  </programme>
-  <programme start="20260117210000 +0100" stop="20260117230000 +0100" channel="Fútbol 1">
-    <title>BETIS VS VILLARREAL</title>
-  </programme>
-  <programme start="20260118140000 +0100" stop="20260118160000 +0100" channel="Fútbol 1">
-    <title>GETAFE VS VALENCIA</title>
+  <programme start="20251218210000 +0100" stop="20251218230000 +0100" channel="Fútbol 1">
+    <title>RAYO VALLECANO VS DRITA GJILAN</title>
+    <desc>Fútbol en directo</desc>
   </programme>
   <programme start="20260111200000 +0100" stop="20260111220000 +0100" channel="Fútbol 1">
     <title>BARCELONA VS REAL MADRID</title>
+    <desc>Fútbol en directo</desc>
   </programme>
-  <programme start="20251218210000 +0100" stop="20251218230000 +0100" channel="Fútbol 1">
-    <title>RAYO VALLECANO VS DRITA GJILAN</title>
+  <programme start="20260111200000 +0100" stop="20260111220000 +0100" channel="Fútbol 1">
+    <title>BARCELONA VS REAL MADRID</title>
+    <desc>Fútbol en directo</desc>
   </programme>
-  <programme start="20260116203000 +0100" stop="20260116223000 +0100" channel="Fútbol 2">
-    <title>CASTELLÓN VS LEGANÉS</title>
-  </programme>
-  <programme start="20260117140000 +0100" stop="20260117160000 +0100" channel="Fútbol 2">
-    <title>CEUTA VS VALLADOLID</title>
-  </programme>
-  <programme start="20260117210000 +0100" stop="20260117230000 +0100" channel="Fútbol 2">
-    <title>ALMERÍA VS DEPORTIVO</title>
-  </programme>
-  <programme start="20260118140000 +0100" stop="20260118160000 +0100" channel="Fútbol 2">
-    <title>MIRANDÉS VS ANDORRA</title>
-  </programme>
-  <programme start="20260118161500 +0100" stop="20260118181500 +0100" channel="Fútbol 2">
-    <title>RACING VS LAS PALMAS</title>
-  </programme>
-  <programme start="20260118183000 +0100" stop="20260118203000 +0100" channel="Fútbol 2">
-    <title>ALBACETE VS CÁDIZ</title>
+  <programme start="20260114180914 +0100" stop="20260115210000 +0100" channel="Fútbol 1">
+    <title>Próximo partido: RACING VS BARCELONA</title>
+    <desc>No hay emisión en directo en este momento.</desc>
   </programme>
   <programme start="20260115210000 +0100" stop="20260115230000 +0100" channel="Fútbol 1">
     <title>RACING VS BARCELONA</title>
+    <desc>Fútbol en directo</desc>
   </programme>
   <programme start="20260115210000 +0100" stop="20260115230000 +0100" channel="Fútbol 1">
     <title>BURGOS VS VALENCIA</title>
+    <desc>Fútbol en directo</desc>
   </programme>
-  <programme start="20261124183000 +0100" stop="20261124203000 +0100" channel="Fútbol 3">
-    <title>TORINO VS COMO</title>
+  <programme start="20260115210000 +0100" stop="20260115230000 +0100" channel="Fútbol 1">
+    <title>RACING VS BARCELONA</title>
+    <desc>Fútbol en directo</desc>
   </programme>
-  <programme start="20261130180000 +0100" stop="20261130200000 +0100" channel="Fútbol 3">
-    <title>ATALANTA VS FIORENTINA</title>
+  <programme start="20260115210000 +0100" stop="20260115230000 +0100" channel="Fútbol 1">
+    <title>BURGOS VS VALENCIA</title>
+    <desc>Fútbol en directo</desc>
   </programme>
-  <programme start="20251207180000 +0100" stop="20251207200000 +0100" channel="Fútbol 3">
-    <title>LAZIO VS BOLONIA</title>
+  <programme start="20260115230000 +0100" stop="20260117210000 +0100" channel="Fútbol 1">
+    <title>Próximo partido: BETIS VS VILLARREAL</title>
+    <desc>No hay emisión en directo en este momento.</desc>
   </programme>
-  <programme start="20260117210500 +0100" stop="20260117230500 +0100" channel="Fútbol 3">
-    <title>ANGERS VS OLYMPIQUE MARSELLA</title>
+  <programme start="20260117210000 +0100" stop="20260117230000 +0100" channel="Fútbol 1">
+    <title>BETIS VS VILLARREAL</title>
+    <desc>Fútbol en directo</desc>
   </programme>
-  <programme start="20260113150000 +0100" stop="20260113170000 +0100" channel="Fútbol 3">
-    <title>BORUSSIA DORTMUND VS WERDER BREMEN</title>
+  <programme start="20260117210000 +0100" stop="20260117230000 +0100" channel="Fútbol 1">
+    <title>BETIS VS VILLARREAL</title>
+    <desc>Fútbol en directo</desc>
   </programme>
-  <programme start="20260114210000 +0100" stop="20260114230000 +0100" channel="Fútbol 3">
-    <title>INTER DE MILÁN VS LECCE</title>
+  <programme start="20260117230000 +0100" stop="20260118140000 +0100" channel="Fútbol 1">
+    <title>Próximo partido: GETAFE VS VALENCIA</title>
+    <desc>No hay emisión en directo en este momento.</desc>
   </programme>
-  <programme start="20260116210000 +0100" stop="20260116230000 +0100" channel="Fútbol 3">
-    <title>WERDER BREMEN VS EINTRACHT DE FRANCFORT</title>
+  <programme start="20260118140000 +0100" stop="20260118160000 +0100" channel="Fútbol 1">
+    <title>GETAFE VS VALENCIA</title>
+    <desc>Fútbol en directo</desc>
   </programme>
-  <programme start="20260117121500 +0100" stop="20260117141500 +0100" channel="Fútbol 3">
-    <title>MANCHESTER UNITED VS MANCHESTER CITY</title>
+  <programme start="20260118140000 +0100" stop="20260118160000 +0100" channel="Fútbol 1">
+    <title>GETAFE VS VALENCIA</title>
+    <desc>Fútbol en directo</desc>
   </programme>
-  <programme start="20260117150000 +0100" stop="20260117170000 +0100" channel="Fútbol 3">
-    <title>SSC NÁPOLES VS SASSUOLO</title>
-  </programme>
-  <programme start="20260118164500 +0100" stop="20260118184500 +0100" channel="Fútbol 3">
-    <title>FEYERNOORD VS SPARTA ROTTERDAM</title>
+  <programme start="20260118160000 +0100" stop="20261104210000 +0100" channel="Fútbol 1">
+    <title>Próximo partido: LIVERPOOL VS REAL MADRID</title>
+    <desc>No hay emisión en directo en este momento.</desc>
   </programme>
   <programme start="20261104210000 +0100" stop="20261104230000 +0100" channel="Fútbol 1">
     <title>LIVERPOOL VS REAL MADRID</title>
+    <desc>Fútbol en directo</desc>
   </programme>
   <programme start="20261104210000 +0100" stop="20261104230000 +0100" channel="Fútbol 1">
     <title>ATLÉTICO VS UNION SG</title>
+    <desc>Fútbol en directo</desc>
   </programme>
-  <programme start="20260111200000 +0100" stop="20260111220000 +0100" channel="Fútbol 1">
-    <title>BARCELONA VS REAL MADRID</title>
+  <programme start="20261104210000 +0100" stop="20261104230000 +0100" channel="Fútbol 1">
+    <title>LIVERPOOL VS REAL MADRID</title>
+    <desc>Fútbol en directo</desc>
+  </programme>
+  <programme start="20261104210000 +0100" stop="20261104230000 +0100" channel="Fútbol 1">
+    <title>ATLÉTICO VS UNION SG</title>
+    <desc>Fútbol en directo</desc>
+  </programme>
+  <programme start="20261104230000 +0100" stop="20261106184500 +0100" channel="Fútbol 1">
+    <title>Próximo partido: DINAMO ZAGREB VS CELTA</title>
+    <desc>No hay emisión en directo en este momento.</desc>
   </programme>
   <programme start="20261106184500 +0100" stop="20261106204500 +0100" channel="Fútbol 1">
     <title>DINAMO ZAGREB VS CELTA</title>
+    <desc>Fútbol en directo</desc>
   </programme>
-  <programme start="20260117210000 +0100" stop="20260117230000 +0100" channel="Fútbol 1">
-    <title>BETIS VS VILLARREAL</title>
-  </programme>
-  <programme start="20260118140000 +0100" stop="20260118160000 +0100" channel="Fútbol 1">
-    <title>GETAFE VS VALENCIA</title>
-  </programme>
-  <programme start="20260115210000 +0100" stop="20260115230000 +0100" channel="Fútbol 1">
-    <title>RACING VS BARCELONA</title>
-  </programme>
-  <programme start="20260115210000 +0100" stop="20260115230000 +0100" channel="Fútbol 1">
-    <title>BURGOS VS VALENCIA</title>
+  <channel id="Fútbol 2">
+    <display-name>Fútbol 2</display-name>
+  </channel>
+  <programme start="20260114180914 +0100" stop="20260116203000 +0100" channel="Fútbol 2">
+    <title>Próximo partido: CASTELLÓN VS LEGANÉS</title>
+    <desc>No hay emisión en directo en este momento.</desc>
   </programme>
   <programme start="20260116203000 +0100" stop="20260116223000 +0100" channel="Fútbol 2">
     <title>CASTELLÓN VS LEGANÉS</title>
+    <desc>Fútbol en directo</desc>
+  </programme>
+  <programme start="20260116203000 +0100" stop="20260116223000 +0100" channel="Fútbol 2">
+    <title>CASTELLÓN VS LEGANÉS</title>
+    <desc>Fútbol en directo</desc>
+  </programme>
+  <programme start="20260116223000 +0100" stop="20260117140000 +0100" channel="Fútbol 2">
+    <title>Próximo partido: CEUTA VS VALLADOLID</title>
+    <desc>No hay emisión en directo en este momento.</desc>
   </programme>
   <programme start="20260117140000 +0100" stop="20260117160000 +0100" channel="Fútbol 2">
     <title>CEUTA VS VALLADOLID</title>
+    <desc>Fútbol en directo</desc>
+  </programme>
+  <programme start="20260117140000 +0100" stop="20260117160000 +0100" channel="Fútbol 2">
+    <title>CEUTA VS VALLADOLID</title>
+    <desc>Fútbol en directo</desc>
+  </programme>
+  <programme start="20260117160000 +0100" stop="20260117210000 +0100" channel="Fútbol 2">
+    <title>Próximo partido: ALMERÍA VS DEPORTIVO</title>
+    <desc>No hay emisión en directo en este momento.</desc>
   </programme>
   <programme start="20260117210000 +0100" stop="20260117230000 +0100" channel="Fútbol 2">
     <title>ALMERÍA VS DEPORTIVO</title>
+    <desc>Fútbol en directo</desc>
+  </programme>
+  <programme start="20260117210000 +0100" stop="20260117230000 +0100" channel="Fútbol 2">
+    <title>ALMERÍA VS DEPORTIVO</title>
+    <desc>Fútbol en directo</desc>
+  </programme>
+  <programme start="20260117230000 +0100" stop="20260118140000 +0100" channel="Fútbol 2">
+    <title>Próximo partido: MIRANDÉS VS ANDORRA</title>
+    <desc>No hay emisión en directo en este momento.</desc>
   </programme>
   <programme start="20260118140000 +0100" stop="20260118160000 +0100" channel="Fútbol 2">
     <title>MIRANDÉS VS ANDORRA</title>
+    <desc>Fútbol en directo</desc>
+  </programme>
+  <programme start="20260118140000 +0100" stop="20260118160000 +0100" channel="Fútbol 2">
+    <title>MIRANDÉS VS ANDORRA</title>
+    <desc>Fútbol en directo</desc>
+  </programme>
+  <programme start="20260118160000 +0100" stop="20260118161500 +0100" channel="Fútbol 2">
+    <title>Próximo partido: RACING VS LAS PALMAS</title>
+    <desc>No hay emisión en directo en este momento.</desc>
   </programme>
   <programme start="20260118161500 +0100" stop="20260118181500 +0100" channel="Fútbol 2">
     <title>RACING VS LAS PALMAS</title>
+    <desc>Fútbol en directo</desc>
+  </programme>
+  <programme start="20260118161500 +0100" stop="20260118181500 +0100" channel="Fútbol 2">
+    <title>RACING VS LAS PALMAS</title>
+    <desc>Fútbol en directo</desc>
+  </programme>
+  <programme start="20260118181500 +0100" stop="20260118183000 +0100" channel="Fútbol 2">
+    <title>Próximo partido: ALBACETE VS CÁDIZ</title>
+    <desc>No hay emisión en directo en este momento.</desc>
   </programme>
   <programme start="20260118183000 +0100" stop="20260118203000 +0100" channel="Fútbol 2">
     <title>ALBACETE VS CÁDIZ</title>
+    <desc>Fútbol en directo</desc>
   </programme>
-  <programme start="20261124183000 +0100" stop="20261124203000 +0100" channel="Fútbol 3">
-    <title>TORINO VS COMO</title>
+  <programme start="20260118183000 +0100" stop="20260118203000 +0100" channel="Fútbol 2">
+    <title>ALBACETE VS CÁDIZ</title>
+    <desc>Fútbol en directo</desc>
   </programme>
-  <programme start="20261130180000 +0100" stop="20261130200000 +0100" channel="Fútbol 3">
-    <title>ATALANTA VS FIORENTINA</title>
+  <channel id="Fútbol 3">
+    <display-name>Fútbol 3</display-name>
+  </channel>
+  <programme start="20251207180000 +0100" stop="20251207200000 +0100" channel="Fútbol 3">
+    <title>LAZIO VS BOLONIA</title>
+    <desc>Fútbol en directo</desc>
   </programme>
   <programme start="20251207180000 +0100" stop="20251207200000 +0100" channel="Fútbol 3">
     <title>LAZIO VS BOLONIA</title>
-  </programme>
-  <programme start="20260117210500 +0100" stop="20260117230500 +0100" channel="Fútbol 3">
-    <title>ANGERS VS OLYMPIQUE MARSELLA</title>
+    <desc>Fútbol en directo</desc>
   </programme>
   <programme start="20260113150000 +0100" stop="20260113170000 +0100" channel="Fútbol 3">
     <title>BORUSSIA DORTMUND VS WERDER BREMEN</title>
+    <desc>Fútbol en directo</desc>
+  </programme>
+  <programme start="20260113150000 +0100" stop="20260113170000 +0100" channel="Fútbol 3">
+    <title>BORUSSIA DORTMUND VS WERDER BREMEN</title>
+    <desc>Fútbol en directo</desc>
+  </programme>
+  <programme start="20260114180914 +0100" stop="20260114210000 +0100" channel="Fútbol 3">
+    <title>Próximo partido: INTER DE MILÁN VS LECCE</title>
+    <desc>No hay emisión en directo en este momento.</desc>
   </programme>
   <programme start="20260114210000 +0100" stop="20260114230000 +0100" channel="Fútbol 3">
     <title>INTER DE MILÁN VS LECCE</title>
+    <desc>Fútbol en directo</desc>
+  </programme>
+  <programme start="20260114210000 +0100" stop="20260114230000 +0100" channel="Fútbol 3">
+    <title>INTER DE MILÁN VS LECCE</title>
+    <desc>Fútbol en directo</desc>
+  </programme>
+  <programme start="20260114230000 +0100" stop="20260116210000 +0100" channel="Fútbol 3">
+    <title>Próximo partido: WERDER BREMEN VS EINTRACHT DE FRANCFORT</title>
+    <desc>No hay emisión en directo en este momento.</desc>
   </programme>
   <programme start="20260116210000 +0100" stop="20260116230000 +0100" channel="Fútbol 3">
     <title>WERDER BREMEN VS EINTRACHT DE FRANCFORT</title>
+    <desc>Fútbol en directo</desc>
+  </programme>
+  <programme start="20260116210000 +0100" stop="20260116230000 +0100" channel="Fútbol 3">
+    <title>WERDER BREMEN VS EINTRACHT DE FRANCFORT</title>
+    <desc>Fútbol en directo</desc>
+  </programme>
+  <programme start="20260116230000 +0100" stop="20260117121500 +0100" channel="Fútbol 3">
+    <title>Próximo partido: MANCHESTER UNITED VS MANCHESTER CITY</title>
+    <desc>No hay emisión en directo en este momento.</desc>
   </programme>
   <programme start="20260117121500 +0100" stop="20260117141500 +0100" channel="Fútbol 3">
     <title>MANCHESTER UNITED VS MANCHESTER CITY</title>
+    <desc>Fútbol en directo</desc>
+  </programme>
+  <programme start="20260117121500 +0100" stop="20260117141500 +0100" channel="Fútbol 3">
+    <title>MANCHESTER UNITED VS MANCHESTER CITY</title>
+    <desc>Fútbol en directo</desc>
+  </programme>
+  <programme start="20260117141500 +0100" stop="20260117150000 +0100" channel="Fútbol 3">
+    <title>Próximo partido: SSC NÁPOLES VS SASSUOLO</title>
+    <desc>No hay emisión en directo en este momento.</desc>
   </programme>
   <programme start="20260117150000 +0100" stop="20260117170000 +0100" channel="Fútbol 3">
     <title>SSC NÁPOLES VS SASSUOLO</title>
+    <desc>Fútbol en directo</desc>
+  </programme>
+  <programme start="20260117150000 +0100" stop="20260117170000 +0100" channel="Fútbol 3">
+    <title>SSC NÁPOLES VS SASSUOLO</title>
+    <desc>Fútbol en directo</desc>
+  </programme>
+  <programme start="20260117170000 +0100" stop="20260117210500 +0100" channel="Fútbol 3">
+    <title>Próximo partido: ANGERS VS OLYMPIQUE MARSELLA</title>
+    <desc>No hay emisión en directo en este momento.</desc>
+  </programme>
+  <programme start="20260117210500 +0100" stop="20260117230500 +0100" channel="Fútbol 3">
+    <title>ANGERS VS OLYMPIQUE MARSELLA</title>
+    <desc>Fútbol en directo</desc>
+  </programme>
+  <programme start="20260117210500 +0100" stop="20260117230500 +0100" channel="Fútbol 3">
+    <title>ANGERS VS OLYMPIQUE MARSELLA</title>
+    <desc>Fútbol en directo</desc>
+  </programme>
+  <programme start="20260117230500 +0100" stop="20260118164500 +0100" channel="Fútbol 3">
+    <title>Próximo partido: FEYERNOORD VS SPARTA ROTTERDAM</title>
+    <desc>No hay emisión en directo en este momento.</desc>
   </programme>
   <programme start="20260118164500 +0100" stop="20260118184500 +0100" channel="Fútbol 3">
     <title>FEYERNOORD VS SPARTA ROTTERDAM</title>
+    <desc>Fútbol en directo</desc>
+  </programme>
+  <programme start="20260118164500 +0100" stop="20260118184500 +0100" channel="Fútbol 3">
+    <title>FEYERNOORD VS SPARTA ROTTERDAM</title>
+    <desc>Fútbol en directo</desc>
+  </programme>
+  <programme start="20260118184500 +0100" stop="20261124183000 +0100" channel="Fútbol 3">
+    <title>Próximo partido: TORINO VS COMO</title>
+    <desc>No hay emisión en directo en este momento.</desc>
+  </programme>
+  <programme start="20261124183000 +0100" stop="20261124203000 +0100" channel="Fútbol 3">
+    <title>TORINO VS COMO</title>
+    <desc>Fútbol en directo</desc>
+  </programme>
+  <programme start="20261124183000 +0100" stop="20261124203000 +0100" channel="Fútbol 3">
+    <title>TORINO VS COMO</title>
+    <desc>Fútbol en directo</desc>
+  </programme>
+  <programme start="20261124203000 +0100" stop="20261130180000 +0100" channel="Fútbol 3">
+    <title>Próximo partido: ATALANTA VS FIORENTINA</title>
+    <desc>No hay emisión en directo en este momento.</desc>
+  </programme>
+  <programme start="20261130180000 +0100" stop="20261130200000 +0100" channel="Fútbol 3">
+    <title>ATALANTA VS FIORENTINA</title>
+    <desc>Fútbol en directo</desc>
+  </programme>
+  <programme start="20261130180000 +0100" stop="20261130200000 +0100" channel="Fútbol 3">
+    <title>ATALANTA VS FIORENTINA</title>
+    <desc>Fútbol en directo</desc>
   </programme>
 </tv>
