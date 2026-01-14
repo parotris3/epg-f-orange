@@ -1,0 +1,40 @@
+name: Actualizar EPG Orange
+
+on:
+  schedule:
+    # Se ejecuta todos los días a las 06:00 AM hora UTC (07:00 u 08:00 en España)
+    - cron: '0 6 * * *'
+  workflow_dispatch: # Permite darle a un botón para ejecutarlo manualmente cuando quieras
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    
+    # IMPORTANTE: Configuramos la hora del servidor a Madrid
+    # para que Python sepa en qué día vive.
+    env:
+      TZ: 'Europe/Madrid'
+
+    steps:
+      - name: Descargar código del repositorio
+        uses: actions/checkout@v3
+
+      - name: Configurar Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Instalar dependencias
+        run: |
+          pip install -r requirements.txt
+
+      - name: Ejecutar script generador
+        run: python main.py
+
+      - name: Guardar cambios (Commit y Push)
+        run: |
+          git config --global user.name 'GitHub Action'
+          git config --global user.email 'action@github.com'
+          git add orange.xml
+          # Solo hace commit si hay cambios (evita error si el xml es idéntico al de ayer)
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Actualizar EPG diaria" && git push)
