@@ -1,6 +1,6 @@
 import re
 import time
-import os
+import locale
 from datetime import datetime, timedelta
 import xml.etree.ElementTree as ET
 from xml.dom import minidom
@@ -11,11 +11,11 @@ from webdriver_manager.chrome import ChromeDriverManager
 from bs4 import BeautifulSoup
 
 def generar_epg():
-    print("🚀 Iniciando escaneo avanzado con relleno de huecos...")
+    print("🚀 Iniciando escaneo PRO (Nueva URL + Competiciones)...")
 
     # --- CONFIGURACIÓN SELENIUM ---
     chrome_options = Options()
-    chrome_options.add_argument("--headless=new") 
+    chrome_options.add_argument("--headless=new")
     chrome_options.add_argument("--no-sandbox")
     chrome_options.add_argument("--disable-dev-shm-usage")
     chrome_options.add_argument("--disable-gpu")
@@ -25,7 +25,9 @@ def generar_epg():
         service = Service(ChromeDriverManager().install())
         driver = webdriver.Chrome(service=service, options=chrome_options)
         
-        url = "https://www.orange.es/orange-tv/futbol/partidos-horarios"
+        # 1. CAMBIO DE URL
+        url = "https://www.orange.es/orange-tv/futbol/partidos-horarios-orange-tv-libre"
+        print(f"🌍 Conectando a {url}...")
         driver.get(url)
         time.sleep(5) 
         html_content = driver.page_source
@@ -39,29 +41,48 @@ def generar_epg():
     text_content = soup.get_text(separator="\n")
     lines = [line.strip() for line in text_content.split('\n') if line.strip()]
 
-    # Estructura para guardar eventos en memoria antes de escribir el XML
     target_channels = ["Fútbol 1", "Fútbol 2", "Fútbol 3"]
     channel_events = {ch: [] for ch in target_channels}
 
+    # Mapeos de fechas
     meses = {"enero": 1, "febrero": 2, "marzo": 3, "abril": 4, "mayo": 5, "junio": 6,
              "julio": 7, "agosto": 8, "septiembre": 9, "octubre": 10, "noviembre": 11, "diciembre": 12}
+    
+    dias_semana = {0: "Lunes", 1: "Martes", 2: "Miércoles", 3: "Jueves", 4: "Viernes", 5: "Sábado", 6: "Domingo"}
+
+    # Palabras clave para detectar competiciones
+    keywords_competicion = ["LALIGA", "COPA DEL REY", "CHAMPIONS", "EUROPA LEAGUE", "CONFERENCE", "PREMIER", "SERIE A", "BUNDESLIGA", "LIGUE 1", "SUPERCOPA"]
 
     last_date = None
     last_channel = None
+    current_competition = "Fútbol" # Valor por defecto
+
+    # Contadores de distancia
     lines_since_date = 999
     lines_since_channel = 999
+    lines_since_comp = 999
 
     now = datetime.now()
     current_year = now.year
 
-    print("🔍 Analizando datos...")
+    print("🔍 Analizando bloques de competición y partidos...")
 
-    # 1. RECOLECCIÓN DE DATOS
     for i, line in enumerate(lines):
         lines_since_date += 1
         lines_since_channel += 1
+        lines_since_comp += 1
+        
+        line_upper = line.upper()
 
-        # Detección de fecha
+        # A. DETECCIÓN DE COMPETICIÓN (Lógica de Bloques)
+        # Si la línea contiene alguna palabra clave y NO es una fecha ni un canal
+        if any(k in line_upper for k in keywords_competicion) and "DE" not in line_upper and "FÚTBOL" not in line_upper:
+            current_competition = line.title() # Convertir a Tipo Título (ej: Laliga Ea Sports)
+            lines_since_comp = 0
+            # print(f"  🏆 Bloque detectado: {current_competition}")
+            continue
+
+        # B. Detección de Fecha
         date_match = re.search(r'(\d{1,2})\s+de\s+([a-z]+),?\s+(\d{1,2}:\d{2})', line, re.IGNORECASE)
         if date_match:
             try:
@@ -83,79 +104,83 @@ def generar_epg():
                     lines_since_date = 0
             except: pass
 
-        # Detección de Canal
+        # C. Detección de Canal
         for ch in target_channels:
             if ch in line:
                 last_channel = ch
                 lines_since_channel = 0
 
-        # Detección de Partido
-        if line.strip().upper() == "VS":
-            if lines_since_date < 25 and lines_since_channel < 15 and last_date and last_channel:
+        # D. Detección de Partido (VS)
+        if line_upper == "VS":
+            if lines_since_date < 30 and lines_since_channel < 20 and last_date and last_channel:
                 team1 = lines[i-1] if len(lines[i-1]) > 1 else lines[i-2]
                 team2 = lines[i+1] if len(lines[i+1]) > 1 else lines[i+2]
                 
-                title = f"{team1} VS {team2}"
-                end_dt = last_date + timedelta(hours=2) # Duración 2h
+                # 2. FORMATO EN EMISIÓN: "Competición: Equipo A - Equipo B"
+                # Limpiamos los nombres de equipos y usamos guión
+                clean_teams = f"{team1} - {team2}"
+                final_title = f"{current_competition}: {clean_teams}"
                 
-                # Guardamos en memoria en lugar de escribir XML directamente
+                end_dt = last_date + timedelta(hours=2)
+                
                 channel_events[last_channel].append({
-                    'title': title,
+                    'clean_teams': clean_teams, # Guardamos nombre limpio para el relleno
+                    'title': final_title,       # Título completo para la emisión
                     'start': last_date,
                     'end': end_dt
                 })
-                print(f"  ⚽ Detectado: {title} | {last_channel}")
+                print(f"  ⚽ {final_title} | {last_channel}")
 
-    # 2. GENERACIÓN XML CON RELLENO DE HUECOS
+    # --- GENERACIÓN XML ---
     root = ET.Element("tv")
     matches_found = 0
-    fmt = "%Y%m%d%H%M%S +0100"
+    fmt_xml = "%Y%m%d%H%M%S +0100"
 
     for c_name in target_channels:
-        # Cabecera del canal
         chan = ET.SubElement(root, "channel", id=c_name)
         ET.SubElement(chan, "display-name").text = c_name
         
-        # Ordenamos los eventos por fecha
         events = sorted(channel_events[c_name], key=lambda x: x['start'])
-        
-        # Puntero de tiempo: Empezamos a rellenar desde AHORA
-        # (Restamos unos minutos por seguridad para no dejar huecos si el script tarda)
         current_cursor = datetime.now()
         
         for event in events:
             matches_found += 1
             start_time = event['start']
             
-            # Si el partido empieza después de 'ahora', hay un hueco
+            # --- 3. FORMATO "PRÓXIMO PARTIDO" ---
             if start_time > current_cursor:
-                # CREAR EVENTO DE RELLENO
-                filler_title = f"Próximo partido: {event['title']}"
+                # Formato: (Jueves 15/01 - 21:00)
+                dia_semana = dias_semana[start_time.weekday()]
+                dia_mes = start_time.strftime("%d/%m")
+                hora = start_time.strftime("%H:%M")
+                
+                time_info = f"({dia_semana} {dia_mes} - {hora})"
+                
+                # Próximo partido: Real Madrid - Albacete (Jueves 15/01 - 21:00)
+                filler_title = f"Próximo partido: {event['clean_teams']} {time_info}"
                 
                 prog_fill = ET.SubElement(root, "programme", 
-                                          start=current_cursor.strftime(fmt), 
-                                          stop=start_time.strftime(fmt), 
+                                          start=current_cursor.strftime(fmt_xml), 
+                                          stop=start_time.strftime(fmt_xml), 
                                           channel=c_name)
                 ET.SubElement(prog_fill, "title").text = filler_title
-                ET.SubElement(prog_fill, "desc").text = "No hay emisión en directo en este momento."
+                ET.SubElement(prog_fill, "desc").text = f"Siguiente emisión en {c_name}"
             
-            # CREAR EVENTO DEL PARTIDO REAL
+            # EMISIÓN REAL
             prog_match = ET.SubElement(root, "programme", 
-                                       start=start_time.strftime(fmt), 
-                                       stop=event['end'].strftime(fmt), 
+                                       start=start_time.strftime(fmt_xml), 
+                                       stop=event['end'].strftime(fmt_xml), 
                                        channel=c_name)
             ET.SubElement(prog_match, "title").text = event['title']
-            ET.SubElement(prog_match, "desc").text = "Fútbol en directo"
+            ET.SubElement(prog_match, "desc").text = f"Fútbol en directo - {event['title']}"
 
-            # Actualizamos el cursor al final de este partido
-            # Para que el siguiente relleno empiece cuando acabe este
             current_cursor = max(current_cursor, event['end'])
 
-    # Guardar XML
     xml_str = minidom.parseString(ET.tostring(root)).toprettyxml(indent="  ")
     with open("orange.xml", "w", encoding="utf-8") as f:
         f.write(xml_str)
-    print(f"✅ XML generado. Total eventos reales procesados: {matches_found}")
+    print(f"✅ XML generado con éxito. Eventos: {matches_found}")
 
 if __name__ == "__main__":
     generar_epg()
+    
