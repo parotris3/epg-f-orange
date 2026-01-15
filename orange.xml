@@ -3,15 +3,11 @@
   <channel id="Fútbol 1">
     <display-name>Fútbol 1</display-name>
   </channel>
-  <programme start="20260114202444 +0100" stop="20260114210000 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Albacete - Real Madrid (Miércoles 14/01 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1</desc>
-  </programme>
   <programme start="20260114210000 +0100" stop="20260114230000 +0100" channel="Fútbol 1">
     <title>Copa Del Rey: Albacete - Real Madrid</title>
     <desc>Fútbol en directo - Copa Del Rey: Albacete - Real Madrid</desc>
   </programme>
-  <programme start="20260114230000 +0100" stop="20260115210000 +0100" channel="Fútbol 1">
+  <programme start="20260115073559 +0100" stop="20260115210000 +0100" channel="Fútbol 1">
     <title>Próximo partido: Racing - Barcelona (Jueves 15/01 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1</desc>
   </programme>
@@ -46,7 +42,7 @@
   <channel id="Fútbol 2">
     <display-name>Fútbol 2</display-name>
   </channel>
-  <programme start="20260114202444 +0100" stop="20260116203000 +0100" channel="Fútbol 2">
+  <programme start="20260115073559 +0100" stop="20260116203000 +0100" channel="Fútbol 2">
     <title>Próximo partido: Castellón - Leganés (Viernes 16/01 - 20:30)</title>
     <desc>Siguiente emisión en Fútbol 2</desc>
   </programme>
@@ -121,7 +117,7 @@
     <title>Serie A: Inter De Milán - Lecce</title>
     <desc>Fútbol en directo - Serie A: Inter De Milán - Lecce</desc>
   </programme>
-  <programme start="20260114202444 +0100" stop="20260116190000 +0100" channel="Fútbol 3">
+  <programme start="20260115073559 +0100" stop="20260116190000 +0100" channel="Fútbol 3">
     <title>Próximo partido: Villarreal B - Cartagena (Viernes 16/01 - 19:00)</title>
     <desc>Siguiente emisión en Fútbol 3</desc>
   </programme>
