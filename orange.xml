@@ -3,15 +3,7 @@
   <channel id="Fútbol 1">
     <display-name>Fútbol 1</display-name>
   </channel>
-  <programme start="20260114210000 +0100" stop="20260114230000 +0100" channel="Fútbol 1">
-    <title>Copa Del Rey: Albacete - Real Madrid</title>
-    <desc>Fútbol en directo - Copa Del Rey: Albacete - Real Madrid</desc>
-  </programme>
-  <programme start="20260115210000 +0100" stop="20260115230000 +0100" channel="Fútbol 1">
-    <title>Copa Del Rey: Racing - Barcelona</title>
-    <desc>Fútbol en directo - Copa Del Rey: Racing - Barcelona</desc>
-  </programme>
-  <programme start="20260116073617 +0100" stop="20260117210000 +0100" channel="Fútbol 1">
+  <programme start="20260117073220 +0100" stop="20260117210000 +0100" channel="Fútbol 1">
     <title>Próximo partido: Betis - Villarreal (Sábado 17/01 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1</desc>
   </programme>
@@ -38,15 +30,11 @@
   <channel id="Fútbol 2">
     <display-name>Fútbol 2</display-name>
   </channel>
-  <programme start="20260116073617 +0100" stop="20260116203000 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Castellón - Leganés (Viernes 16/01 - 20:30)</title>
-    <desc>Siguiente emisión en Fútbol 2</desc>
-  </programme>
   <programme start="20260116203000 +0100" stop="20260116223000 +0100" channel="Fútbol 2">
     <title>Laliga Hypermotion: Castellón - Leganés</title>
     <desc>Fútbol en directo - Laliga Hypermotion: Castellón - Leganés</desc>
   </programme>
-  <programme start="20260116223000 +0100" stop="20260117183000 +0100" channel="Fútbol 2">
+  <programme start="20260117073220 +0100" stop="20260117183000 +0100" channel="Fútbol 2">
     <title>Próximo partido: Zaragoza - Real Sociedad B (Sábado 17/01 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 2</desc>
   </programme>
@@ -105,14 +93,6 @@
   <channel id="Fútbol 3">
     <display-name>Fútbol 3</display-name>
   </channel>
-  <programme start="20260113183000 +0100" stop="20260113203000 +0100" channel="Fútbol 3">
-    <title>Bundesliga Alemania: Borussia Dortmund - Werder Bremen</title>
-    <desc>Fútbol en directo - Bundesliga Alemania: Borussia Dortmund - Werder Bremen</desc>
-  </programme>
-  <programme start="20260116073617 +0100" stop="20260116190000 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Villarreal B - Cartagena (Viernes 16/01 - 19:00)</title>
-    <desc>Siguiente emisión en Fútbol 3</desc>
-  </programme>
   <programme start="20260116190000 +0100" stop="20260116210000 +0100" channel="Fútbol 3">
     <title>Primera Federación: Villarreal B - Cartagena</title>
     <desc>Fútbol en directo - Primera Federación: Villarreal B - Cartagena</desc>
@@ -125,7 +105,7 @@
     <title>Primera Federación: Bilbao Athletic - Avilés</title>
     <desc>Fútbol en directo - Primera Federación: Bilbao Athletic - Avilés</desc>
   </programme>
-  <programme start="20260116231500 +0100" stop="20260117180000 +0100" channel="Fútbol 3">
+  <programme start="20260117073220 +0100" stop="20260117180000 +0100" channel="Fútbol 3">
     <title>Próximo partido: Nápoles - Sassuolo (Sábado 17/01 - 18:00)</title>
     <desc>Siguiente emisión en Fútbol 3</desc>
   </programme>
