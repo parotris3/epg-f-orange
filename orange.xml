@@ -3,15 +3,11 @@
   <channel id="Fútbol 1">
     <display-name>Fútbol 1</display-name>
   </channel>
-  <programme start="20260117073220 +0100" stop="20260117210000 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Betis - Villarreal (Sábado 17/01 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1</desc>
-  </programme>
   <programme start="20260117210000 +0100" stop="20260117230000 +0100" channel="Fútbol 1">
     <title>Laliga Ea Sports: Betis - Villarreal</title>
     <desc>Fútbol en directo - Laliga Ea Sports: Betis - Villarreal</desc>
   </programme>
-  <programme start="20260117230000 +0100" stop="20260121210000 +0100" channel="Fútbol 1">
+  <programme start="20260118073322 +0100" stop="20260121210000 +0100" channel="Fútbol 1">
     <title>Próximo partido: Galatasaray - Atlético (Miércoles 21/01 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1</desc>
   </programme>
@@ -34,23 +30,15 @@
     <title>Laliga Hypermotion: Castellón - Leganés</title>
     <desc>Fútbol en directo - Laliga Hypermotion: Castellón - Leganés</desc>
   </programme>
-  <programme start="20260117073220 +0100" stop="20260117183000 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Zaragoza - Real Sociedad B (Sábado 17/01 - 18:30)</title>
-    <desc>Siguiente emisión en Fútbol 2</desc>
-  </programme>
   <programme start="20260117183000 +0100" stop="20260117203000 +0100" channel="Fútbol 2">
     <title>Laliga Hypermotion: Zaragoza - Real Sociedad B</title>
     <desc>Fútbol en directo - Laliga Hypermotion: Zaragoza - Real Sociedad B</desc>
-  </programme>
-  <programme start="20260117203000 +0100" stop="20260117210000 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Almería - Deportivo (Sábado 17/01 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 2</desc>
   </programme>
   <programme start="20260117210000 +0100" stop="20260117230000 +0100" channel="Fútbol 2">
     <title>Laliga Hypermotion: Almería - Deportivo</title>
     <desc>Fútbol en directo - Laliga Hypermotion: Almería - Deportivo</desc>
   </programme>
-  <programme start="20260117230000 +0100" stop="20260118161500 +0100" channel="Fútbol 2">
+  <programme start="20260118073322 +0100" stop="20260118161500 +0100" channel="Fútbol 2">
     <title>Próximo partido: Racing - Las Palmas (Domingo 18/01 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 2</desc>
   </programme>
@@ -105,15 +93,11 @@
     <title>Primera Federación: Bilbao Athletic - Avilés</title>
     <desc>Fútbol en directo - Primera Federación: Bilbao Athletic - Avilés</desc>
   </programme>
-  <programme start="20260117073220 +0100" stop="20260117180000 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Nápoles - Sassuolo (Sábado 17/01 - 18:00)</title>
-    <desc>Siguiente emisión en Fútbol 3</desc>
-  </programme>
   <programme start="20260117180000 +0100" stop="20260117200000 +0100" channel="Fútbol 3">
     <title>Serie A: Nápoles - Sassuolo</title>
     <desc>Fútbol en directo - Serie A: Nápoles - Sassuolo</desc>
   </programme>
-  <programme start="20260117200000 +0100" stop="20260123203000 +0100" channel="Fútbol 3">
+  <programme start="20260118073322 +0100" stop="20260123203000 +0100" channel="Fútbol 3">
     <title>Próximo partido: St. Pauli - Hamburgo (Viernes 23/01 - 20:30)</title>
     <desc>Siguiente emisión en Fútbol 3</desc>
   </programme>
