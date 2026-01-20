@@ -3,11 +3,7 @@
   <channel id="Fútbol 1">
     <display-name>Fútbol 1</display-name>
   </channel>
-  <programme start="20260117210000 +0100" stop="20260117230000 +0100" channel="Fútbol 1">
-    <title>Laliga Ea Sports: Betis - Villarreal</title>
-    <desc>Fútbol en directo - Laliga Ea Sports: Betis - Villarreal</desc>
-  </programme>
-  <programme start="20260119074108 +0100" stop="20260121210000 +0100" channel="Fútbol 1">
+  <programme start="20260120073825 +0100" stop="20260121210000 +0100" channel="Fútbol 1">
     <title>Próximo partido: Galatasaray - Atlético (Miércoles 21/01 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1</desc>
   </programme>
@@ -15,7 +11,15 @@
     <title>Champions League: Galatasaray - Atlético</title>
     <desc>Fútbol en directo - Champions League: Galatasaray - Atlético</desc>
   </programme>
-  <programme start="20260121230000 +0100" stop="20260125140000 +0100" channel="Fútbol 1">
+  <programme start="20260121230000 +0100" stop="20260124183000 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Las Palmas - Córdoba (Sábado 24/01 - 18:30)</title>
+    <desc>Siguiente emisión en Fútbol 1</desc>
+  </programme>
+  <programme start="20260124183000 +0100" stop="20260124203000 +0100" channel="Fútbol 1">
+    <title>Laliga Hypermotion: Las Palmas - Córdoba</title>
+    <desc>Fútbol en directo - Laliga Hypermotion: Las Palmas - Córdoba</desc>
+  </programme>
+  <programme start="20260124203000 +0100" stop="20260125140000 +0100" channel="Fútbol 1">
     <title>Próximo partido: Atlético - Mallorca (Domingo 25/01 - 14:00)</title>
     <desc>Siguiente emisión en Fútbol 1</desc>
   </programme>
@@ -26,31 +30,7 @@
   <channel id="Fútbol 2">
     <display-name>Fútbol 2</display-name>
   </channel>
-  <programme start="20260116203000 +0100" stop="20260116223000 +0100" channel="Fútbol 2">
-    <title>Laliga Hypermotion: Castellón - Leganés</title>
-    <desc>Fútbol en directo - Laliga Hypermotion: Castellón - Leganés</desc>
-  </programme>
-  <programme start="20260117183000 +0100" stop="20260117203000 +0100" channel="Fútbol 2">
-    <title>Laliga Hypermotion: Zaragoza - Real Sociedad B</title>
-    <desc>Fútbol en directo - Laliga Hypermotion: Zaragoza - Real Sociedad B</desc>
-  </programme>
-  <programme start="20260117210000 +0100" stop="20260117230000 +0100" channel="Fútbol 2">
-    <title>Laliga Hypermotion: Almería - Deportivo</title>
-    <desc>Fútbol en directo - Laliga Hypermotion: Almería - Deportivo</desc>
-  </programme>
-  <programme start="20260118161500 +0100" stop="20260118181500 +0100" channel="Fútbol 2">
-    <title>Laliga Hypermotion: Racing - Las Palmas</title>
-    <desc>Fútbol en directo - Laliga Hypermotion: Racing - Las Palmas</desc>
-  </programme>
-  <programme start="20260119074108 +0100" stop="20260124183000 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Las Palmas - Córdoba (Sábado 24/01 - 18:30)</title>
-    <desc>Siguiente emisión en Fútbol 2</desc>
-  </programme>
-  <programme start="20260124183000 +0100" stop="20260124203000 +0100" channel="Fútbol 2">
-    <title>Laliga Hypermotion: Las Palmas - Córdoba</title>
-    <desc>Fútbol en directo - Laliga Hypermotion: Las Palmas - Córdoba</desc>
-  </programme>
-  <programme start="20260124203000 +0100" stop="20260124210000 +0100" channel="Fútbol 2">
+  <programme start="20260120073825 +0100" stop="20260124210000 +0100" channel="Fútbol 2">
     <title>Próximo partido: Cádiz - Granada (Sábado 24/01 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 2</desc>
   </programme>
@@ -93,7 +73,7 @@
     <title>Serie A: Nápoles - Sassuolo</title>
     <desc>Fútbol en directo - Serie A: Nápoles - Sassuolo</desc>
   </programme>
-  <programme start="20260119074108 +0100" stop="20260123203000 +0100" channel="Fútbol 3">
+  <programme start="20260120073825 +0100" stop="20260123203000 +0100" channel="Fútbol 3">
     <title>Próximo partido: St. Pauli - Hamburgo (Viernes 23/01 - 20:30)</title>
     <desc>Siguiente emisión en Fútbol 3</desc>
   </programme>
