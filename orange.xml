@@ -3,7 +3,7 @@
   <channel id="Fútbol 1">
     <display-name>Fútbol 1</display-name>
   </channel>
-  <programme start="20260120073825 +0100" stop="20260121210000 +0100" channel="Fútbol 1">
+  <programme start="20260121073818 +0100" stop="20260121210000 +0100" channel="Fútbol 1">
     <title>Próximo partido: Galatasaray - Atlético (Miércoles 21/01 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1</desc>
   </programme>
@@ -27,10 +27,34 @@
     <title>Laliga Ea Sports: Atlético - Mallorca</title>
     <desc>Fútbol en directo - Laliga Ea Sports: Atlético - Mallorca</desc>
   </programme>
+  <programme start="20260125160000 +0100" stop="20260128210000 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Benfica - Real Madrid (Miércoles 28/01 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1</desc>
+  </programme>
+  <programme start="20260128210000 +0100" stop="20260128230000 +0100" channel="Fútbol 1">
+    <title>Champions League: Benfica - Real Madrid</title>
+    <desc>Fútbol en directo - Champions League: Benfica - Real Madrid</desc>
+  </programme>
+  <programme start="20260128230000 +0100" stop="20260201161500 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Real Betis - Valencia (Domingo 01/02 - 16:15)</title>
+    <desc>Siguiente emisión en Fútbol 1</desc>
+  </programme>
+  <programme start="20260201161500 +0100" stop="20260201181500 +0100" channel="Fútbol 1">
+    <title>Laliga Ea Sports: Real Betis - Valencia</title>
+    <desc>Fútbol en directo - Laliga Ea Sports: Real Betis - Valencia</desc>
+  </programme>
+  <programme start="20260201181500 +0100" stop="20260202210000 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Mallorca - Sevilla (Lunes 02/02 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1</desc>
+  </programme>
+  <programme start="20260202210000 +0100" stop="20260202230000 +0100" channel="Fútbol 1">
+    <title>Laliga Ea Sports: Mallorca - Sevilla</title>
+    <desc>Fútbol en directo - Laliga Ea Sports: Mallorca - Sevilla</desc>
+  </programme>
   <channel id="Fútbol 2">
     <display-name>Fútbol 2</display-name>
   </channel>
-  <programme start="20260120073825 +0100" stop="20260124210000 +0100" channel="Fútbol 2">
+  <programme start="20260121073818 +0100" stop="20260124210000 +0100" channel="Fútbol 2">
     <title>Próximo partido: Cádiz - Granada (Sábado 24/01 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 2</desc>
   </programme>
@@ -57,23 +81,19 @@
   <channel id="Fútbol 3">
     <display-name>Fútbol 3</display-name>
   </channel>
-  <programme start="20260116190000 +0100" stop="20260116210000 +0100" channel="Fútbol 3">
-    <title>Primera Federación: Villarreal B - Cartagena</title>
-    <desc>Fútbol en directo - Primera Federación: Villarreal B - Cartagena</desc>
+  <programme start="20260120191500 +0100" stop="20260120211500 +0100" channel="Fútbol 3">
+    <title>Supercopa De España Femenina: Real Madrid - Atlético</title>
+    <desc>Fútbol en directo - Supercopa De España Femenina: Real Madrid - Atlético</desc>
   </programme>
-  <programme start="20260116203000 +0100" stop="20260116223000 +0100" channel="Fútbol 3">
-    <title>Bundesliga Alemania: Werder Bremen - Eintracht Francfort</title>
-    <desc>Fútbol en directo - Bundesliga Alemania: Werder Bremen - Eintracht Francfort</desc>
+  <programme start="20260121073818 +0100" stop="20260121190000 +0100" channel="Fútbol 3">
+    <title>Próximo partido: Barcelona - Athletic Club (Miércoles 21/01 - 19:00)</title>
+    <desc>Siguiente emisión en Fútbol 3</desc>
   </programme>
-  <programme start="20260116211500 +0100" stop="20260116231500 +0100" channel="Fútbol 3">
-    <title>Primera Federación: Bilbao Athletic - Avilés</title>
-    <desc>Fútbol en directo - Primera Federación: Bilbao Athletic - Avilés</desc>
+  <programme start="20260121190000 +0100" stop="20260121210000 +0100" channel="Fútbol 3">
+    <title>Supercopa De España Femenina: Barcelona - Athletic Club</title>
+    <desc>Fútbol en directo - Supercopa De España Femenina: Barcelona - Athletic Club</desc>
   </programme>
-  <programme start="20260117180000 +0100" stop="20260117200000 +0100" channel="Fútbol 3">
-    <title>Serie A: Nápoles - Sassuolo</title>
-    <desc>Fútbol en directo - Serie A: Nápoles - Sassuolo</desc>
-  </programme>
-  <programme start="20260120073825 +0100" stop="20260123203000 +0100" channel="Fútbol 3">
+  <programme start="20260121210000 +0100" stop="20260123203000 +0100" channel="Fútbol 3">
     <title>Próximo partido: St. Pauli - Hamburgo (Viernes 23/01 - 20:30)</title>
     <desc>Siguiente emisión en Fútbol 3</desc>
   </programme>
