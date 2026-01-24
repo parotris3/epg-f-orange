@@ -3,11 +3,7 @@
   <channel id="Fútbol 1">
     <display-name>Fútbol 1</display-name>
   </channel>
-  <programme start="20260121210000 +0100" stop="20260121230000 +0100" channel="Fútbol 1">
-    <title>Champions League: Galatasaray - Atlético</title>
-    <desc>Fútbol en directo - Champions League: Galatasaray - Atlético</desc>
-  </programme>
-  <programme start="20260123073711 +0100" stop="20260124183000 +0100" channel="Fútbol 1">
+  <programme start="20260124073350 +0100" stop="20260124183000 +0100" channel="Fútbol 1">
     <title>Próximo partido: Las Palmas - Córdoba (Sábado 24/01 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 1</desc>
   </programme>
@@ -50,7 +46,7 @@
   <channel id="Fútbol 2">
     <display-name>Fútbol 2</display-name>
   </channel>
-  <programme start="20260123073711 +0100" stop="20260124210000 +0100" channel="Fútbol 2">
+  <programme start="20260124073350 +0100" stop="20260124210000 +0100" channel="Fútbol 2">
     <title>Próximo partido: Cádiz - Granada (Sábado 24/01 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 2</desc>
   </programme>
@@ -77,14 +73,6 @@
   <channel id="Fútbol 3">
     <display-name>Fútbol 3</display-name>
   </channel>
-  <programme start="20260121190000 +0100" stop="20260121210000 +0100" channel="Fútbol 3">
-    <title>Supercopa De España Femenina: Barcelona - Athletic Club</title>
-    <desc>Fútbol en directo - Supercopa De España Femenina: Barcelona - Athletic Club</desc>
-  </programme>
-  <programme start="20260123073711 +0100" stop="20260123190000 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Celta Fortuna - Zamora (Viernes 23/01 - 19:00)</title>
-    <desc>Siguiente emisión en Fútbol 3</desc>
-  </programme>
   <programme start="20260123190000 +0100" stop="20260123210000 +0100" channel="Fútbol 3">
     <title>Primera Federación: Celta Fortuna - Zamora</title>
     <desc>Fútbol en directo - Primera Federación: Celta Fortuna - Zamora</desc>
@@ -93,7 +81,11 @@
     <title>Bundesliga Alemania: St. Pauli - Hamburgo</title>
     <desc>Fútbol en directo - Bundesliga Alemania: St. Pauli - Hamburgo</desc>
   </programme>
-  <programme start="20260123223000 +0100" stop="20260124150000 +0100" channel="Fútbol 3">
+  <programme start="20260123211500 +0100" stop="20260123231500 +0100" channel="Fútbol 3">
+    <title>Primera Federación: Mérida - Pontevedra</title>
+    <desc>Fútbol en directo - Primera Federación: Mérida - Pontevedra</desc>
+  </programme>
+  <programme start="20260124073350 +0100" stop="20260124150000 +0100" channel="Fútbol 3">
     <title>Próximo partido: Como - Torino (Sábado 24/01 - 15:00)</title>
     <desc>Siguiente emisión en Fútbol 3</desc>
   </programme>
