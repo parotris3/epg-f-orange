@@ -3,15 +3,11 @@
   <channel id="Fútbol 1">
     <display-name>Fútbol 1</display-name>
   </channel>
-  <programme start="20260124073350 +0100" stop="20260124183000 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Las Palmas - Córdoba (Sábado 24/01 - 18:30)</title>
-    <desc>Siguiente emisión en Fútbol 1</desc>
-  </programme>
   <programme start="20260124183000 +0100" stop="20260124203000 +0100" channel="Fútbol 1">
     <title>Laliga Hypermotion: Las Palmas - Córdoba</title>
     <desc>Fútbol en directo - Laliga Hypermotion: Las Palmas - Córdoba</desc>
   </programme>
-  <programme start="20260124203000 +0100" stop="20260125140000 +0100" channel="Fútbol 1">
+  <programme start="20260125073431 +0100" stop="20260125140000 +0100" channel="Fútbol 1">
     <title>Próximo partido: Atlético - Mallorca (Domingo 25/01 - 14:00)</title>
     <desc>Siguiente emisión en Fútbol 1</desc>
   </programme>
@@ -46,15 +42,11 @@
   <channel id="Fútbol 2">
     <display-name>Fútbol 2</display-name>
   </channel>
-  <programme start="20260124073350 +0100" stop="20260124210000 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Cádiz - Granada (Sábado 24/01 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 2</desc>
-  </programme>
   <programme start="20260124210000 +0100" stop="20260124230000 +0100" channel="Fútbol 2">
     <title>Laliga Hypermotion: Cádiz - Granada</title>
     <desc>Fútbol en directo - Laliga Hypermotion: Cádiz - Granada</desc>
   </programme>
-  <programme start="20260124230000 +0100" stop="20260125183000 +0100" channel="Fútbol 2">
+  <programme start="20260125073431 +0100" stop="20260125183000 +0100" channel="Fútbol 2">
     <title>Próximo partido: Zaragoza - Castellón (Domingo 25/01 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 2</desc>
   </programme>
@@ -84,10 +76,6 @@
   <programme start="20260123211500 +0100" stop="20260123231500 +0100" channel="Fútbol 3">
     <title>Primera Federación: Mérida - Pontevedra</title>
     <desc>Fútbol en directo - Primera Federación: Mérida - Pontevedra</desc>
-  </programme>
-  <programme start="20260124073350 +0100" stop="20260124150000 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Como - Torino (Sábado 24/01 - 15:00)</title>
-    <desc>Siguiente emisión en Fútbol 3</desc>
   </programme>
   <programme start="20260124150000 +0100" stop="20260124170000 +0100" channel="Fútbol 3">
     <title>Serie A: Como - Torino</title>
