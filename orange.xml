@@ -7,15 +7,11 @@
     <title>Laliga Hypermotion: Las Palmas - Córdoba</title>
     <desc>Fútbol en directo - Laliga Hypermotion: Las Palmas - Córdoba</desc>
   </programme>
-  <programme start="20260125073431 +0100" stop="20260125140000 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Atlético - Mallorca (Domingo 25/01 - 14:00)</title>
-    <desc>Siguiente emisión en Fútbol 1</desc>
-  </programme>
   <programme start="20260125140000 +0100" stop="20260125160000 +0100" channel="Fútbol 1">
     <title>Laliga Ea Sports: Atlético - Mallorca</title>
     <desc>Fútbol en directo - Laliga Ea Sports: Atlético - Mallorca</desc>
   </programme>
-  <programme start="20260125160000 +0100" stop="20260128210000 +0100" channel="Fútbol 1">
+  <programme start="20260126073931 +0100" stop="20260128210000 +0100" channel="Fútbol 1">
     <title>Próximo partido: Benfica - Real Madrid (Miércoles 28/01 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1</desc>
   </programme>
@@ -46,17 +42,9 @@
     <title>Laliga Hypermotion: Cádiz - Granada</title>
     <desc>Fútbol en directo - Laliga Hypermotion: Cádiz - Granada</desc>
   </programme>
-  <programme start="20260125073431 +0100" stop="20260125183000 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Zaragoza - Castellón (Domingo 25/01 - 18:30)</title>
-    <desc>Siguiente emisión en Fútbol 2</desc>
-  </programme>
   <programme start="20260125183000 +0100" stop="20260125203000 +0100" channel="Fútbol 2">
     <title>Laliga Hypermotion: Zaragoza - Castellón</title>
     <desc>Fútbol en directo - Laliga Hypermotion: Zaragoza - Castellón</desc>
-  </programme>
-  <programme start="20260125203000 +0100" stop="20260125210000 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Deportivo - Racing (Domingo 25/01 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 2</desc>
   </programme>
   <programme start="20260125210000 +0100" stop="20260125230000 +0100" channel="Fútbol 2">
     <title>Laliga Hypermotion: Deportivo - Racing</title>
