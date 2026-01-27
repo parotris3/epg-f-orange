@@ -3,15 +3,7 @@
   <channel id="Fútbol 1">
     <display-name>Fútbol 1</display-name>
   </channel>
-  <programme start="20260124183000 +0100" stop="20260124203000 +0100" channel="Fútbol 1">
-    <title>Laliga Hypermotion: Las Palmas - Córdoba</title>
-    <desc>Fútbol en directo - Laliga Hypermotion: Las Palmas - Córdoba</desc>
-  </programme>
-  <programme start="20260125140000 +0100" stop="20260125160000 +0100" channel="Fútbol 1">
-    <title>Laliga Ea Sports: Atlético - Mallorca</title>
-    <desc>Fútbol en directo - Laliga Ea Sports: Atlético - Mallorca</desc>
-  </programme>
-  <programme start="20260126073931 +0100" stop="20260128210000 +0100" channel="Fútbol 1">
+  <programme start="20260127073743 +0100" stop="20260128210000 +0100" channel="Fútbol 1">
     <title>Próximo partido: Benfica - Real Madrid (Miércoles 28/01 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1</desc>
   </programme>
@@ -19,7 +11,15 @@
     <title>Champions League: Benfica - Real Madrid</title>
     <desc>Fútbol en directo - Champions League: Benfica - Real Madrid</desc>
   </programme>
-  <programme start="20260128230000 +0100" stop="20260201161500 +0100" channel="Fútbol 1">
+  <programme start="20260128230000 +0100" stop="20260131183000 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Cultural Leonesa - Deportivo (Sábado 31/01 - 18:30)</title>
+    <desc>Siguiente emisión en Fútbol 1</desc>
+  </programme>
+  <programme start="20260131183000 +0100" stop="20260131203000 +0100" channel="Fútbol 1">
+    <title>Laliga Hypermotion: Cultural Leonesa - Deportivo</title>
+    <desc>Fútbol en directo - Laliga Hypermotion: Cultural Leonesa - Deportivo</desc>
+  </programme>
+  <programme start="20260131203000 +0100" stop="20260201161500 +0100" channel="Fútbol 1">
     <title>Próximo partido: Betis - Valencia (Domingo 01/02 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 1</desc>
   </programme>
@@ -38,35 +38,55 @@
   <channel id="Fútbol 2">
     <display-name>Fútbol 2</display-name>
   </channel>
-  <programme start="20260124210000 +0100" stop="20260124230000 +0100" channel="Fútbol 2">
-    <title>Laliga Hypermotion: Cádiz - Granada</title>
-    <desc>Fútbol en directo - Laliga Hypermotion: Cádiz - Granada</desc>
+  <programme start="20260127073743 +0100" stop="20260131210000 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Córdoba - Valladolid (Sábado 31/01 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 2</desc>
   </programme>
-  <programme start="20260125183000 +0100" stop="20260125203000 +0100" channel="Fútbol 2">
-    <title>Laliga Hypermotion: Zaragoza - Castellón</title>
-    <desc>Fútbol en directo - Laliga Hypermotion: Zaragoza - Castellón</desc>
+  <programme start="20260131210000 +0100" stop="20260131230000 +0100" channel="Fútbol 2">
+    <title>Laliga Hypermotion: Córdoba - Valladolid</title>
+    <desc>Fútbol en directo - Laliga Hypermotion: Córdoba - Valladolid</desc>
   </programme>
-  <programme start="20260125210000 +0100" stop="20260125230000 +0100" channel="Fútbol 2">
-    <title>Laliga Hypermotion: Deportivo - Racing</title>
-    <desc>Fútbol en directo - Laliga Hypermotion: Deportivo - Racing</desc>
+  <programme start="20260131230000 +0100" stop="20260201140000 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Almería - Ceuta (Domingo 01/02 - 14:00)</title>
+    <desc>Siguiente emisión en Fútbol 2</desc>
+  </programme>
+  <programme start="20260201140000 +0100" stop="20260201160000 +0100" channel="Fútbol 2">
+    <title>Laliga Hypermotion: Almería - Ceuta</title>
+    <desc>Fútbol en directo - Laliga Hypermotion: Almería - Ceuta</desc>
+  </programme>
+  <programme start="20260201160000 +0100" stop="20260201210000 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Granada - Racing (Domingo 01/02 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 2</desc>
+  </programme>
+  <programme start="20260201210000 +0100" stop="20260201230000 +0100" channel="Fútbol 2">
+    <title>Laliga Hypermotion: Granada - Racing</title>
+    <desc>Fútbol en directo - Laliga Hypermotion: Granada - Racing</desc>
   </programme>
   <channel id="Fútbol 3">
     <display-name>Fútbol 3</display-name>
   </channel>
-  <programme start="20260123190000 +0100" stop="20260123210000 +0100" channel="Fútbol 3">
-    <title>Primera Federación: Celta Fortuna - Zamora</title>
-    <desc>Fútbol en directo - Primera Federación: Celta Fortuna - Zamora</desc>
-  </programme>
   <programme start="20260123203000 +0100" stop="20260123223000 +0100" channel="Fútbol 3">
     <title>Bundesliga Alemania: St. Pauli - Hamburgo</title>
     <desc>Fútbol en directo - Bundesliga Alemania: St. Pauli - Hamburgo</desc>
   </programme>
-  <programme start="20260123211500 +0100" stop="20260123231500 +0100" channel="Fútbol 3">
-    <title>Primera Federación: Mérida - Pontevedra</title>
-    <desc>Fútbol en directo - Primera Federación: Mérida - Pontevedra</desc>
-  </programme>
   <programme start="20260124150000 +0100" stop="20260124170000 +0100" channel="Fútbol 3">
     <title>Serie A: Como - Torino</title>
     <desc>Fútbol en directo - Serie A: Como - Torino</desc>
+  </programme>
+  <programme start="20260127073743 +0100" stop="20260130190000 +0100" channel="Fútbol 3">
+    <title>Próximo partido: Real Madrid Castilla - Osasuna B (Viernes 30/01 - 19:00)</title>
+    <desc>Siguiente emisión en Fútbol 3</desc>
+  </programme>
+  <programme start="20260130190000 +0100" stop="20260130210000 +0100" channel="Fútbol 3">
+    <title>Primera Federación: Real Madrid Castilla - Osasuna B</title>
+    <desc>Fútbol en directo - Primera Federación: Real Madrid Castilla - Osasuna B</desc>
+  </programme>
+  <programme start="20260130210000 +0100" stop="20260130211500 +0100" channel="Fútbol 3">
+    <title>Próximo partido: Hércules - Cartagena (Viernes 30/01 - 21:15)</title>
+    <desc>Siguiente emisión en Fútbol 3</desc>
+  </programme>
+  <programme start="20260130211500 +0100" stop="20260130231500 +0100" channel="Fútbol 3">
+    <title>Primera Federación: Hércules - Cartagena</title>
+    <desc>Fútbol en directo - Primera Federación: Hércules - Cartagena</desc>
   </programme>
 </tv>
