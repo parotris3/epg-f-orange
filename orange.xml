@@ -3,7 +3,7 @@
   <channel id="Fútbol 1">
     <display-name>Fútbol 1</display-name>
   </channel>
-  <programme start="20260127073743 +0100" stop="20260128210000 +0100" channel="Fútbol 1">
+  <programme start="20260128073808 +0100" stop="20260128210000 +0100" channel="Fútbol 1">
     <title>Próximo partido: Benfica - Real Madrid (Miércoles 28/01 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1</desc>
   </programme>
@@ -38,7 +38,7 @@
   <channel id="Fútbol 2">
     <display-name>Fútbol 2</display-name>
   </channel>
-  <programme start="20260127073743 +0100" stop="20260131210000 +0100" channel="Fútbol 2">
+  <programme start="20260128073808 +0100" stop="20260131210000 +0100" channel="Fútbol 2">
     <title>Próximo partido: Córdoba - Valladolid (Sábado 31/01 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 2</desc>
   </programme>
@@ -65,15 +65,7 @@
   <channel id="Fútbol 3">
     <display-name>Fútbol 3</display-name>
   </channel>
-  <programme start="20260123203000 +0100" stop="20260123223000 +0100" channel="Fútbol 3">
-    <title>Bundesliga Alemania: St. Pauli - Hamburgo</title>
-    <desc>Fútbol en directo - Bundesliga Alemania: St. Pauli - Hamburgo</desc>
-  </programme>
-  <programme start="20260124150000 +0100" stop="20260124170000 +0100" channel="Fútbol 3">
-    <title>Serie A: Como - Torino</title>
-    <desc>Fútbol en directo - Serie A: Como - Torino</desc>
-  </programme>
-  <programme start="20260127073743 +0100" stop="20260130190000 +0100" channel="Fútbol 3">
+  <programme start="20260128073808 +0100" stop="20260130190000 +0100" channel="Fútbol 3">
     <title>Próximo partido: Real Madrid Castilla - Osasuna B (Viernes 30/01 - 19:00)</title>
     <desc>Siguiente emisión en Fútbol 3</desc>
   </programme>
@@ -88,5 +80,21 @@
   <programme start="20260130211500 +0100" stop="20260130231500 +0100" channel="Fútbol 3">
     <title>Primera Federación: Hércules - Cartagena</title>
     <desc>Fútbol en directo - Primera Federación: Hércules - Cartagena</desc>
+  </programme>
+  <programme start="20260130231500 +0100" stop="20260201173000 +0100" channel="Fútbol 3">
+    <title>Próximo partido: Borussia Dortmund - Heidenheim (Domingo 01/02 - 17:30)</title>
+    <desc>Siguiente emisión en Fútbol 3</desc>
+  </programme>
+  <programme start="20260201173000 +0100" stop="20260201193000 +0100" channel="Fútbol 3">
+    <title>Bundesliga Alemania: Borussia Dortmund - Heidenheim</title>
+    <desc>Fútbol en directo - Bundesliga Alemania: Borussia Dortmund - Heidenheim</desc>
+  </programme>
+  <programme start="20260201193000 +0100" stop="20260203204500 +0100" channel="Fútbol 3">
+    <title>Próximo partido: Bolonia - Milan (Martes 03/02 - 20:45)</title>
+    <desc>Siguiente emisión en Fútbol 3</desc>
+  </programme>
+  <programme start="20260203204500 +0100" stop="20260203224500 +0100" channel="Fútbol 3">
+    <title>Serie A: Bolonia - Milan</title>
+    <desc>Fútbol en directo - Serie A: Bolonia - Milan</desc>
   </programme>
 </tv>
