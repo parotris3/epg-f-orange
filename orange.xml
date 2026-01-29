@@ -3,15 +3,11 @@
   <channel id="Fútbol 1">
     <display-name>Fútbol 1</display-name>
   </channel>
-  <programme start="20260128073808 +0100" stop="20260128210000 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Benfica - Real Madrid (Miércoles 28/01 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1</desc>
-  </programme>
   <programme start="20260128210000 +0100" stop="20260128230000 +0100" channel="Fútbol 1">
     <title>Champions League: Benfica - Real Madrid</title>
     <desc>Fútbol en directo - Champions League: Benfica - Real Madrid</desc>
   </programme>
-  <programme start="20260128230000 +0100" stop="20260131183000 +0100" channel="Fútbol 1">
+  <programme start="20260129075035 +0100" stop="20260131183000 +0100" channel="Fútbol 1">
     <title>Próximo partido: Cultural Leonesa - Deportivo (Sábado 31/01 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 1</desc>
   </programme>
@@ -38,7 +34,7 @@
   <channel id="Fútbol 2">
     <display-name>Fútbol 2</display-name>
   </channel>
-  <programme start="20260128073808 +0100" stop="20260131210000 +0100" channel="Fútbol 2">
+  <programme start="20260129075035 +0100" stop="20260131210000 +0100" channel="Fútbol 2">
     <title>Próximo partido: Córdoba - Valladolid (Sábado 31/01 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 2</desc>
   </programme>
@@ -65,7 +61,7 @@
   <channel id="Fútbol 3">
     <display-name>Fútbol 3</display-name>
   </channel>
-  <programme start="20260128073808 +0100" stop="20260130190000 +0100" channel="Fútbol 3">
+  <programme start="20260129075035 +0100" stop="20260130190000 +0100" channel="Fútbol 3">
     <title>Próximo partido: Real Madrid Castilla - Osasuna B (Viernes 30/01 - 19:00)</title>
     <desc>Siguiente emisión en Fútbol 3</desc>
   </programme>
