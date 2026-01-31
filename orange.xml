@@ -3,7 +3,7 @@
   <channel id="Fútbol 1">
     <display-name>Fútbol 1</display-name>
   </channel>
-  <programme start="20260130075149 +0100" stop="20260131183000 +0100" channel="Fútbol 1">
+  <programme start="20260131074111 +0100" stop="20260131183000 +0100" channel="Fútbol 1">
     <title>Próximo partido: Cultural Leonesa - Deportivo (Sábado 31/01 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 1</desc>
   </programme>
@@ -62,7 +62,7 @@
   <channel id="Fútbol 2">
     <display-name>Fútbol 2</display-name>
   </channel>
-  <programme start="20260130075149 +0100" stop="20260131210000 +0100" channel="Fútbol 2">
+  <programme start="20260131074111 +0100" stop="20260131210000 +0100" channel="Fútbol 2">
     <title>Próximo partido: Córdoba - Valladolid (Sábado 31/01 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 2</desc>
   </programme>
@@ -89,23 +89,15 @@
   <channel id="Fútbol 3">
     <display-name>Fútbol 3</display-name>
   </channel>
-  <programme start="20260130075149 +0100" stop="20260130190000 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Real Madrid Castilla - Osasuna B (Viernes 30/01 - 19:00)</title>
-    <desc>Siguiente emisión en Fútbol 3</desc>
-  </programme>
   <programme start="20260130190000 +0100" stop="20260130210000 +0100" channel="Fútbol 3">
     <title>Primera Federación: Real Madrid Castilla - Osasuna B</title>
     <desc>Fútbol en directo - Primera Federación: Real Madrid Castilla - Osasuna B</desc>
-  </programme>
-  <programme start="20260130210000 +0100" stop="20260130211500 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Hércules - Cartagena (Viernes 30/01 - 21:15)</title>
-    <desc>Siguiente emisión en Fútbol 3</desc>
   </programme>
   <programme start="20260130211500 +0100" stop="20260130231500 +0100" channel="Fútbol 3">
     <title>Primera Federación: Hércules - Cartagena</title>
     <desc>Fútbol en directo - Primera Federación: Hércules - Cartagena</desc>
   </programme>
-  <programme start="20260130231500 +0100" stop="20260201173000 +0100" channel="Fútbol 3">
+  <programme start="20260131074111 +0100" stop="20260201173000 +0100" channel="Fútbol 3">
     <title>Próximo partido: Borussia Dortmund - Heidenheim (Domingo 01/02 - 17:30)</title>
     <desc>Siguiente emisión en Fútbol 3</desc>
   </programme>
