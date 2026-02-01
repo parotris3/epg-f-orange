@@ -3,15 +3,11 @@
   <channel id="Fútbol 1">
     <display-name>Fútbol 1</display-name>
   </channel>
-  <programme start="20260131074111 +0100" stop="20260131183000 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Cultural Leonesa - Deportivo (Sábado 31/01 - 18:30)</title>
-    <desc>Siguiente emisión en Fútbol 1</desc>
-  </programme>
   <programme start="20260131183000 +0100" stop="20260131203000 +0100" channel="Fútbol 1">
     <title>Laliga Hypermotion: Cultural Leonesa - Deportivo</title>
     <desc>Fútbol en directo - Laliga Hypermotion: Cultural Leonesa - Deportivo</desc>
   </programme>
-  <programme start="20260131203000 +0100" stop="20260201161500 +0100" channel="Fútbol 1">
+  <programme start="20260201075134 +0100" stop="20260201161500 +0100" channel="Fútbol 1">
     <title>Próximo partido: Betis - Valencia (Domingo 01/02 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 1</desc>
   </programme>
@@ -62,15 +58,11 @@
   <channel id="Fútbol 2">
     <display-name>Fútbol 2</display-name>
   </channel>
-  <programme start="20260131074111 +0100" stop="20260131210000 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Córdoba - Valladolid (Sábado 31/01 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 2</desc>
-  </programme>
   <programme start="20260131210000 +0100" stop="20260131230000 +0100" channel="Fútbol 2">
     <title>Laliga Hypermotion: Córdoba - Valladolid</title>
     <desc>Fútbol en directo - Laliga Hypermotion: Córdoba - Valladolid</desc>
   </programme>
-  <programme start="20260131230000 +0100" stop="20260201140000 +0100" channel="Fútbol 2">
+  <programme start="20260201075134 +0100" stop="20260201140000 +0100" channel="Fútbol 2">
     <title>Próximo partido: Almería - Ceuta (Domingo 01/02 - 14:00)</title>
     <desc>Siguiente emisión en Fútbol 2</desc>
   </programme>
@@ -97,7 +89,7 @@
     <title>Primera Federación: Hércules - Cartagena</title>
     <desc>Fútbol en directo - Primera Federación: Hércules - Cartagena</desc>
   </programme>
-  <programme start="20260131074111 +0100" stop="20260201173000 +0100" channel="Fútbol 3">
+  <programme start="20260201075134 +0100" stop="20260201173000 +0100" channel="Fútbol 3">
     <title>Próximo partido: Borussia Dortmund - Heidenheim (Domingo 01/02 - 17:30)</title>
     <desc>Siguiente emisión en Fútbol 3</desc>
   </programme>
