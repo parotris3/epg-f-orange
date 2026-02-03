@@ -3,23 +3,7 @@
   <channel id="Fútbol 1">
     <display-name>Fútbol 1</display-name>
   </channel>
-  <programme start="20260131183000 +0100" stop="20260131203000 +0100" channel="Fútbol 1">
-    <title>Laliga Hypermotion: Cultural Leonesa - Deportivo</title>
-    <desc>Fútbol en directo - Laliga Hypermotion: Cultural Leonesa - Deportivo</desc>
-  </programme>
-  <programme start="20260201161500 +0100" stop="20260201181500 +0100" channel="Fútbol 1">
-    <title>Laliga Ea Sports: Betis - Valencia</title>
-    <desc>Fútbol en directo - Laliga Ea Sports: Betis - Valencia</desc>
-  </programme>
-  <programme start="20260202080359 +0100" stop="20260202210000 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Mallorca - Sevilla (Lunes 02/02 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1</desc>
-  </programme>
-  <programme start="20260202210000 +0100" stop="20260202230000 +0100" channel="Fútbol 1">
-    <title>Laliga Ea Sports: Mallorca - Sevilla</title>
-    <desc>Fútbol en directo - Laliga Ea Sports: Mallorca - Sevilla</desc>
-  </programme>
-  <programme start="20260202230000 +0100" stop="20260203210000 +0100" channel="Fútbol 1">
+  <programme start="20260203075353 +0100" stop="20260203210000 +0100" channel="Fútbol 1">
     <title>Próximo partido: Albacete - Barcelona (Martes 03/02 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1</desc>
   </programme>
@@ -51,42 +35,70 @@
     <title>Laliga Ea Sports: Sevilla - Girona</title>
     <desc>Fútbol en directo - Laliga Ea Sports: Sevilla - Girona</desc>
   </programme>
+  <programme start="20260207183000 +0100" stop="20260207203000 +0100" channel="Fútbol 1">
+    <title>Laliga Hypermotion: Zaragoza - Eibar</title>
+    <desc>Fútbol en directo - Laliga Hypermotion: Zaragoza - Eibar</desc>
+  </programme>
   <channel id="Fútbol 2">
     <display-name>Fútbol 2</display-name>
   </channel>
-  <programme start="20260131210000 +0100" stop="20260131230000 +0100" channel="Fútbol 2">
-    <title>Laliga Hypermotion: Córdoba - Valladolid</title>
-    <desc>Fútbol en directo - Laliga Hypermotion: Córdoba - Valladolid</desc>
+  <programme start="20260203075353 +0100" stop="20260207210000 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Cádiz - Almería (Sábado 07/02 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 2</desc>
   </programme>
-  <programme start="20260201140000 +0100" stop="20260201160000 +0100" channel="Fútbol 2">
-    <title>Laliga Hypermotion: Almería - Ceuta</title>
-    <desc>Fútbol en directo - Laliga Hypermotion: Almería - Ceuta</desc>
+  <programme start="20260207210000 +0100" stop="20260207230000 +0100" channel="Fútbol 2">
+    <title>Laliga Hypermotion: Cádiz - Almería</title>
+    <desc>Fútbol en directo - Laliga Hypermotion: Cádiz - Almería</desc>
   </programme>
-  <programme start="20260201210000 +0100" stop="20260201230000 +0100" channel="Fútbol 2">
-    <title>Laliga Hypermotion: Granada - Racing</title>
-    <desc>Fútbol en directo - Laliga Hypermotion: Granada - Racing</desc>
+  <programme start="20260207230000 +0100" stop="20260208140000 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Valladolid - Castellón (Domingo 08/02 - 14:00)</title>
+    <desc>Siguiente emisión en Fútbol 2</desc>
+  </programme>
+  <programme start="20260208140000 +0100" stop="20260208160000 +0100" channel="Fútbol 2">
+    <title>Laliga Hypermotion: Valladolid - Castellón</title>
+    <desc>Fútbol en directo - Laliga Hypermotion: Valladolid - Castellón</desc>
+  </programme>
+  <programme start="20260208160000 +0100" stop="20260208161500 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Deportivo - Albacete (Domingo 08/02 - 16:15)</title>
+    <desc>Siguiente emisión en Fútbol 2</desc>
+  </programme>
+  <programme start="20260208161500 +0100" stop="20260208181500 +0100" channel="Fútbol 2">
+    <title>Laliga Hypermotion: Deportivo - Albacete</title>
+    <desc>Fútbol en directo - Laliga Hypermotion: Deportivo - Albacete</desc>
   </programme>
   <channel id="Fútbol 3">
     <display-name>Fútbol 3</display-name>
   </channel>
-  <programme start="20260130190000 +0100" stop="20260130210000 +0100" channel="Fútbol 3">
-    <title>Primera Federación: Real Madrid Castilla - Osasuna B</title>
-    <desc>Fútbol en directo - Primera Federación: Real Madrid Castilla - Osasuna B</desc>
-  </programme>
-  <programme start="20260130211500 +0100" stop="20260130231500 +0100" channel="Fútbol 3">
-    <title>Primera Federación: Hércules - Cartagena</title>
-    <desc>Fútbol en directo - Primera Federación: Hércules - Cartagena</desc>
-  </programme>
-  <programme start="20260201173000 +0100" stop="20260201193000 +0100" channel="Fútbol 3">
-    <title>Bundesliga Alemania: Borussia Dortmund - Heidenheim</title>
-    <desc>Fútbol en directo - Bundesliga Alemania: Borussia Dortmund - Heidenheim</desc>
-  </programme>
-  <programme start="20260202080359 +0100" stop="20260203204500 +0100" channel="Fútbol 3">
+  <programme start="20260203075353 +0100" stop="20260203204500 +0100" channel="Fútbol 3">
     <title>Próximo partido: Bolonia - Milan (Martes 03/02 - 20:45)</title>
     <desc>Siguiente emisión en Fútbol 3</desc>
   </programme>
   <programme start="20260203204500 +0100" stop="20260203224500 +0100" channel="Fútbol 3">
     <title>Serie A: Bolonia - Milan</title>
     <desc>Fútbol en directo - Serie A: Bolonia - Milan</desc>
+  </programme>
+  <programme start="20260203224500 +0100" stop="20260206190000 +0100" channel="Fútbol 3">
+    <title>Próximo partido: Barakaldo - Talavera De La Reina (Viernes 06/02 - 19:00)</title>
+    <desc>Siguiente emisión en Fútbol 3</desc>
+  </programme>
+  <programme start="20260206190000 +0100" stop="20260206210000 +0100" channel="Fútbol 3">
+    <title>Primera Federación: Barakaldo - Talavera De La Reina</title>
+    <desc>Fútbol en directo - Primera Federación: Barakaldo - Talavera De La Reina</desc>
+  </programme>
+  <programme start="20260206210000 +0100" stop="20260206211500 +0100" channel="Fútbol 3">
+    <title>Próximo partido: Europa - Hércules (Viernes 06/02 - 21:15)</title>
+    <desc>Siguiente emisión en Fútbol 3</desc>
+  </programme>
+  <programme start="20260206211500 +0100" stop="20260206231500 +0100" channel="Fútbol 3">
+    <title>Primera Federación: Europa - Hércules</title>
+    <desc>Fútbol en directo - Primera Federación: Europa - Hércules</desc>
+  </programme>
+  <programme start="20260206231500 +0100" stop="20260207183000 +0100" channel="Fútbol 3">
+    <title>Próximo partido: B. Mönchengladbach - Bayer Leverkusen (Sábado 07/02 - 18:30)</title>
+    <desc>Siguiente emisión en Fútbol 3</desc>
+  </programme>
+  <programme start="20260207183000 +0100" stop="20260207203000 +0100" channel="Fútbol 3">
+    <title>Bundesliga Alemania: B. Mönchengladbach - Bayer Leverkusen</title>
+    <desc>Fútbol en directo - Bundesliga Alemania: B. Mönchengladbach - Bayer Leverkusen</desc>
   </programme>
 </tv>
