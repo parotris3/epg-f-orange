@@ -3,15 +3,11 @@
   <channel id="Fútbol 1">
     <display-name>Fútbol 1</display-name>
   </channel>
-  <programme start="20260203075353 +0100" stop="20260203210000 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Albacete - Barcelona (Martes 03/02 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1</desc>
-  </programme>
   <programme start="20260203210000 +0100" stop="20260203230000 +0100" channel="Fútbol 1">
     <title>Copa Del Rey: Albacete - Barcelona</title>
     <desc>Fútbol en directo - Copa Del Rey: Albacete - Barcelona</desc>
   </programme>
-  <programme start="20260203230000 +0100" stop="20260205210000 +0100" channel="Fútbol 1">
+  <programme start="20260204075451 +0100" stop="20260205210000 +0100" channel="Fútbol 1">
     <title>Próximo partido: Betis - Atlético (Jueves 05/02 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1</desc>
   </programme>
@@ -39,10 +35,42 @@
     <title>Laliga Hypermotion: Zaragoza - Eibar</title>
     <desc>Fútbol en directo - Laliga Hypermotion: Zaragoza - Eibar</desc>
   </programme>
+  <programme start="20260207203000 +0100" stop="20260214183000 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Sevilla - Alavés (Sábado 14/02 - 18:30)</title>
+    <desc>Siguiente emisión en Fútbol 1</desc>
+  </programme>
+  <programme start="20260214183000 +0100" stop="20260214203000 +0100" channel="Fútbol 1">
+    <title>Laliga Ea Sports: Sevilla - Alavés</title>
+    <desc>Fútbol en directo - Laliga Ea Sports: Sevilla - Alavés</desc>
+  </programme>
+  <programme start="20260214203000 +0100" stop="20260214210000 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Real Madrid - Real Sociedad (Sábado 14/02 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1</desc>
+  </programme>
+  <programme start="20260214210000 +0100" stop="20260214230000 +0100" channel="Fútbol 1">
+    <title>Laliga Ea Sports: Real Madrid - Real Sociedad</title>
+    <desc>Fútbol en directo - Laliga Ea Sports: Real Madrid - Real Sociedad</desc>
+  </programme>
+  <programme start="20260214230000 +0100" stop="20260218210000 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Brujas - Atlético (Miércoles 18/02 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1</desc>
+  </programme>
+  <programme start="20260218210000 +0100" stop="20260218230000 +0100" channel="Fútbol 1">
+    <title>Champions League: Brujas - Atlético</title>
+    <desc>Fútbol en directo - Champions League: Brujas - Atlético</desc>
+  </programme>
+  <programme start="20260218230000 +0100" stop="20260224210000 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Real Madrid - Benfica (Martes 24/02 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1</desc>
+  </programme>
+  <programme start="20260224210000 +0100" stop="20260224230000 +0100" channel="Fútbol 1">
+    <title>Champions League: Real Madrid - Benfica</title>
+    <desc>Fútbol en directo - Champions League: Real Madrid - Benfica</desc>
+  </programme>
   <channel id="Fútbol 2">
     <display-name>Fútbol 2</display-name>
   </channel>
-  <programme start="20260203075353 +0100" stop="20260207210000 +0100" channel="Fútbol 2">
+  <programme start="20260204075451 +0100" stop="20260207210000 +0100" channel="Fútbol 2">
     <title>Próximo partido: Cádiz - Almería (Sábado 07/02 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 2</desc>
   </programme>
@@ -66,18 +94,46 @@
     <title>Laliga Hypermotion: Deportivo - Albacete</title>
     <desc>Fútbol en directo - Laliga Hypermotion: Deportivo - Albacete</desc>
   </programme>
+  <programme start="20260208181500 +0100" stop="20260214183000 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Cultural Leonesa - Zaragoza (Sábado 14/02 - 18:30)</title>
+    <desc>Siguiente emisión en Fútbol 2</desc>
+  </programme>
+  <programme start="20260214183000 +0100" stop="20260214203000 +0100" channel="Fútbol 2">
+    <title>Laliga Hypermotion: Cultural Leonesa - Zaragoza</title>
+    <desc>Fútbol en directo - Laliga Hypermotion: Cultural Leonesa - Zaragoza</desc>
+  </programme>
+  <programme start="20260214203000 +0100" stop="20260214210000 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Granada - Valladolid (Sábado 14/02 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 2</desc>
+  </programme>
+  <programme start="20260214210000 +0100" stop="20260214230000 +0100" channel="Fútbol 2">
+    <title>Laliga Hypermotion: Granada - Valladolid</title>
+    <desc>Fútbol en directo - Laliga Hypermotion: Granada - Valladolid</desc>
+  </programme>
+  <programme start="20260214230000 +0100" stop="20260215161500 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Eibar - Racing (Domingo 15/02 - 16:15)</title>
+    <desc>Siguiente emisión en Fútbol 2</desc>
+  </programme>
+  <programme start="20260215161500 +0100" stop="20260215181500 +0100" channel="Fútbol 2">
+    <title>Laliga Hypermotion: Eibar - Racing</title>
+    <desc>Fútbol en directo - Laliga Hypermotion: Eibar - Racing</desc>
+  </programme>
+  <programme start="20260215181500 +0100" stop="20260215210000 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Castellón - Deportivo (Domingo 15/02 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 2</desc>
+  </programme>
+  <programme start="20260215210000 +0100" stop="20260215230000 +0100" channel="Fútbol 2">
+    <title>Laliga Hypermotion: Castellón - Deportivo</title>
+    <desc>Fútbol en directo - Laliga Hypermotion: Castellón - Deportivo</desc>
+  </programme>
   <channel id="Fútbol 3">
     <display-name>Fútbol 3</display-name>
   </channel>
-  <programme start="20260203075353 +0100" stop="20260203204500 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Bolonia - Milan (Martes 03/02 - 20:45)</title>
-    <desc>Siguiente emisión en Fútbol 3</desc>
-  </programme>
   <programme start="20260203204500 +0100" stop="20260203224500 +0100" channel="Fútbol 3">
     <title>Serie A: Bolonia - Milan</title>
     <desc>Fútbol en directo - Serie A: Bolonia - Milan</desc>
   </programme>
-  <programme start="20260203224500 +0100" stop="20260206190000 +0100" channel="Fútbol 3">
+  <programme start="20260204075451 +0100" stop="20260206190000 +0100" channel="Fútbol 3">
     <title>Próximo partido: Barakaldo - Talavera De La Reina (Viernes 06/02 - 19:00)</title>
     <desc>Siguiente emisión en Fútbol 3</desc>
   </programme>
