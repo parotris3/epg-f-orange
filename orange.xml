@@ -7,7 +7,7 @@
     <title>Copa Del Rey: Albacete - Barcelona</title>
     <desc>Fútbol en directo - Copa Del Rey: Albacete - Barcelona</desc>
   </programme>
-  <programme start="20260204075451 +0100" stop="20260205210000 +0100" channel="Fútbol 1">
+  <programme start="20260205080043 +0100" stop="20260205210000 +0100" channel="Fútbol 1">
     <title>Próximo partido: Betis - Atlético (Jueves 05/02 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1</desc>
   </programme>
@@ -70,7 +70,7 @@
   <channel id="Fútbol 2">
     <display-name>Fútbol 2</display-name>
   </channel>
-  <programme start="20260204075451 +0100" stop="20260207210000 +0100" channel="Fútbol 2">
+  <programme start="20260205080043 +0100" stop="20260207210000 +0100" channel="Fútbol 2">
     <title>Próximo partido: Cádiz - Almería (Sábado 07/02 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 2</desc>
   </programme>
@@ -133,7 +133,7 @@
     <title>Serie A: Bolonia - Milan</title>
     <desc>Fútbol en directo - Serie A: Bolonia - Milan</desc>
   </programme>
-  <programme start="20260204075451 +0100" stop="20260206190000 +0100" channel="Fútbol 3">
+  <programme start="20260205080043 +0100" stop="20260206190000 +0100" channel="Fútbol 3">
     <title>Próximo partido: Barakaldo - Talavera De La Reina (Viernes 06/02 - 19:00)</title>
     <desc>Siguiente emisión en Fútbol 3</desc>
   </programme>
