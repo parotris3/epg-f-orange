@@ -3,15 +3,7 @@
   <channel id="Fútbol 1">
     <display-name>Fútbol 1</display-name>
   </channel>
-  <programme start="20260203210000 +0100" stop="20260203230000 +0100" channel="Fútbol 1">
-    <title>Copa Del Rey: Albacete - Barcelona</title>
-    <desc>Fútbol en directo - Copa Del Rey: Albacete - Barcelona</desc>
-  </programme>
-  <programme start="20260205210000 +0100" stop="20260205230000 +0100" channel="Fútbol 1">
-    <title>Copa Del Rey: Betis - Atlético</title>
-    <desc>Fútbol en directo - Copa Del Rey: Betis - Atlético</desc>
-  </programme>
-  <programme start="20260206075655 +0100" stop="20260207161500 +0100" channel="Fútbol 1">
+  <programme start="20260207074332 +0100" stop="20260207161500 +0100" channel="Fútbol 1">
     <title>Próximo partido: Barcelona - Mallorca (Sábado 07/02 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 1</desc>
   </programme>
@@ -82,7 +74,7 @@
   <channel id="Fútbol 2">
     <display-name>Fútbol 2</display-name>
   </channel>
-  <programme start="20260206075655 +0100" stop="20260207210000 +0100" channel="Fútbol 2">
+  <programme start="20260207074332 +0100" stop="20260207210000 +0100" channel="Fútbol 2">
     <title>Próximo partido: Cádiz - Almería (Sábado 07/02 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 2</desc>
   </programme>
@@ -141,23 +133,15 @@
   <channel id="Fútbol 3">
     <display-name>Fútbol 3</display-name>
   </channel>
-  <programme start="20260206075655 +0100" stop="20260206190000 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Barakaldo - Talavera De La Reina (Viernes 06/02 - 19:00)</title>
-    <desc>Siguiente emisión en Fútbol 3</desc>
-  </programme>
   <programme start="20260206190000 +0100" stop="20260206210000 +0100" channel="Fútbol 3">
     <title>Primera Federación: Barakaldo - Talavera De La Reina</title>
     <desc>Fútbol en directo - Primera Federación: Barakaldo - Talavera De La Reina</desc>
-  </programme>
-  <programme start="20260206210000 +0100" stop="20260206211500 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Europa - Hércules (Viernes 06/02 - 21:15)</title>
-    <desc>Siguiente emisión en Fútbol 3</desc>
   </programme>
   <programme start="20260206211500 +0100" stop="20260206231500 +0100" channel="Fútbol 3">
     <title>Primera Federación: Europa - Hércules</title>
     <desc>Fútbol en directo - Primera Federación: Europa - Hércules</desc>
   </programme>
-  <programme start="20260206231500 +0100" stop="20260207183000 +0100" channel="Fútbol 3">
+  <programme start="20260207074332 +0100" stop="20260207183000 +0100" channel="Fútbol 3">
     <title>Próximo partido: B. Mönchengladbach - Bayer Leverkusen (Sábado 07/02 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 3</desc>
   </programme>
@@ -173,12 +157,36 @@
     <title>Serie A: Pisa - Milan</title>
     <desc>Fútbol en directo - Serie A: Pisa - Milan</desc>
   </programme>
-  <programme start="20260213224500 +0100" stop="20260218204500 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Ac Milan - Como (Miércoles 18/02 - 20:45)</title>
+  <programme start="20260213224500 +0100" stop="20260215173000 +0100" channel="Fútbol 3">
+    <title>Próximo partido: Leipzig - Wolfsburgo (Domingo 15/02 - 17:30)</title>
+    <desc>Siguiente emisión en Fútbol 3</desc>
+  </programme>
+  <programme start="20260215173000 +0100" stop="20260215193000 +0100" channel="Fútbol 3">
+    <title>Bundesliga Alemania: Leipzig - Wolfsburgo</title>
+    <desc>Fútbol en directo - Bundesliga Alemania: Leipzig - Wolfsburgo</desc>
+  </programme>
+  <programme start="20260215193000 +0100" stop="20260218204500 +0100" channel="Fútbol 3">
+    <title>Próximo partido: Milan - Como (Miércoles 18/02 - 20:45)</title>
     <desc>Siguiente emisión en Fútbol 3</desc>
   </programme>
   <programme start="20260218204500 +0100" stop="20260218224500 +0100" channel="Fútbol 3">
-    <title>Serie A: Ac Milan - Como</title>
-    <desc>Fútbol en directo - Serie A: Ac Milan - Como</desc>
+    <title>Serie A: Milan - Como</title>
+    <desc>Fútbol en directo - Serie A: Milan - Como</desc>
+  </programme>
+  <programme start="20260218224500 +0100" stop="20260221180000 +0100" channel="Fútbol 3">
+    <title>Próximo partido: Lecce - Inter De Milán (Sábado 21/02 - 18:00)</title>
+    <desc>Siguiente emisión en Fútbol 3</desc>
+  </programme>
+  <programme start="20260221180000 +0100" stop="20260221200000 +0100" channel="Fútbol 3">
+    <title>Serie A: Lecce - Inter De Milán</title>
+    <desc>Fútbol en directo - Serie A: Lecce - Inter De Milán</desc>
+  </programme>
+  <programme start="20260221200000 +0100" stop="20260222173000 +0100" channel="Fútbol 3">
+    <title>Próximo partido: St. Pauli - Werder Bremen (Domingo 22/02 - 17:30)</title>
+    <desc>Siguiente emisión en Fútbol 3</desc>
+  </programme>
+  <programme start="20260222173000 +0100" stop="20260222193000 +0100" channel="Fútbol 3">
+    <title>Bundesliga Alemania: St. Pauli - Werder Bremen</title>
+    <desc>Fútbol en directo - Bundesliga Alemania: St. Pauli - Werder Bremen</desc>
   </programme>
 </tv>
