@@ -3,17 +3,9 @@
   <channel id="Fútbol 1">
     <display-name>Fútbol 1</display-name>
   </channel>
-  <programme start="20260207074332 +0100" stop="20260207161500 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Barcelona - Mallorca (Sábado 07/02 - 16:15)</title>
-    <desc>Siguiente emisión en Fútbol 1</desc>
-  </programme>
   <programme start="20260207161500 +0100" stop="20260207181500 +0100" channel="Fútbol 1">
     <title>Laliga Ea Sports: Barcelona - Mallorca</title>
     <desc>Fútbol en directo - Laliga Ea Sports: Barcelona - Mallorca</desc>
-  </programme>
-  <programme start="20260207181500 +0100" stop="20260207183000 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Sevilla - Girona (Sábado 07/02 - 18:30)</title>
-    <desc>Siguiente emisión en Fútbol 1</desc>
   </programme>
   <programme start="20260207183000 +0100" stop="20260207203000 +0100" channel="Fútbol 1">
     <title>Laliga Ea Sports: Sevilla - Girona</title>
@@ -23,7 +15,7 @@
     <title>Laliga Hypermotion: Zaragoza - Eibar</title>
     <desc>Fútbol en directo - Laliga Hypermotion: Zaragoza - Eibar</desc>
   </programme>
-  <programme start="20260207203000 +0100" stop="20260214183000 +0100" channel="Fútbol 1">
+  <programme start="20260208075219 +0100" stop="20260214183000 +0100" channel="Fútbol 1">
     <title>Próximo partido: Sevilla - Alavés (Sábado 14/02 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 1</desc>
   </programme>
@@ -74,15 +66,11 @@
   <channel id="Fútbol 2">
     <display-name>Fútbol 2</display-name>
   </channel>
-  <programme start="20260207074332 +0100" stop="20260207210000 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Cádiz - Almería (Sábado 07/02 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 2</desc>
-  </programme>
   <programme start="20260207210000 +0100" stop="20260207230000 +0100" channel="Fútbol 2">
     <title>Laliga Hypermotion: Cádiz - Almería</title>
     <desc>Fútbol en directo - Laliga Hypermotion: Cádiz - Almería</desc>
   </programme>
-  <programme start="20260207230000 +0100" stop="20260208140000 +0100" channel="Fútbol 2">
+  <programme start="20260208075219 +0100" stop="20260208140000 +0100" channel="Fútbol 2">
     <title>Próximo partido: Valladolid - Castellón (Domingo 08/02 - 14:00)</title>
     <desc>Siguiente emisión en Fútbol 2</desc>
   </programme>
@@ -141,15 +129,11 @@
     <title>Primera Federación: Europa - Hércules</title>
     <desc>Fútbol en directo - Primera Federación: Europa - Hércules</desc>
   </programme>
-  <programme start="20260207074332 +0100" stop="20260207183000 +0100" channel="Fútbol 3">
-    <title>Próximo partido: B. Mönchengladbach - Bayer Leverkusen (Sábado 07/02 - 18:30)</title>
-    <desc>Siguiente emisión en Fútbol 3</desc>
-  </programme>
   <programme start="20260207183000 +0100" stop="20260207203000 +0100" channel="Fútbol 3">
     <title>Bundesliga Alemania: B. Mönchengladbach - Bayer Leverkusen</title>
     <desc>Fútbol en directo - Bundesliga Alemania: B. Mönchengladbach - Bayer Leverkusen</desc>
   </programme>
-  <programme start="20260207203000 +0100" stop="20260213204500 +0100" channel="Fútbol 3">
+  <programme start="20260208075219 +0100" stop="20260213204500 +0100" channel="Fútbol 3">
     <title>Próximo partido: Pisa - Milan (Viernes 13/02 - 20:45)</title>
     <desc>Siguiente emisión en Fútbol 3</desc>
   </programme>
