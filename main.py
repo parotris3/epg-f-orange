@@ -141,6 +141,7 @@ def generar_epg():
     # --- GENERACIÓN XML ---
     root = ET.Element("tv")
     matches_found = 0
+    # Formato de fecha XMLTV standard: YYYYMMDDHHMMSS +HHMM
     fmt_xml = "%Y%m%d%H%M%S +0100"
 
     for c_name in target_channels:
@@ -154,25 +155,43 @@ def generar_epg():
             matches_found += 1
             start_time = event['start']
             
-            # --- RELLENO DE HUECOS ---
+            # --- RELLENO DE HUECOS (FRAGMENTADO EN 4 HORAS) ---
             if start_time > current_cursor:
-                # Calcular datos de fecha para el texto
-                dia_semana = dias_semana[start_time.weekday()]
+                # Calcular datos de fecha para el texto informativo
+                try:
+                    dia_semana_str = dias_semana[start_time.weekday()]
+                except:
+                    dia_semana_str = "Día"
+                
                 dia_mes = start_time.strftime("%d/%m")
                 hora = start_time.strftime("%H:%M")
                 
-                # "Próximo partido: Real Madrid - Barcelona (Sábado 26/10 - 21:00)"
-                time_info = f"({dia_semana} {dia_mes} - {hora})"
+                # Texto informativo: "Próximo partido: Real Madrid - Barcelona (Sábado 26/10 - 21:00)"
+                time_info = f"({dia_semana_str} {dia_mes} - {hora})"
                 filler_title = f"Próximo partido: {event['clean_teams']} {time_info}"
-                
-                prog_fill = ET.SubElement(root, "programme", 
-                                          start=current_cursor.strftime(fmt_xml), 
-                                          stop=start_time.strftime(fmt_xml), 
-                                          channel=c_name)
-                ET.SubElement(prog_fill, "title").text = filler_title
-                ET.SubElement(prog_fill, "desc").text = f"Siguiente emisión en {c_name}"
+
+                # Bucle para dividir el hueco en bloques de máximo 4 horas
+                temp_cursor = current_cursor
+                while temp_cursor < start_time:
+                    # Calculamos el final de este bloque (inicio + 4 horas)
+                    next_stop = temp_cursor + timedelta(hours=4)
+                    
+                    # Si el bloque de 4 horas se pasa de la hora de inicio del partido, cortamos ahí
+                    if next_stop > start_time:
+                        next_stop = start_time
+                    
+                    # Crear el programa XML para este bloque
+                    prog_fill = ET.SubElement(root, "programme", 
+                                              start=temp_cursor.strftime(fmt_xml), 
+                                              stop=next_stop.strftime(fmt_xml), 
+                                              channel=c_name)
+                    ET.SubElement(prog_fill, "title").text = filler_title
+                    ET.SubElement(prog_fill, "desc").text = f"Siguiente emisión en {c_name} | {time_info}"
+                    
+                    # Avanzamos el cursor temporal al final de este bloque
+                    temp_cursor = next_stop
             
-            # --- EMISIÓN REAL ---
+            # --- EMISIÓN REAL DEL PARTIDO ---
             prog_match = ET.SubElement(root, "programme", 
                                        start=start_time.strftime(fmt_xml), 
                                        stop=event['end'].strftime(fmt_xml), 
@@ -180,6 +199,7 @@ def generar_epg():
             ET.SubElement(prog_match, "title").text = event['title']
             ET.SubElement(prog_match, "desc").text = f"Fútbol en directo - {event['title']}"
 
+            # Actualizamos el cursor general al final del partido procesado
             current_cursor = max(current_cursor, event['end'])
 
     xml_str = minidom.parseString(ET.tostring(root)).toprettyxml(indent="  ")
@@ -190,3 +210,4 @@ def generar_epg():
 if __name__ == "__main__":
     generar_epg()
     
+
