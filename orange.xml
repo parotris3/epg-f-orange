@@ -3,39 +3,19 @@
   <channel id="Fútbol 1">
     <display-name>Fútbol 1</display-name>
   </channel>
-  <programme start="20260210115733 +0100" stop="20260210155733 +0100" channel="Fútbol 1">
+  <programme start="20260211080248 +0100" stop="20260211120248 +0100" channel="Fútbol 1">
     <title>Próximo partido: Athletic Club - Real Sociedad (Miércoles 11/02 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Miércoles 11/02 - 21:00)</desc>
   </programme>
-  <programme start="20260210155733 +0100" stop="20260210195733 +0100" channel="Fútbol 1">
+  <programme start="20260211120248 +0100" stop="20260211160248 +0100" channel="Fútbol 1">
     <title>Próximo partido: Athletic Club - Real Sociedad (Miércoles 11/02 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Miércoles 11/02 - 21:00)</desc>
   </programme>
-  <programme start="20260210195733 +0100" stop="20260210235733 +0100" channel="Fútbol 1">
+  <programme start="20260211160248 +0100" stop="20260211200248 +0100" channel="Fútbol 1">
     <title>Próximo partido: Athletic Club - Real Sociedad (Miércoles 11/02 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Miércoles 11/02 - 21:00)</desc>
   </programme>
-  <programme start="20260210235733 +0100" stop="20260211035733 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Athletic Club - Real Sociedad (Miércoles 11/02 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Miércoles 11/02 - 21:00)</desc>
-  </programme>
-  <programme start="20260211035733 +0100" stop="20260211075733 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Athletic Club - Real Sociedad (Miércoles 11/02 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Miércoles 11/02 - 21:00)</desc>
-  </programme>
-  <programme start="20260211075733 +0100" stop="20260211115733 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Athletic Club - Real Sociedad (Miércoles 11/02 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Miércoles 11/02 - 21:00)</desc>
-  </programme>
-  <programme start="20260211115733 +0100" stop="20260211155733 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Athletic Club - Real Sociedad (Miércoles 11/02 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Miércoles 11/02 - 21:00)</desc>
-  </programme>
-  <programme start="20260211155733 +0100" stop="20260211195733 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Athletic Club - Real Sociedad (Miércoles 11/02 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Miércoles 11/02 - 21:00)</desc>
-  </programme>
-  <programme start="20260211195733 +0100" stop="20260211210000 +0100" channel="Fútbol 1">
+  <programme start="20260211200248 +0100" stop="20260211210000 +0100" channel="Fútbol 1">
     <title>Próximo partido: Athletic Club - Real Sociedad (Miércoles 11/02 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Miércoles 11/02 - 21:00)</desc>
   </programme>
@@ -386,111 +366,91 @@
   <channel id="Fútbol 2">
     <display-name>Fútbol 2</display-name>
   </channel>
-  <programme start="20260210115733 +0100" stop="20260210155733 +0100" channel="Fútbol 2">
+  <programme start="20260211080248 +0100" stop="20260211120248 +0100" channel="Fútbol 2">
     <title>Próximo partido: Granada - Valladolid (Sábado 14/02 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 14/02 - 21:00)</desc>
   </programme>
-  <programme start="20260210155733 +0100" stop="20260210195733 +0100" channel="Fútbol 2">
+  <programme start="20260211120248 +0100" stop="20260211160248 +0100" channel="Fútbol 2">
     <title>Próximo partido: Granada - Valladolid (Sábado 14/02 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 14/02 - 21:00)</desc>
   </programme>
-  <programme start="20260210195733 +0100" stop="20260210235733 +0100" channel="Fútbol 2">
+  <programme start="20260211160248 +0100" stop="20260211200248 +0100" channel="Fútbol 2">
     <title>Próximo partido: Granada - Valladolid (Sábado 14/02 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 14/02 - 21:00)</desc>
   </programme>
-  <programme start="20260210235733 +0100" stop="20260211035733 +0100" channel="Fútbol 2">
+  <programme start="20260211200248 +0100" stop="20260212000248 +0100" channel="Fútbol 2">
     <title>Próximo partido: Granada - Valladolid (Sábado 14/02 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 14/02 - 21:00)</desc>
   </programme>
-  <programme start="20260211035733 +0100" stop="20260211075733 +0100" channel="Fútbol 2">
+  <programme start="20260212000248 +0100" stop="20260212040248 +0100" channel="Fútbol 2">
     <title>Próximo partido: Granada - Valladolid (Sábado 14/02 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 14/02 - 21:00)</desc>
   </programme>
-  <programme start="20260211075733 +0100" stop="20260211115733 +0100" channel="Fútbol 2">
+  <programme start="20260212040248 +0100" stop="20260212080248 +0100" channel="Fútbol 2">
     <title>Próximo partido: Granada - Valladolid (Sábado 14/02 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 14/02 - 21:00)</desc>
   </programme>
-  <programme start="20260211115733 +0100" stop="20260211155733 +0100" channel="Fútbol 2">
+  <programme start="20260212080248 +0100" stop="20260212120248 +0100" channel="Fútbol 2">
     <title>Próximo partido: Granada - Valladolid (Sábado 14/02 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 14/02 - 21:00)</desc>
   </programme>
-  <programme start="20260211155733 +0100" stop="20260211195733 +0100" channel="Fútbol 2">
+  <programme start="20260212120248 +0100" stop="20260212160248 +0100" channel="Fútbol 2">
     <title>Próximo partido: Granada - Valladolid (Sábado 14/02 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 14/02 - 21:00)</desc>
   </programme>
-  <programme start="20260211195733 +0100" stop="20260211235733 +0100" channel="Fútbol 2">
+  <programme start="20260212160248 +0100" stop="20260212200248 +0100" channel="Fútbol 2">
     <title>Próximo partido: Granada - Valladolid (Sábado 14/02 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 14/02 - 21:00)</desc>
   </programme>
-  <programme start="20260211235733 +0100" stop="20260212035733 +0100" channel="Fútbol 2">
+  <programme start="20260212200248 +0100" stop="20260213000248 +0100" channel="Fútbol 2">
     <title>Próximo partido: Granada - Valladolid (Sábado 14/02 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 14/02 - 21:00)</desc>
   </programme>
-  <programme start="20260212035733 +0100" stop="20260212075733 +0100" channel="Fútbol 2">
+  <programme start="20260213000248 +0100" stop="20260213040248 +0100" channel="Fútbol 2">
     <title>Próximo partido: Granada - Valladolid (Sábado 14/02 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 14/02 - 21:00)</desc>
   </programme>
-  <programme start="20260212075733 +0100" stop="20260212115733 +0100" channel="Fútbol 2">
+  <programme start="20260213040248 +0100" stop="20260213080248 +0100" channel="Fútbol 2">
     <title>Próximo partido: Granada - Valladolid (Sábado 14/02 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 14/02 - 21:00)</desc>
   </programme>
-  <programme start="20260212115733 +0100" stop="20260212155733 +0100" channel="Fútbol 2">
+  <programme start="20260213080248 +0100" stop="20260213120248 +0100" channel="Fútbol 2">
     <title>Próximo partido: Granada - Valladolid (Sábado 14/02 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 14/02 - 21:00)</desc>
   </programme>
-  <programme start="20260212155733 +0100" stop="20260212195733 +0100" channel="Fútbol 2">
+  <programme start="20260213120248 +0100" stop="20260213160248 +0100" channel="Fútbol 2">
     <title>Próximo partido: Granada - Valladolid (Sábado 14/02 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 14/02 - 21:00)</desc>
   </programme>
-  <programme start="20260212195733 +0100" stop="20260212235733 +0100" channel="Fútbol 2">
+  <programme start="20260213160248 +0100" stop="20260213200248 +0100" channel="Fútbol 2">
     <title>Próximo partido: Granada - Valladolid (Sábado 14/02 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 14/02 - 21:00)</desc>
   </programme>
-  <programme start="20260212235733 +0100" stop="20260213035733 +0100" channel="Fútbol 2">
+  <programme start="20260213200248 +0100" stop="20260214000248 +0100" channel="Fútbol 2">
     <title>Próximo partido: Granada - Valladolid (Sábado 14/02 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 14/02 - 21:00)</desc>
   </programme>
-  <programme start="20260213035733 +0100" stop="20260213075733 +0100" channel="Fútbol 2">
+  <programme start="20260214000248 +0100" stop="20260214040248 +0100" channel="Fútbol 2">
     <title>Próximo partido: Granada - Valladolid (Sábado 14/02 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 14/02 - 21:00)</desc>
   </programme>
-  <programme start="20260213075733 +0100" stop="20260213115733 +0100" channel="Fútbol 2">
+  <programme start="20260214040248 +0100" stop="20260214080248 +0100" channel="Fútbol 2">
     <title>Próximo partido: Granada - Valladolid (Sábado 14/02 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 14/02 - 21:00)</desc>
   </programme>
-  <programme start="20260213115733 +0100" stop="20260213155733 +0100" channel="Fútbol 2">
+  <programme start="20260214080248 +0100" stop="20260214120248 +0100" channel="Fútbol 2">
     <title>Próximo partido: Granada - Valladolid (Sábado 14/02 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 14/02 - 21:00)</desc>
   </programme>
-  <programme start="20260213155733 +0100" stop="20260213195733 +0100" channel="Fútbol 2">
+  <programme start="20260214120248 +0100" stop="20260214160248 +0100" channel="Fútbol 2">
     <title>Próximo partido: Granada - Valladolid (Sábado 14/02 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 14/02 - 21:00)</desc>
   </programme>
-  <programme start="20260213195733 +0100" stop="20260213235733 +0100" channel="Fútbol 2">
+  <programme start="20260214160248 +0100" stop="20260214200248 +0100" channel="Fútbol 2">
     <title>Próximo partido: Granada - Valladolid (Sábado 14/02 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 14/02 - 21:00)</desc>
   </programme>
-  <programme start="20260213235733 +0100" stop="20260214035733 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Granada - Valladolid (Sábado 14/02 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Sábado 14/02 - 21:00)</desc>
-  </programme>
-  <programme start="20260214035733 +0100" stop="20260214075733 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Granada - Valladolid (Sábado 14/02 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Sábado 14/02 - 21:00)</desc>
-  </programme>
-  <programme start="20260214075733 +0100" stop="20260214115733 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Granada - Valladolid (Sábado 14/02 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Sábado 14/02 - 21:00)</desc>
-  </programme>
-  <programme start="20260214115733 +0100" stop="20260214155733 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Granada - Valladolid (Sábado 14/02 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Sábado 14/02 - 21:00)</desc>
-  </programme>
-  <programme start="20260214155733 +0100" stop="20260214195733 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Granada - Valladolid (Sábado 14/02 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Sábado 14/02 - 21:00)</desc>
-  </programme>
-  <programme start="20260214195733 +0100" stop="20260214210000 +0100" channel="Fútbol 2">
+  <programme start="20260214200248 +0100" stop="20260214210000 +0100" channel="Fútbol 2">
     <title>Próximo partido: Granada - Valladolid (Sábado 14/02 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 14/02 - 21:00)</desc>
   </programme>
@@ -717,83 +677,63 @@
   <channel id="Fútbol 3">
     <display-name>Fútbol 3</display-name>
   </channel>
-  <programme start="20260210115733 +0100" stop="20260210155733 +0100" channel="Fútbol 3">
+  <programme start="20260211080248 +0100" stop="20260211120248 +0100" channel="Fútbol 3">
     <title>Próximo partido: Atlético Sanluqueño - Atlético Madrileño (Viernes 13/02 - 19:00)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Viernes 13/02 - 19:00)</desc>
   </programme>
-  <programme start="20260210155733 +0100" stop="20260210195733 +0100" channel="Fútbol 3">
+  <programme start="20260211120248 +0100" stop="20260211160248 +0100" channel="Fútbol 3">
     <title>Próximo partido: Atlético Sanluqueño - Atlético Madrileño (Viernes 13/02 - 19:00)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Viernes 13/02 - 19:00)</desc>
   </programme>
-  <programme start="20260210195733 +0100" stop="20260210235733 +0100" channel="Fútbol 3">
+  <programme start="20260211160248 +0100" stop="20260211200248 +0100" channel="Fútbol 3">
     <title>Próximo partido: Atlético Sanluqueño - Atlético Madrileño (Viernes 13/02 - 19:00)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Viernes 13/02 - 19:00)</desc>
   </programme>
-  <programme start="20260210235733 +0100" stop="20260211035733 +0100" channel="Fútbol 3">
+  <programme start="20260211200248 +0100" stop="20260212000248 +0100" channel="Fútbol 3">
     <title>Próximo partido: Atlético Sanluqueño - Atlético Madrileño (Viernes 13/02 - 19:00)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Viernes 13/02 - 19:00)</desc>
   </programme>
-  <programme start="20260211035733 +0100" stop="20260211075733 +0100" channel="Fútbol 3">
+  <programme start="20260212000248 +0100" stop="20260212040248 +0100" channel="Fútbol 3">
     <title>Próximo partido: Atlético Sanluqueño - Atlético Madrileño (Viernes 13/02 - 19:00)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Viernes 13/02 - 19:00)</desc>
   </programme>
-  <programme start="20260211075733 +0100" stop="20260211115733 +0100" channel="Fútbol 3">
+  <programme start="20260212040248 +0100" stop="20260212080248 +0100" channel="Fútbol 3">
     <title>Próximo partido: Atlético Sanluqueño - Atlético Madrileño (Viernes 13/02 - 19:00)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Viernes 13/02 - 19:00)</desc>
   </programme>
-  <programme start="20260211115733 +0100" stop="20260211155733 +0100" channel="Fútbol 3">
+  <programme start="20260212080248 +0100" stop="20260212120248 +0100" channel="Fútbol 3">
     <title>Próximo partido: Atlético Sanluqueño - Atlético Madrileño (Viernes 13/02 - 19:00)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Viernes 13/02 - 19:00)</desc>
   </programme>
-  <programme start="20260211155733 +0100" stop="20260211195733 +0100" channel="Fútbol 3">
+  <programme start="20260212120248 +0100" stop="20260212160248 +0100" channel="Fútbol 3">
     <title>Próximo partido: Atlético Sanluqueño - Atlético Madrileño (Viernes 13/02 - 19:00)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Viernes 13/02 - 19:00)</desc>
   </programme>
-  <programme start="20260211195733 +0100" stop="20260211235733 +0100" channel="Fútbol 3">
+  <programme start="20260212160248 +0100" stop="20260212200248 +0100" channel="Fútbol 3">
     <title>Próximo partido: Atlético Sanluqueño - Atlético Madrileño (Viernes 13/02 - 19:00)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Viernes 13/02 - 19:00)</desc>
   </programme>
-  <programme start="20260211235733 +0100" stop="20260212035733 +0100" channel="Fútbol 3">
+  <programme start="20260212200248 +0100" stop="20260213000248 +0100" channel="Fútbol 3">
     <title>Próximo partido: Atlético Sanluqueño - Atlético Madrileño (Viernes 13/02 - 19:00)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Viernes 13/02 - 19:00)</desc>
   </programme>
-  <programme start="20260212035733 +0100" stop="20260212075733 +0100" channel="Fútbol 3">
+  <programme start="20260213000248 +0100" stop="20260213040248 +0100" channel="Fútbol 3">
     <title>Próximo partido: Atlético Sanluqueño - Atlético Madrileño (Viernes 13/02 - 19:00)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Viernes 13/02 - 19:00)</desc>
   </programme>
-  <programme start="20260212075733 +0100" stop="20260212115733 +0100" channel="Fútbol 3">
+  <programme start="20260213040248 +0100" stop="20260213080248 +0100" channel="Fútbol 3">
     <title>Próximo partido: Atlético Sanluqueño - Atlético Madrileño (Viernes 13/02 - 19:00)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Viernes 13/02 - 19:00)</desc>
   </programme>
-  <programme start="20260212115733 +0100" stop="20260212155733 +0100" channel="Fútbol 3">
+  <programme start="20260213080248 +0100" stop="20260213120248 +0100" channel="Fútbol 3">
     <title>Próximo partido: Atlético Sanluqueño - Atlético Madrileño (Viernes 13/02 - 19:00)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Viernes 13/02 - 19:00)</desc>
   </programme>
-  <programme start="20260212155733 +0100" stop="20260212195733 +0100" channel="Fútbol 3">
+  <programme start="20260213120248 +0100" stop="20260213160248 +0100" channel="Fútbol 3">
     <title>Próximo partido: Atlético Sanluqueño - Atlético Madrileño (Viernes 13/02 - 19:00)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Viernes 13/02 - 19:00)</desc>
   </programme>
-  <programme start="20260212195733 +0100" stop="20260212235733 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Atlético Sanluqueño - Atlético Madrileño (Viernes 13/02 - 19:00)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Viernes 13/02 - 19:00)</desc>
-  </programme>
-  <programme start="20260212235733 +0100" stop="20260213035733 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Atlético Sanluqueño - Atlético Madrileño (Viernes 13/02 - 19:00)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Viernes 13/02 - 19:00)</desc>
-  </programme>
-  <programme start="20260213035733 +0100" stop="20260213075733 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Atlético Sanluqueño - Atlético Madrileño (Viernes 13/02 - 19:00)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Viernes 13/02 - 19:00)</desc>
-  </programme>
-  <programme start="20260213075733 +0100" stop="20260213115733 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Atlético Sanluqueño - Atlético Madrileño (Viernes 13/02 - 19:00)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Viernes 13/02 - 19:00)</desc>
-  </programme>
-  <programme start="20260213115733 +0100" stop="20260213155733 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Atlético Sanluqueño - Atlético Madrileño (Viernes 13/02 - 19:00)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Viernes 13/02 - 19:00)</desc>
-  </programme>
-  <programme start="20260213155733 +0100" stop="20260213190000 +0100" channel="Fútbol 3">
+  <programme start="20260213160248 +0100" stop="20260213190000 +0100" channel="Fútbol 3">
     <title>Próximo partido: Atlético Sanluqueño - Atlético Madrileño (Viernes 13/02 - 19:00)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Viernes 13/02 - 19:00)</desc>
   </programme>
