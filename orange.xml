@@ -3,43 +3,15 @@
   <channel id="Fútbol 1">
     <display-name>Fútbol 1</display-name>
   </channel>
-  <programme start="20260212210000 +0100" stop="20260212230000 +0100" channel="Fútbol 1">
-    <title>Copa Del Rey: Atlético - Barcelona</title>
-    <desc>Fútbol en directo - Copa Del Rey: Atlético - Barcelona</desc>
-  </programme>
-  <programme start="20260213080115 +0100" stop="20260213120115 +0100" channel="Fútbol 1">
+  <programme start="20260214074703 +0100" stop="20260214114703 +0100" channel="Fútbol 1">
     <title>Próximo partido: Cultural Leonesa - Zaragoza (Sábado 14/02 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 14/02 - 18:30)</desc>
   </programme>
-  <programme start="20260213120115 +0100" stop="20260213160115 +0100" channel="Fútbol 1">
+  <programme start="20260214114703 +0100" stop="20260214154703 +0100" channel="Fútbol 1">
     <title>Próximo partido: Cultural Leonesa - Zaragoza (Sábado 14/02 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 14/02 - 18:30)</desc>
   </programme>
-  <programme start="20260213160115 +0100" stop="20260213200115 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Cultural Leonesa - Zaragoza (Sábado 14/02 - 18:30)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Sábado 14/02 - 18:30)</desc>
-  </programme>
-  <programme start="20260213200115 +0100" stop="20260214000115 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Cultural Leonesa - Zaragoza (Sábado 14/02 - 18:30)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Sábado 14/02 - 18:30)</desc>
-  </programme>
-  <programme start="20260214000115 +0100" stop="20260214040115 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Cultural Leonesa - Zaragoza (Sábado 14/02 - 18:30)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Sábado 14/02 - 18:30)</desc>
-  </programme>
-  <programme start="20260214040115 +0100" stop="20260214080115 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Cultural Leonesa - Zaragoza (Sábado 14/02 - 18:30)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Sábado 14/02 - 18:30)</desc>
-  </programme>
-  <programme start="20260214080115 +0100" stop="20260214120115 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Cultural Leonesa - Zaragoza (Sábado 14/02 - 18:30)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Sábado 14/02 - 18:30)</desc>
-  </programme>
-  <programme start="20260214120115 +0100" stop="20260214160115 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Cultural Leonesa - Zaragoza (Sábado 14/02 - 18:30)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Sábado 14/02 - 18:30)</desc>
-  </programme>
-  <programme start="20260214160115 +0100" stop="20260214183000 +0100" channel="Fútbol 1">
+  <programme start="20260214154703 +0100" stop="20260214183000 +0100" channel="Fútbol 1">
     <title>Próximo partido: Cultural Leonesa - Zaragoza (Sábado 14/02 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 14/02 - 18:30)</desc>
   </programme>
@@ -314,43 +286,19 @@
   <channel id="Fútbol 2">
     <display-name>Fútbol 2</display-name>
   </channel>
-  <programme start="20260213080115 +0100" stop="20260213120115 +0100" channel="Fútbol 2">
+  <programme start="20260214074703 +0100" stop="20260214114703 +0100" channel="Fútbol 2">
     <title>Próximo partido: Granada - Valladolid (Sábado 14/02 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 14/02 - 21:00)</desc>
   </programme>
-  <programme start="20260213120115 +0100" stop="20260213160115 +0100" channel="Fútbol 2">
+  <programme start="20260214114703 +0100" stop="20260214154703 +0100" channel="Fútbol 2">
     <title>Próximo partido: Granada - Valladolid (Sábado 14/02 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 14/02 - 21:00)</desc>
   </programme>
-  <programme start="20260213160115 +0100" stop="20260213200115 +0100" channel="Fútbol 2">
+  <programme start="20260214154703 +0100" stop="20260214194703 +0100" channel="Fútbol 2">
     <title>Próximo partido: Granada - Valladolid (Sábado 14/02 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 14/02 - 21:00)</desc>
   </programme>
-  <programme start="20260213200115 +0100" stop="20260214000115 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Granada - Valladolid (Sábado 14/02 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Sábado 14/02 - 21:00)</desc>
-  </programme>
-  <programme start="20260214000115 +0100" stop="20260214040115 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Granada - Valladolid (Sábado 14/02 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Sábado 14/02 - 21:00)</desc>
-  </programme>
-  <programme start="20260214040115 +0100" stop="20260214080115 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Granada - Valladolid (Sábado 14/02 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Sábado 14/02 - 21:00)</desc>
-  </programme>
-  <programme start="20260214080115 +0100" stop="20260214120115 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Granada - Valladolid (Sábado 14/02 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Sábado 14/02 - 21:00)</desc>
-  </programme>
-  <programme start="20260214120115 +0100" stop="20260214160115 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Granada - Valladolid (Sábado 14/02 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Sábado 14/02 - 21:00)</desc>
-  </programme>
-  <programme start="20260214160115 +0100" stop="20260214200115 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Granada - Valladolid (Sábado 14/02 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Sábado 14/02 - 21:00)</desc>
-  </programme>
-  <programme start="20260214200115 +0100" stop="20260214210000 +0100" channel="Fútbol 2">
+  <programme start="20260214194703 +0100" stop="20260214210000 +0100" channel="Fútbol 2">
     <title>Próximo partido: Granada - Valladolid (Sábado 14/02 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 14/02 - 21:00)</desc>
   </programme>
@@ -577,18 +525,6 @@
   <channel id="Fútbol 3">
     <display-name>Fútbol 3</display-name>
   </channel>
-  <programme start="20260213080115 +0100" stop="20260213120115 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Atlético Sanluqueño - Atlético Madrileño (Viernes 13/02 - 19:00)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Viernes 13/02 - 19:00)</desc>
-  </programme>
-  <programme start="20260213120115 +0100" stop="20260213160115 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Atlético Sanluqueño - Atlético Madrileño (Viernes 13/02 - 19:00)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Viernes 13/02 - 19:00)</desc>
-  </programme>
-  <programme start="20260213160115 +0100" stop="20260213190000 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Atlético Sanluqueño - Atlético Madrileño (Viernes 13/02 - 19:00)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Viernes 13/02 - 19:00)</desc>
-  </programme>
   <programme start="20260213190000 +0100" stop="20260213210000 +0100" channel="Fútbol 3">
     <title>Primera Federación: Atlético Sanluqueño - Atlético Madrileño</title>
     <desc>Fútbol en directo - Primera Federación: Atlético Sanluqueño - Atlético Madrileño</desc>
@@ -601,47 +537,39 @@
     <title>Primera Federación: Real Madrid Castilla - Bilbao Athletic</title>
     <desc>Fútbol en directo - Primera Federación: Real Madrid Castilla - Bilbao Athletic</desc>
   </programme>
-  <programme start="20260213231500 +0100" stop="20260214031500 +0100" channel="Fútbol 3">
+  <programme start="20260214074703 +0100" stop="20260214114703 +0100" channel="Fútbol 3">
     <title>Próximo partido: Leipzig - Wolfsburgo (Domingo 15/02 - 17:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Domingo 15/02 - 17:30)</desc>
   </programme>
-  <programme start="20260214031500 +0100" stop="20260214071500 +0100" channel="Fútbol 3">
+  <programme start="20260214114703 +0100" stop="20260214154703 +0100" channel="Fútbol 3">
     <title>Próximo partido: Leipzig - Wolfsburgo (Domingo 15/02 - 17:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Domingo 15/02 - 17:30)</desc>
   </programme>
-  <programme start="20260214071500 +0100" stop="20260214111500 +0100" channel="Fútbol 3">
+  <programme start="20260214154703 +0100" stop="20260214194703 +0100" channel="Fútbol 3">
     <title>Próximo partido: Leipzig - Wolfsburgo (Domingo 15/02 - 17:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Domingo 15/02 - 17:30)</desc>
   </programme>
-  <programme start="20260214111500 +0100" stop="20260214151500 +0100" channel="Fútbol 3">
+  <programme start="20260214194703 +0100" stop="20260214234703 +0100" channel="Fútbol 3">
     <title>Próximo partido: Leipzig - Wolfsburgo (Domingo 15/02 - 17:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Domingo 15/02 - 17:30)</desc>
   </programme>
-  <programme start="20260214151500 +0100" stop="20260214191500 +0100" channel="Fútbol 3">
+  <programme start="20260214234703 +0100" stop="20260215034703 +0100" channel="Fútbol 3">
     <title>Próximo partido: Leipzig - Wolfsburgo (Domingo 15/02 - 17:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Domingo 15/02 - 17:30)</desc>
   </programme>
-  <programme start="20260214191500 +0100" stop="20260214231500 +0100" channel="Fútbol 3">
+  <programme start="20260215034703 +0100" stop="20260215074703 +0100" channel="Fútbol 3">
     <title>Próximo partido: Leipzig - Wolfsburgo (Domingo 15/02 - 17:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Domingo 15/02 - 17:30)</desc>
   </programme>
-  <programme start="20260214231500 +0100" stop="20260215031500 +0100" channel="Fútbol 3">
+  <programme start="20260215074703 +0100" stop="20260215114703 +0100" channel="Fútbol 3">
     <title>Próximo partido: Leipzig - Wolfsburgo (Domingo 15/02 - 17:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Domingo 15/02 - 17:30)</desc>
   </programme>
-  <programme start="20260215031500 +0100" stop="20260215071500 +0100" channel="Fútbol 3">
+  <programme start="20260215114703 +0100" stop="20260215154703 +0100" channel="Fútbol 3">
     <title>Próximo partido: Leipzig - Wolfsburgo (Domingo 15/02 - 17:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Domingo 15/02 - 17:30)</desc>
   </programme>
-  <programme start="20260215071500 +0100" stop="20260215111500 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Leipzig - Wolfsburgo (Domingo 15/02 - 17:30)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Domingo 15/02 - 17:30)</desc>
-  </programme>
-  <programme start="20260215111500 +0100" stop="20260215151500 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Leipzig - Wolfsburgo (Domingo 15/02 - 17:30)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Domingo 15/02 - 17:30)</desc>
-  </programme>
-  <programme start="20260215151500 +0100" stop="20260215173000 +0100" channel="Fútbol 3">
+  <programme start="20260215154703 +0100" stop="20260215173000 +0100" channel="Fútbol 3">
     <title>Próximo partido: Leipzig - Wolfsburgo (Domingo 15/02 - 17:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Domingo 15/02 - 17:30)</desc>
   </programme>
