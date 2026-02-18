@@ -3,43 +3,19 @@
   <channel id="Fútbol 1">
     <display-name>Fútbol 1</display-name>
   </channel>
-  <programme start="20260217080029 +0100" stop="20260217120029 +0100" channel="Fútbol 1">
+  <programme start="20260218080311 +0100" stop="20260218120311 +0100" channel="Fútbol 1">
     <title>Próximo partido: Brujas - Atlético (Miércoles 18/02 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Miércoles 18/02 - 21:00)</desc>
   </programme>
-  <programme start="20260217120029 +0100" stop="20260217160029 +0100" channel="Fútbol 1">
+  <programme start="20260218120311 +0100" stop="20260218160311 +0100" channel="Fútbol 1">
     <title>Próximo partido: Brujas - Atlético (Miércoles 18/02 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Miércoles 18/02 - 21:00)</desc>
   </programme>
-  <programme start="20260217160029 +0100" stop="20260217200029 +0100" channel="Fútbol 1">
+  <programme start="20260218160311 +0100" stop="20260218200311 +0100" channel="Fútbol 1">
     <title>Próximo partido: Brujas - Atlético (Miércoles 18/02 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Miércoles 18/02 - 21:00)</desc>
   </programme>
-  <programme start="20260217200029 +0100" stop="20260218000029 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Brujas - Atlético (Miércoles 18/02 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Miércoles 18/02 - 21:00)</desc>
-  </programme>
-  <programme start="20260218000029 +0100" stop="20260218040029 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Brujas - Atlético (Miércoles 18/02 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Miércoles 18/02 - 21:00)</desc>
-  </programme>
-  <programme start="20260218040029 +0100" stop="20260218080029 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Brujas - Atlético (Miércoles 18/02 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Miércoles 18/02 - 21:00)</desc>
-  </programme>
-  <programme start="20260218080029 +0100" stop="20260218120029 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Brujas - Atlético (Miércoles 18/02 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Miércoles 18/02 - 21:00)</desc>
-  </programme>
-  <programme start="20260218120029 +0100" stop="20260218160029 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Brujas - Atlético (Miércoles 18/02 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Miércoles 18/02 - 21:00)</desc>
-  </programme>
-  <programme start="20260218160029 +0100" stop="20260218200029 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Brujas - Atlético (Miércoles 18/02 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Miércoles 18/02 - 21:00)</desc>
-  </programme>
-  <programme start="20260218200029 +0100" stop="20260218210000 +0100" channel="Fútbol 1">
+  <programme start="20260218200311 +0100" stop="20260218210000 +0100" channel="Fútbol 1">
     <title>Próximo partido: Brujas - Atlético (Miércoles 18/02 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Miércoles 18/02 - 21:00)</desc>
   </programme>
@@ -206,111 +182,87 @@
   <channel id="Fútbol 2">
     <display-name>Fútbol 2</display-name>
   </channel>
-  <programme start="20260217080029 +0100" stop="20260217120029 +0100" channel="Fútbol 2">
+  <programme start="20260218080311 +0100" stop="20260218120311 +0100" channel="Fútbol 2">
     <title>Próximo partido: Almería - Córdoba (Sábado 21/02 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 21/02 - 18:30)</desc>
   </programme>
-  <programme start="20260217120029 +0100" stop="20260217160029 +0100" channel="Fútbol 2">
+  <programme start="20260218120311 +0100" stop="20260218160311 +0100" channel="Fútbol 2">
     <title>Próximo partido: Almería - Córdoba (Sábado 21/02 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 21/02 - 18:30)</desc>
   </programme>
-  <programme start="20260217160029 +0100" stop="20260217200029 +0100" channel="Fútbol 2">
+  <programme start="20260218160311 +0100" stop="20260218200311 +0100" channel="Fútbol 2">
     <title>Próximo partido: Almería - Córdoba (Sábado 21/02 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 21/02 - 18:30)</desc>
   </programme>
-  <programme start="20260217200029 +0100" stop="20260218000029 +0100" channel="Fútbol 2">
+  <programme start="20260218200311 +0100" stop="20260219000311 +0100" channel="Fútbol 2">
     <title>Próximo partido: Almería - Córdoba (Sábado 21/02 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 21/02 - 18:30)</desc>
   </programme>
-  <programme start="20260218000029 +0100" stop="20260218040029 +0100" channel="Fútbol 2">
+  <programme start="20260219000311 +0100" stop="20260219040311 +0100" channel="Fútbol 2">
     <title>Próximo partido: Almería - Córdoba (Sábado 21/02 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 21/02 - 18:30)</desc>
   </programme>
-  <programme start="20260218040029 +0100" stop="20260218080029 +0100" channel="Fútbol 2">
+  <programme start="20260219040311 +0100" stop="20260219080311 +0100" channel="Fútbol 2">
     <title>Próximo partido: Almería - Córdoba (Sábado 21/02 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 21/02 - 18:30)</desc>
   </programme>
-  <programme start="20260218080029 +0100" stop="20260218120029 +0100" channel="Fútbol 2">
+  <programme start="20260219080311 +0100" stop="20260219120311 +0100" channel="Fútbol 2">
     <title>Próximo partido: Almería - Córdoba (Sábado 21/02 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 21/02 - 18:30)</desc>
   </programme>
-  <programme start="20260218120029 +0100" stop="20260218160029 +0100" channel="Fútbol 2">
+  <programme start="20260219120311 +0100" stop="20260219160311 +0100" channel="Fútbol 2">
     <title>Próximo partido: Almería - Córdoba (Sábado 21/02 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 21/02 - 18:30)</desc>
   </programme>
-  <programme start="20260218160029 +0100" stop="20260218200029 +0100" channel="Fútbol 2">
+  <programme start="20260219160311 +0100" stop="20260219200311 +0100" channel="Fútbol 2">
     <title>Próximo partido: Almería - Córdoba (Sábado 21/02 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 21/02 - 18:30)</desc>
   </programme>
-  <programme start="20260218200029 +0100" stop="20260219000029 +0100" channel="Fútbol 2">
+  <programme start="20260219200311 +0100" stop="20260220000311 +0100" channel="Fútbol 2">
     <title>Próximo partido: Almería - Córdoba (Sábado 21/02 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 21/02 - 18:30)</desc>
   </programme>
-  <programme start="20260219000029 +0100" stop="20260219040029 +0100" channel="Fútbol 2">
+  <programme start="20260220000311 +0100" stop="20260220040311 +0100" channel="Fútbol 2">
     <title>Próximo partido: Almería - Córdoba (Sábado 21/02 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 21/02 - 18:30)</desc>
   </programme>
-  <programme start="20260219040029 +0100" stop="20260219080029 +0100" channel="Fútbol 2">
+  <programme start="20260220040311 +0100" stop="20260220080311 +0100" channel="Fútbol 2">
     <title>Próximo partido: Almería - Córdoba (Sábado 21/02 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 21/02 - 18:30)</desc>
   </programme>
-  <programme start="20260219080029 +0100" stop="20260219120029 +0100" channel="Fútbol 2">
+  <programme start="20260220080311 +0100" stop="20260220120311 +0100" channel="Fútbol 2">
     <title>Próximo partido: Almería - Córdoba (Sábado 21/02 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 21/02 - 18:30)</desc>
   </programme>
-  <programme start="20260219120029 +0100" stop="20260219160029 +0100" channel="Fútbol 2">
+  <programme start="20260220120311 +0100" stop="20260220160311 +0100" channel="Fútbol 2">
     <title>Próximo partido: Almería - Córdoba (Sábado 21/02 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 21/02 - 18:30)</desc>
   </programme>
-  <programme start="20260219160029 +0100" stop="20260219200029 +0100" channel="Fútbol 2">
+  <programme start="20260220160311 +0100" stop="20260220200311 +0100" channel="Fútbol 2">
     <title>Próximo partido: Almería - Córdoba (Sábado 21/02 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 21/02 - 18:30)</desc>
   </programme>
-  <programme start="20260219200029 +0100" stop="20260220000029 +0100" channel="Fútbol 2">
+  <programme start="20260220200311 +0100" stop="20260221000311 +0100" channel="Fútbol 2">
     <title>Próximo partido: Almería - Córdoba (Sábado 21/02 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 21/02 - 18:30)</desc>
   </programme>
-  <programme start="20260220000029 +0100" stop="20260220040029 +0100" channel="Fútbol 2">
+  <programme start="20260221000311 +0100" stop="20260221040311 +0100" channel="Fútbol 2">
     <title>Próximo partido: Almería - Córdoba (Sábado 21/02 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 21/02 - 18:30)</desc>
   </programme>
-  <programme start="20260220040029 +0100" stop="20260220080029 +0100" channel="Fútbol 2">
+  <programme start="20260221040311 +0100" stop="20260221080311 +0100" channel="Fútbol 2">
     <title>Próximo partido: Almería - Córdoba (Sábado 21/02 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 21/02 - 18:30)</desc>
   </programme>
-  <programme start="20260220080029 +0100" stop="20260220120029 +0100" channel="Fútbol 2">
+  <programme start="20260221080311 +0100" stop="20260221120311 +0100" channel="Fútbol 2">
     <title>Próximo partido: Almería - Córdoba (Sábado 21/02 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 21/02 - 18:30)</desc>
   </programme>
-  <programme start="20260220120029 +0100" stop="20260220160029 +0100" channel="Fútbol 2">
+  <programme start="20260221120311 +0100" stop="20260221160311 +0100" channel="Fútbol 2">
     <title>Próximo partido: Almería - Córdoba (Sábado 21/02 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 21/02 - 18:30)</desc>
   </programme>
-  <programme start="20260220160029 +0100" stop="20260220200029 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Almería - Córdoba (Sábado 21/02 - 18:30)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Sábado 21/02 - 18:30)</desc>
-  </programme>
-  <programme start="20260220200029 +0100" stop="20260221000029 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Almería - Córdoba (Sábado 21/02 - 18:30)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Sábado 21/02 - 18:30)</desc>
-  </programme>
-  <programme start="20260221000029 +0100" stop="20260221040029 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Almería - Córdoba (Sábado 21/02 - 18:30)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Sábado 21/02 - 18:30)</desc>
-  </programme>
-  <programme start="20260221040029 +0100" stop="20260221080029 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Almería - Córdoba (Sábado 21/02 - 18:30)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Sábado 21/02 - 18:30)</desc>
-  </programme>
-  <programme start="20260221080029 +0100" stop="20260221120029 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Almería - Córdoba (Sábado 21/02 - 18:30)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Sábado 21/02 - 18:30)</desc>
-  </programme>
-  <programme start="20260221120029 +0100" stop="20260221160029 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Almería - Córdoba (Sábado 21/02 - 18:30)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Sábado 21/02 - 18:30)</desc>
-  </programme>
-  <programme start="20260221160029 +0100" stop="20260221183000 +0100" channel="Fútbol 2">
+  <programme start="20260221160311 +0100" stop="20260221183000 +0100" channel="Fútbol 2">
     <title>Próximo partido: Almería - Córdoba (Sábado 21/02 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 21/02 - 18:30)</desc>
   </programme>
@@ -353,43 +305,19 @@
   <channel id="Fútbol 3">
     <display-name>Fútbol 3</display-name>
   </channel>
-  <programme start="20260217080029 +0100" stop="20260217120029 +0100" channel="Fútbol 3">
+  <programme start="20260218080311 +0100" stop="20260218120311 +0100" channel="Fútbol 3">
     <title>Próximo partido: Milan - Como (Miércoles 18/02 - 20:45)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Miércoles 18/02 - 20:45)</desc>
   </programme>
-  <programme start="20260217120029 +0100" stop="20260217160029 +0100" channel="Fútbol 3">
+  <programme start="20260218120311 +0100" stop="20260218160311 +0100" channel="Fútbol 3">
     <title>Próximo partido: Milan - Como (Miércoles 18/02 - 20:45)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Miércoles 18/02 - 20:45)</desc>
   </programme>
-  <programme start="20260217160029 +0100" stop="20260217200029 +0100" channel="Fútbol 3">
+  <programme start="20260218160311 +0100" stop="20260218200311 +0100" channel="Fútbol 3">
     <title>Próximo partido: Milan - Como (Miércoles 18/02 - 20:45)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Miércoles 18/02 - 20:45)</desc>
   </programme>
-  <programme start="20260217200029 +0100" stop="20260218000029 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Milan - Como (Miércoles 18/02 - 20:45)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Miércoles 18/02 - 20:45)</desc>
-  </programme>
-  <programme start="20260218000029 +0100" stop="20260218040029 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Milan - Como (Miércoles 18/02 - 20:45)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Miércoles 18/02 - 20:45)</desc>
-  </programme>
-  <programme start="20260218040029 +0100" stop="20260218080029 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Milan - Como (Miércoles 18/02 - 20:45)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Miércoles 18/02 - 20:45)</desc>
-  </programme>
-  <programme start="20260218080029 +0100" stop="20260218120029 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Milan - Como (Miércoles 18/02 - 20:45)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Miércoles 18/02 - 20:45)</desc>
-  </programme>
-  <programme start="20260218120029 +0100" stop="20260218160029 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Milan - Como (Miércoles 18/02 - 20:45)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Miércoles 18/02 - 20:45)</desc>
-  </programme>
-  <programme start="20260218160029 +0100" stop="20260218200029 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Milan - Como (Miércoles 18/02 - 20:45)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Miércoles 18/02 - 20:45)</desc>
-  </programme>
-  <programme start="20260218200029 +0100" stop="20260218204500 +0100" channel="Fútbol 3">
+  <programme start="20260218200311 +0100" stop="20260218204500 +0100" channel="Fútbol 3">
     <title>Próximo partido: Milan - Como (Miércoles 18/02 - 20:45)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Miércoles 18/02 - 20:45)</desc>
   </programme>
