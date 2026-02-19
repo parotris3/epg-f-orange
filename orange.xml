@@ -3,91 +3,67 @@
   <channel id="Fútbol 1">
     <display-name>Fútbol 1</display-name>
   </channel>
-  <programme start="20260218080311 +0100" stop="20260218120311 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Brujas - Atlético (Miércoles 18/02 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Miércoles 18/02 - 21:00)</desc>
-  </programme>
-  <programme start="20260218120311 +0100" stop="20260218160311 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Brujas - Atlético (Miércoles 18/02 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Miércoles 18/02 - 21:00)</desc>
-  </programme>
-  <programme start="20260218160311 +0100" stop="20260218200311 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Brujas - Atlético (Miércoles 18/02 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Miércoles 18/02 - 21:00)</desc>
-  </programme>
-  <programme start="20260218200311 +0100" stop="20260218210000 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Brujas - Atlético (Miércoles 18/02 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Miércoles 18/02 - 21:00)</desc>
-  </programme>
   <programme start="20260218210000 +0100" stop="20260218230000 +0100" channel="Fútbol 1">
     <title>Champions League: Brujas - Atlético</title>
     <desc>Fútbol en directo - Champions League: Brujas - Atlético</desc>
   </programme>
-  <programme start="20260218230000 +0100" stop="20260219030000 +0100" channel="Fútbol 1">
+  <programme start="20260219080155 +0100" stop="20260219120155 +0100" channel="Fútbol 1">
     <title>Próximo partido: Deportivo - Eibar (Sábado 21/02 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 21/02 - 16:15)</desc>
   </programme>
-  <programme start="20260219030000 +0100" stop="20260219070000 +0100" channel="Fútbol 1">
+  <programme start="20260219120155 +0100" stop="20260219160155 +0100" channel="Fútbol 1">
     <title>Próximo partido: Deportivo - Eibar (Sábado 21/02 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 21/02 - 16:15)</desc>
   </programme>
-  <programme start="20260219070000 +0100" stop="20260219110000 +0100" channel="Fútbol 1">
+  <programme start="20260219160155 +0100" stop="20260219200155 +0100" channel="Fútbol 1">
     <title>Próximo partido: Deportivo - Eibar (Sábado 21/02 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 21/02 - 16:15)</desc>
   </programme>
-  <programme start="20260219110000 +0100" stop="20260219150000 +0100" channel="Fútbol 1">
+  <programme start="20260219200155 +0100" stop="20260220000155 +0100" channel="Fútbol 1">
     <title>Próximo partido: Deportivo - Eibar (Sábado 21/02 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 21/02 - 16:15)</desc>
   </programme>
-  <programme start="20260219150000 +0100" stop="20260219190000 +0100" channel="Fútbol 1">
+  <programme start="20260220000155 +0100" stop="20260220040155 +0100" channel="Fútbol 1">
     <title>Próximo partido: Deportivo - Eibar (Sábado 21/02 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 21/02 - 16:15)</desc>
   </programme>
-  <programme start="20260219190000 +0100" stop="20260219230000 +0100" channel="Fútbol 1">
+  <programme start="20260220040155 +0100" stop="20260220080155 +0100" channel="Fútbol 1">
     <title>Próximo partido: Deportivo - Eibar (Sábado 21/02 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 21/02 - 16:15)</desc>
   </programme>
-  <programme start="20260219230000 +0100" stop="20260220030000 +0100" channel="Fútbol 1">
+  <programme start="20260220080155 +0100" stop="20260220120155 +0100" channel="Fútbol 1">
     <title>Próximo partido: Deportivo - Eibar (Sábado 21/02 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 21/02 - 16:15)</desc>
   </programme>
-  <programme start="20260220030000 +0100" stop="20260220070000 +0100" channel="Fútbol 1">
+  <programme start="20260220120155 +0100" stop="20260220160155 +0100" channel="Fútbol 1">
     <title>Próximo partido: Deportivo - Eibar (Sábado 21/02 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 21/02 - 16:15)</desc>
   </programme>
-  <programme start="20260220070000 +0100" stop="20260220110000 +0100" channel="Fútbol 1">
+  <programme start="20260220160155 +0100" stop="20260220200155 +0100" channel="Fútbol 1">
     <title>Próximo partido: Deportivo - Eibar (Sábado 21/02 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 21/02 - 16:15)</desc>
   </programme>
-  <programme start="20260220110000 +0100" stop="20260220150000 +0100" channel="Fútbol 1">
+  <programme start="20260220200155 +0100" stop="20260221000155 +0100" channel="Fútbol 1">
     <title>Próximo partido: Deportivo - Eibar (Sábado 21/02 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 21/02 - 16:15)</desc>
   </programme>
-  <programme start="20260220150000 +0100" stop="20260220190000 +0100" channel="Fútbol 1">
+  <programme start="20260221000155 +0100" stop="20260221040155 +0100" channel="Fútbol 1">
     <title>Próximo partido: Deportivo - Eibar (Sábado 21/02 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 21/02 - 16:15)</desc>
   </programme>
-  <programme start="20260220190000 +0100" stop="20260220230000 +0100" channel="Fútbol 1">
+  <programme start="20260221040155 +0100" stop="20260221080155 +0100" channel="Fútbol 1">
     <title>Próximo partido: Deportivo - Eibar (Sábado 21/02 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 21/02 - 16:15)</desc>
   </programme>
-  <programme start="20260220230000 +0100" stop="20260221030000 +0100" channel="Fútbol 1">
+  <programme start="20260221080155 +0100" stop="20260221120155 +0100" channel="Fútbol 1">
     <title>Próximo partido: Deportivo - Eibar (Sábado 21/02 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 21/02 - 16:15)</desc>
   </programme>
-  <programme start="20260221030000 +0100" stop="20260221070000 +0100" channel="Fútbol 1">
+  <programme start="20260221120155 +0100" stop="20260221160155 +0100" channel="Fútbol 1">
     <title>Próximo partido: Deportivo - Eibar (Sábado 21/02 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 21/02 - 16:15)</desc>
   </programme>
-  <programme start="20260221070000 +0100" stop="20260221110000 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Deportivo - Eibar (Sábado 21/02 - 16:15)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Sábado 21/02 - 16:15)</desc>
-  </programme>
-  <programme start="20260221110000 +0100" stop="20260221150000 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Deportivo - Eibar (Sábado 21/02 - 16:15)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Sábado 21/02 - 16:15)</desc>
-  </programme>
-  <programme start="20260221150000 +0100" stop="20260221161500 +0100" channel="Fútbol 1">
+  <programme start="20260221160155 +0100" stop="20260221161500 +0100" channel="Fútbol 1">
     <title>Próximo partido: Deportivo - Eibar (Sábado 21/02 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 21/02 - 16:15)</desc>
   </programme>
@@ -182,87 +158,63 @@
   <channel id="Fútbol 2">
     <display-name>Fútbol 2</display-name>
   </channel>
-  <programme start="20260218080311 +0100" stop="20260218120311 +0100" channel="Fútbol 2">
+  <programme start="20260219080155 +0100" stop="20260219120155 +0100" channel="Fútbol 2">
     <title>Próximo partido: Almería - Córdoba (Sábado 21/02 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 21/02 - 18:30)</desc>
   </programme>
-  <programme start="20260218120311 +0100" stop="20260218160311 +0100" channel="Fútbol 2">
+  <programme start="20260219120155 +0100" stop="20260219160155 +0100" channel="Fútbol 2">
     <title>Próximo partido: Almería - Córdoba (Sábado 21/02 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 21/02 - 18:30)</desc>
   </programme>
-  <programme start="20260218160311 +0100" stop="20260218200311 +0100" channel="Fútbol 2">
+  <programme start="20260219160155 +0100" stop="20260219200155 +0100" channel="Fútbol 2">
     <title>Próximo partido: Almería - Córdoba (Sábado 21/02 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 21/02 - 18:30)</desc>
   </programme>
-  <programme start="20260218200311 +0100" stop="20260219000311 +0100" channel="Fútbol 2">
+  <programme start="20260219200155 +0100" stop="20260220000155 +0100" channel="Fútbol 2">
     <title>Próximo partido: Almería - Córdoba (Sábado 21/02 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 21/02 - 18:30)</desc>
   </programme>
-  <programme start="20260219000311 +0100" stop="20260219040311 +0100" channel="Fútbol 2">
+  <programme start="20260220000155 +0100" stop="20260220040155 +0100" channel="Fútbol 2">
     <title>Próximo partido: Almería - Córdoba (Sábado 21/02 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 21/02 - 18:30)</desc>
   </programme>
-  <programme start="20260219040311 +0100" stop="20260219080311 +0100" channel="Fútbol 2">
+  <programme start="20260220040155 +0100" stop="20260220080155 +0100" channel="Fútbol 2">
     <title>Próximo partido: Almería - Córdoba (Sábado 21/02 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 21/02 - 18:30)</desc>
   </programme>
-  <programme start="20260219080311 +0100" stop="20260219120311 +0100" channel="Fútbol 2">
+  <programme start="20260220080155 +0100" stop="20260220120155 +0100" channel="Fútbol 2">
     <title>Próximo partido: Almería - Córdoba (Sábado 21/02 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 21/02 - 18:30)</desc>
   </programme>
-  <programme start="20260219120311 +0100" stop="20260219160311 +0100" channel="Fútbol 2">
+  <programme start="20260220120155 +0100" stop="20260220160155 +0100" channel="Fútbol 2">
     <title>Próximo partido: Almería - Córdoba (Sábado 21/02 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 21/02 - 18:30)</desc>
   </programme>
-  <programme start="20260219160311 +0100" stop="20260219200311 +0100" channel="Fútbol 2">
+  <programme start="20260220160155 +0100" stop="20260220200155 +0100" channel="Fútbol 2">
     <title>Próximo partido: Almería - Córdoba (Sábado 21/02 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 21/02 - 18:30)</desc>
   </programme>
-  <programme start="20260219200311 +0100" stop="20260220000311 +0100" channel="Fútbol 2">
+  <programme start="20260220200155 +0100" stop="20260221000155 +0100" channel="Fútbol 2">
     <title>Próximo partido: Almería - Córdoba (Sábado 21/02 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 21/02 - 18:30)</desc>
   </programme>
-  <programme start="20260220000311 +0100" stop="20260220040311 +0100" channel="Fútbol 2">
+  <programme start="20260221000155 +0100" stop="20260221040155 +0100" channel="Fútbol 2">
     <title>Próximo partido: Almería - Córdoba (Sábado 21/02 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 21/02 - 18:30)</desc>
   </programme>
-  <programme start="20260220040311 +0100" stop="20260220080311 +0100" channel="Fútbol 2">
+  <programme start="20260221040155 +0100" stop="20260221080155 +0100" channel="Fútbol 2">
     <title>Próximo partido: Almería - Córdoba (Sábado 21/02 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 21/02 - 18:30)</desc>
   </programme>
-  <programme start="20260220080311 +0100" stop="20260220120311 +0100" channel="Fútbol 2">
+  <programme start="20260221080155 +0100" stop="20260221120155 +0100" channel="Fútbol 2">
     <title>Próximo partido: Almería - Córdoba (Sábado 21/02 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 21/02 - 18:30)</desc>
   </programme>
-  <programme start="20260220120311 +0100" stop="20260220160311 +0100" channel="Fútbol 2">
+  <programme start="20260221120155 +0100" stop="20260221160155 +0100" channel="Fútbol 2">
     <title>Próximo partido: Almería - Córdoba (Sábado 21/02 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 21/02 - 18:30)</desc>
   </programme>
-  <programme start="20260220160311 +0100" stop="20260220200311 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Almería - Córdoba (Sábado 21/02 - 18:30)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Sábado 21/02 - 18:30)</desc>
-  </programme>
-  <programme start="20260220200311 +0100" stop="20260221000311 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Almería - Córdoba (Sábado 21/02 - 18:30)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Sábado 21/02 - 18:30)</desc>
-  </programme>
-  <programme start="20260221000311 +0100" stop="20260221040311 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Almería - Córdoba (Sábado 21/02 - 18:30)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Sábado 21/02 - 18:30)</desc>
-  </programme>
-  <programme start="20260221040311 +0100" stop="20260221080311 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Almería - Córdoba (Sábado 21/02 - 18:30)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Sábado 21/02 - 18:30)</desc>
-  </programme>
-  <programme start="20260221080311 +0100" stop="20260221120311 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Almería - Córdoba (Sábado 21/02 - 18:30)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Sábado 21/02 - 18:30)</desc>
-  </programme>
-  <programme start="20260221120311 +0100" stop="20260221160311 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Almería - Córdoba (Sábado 21/02 - 18:30)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Sábado 21/02 - 18:30)</desc>
-  </programme>
-  <programme start="20260221160311 +0100" stop="20260221183000 +0100" channel="Fútbol 2">
+  <programme start="20260221160155 +0100" stop="20260221183000 +0100" channel="Fútbol 2">
     <title>Próximo partido: Almería - Córdoba (Sábado 21/02 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 21/02 - 18:30)</desc>
   </programme>
@@ -305,71 +257,43 @@
   <channel id="Fútbol 3">
     <display-name>Fútbol 3</display-name>
   </channel>
-  <programme start="20260218080311 +0100" stop="20260218120311 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Milan - Como (Miércoles 18/02 - 20:45)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Miércoles 18/02 - 20:45)</desc>
-  </programme>
-  <programme start="20260218120311 +0100" stop="20260218160311 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Milan - Como (Miércoles 18/02 - 20:45)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Miércoles 18/02 - 20:45)</desc>
-  </programme>
-  <programme start="20260218160311 +0100" stop="20260218200311 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Milan - Como (Miércoles 18/02 - 20:45)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Miércoles 18/02 - 20:45)</desc>
-  </programme>
-  <programme start="20260218200311 +0100" stop="20260218204500 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Milan - Como (Miércoles 18/02 - 20:45)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Miércoles 18/02 - 20:45)</desc>
-  </programme>
   <programme start="20260218204500 +0100" stop="20260218224500 +0100" channel="Fútbol 3">
     <title>Serie A: Milan - Como</title>
     <desc>Fútbol en directo - Serie A: Milan - Como</desc>
   </programme>
-  <programme start="20260218224500 +0100" stop="20260219024500 +0100" channel="Fútbol 3">
+  <programme start="20260219080155 +0100" stop="20260219120155 +0100" channel="Fútbol 3">
     <title>Próximo partido: Racing Ferrol - Celta Fortuna (Viernes 20/02 - 19:00)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Viernes 20/02 - 19:00)</desc>
   </programme>
-  <programme start="20260219024500 +0100" stop="20260219064500 +0100" channel="Fútbol 3">
+  <programme start="20260219120155 +0100" stop="20260219160155 +0100" channel="Fútbol 3">
     <title>Próximo partido: Racing Ferrol - Celta Fortuna (Viernes 20/02 - 19:00)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Viernes 20/02 - 19:00)</desc>
   </programme>
-  <programme start="20260219064500 +0100" stop="20260219104500 +0100" channel="Fútbol 3">
+  <programme start="20260219160155 +0100" stop="20260219200155 +0100" channel="Fútbol 3">
     <title>Próximo partido: Racing Ferrol - Celta Fortuna (Viernes 20/02 - 19:00)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Viernes 20/02 - 19:00)</desc>
   </programme>
-  <programme start="20260219104500 +0100" stop="20260219144500 +0100" channel="Fútbol 3">
+  <programme start="20260219200155 +0100" stop="20260220000155 +0100" channel="Fútbol 3">
     <title>Próximo partido: Racing Ferrol - Celta Fortuna (Viernes 20/02 - 19:00)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Viernes 20/02 - 19:00)</desc>
   </programme>
-  <programme start="20260219144500 +0100" stop="20260219184500 +0100" channel="Fútbol 3">
+  <programme start="20260220000155 +0100" stop="20260220040155 +0100" channel="Fútbol 3">
     <title>Próximo partido: Racing Ferrol - Celta Fortuna (Viernes 20/02 - 19:00)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Viernes 20/02 - 19:00)</desc>
   </programme>
-  <programme start="20260219184500 +0100" stop="20260219224500 +0100" channel="Fútbol 3">
+  <programme start="20260220040155 +0100" stop="20260220080155 +0100" channel="Fútbol 3">
     <title>Próximo partido: Racing Ferrol - Celta Fortuna (Viernes 20/02 - 19:00)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Viernes 20/02 - 19:00)</desc>
   </programme>
-  <programme start="20260219224500 +0100" stop="20260220024500 +0100" channel="Fútbol 3">
+  <programme start="20260220080155 +0100" stop="20260220120155 +0100" channel="Fútbol 3">
     <title>Próximo partido: Racing Ferrol - Celta Fortuna (Viernes 20/02 - 19:00)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Viernes 20/02 - 19:00)</desc>
   </programme>
-  <programme start="20260220024500 +0100" stop="20260220064500 +0100" channel="Fútbol 3">
+  <programme start="20260220120155 +0100" stop="20260220160155 +0100" channel="Fútbol 3">
     <title>Próximo partido: Racing Ferrol - Celta Fortuna (Viernes 20/02 - 19:00)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Viernes 20/02 - 19:00)</desc>
   </programme>
-  <programme start="20260220064500 +0100" stop="20260220104500 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Racing Ferrol - Celta Fortuna (Viernes 20/02 - 19:00)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Viernes 20/02 - 19:00)</desc>
-  </programme>
-  <programme start="20260220104500 +0100" stop="20260220144500 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Racing Ferrol - Celta Fortuna (Viernes 20/02 - 19:00)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Viernes 20/02 - 19:00)</desc>
-  </programme>
-  <programme start="20260220144500 +0100" stop="20260220184500 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Racing Ferrol - Celta Fortuna (Viernes 20/02 - 19:00)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Viernes 20/02 - 19:00)</desc>
-  </programme>
-  <programme start="20260220184500 +0100" stop="20260220190000 +0100" channel="Fútbol 3">
+  <programme start="20260220160155 +0100" stop="20260220190000 +0100" channel="Fútbol 3">
     <title>Próximo partido: Racing Ferrol - Celta Fortuna (Viernes 20/02 - 19:00)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Viernes 20/02 - 19:00)</desc>
   </programme>
