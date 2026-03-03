@@ -3,55 +3,19 @@
   <channel id="Fútbol 1">
     <display-name>Fútbol 1</display-name>
   </channel>
-  <programme start="20260228183000 +0100" stop="20260228203000 +0100" channel="Fútbol 1">
-    <title>Laliga Hypermotion: Granada - Málaga</title>
-    <desc>Fútbol en directo - Laliga Hypermotion: Granada - Málaga</desc>
-  </programme>
-  <programme start="20260228210000 +0100" stop="20260228230000 +0100" channel="Fútbol 1">
-    <title>Laliga Ea Sports: Oviedo - Atlético</title>
-    <desc>Fútbol en directo - Laliga Ea Sports: Oviedo - Atlético</desc>
-  </programme>
-  <programme start="20260301140000 +0100" stop="20260301160000 +0100" channel="Fútbol 1">
-    <title>Laliga Ea Sports: Elche - Espanyol</title>
-    <desc>Fútbol en directo - Laliga Ea Sports: Elche - Espanyol</desc>
-  </programme>
-  <programme start="20260302075944 +0100" stop="20260302115944 +0100" channel="Fútbol 1">
+  <programme start="20260303075401 +0100" stop="20260303115401 +0100" channel="Fútbol 1">
     <title>Próximo partido: Barcelona - Atlético (Martes 03/03 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Martes 03/03 - 21:00)</desc>
   </programme>
-  <programme start="20260302115944 +0100" stop="20260302155944 +0100" channel="Fútbol 1">
+  <programme start="20260303115401 +0100" stop="20260303155401 +0100" channel="Fútbol 1">
     <title>Próximo partido: Barcelona - Atlético (Martes 03/03 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Martes 03/03 - 21:00)</desc>
   </programme>
-  <programme start="20260302155944 +0100" stop="20260302195944 +0100" channel="Fútbol 1">
+  <programme start="20260303155401 +0100" stop="20260303195401 +0100" channel="Fútbol 1">
     <title>Próximo partido: Barcelona - Atlético (Martes 03/03 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Martes 03/03 - 21:00)</desc>
   </programme>
-  <programme start="20260302195944 +0100" stop="20260302235944 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Barcelona - Atlético (Martes 03/03 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Martes 03/03 - 21:00)</desc>
-  </programme>
-  <programme start="20260302235944 +0100" stop="20260303035944 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Barcelona - Atlético (Martes 03/03 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Martes 03/03 - 21:00)</desc>
-  </programme>
-  <programme start="20260303035944 +0100" stop="20260303075944 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Barcelona - Atlético (Martes 03/03 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Martes 03/03 - 21:00)</desc>
-  </programme>
-  <programme start="20260303075944 +0100" stop="20260303115944 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Barcelona - Atlético (Martes 03/03 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Martes 03/03 - 21:00)</desc>
-  </programme>
-  <programme start="20260303115944 +0100" stop="20260303155944 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Barcelona - Atlético (Martes 03/03 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Martes 03/03 - 21:00)</desc>
-  </programme>
-  <programme start="20260303155944 +0100" stop="20260303195944 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Barcelona - Atlético (Martes 03/03 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Martes 03/03 - 21:00)</desc>
-  </programme>
-  <programme start="20260303195944 +0100" stop="20260303210000 +0100" channel="Fútbol 1">
+  <programme start="20260303195401 +0100" stop="20260303210000 +0100" channel="Fútbol 1">
     <title>Próximo partido: Barcelona - Atlético (Martes 03/03 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Martes 03/03 - 21:00)</desc>
   </programme>
@@ -88,98 +52,98 @@
     <desc>Fútbol en directo - Copa Del Rey: Real Sociedad - Athletic Club</desc>
   </programme>
   <programme start="20260304230000 +0100" stop="20260305030000 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Villarreal - Elche (Domingo 08/03 - 14:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Domingo 08/03 - 14:00)</desc>
+    <title>Próximo partido: Cádiz - Real Zaragoza (Viernes 06/03 - 20:30)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Viernes 06/03 - 20:30)</desc>
   </programme>
   <programme start="20260305030000 +0100" stop="20260305070000 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Villarreal - Elche (Domingo 08/03 - 14:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Domingo 08/03 - 14:00)</desc>
+    <title>Próximo partido: Cádiz - Real Zaragoza (Viernes 06/03 - 20:30)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Viernes 06/03 - 20:30)</desc>
   </programme>
   <programme start="20260305070000 +0100" stop="20260305110000 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Villarreal - Elche (Domingo 08/03 - 14:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Domingo 08/03 - 14:00)</desc>
+    <title>Próximo partido: Cádiz - Real Zaragoza (Viernes 06/03 - 20:30)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Viernes 06/03 - 20:30)</desc>
   </programme>
   <programme start="20260305110000 +0100" stop="20260305150000 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Villarreal - Elche (Domingo 08/03 - 14:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Domingo 08/03 - 14:00)</desc>
+    <title>Próximo partido: Cádiz - Real Zaragoza (Viernes 06/03 - 20:30)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Viernes 06/03 - 20:30)</desc>
   </programme>
   <programme start="20260305150000 +0100" stop="20260305190000 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Villarreal - Elche (Domingo 08/03 - 14:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Domingo 08/03 - 14:00)</desc>
+    <title>Próximo partido: Cádiz - Real Zaragoza (Viernes 06/03 - 20:30)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Viernes 06/03 - 20:30)</desc>
   </programme>
   <programme start="20260305190000 +0100" stop="20260305230000 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Villarreal - Elche (Domingo 08/03 - 14:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Domingo 08/03 - 14:00)</desc>
+    <title>Próximo partido: Cádiz - Real Zaragoza (Viernes 06/03 - 20:30)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Viernes 06/03 - 20:30)</desc>
   </programme>
   <programme start="20260305230000 +0100" stop="20260306030000 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Villarreal - Elche (Domingo 08/03 - 14:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Domingo 08/03 - 14:00)</desc>
+    <title>Próximo partido: Cádiz - Real Zaragoza (Viernes 06/03 - 20:30)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Viernes 06/03 - 20:30)</desc>
   </programme>
   <programme start="20260306030000 +0100" stop="20260306070000 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Villarreal - Elche (Domingo 08/03 - 14:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Domingo 08/03 - 14:00)</desc>
+    <title>Próximo partido: Cádiz - Real Zaragoza (Viernes 06/03 - 20:30)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Viernes 06/03 - 20:30)</desc>
   </programme>
   <programme start="20260306070000 +0100" stop="20260306110000 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Villarreal - Elche (Domingo 08/03 - 14:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Domingo 08/03 - 14:00)</desc>
+    <title>Próximo partido: Cádiz - Real Zaragoza (Viernes 06/03 - 20:30)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Viernes 06/03 - 20:30)</desc>
   </programme>
   <programme start="20260306110000 +0100" stop="20260306150000 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Villarreal - Elche (Domingo 08/03 - 14:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Domingo 08/03 - 14:00)</desc>
+    <title>Próximo partido: Cádiz - Real Zaragoza (Viernes 06/03 - 20:30)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Viernes 06/03 - 20:30)</desc>
   </programme>
   <programme start="20260306150000 +0100" stop="20260306190000 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Villarreal - Elche (Domingo 08/03 - 14:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Domingo 08/03 - 14:00)</desc>
+    <title>Próximo partido: Cádiz - Real Zaragoza (Viernes 06/03 - 20:30)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Viernes 06/03 - 20:30)</desc>
   </programme>
-  <programme start="20260306190000 +0100" stop="20260306230000 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Villarreal - Elche (Domingo 08/03 - 14:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Domingo 08/03 - 14:00)</desc>
+  <programme start="20260306190000 +0100" stop="20260306203000 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Cádiz - Real Zaragoza (Viernes 06/03 - 20:30)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Viernes 06/03 - 20:30)</desc>
   </programme>
-  <programme start="20260306230000 +0100" stop="20260307030000 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Villarreal - Elche (Domingo 08/03 - 14:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Domingo 08/03 - 14:00)</desc>
+  <programme start="20260306203000 +0100" stop="20260306223000 +0100" channel="Fútbol 1">
+    <title>Laliga Hypermotion: Cádiz - Real Zaragoza</title>
+    <desc>Fútbol en directo - Laliga Hypermotion: Cádiz - Real Zaragoza</desc>
   </programme>
-  <programme start="20260307030000 +0100" stop="20260307070000 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Villarreal - Elche (Domingo 08/03 - 14:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Domingo 08/03 - 14:00)</desc>
+  <programme start="20260306223000 +0100" stop="20260307023000 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Athletic Club - Barcelona (Domingo 08/03 - 16:15)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Domingo 08/03 - 16:15)</desc>
   </programme>
-  <programme start="20260307070000 +0100" stop="20260307110000 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Villarreal - Elche (Domingo 08/03 - 14:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Domingo 08/03 - 14:00)</desc>
+  <programme start="20260307023000 +0100" stop="20260307063000 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Athletic Club - Barcelona (Domingo 08/03 - 16:15)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Domingo 08/03 - 16:15)</desc>
   </programme>
-  <programme start="20260307110000 +0100" stop="20260307150000 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Villarreal - Elche (Domingo 08/03 - 14:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Domingo 08/03 - 14:00)</desc>
+  <programme start="20260307063000 +0100" stop="20260307103000 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Athletic Club - Barcelona (Domingo 08/03 - 16:15)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Domingo 08/03 - 16:15)</desc>
   </programme>
-  <programme start="20260307150000 +0100" stop="20260307190000 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Villarreal - Elche (Domingo 08/03 - 14:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Domingo 08/03 - 14:00)</desc>
+  <programme start="20260307103000 +0100" stop="20260307143000 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Athletic Club - Barcelona (Domingo 08/03 - 16:15)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Domingo 08/03 - 16:15)</desc>
   </programme>
-  <programme start="20260307190000 +0100" stop="20260307230000 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Villarreal - Elche (Domingo 08/03 - 14:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Domingo 08/03 - 14:00)</desc>
+  <programme start="20260307143000 +0100" stop="20260307183000 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Athletic Club - Barcelona (Domingo 08/03 - 16:15)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Domingo 08/03 - 16:15)</desc>
   </programme>
-  <programme start="20260307230000 +0100" stop="20260308030000 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Villarreal - Elche (Domingo 08/03 - 14:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Domingo 08/03 - 14:00)</desc>
+  <programme start="20260307183000 +0100" stop="20260307223000 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Athletic Club - Barcelona (Domingo 08/03 - 16:15)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Domingo 08/03 - 16:15)</desc>
   </programme>
-  <programme start="20260308030000 +0100" stop="20260308070000 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Villarreal - Elche (Domingo 08/03 - 14:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Domingo 08/03 - 14:00)</desc>
+  <programme start="20260307223000 +0100" stop="20260308023000 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Athletic Club - Barcelona (Domingo 08/03 - 16:15)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Domingo 08/03 - 16:15)</desc>
   </programme>
-  <programme start="20260308070000 +0100" stop="20260308110000 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Villarreal - Elche (Domingo 08/03 - 14:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Domingo 08/03 - 14:00)</desc>
+  <programme start="20260308023000 +0100" stop="20260308063000 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Athletic Club - Barcelona (Domingo 08/03 - 16:15)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Domingo 08/03 - 16:15)</desc>
   </programme>
-  <programme start="20260308110000 +0100" stop="20260308140000 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Villarreal - Elche (Domingo 08/03 - 14:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Domingo 08/03 - 14:00)</desc>
+  <programme start="20260308063000 +0100" stop="20260308103000 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Athletic Club - Barcelona (Domingo 08/03 - 16:15)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Domingo 08/03 - 16:15)</desc>
   </programme>
-  <programme start="20260308140000 +0100" stop="20260308160000 +0100" channel="Fútbol 1">
-    <title>Laliga Ea Sports: Villarreal - Elche</title>
-    <desc>Fútbol en directo - Laliga Ea Sports: Villarreal - Elche</desc>
+  <programme start="20260308103000 +0100" stop="20260308143000 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Athletic Club - Barcelona (Domingo 08/03 - 16:15)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Domingo 08/03 - 16:15)</desc>
   </programme>
-  <programme start="20260308160000 +0100" stop="20260308161500 +0100" channel="Fútbol 1">
+  <programme start="20260308143000 +0100" stop="20260308161500 +0100" channel="Fútbol 1">
     <title>Próximo partido: Athletic Club - Barcelona (Domingo 08/03 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Domingo 08/03 - 16:15)</desc>
   </programme>
@@ -190,155 +154,115 @@
   <channel id="Fútbol 2">
     <display-name>Fútbol 2</display-name>
   </channel>
-  <programme start="20260228210000 +0100" stop="20260228230000 +0100" channel="Fútbol 2">
-    <title>Laliga Hypermotion: Castellón - R. Racing</title>
-    <desc>Fútbol en directo - Laliga Hypermotion: Castellón - R. Racing</desc>
-  </programme>
-  <programme start="20260301140000 +0100" stop="20260301160000 +0100" channel="Fútbol 2">
-    <title>Laliga Hypermotion: R. Sociedad B - Deportivo</title>
-    <desc>Fútbol en directo - Laliga Hypermotion: R. Sociedad B - Deportivo</desc>
-  </programme>
-  <programme start="20260301161500 +0100" stop="20260301181500 +0100" channel="Fútbol 2">
-    <title>Laliga Hypermotion: Sporting - Leganés</title>
-    <desc>Fútbol en directo - Laliga Hypermotion: Sporting - Leganés</desc>
-  </programme>
-  <programme start="20260302075944 +0100" stop="20260302115944 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Cádiz - Real Zaragoza (Viernes 06/03 - 20:30)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Viernes 06/03 - 20:30)</desc>
-  </programme>
-  <programme start="20260302115944 +0100" stop="20260302155944 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Cádiz - Real Zaragoza (Viernes 06/03 - 20:30)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Viernes 06/03 - 20:30)</desc>
-  </programme>
-  <programme start="20260302155944 +0100" stop="20260302195944 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Cádiz - Real Zaragoza (Viernes 06/03 - 20:30)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Viernes 06/03 - 20:30)</desc>
-  </programme>
-  <programme start="20260302195944 +0100" stop="20260302235944 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Cádiz - Real Zaragoza (Viernes 06/03 - 20:30)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Viernes 06/03 - 20:30)</desc>
-  </programme>
-  <programme start="20260302235944 +0100" stop="20260303035944 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Cádiz - Real Zaragoza (Viernes 06/03 - 20:30)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Viernes 06/03 - 20:30)</desc>
-  </programme>
-  <programme start="20260303035944 +0100" stop="20260303075944 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Cádiz - Real Zaragoza (Viernes 06/03 - 20:30)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Viernes 06/03 - 20:30)</desc>
-  </programme>
-  <programme start="20260303075944 +0100" stop="20260303115944 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Cádiz - Real Zaragoza (Viernes 06/03 - 20:30)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Viernes 06/03 - 20:30)</desc>
-  </programme>
-  <programme start="20260303115944 +0100" stop="20260303155944 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Cádiz - Real Zaragoza (Viernes 06/03 - 20:30)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Viernes 06/03 - 20:30)</desc>
-  </programme>
-  <programme start="20260303155944 +0100" stop="20260303195944 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Cádiz - Real Zaragoza (Viernes 06/03 - 20:30)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Viernes 06/03 - 20:30)</desc>
-  </programme>
-  <programme start="20260303195944 +0100" stop="20260303235944 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Cádiz - Real Zaragoza (Viernes 06/03 - 20:30)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Viernes 06/03 - 20:30)</desc>
-  </programme>
-  <programme start="20260303235944 +0100" stop="20260304035944 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Cádiz - Real Zaragoza (Viernes 06/03 - 20:30)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Viernes 06/03 - 20:30)</desc>
-  </programme>
-  <programme start="20260304035944 +0100" stop="20260304075944 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Cádiz - Real Zaragoza (Viernes 06/03 - 20:30)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Viernes 06/03 - 20:30)</desc>
-  </programme>
-  <programme start="20260304075944 +0100" stop="20260304115944 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Cádiz - Real Zaragoza (Viernes 06/03 - 20:30)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Viernes 06/03 - 20:30)</desc>
-  </programme>
-  <programme start="20260304115944 +0100" stop="20260304155944 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Cádiz - Real Zaragoza (Viernes 06/03 - 20:30)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Viernes 06/03 - 20:30)</desc>
-  </programme>
-  <programme start="20260304155944 +0100" stop="20260304195944 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Cádiz - Real Zaragoza (Viernes 06/03 - 20:30)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Viernes 06/03 - 20:30)</desc>
-  </programme>
-  <programme start="20260304195944 +0100" stop="20260304235944 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Cádiz - Real Zaragoza (Viernes 06/03 - 20:30)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Viernes 06/03 - 20:30)</desc>
-  </programme>
-  <programme start="20260304235944 +0100" stop="20260305035944 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Cádiz - Real Zaragoza (Viernes 06/03 - 20:30)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Viernes 06/03 - 20:30)</desc>
-  </programme>
-  <programme start="20260305035944 +0100" stop="20260305075944 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Cádiz - Real Zaragoza (Viernes 06/03 - 20:30)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Viernes 06/03 - 20:30)</desc>
-  </programme>
-  <programme start="20260305075944 +0100" stop="20260305115944 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Cádiz - Real Zaragoza (Viernes 06/03 - 20:30)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Viernes 06/03 - 20:30)</desc>
-  </programme>
-  <programme start="20260305115944 +0100" stop="20260305155944 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Cádiz - Real Zaragoza (Viernes 06/03 - 20:30)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Viernes 06/03 - 20:30)</desc>
-  </programme>
-  <programme start="20260305155944 +0100" stop="20260305195944 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Cádiz - Real Zaragoza (Viernes 06/03 - 20:30)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Viernes 06/03 - 20:30)</desc>
-  </programme>
-  <programme start="20260305195944 +0100" stop="20260305235944 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Cádiz - Real Zaragoza (Viernes 06/03 - 20:30)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Viernes 06/03 - 20:30)</desc>
-  </programme>
-  <programme start="20260305235944 +0100" stop="20260306035944 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Cádiz - Real Zaragoza (Viernes 06/03 - 20:30)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Viernes 06/03 - 20:30)</desc>
-  </programme>
-  <programme start="20260306035944 +0100" stop="20260306075944 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Cádiz - Real Zaragoza (Viernes 06/03 - 20:30)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Viernes 06/03 - 20:30)</desc>
-  </programme>
-  <programme start="20260306075944 +0100" stop="20260306115944 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Cádiz - Real Zaragoza (Viernes 06/03 - 20:30)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Viernes 06/03 - 20:30)</desc>
-  </programme>
-  <programme start="20260306115944 +0100" stop="20260306155944 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Cádiz - Real Zaragoza (Viernes 06/03 - 20:30)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Viernes 06/03 - 20:30)</desc>
-  </programme>
-  <programme start="20260306155944 +0100" stop="20260306195944 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Cádiz - Real Zaragoza (Viernes 06/03 - 20:30)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Viernes 06/03 - 20:30)</desc>
-  </programme>
-  <programme start="20260306195944 +0100" stop="20260306203000 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Cádiz - Real Zaragoza (Viernes 06/03 - 20:30)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Viernes 06/03 - 20:30)</desc>
-  </programme>
-  <programme start="20260306203000 +0100" stop="20260306223000 +0100" channel="Fútbol 2">
-    <title>Laliga Hypermotion: Cádiz - Real Zaragoza</title>
-    <desc>Fútbol en directo - Laliga Hypermotion: Cádiz - Real Zaragoza</desc>
-  </programme>
-  <programme start="20260306223000 +0100" stop="20260307023000 +0100" channel="Fútbol 2">
+  <programme start="20260303075401 +0100" stop="20260303115401 +0100" channel="Fútbol 2">
     <title>Próximo partido: Málaga - Real Valladolid (Sábado 07/03 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 07/03 - 21:00)</desc>
   </programme>
-  <programme start="20260307023000 +0100" stop="20260307063000 +0100" channel="Fútbol 2">
+  <programme start="20260303115401 +0100" stop="20260303155401 +0100" channel="Fútbol 2">
     <title>Próximo partido: Málaga - Real Valladolid (Sábado 07/03 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 07/03 - 21:00)</desc>
   </programme>
-  <programme start="20260307063000 +0100" stop="20260307103000 +0100" channel="Fútbol 2">
+  <programme start="20260303155401 +0100" stop="20260303195401 +0100" channel="Fútbol 2">
     <title>Próximo partido: Málaga - Real Valladolid (Sábado 07/03 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 07/03 - 21:00)</desc>
   </programme>
-  <programme start="20260307103000 +0100" stop="20260307143000 +0100" channel="Fútbol 2">
+  <programme start="20260303195401 +0100" stop="20260303235401 +0100" channel="Fútbol 2">
     <title>Próximo partido: Málaga - Real Valladolid (Sábado 07/03 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 07/03 - 21:00)</desc>
   </programme>
-  <programme start="20260307143000 +0100" stop="20260307183000 +0100" channel="Fútbol 2">
+  <programme start="20260303235401 +0100" stop="20260304035401 +0100" channel="Fútbol 2">
     <title>Próximo partido: Málaga - Real Valladolid (Sábado 07/03 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 07/03 - 21:00)</desc>
   </programme>
-  <programme start="20260307183000 +0100" stop="20260307210000 +0100" channel="Fútbol 2">
+  <programme start="20260304035401 +0100" stop="20260304075401 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Málaga - Real Valladolid (Sábado 07/03 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 2 | (Sábado 07/03 - 21:00)</desc>
+  </programme>
+  <programme start="20260304075401 +0100" stop="20260304115401 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Málaga - Real Valladolid (Sábado 07/03 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 2 | (Sábado 07/03 - 21:00)</desc>
+  </programme>
+  <programme start="20260304115401 +0100" stop="20260304155401 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Málaga - Real Valladolid (Sábado 07/03 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 2 | (Sábado 07/03 - 21:00)</desc>
+  </programme>
+  <programme start="20260304155401 +0100" stop="20260304195401 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Málaga - Real Valladolid (Sábado 07/03 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 2 | (Sábado 07/03 - 21:00)</desc>
+  </programme>
+  <programme start="20260304195401 +0100" stop="20260304235401 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Málaga - Real Valladolid (Sábado 07/03 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 2 | (Sábado 07/03 - 21:00)</desc>
+  </programme>
+  <programme start="20260304235401 +0100" stop="20260305035401 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Málaga - Real Valladolid (Sábado 07/03 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 2 | (Sábado 07/03 - 21:00)</desc>
+  </programme>
+  <programme start="20260305035401 +0100" stop="20260305075401 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Málaga - Real Valladolid (Sábado 07/03 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 2 | (Sábado 07/03 - 21:00)</desc>
+  </programme>
+  <programme start="20260305075401 +0100" stop="20260305115401 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Málaga - Real Valladolid (Sábado 07/03 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 2 | (Sábado 07/03 - 21:00)</desc>
+  </programme>
+  <programme start="20260305115401 +0100" stop="20260305155401 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Málaga - Real Valladolid (Sábado 07/03 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 2 | (Sábado 07/03 - 21:00)</desc>
+  </programme>
+  <programme start="20260305155401 +0100" stop="20260305195401 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Málaga - Real Valladolid (Sábado 07/03 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 2 | (Sábado 07/03 - 21:00)</desc>
+  </programme>
+  <programme start="20260305195401 +0100" stop="20260305235401 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Málaga - Real Valladolid (Sábado 07/03 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 2 | (Sábado 07/03 - 21:00)</desc>
+  </programme>
+  <programme start="20260305235401 +0100" stop="20260306035401 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Málaga - Real Valladolid (Sábado 07/03 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 2 | (Sábado 07/03 - 21:00)</desc>
+  </programme>
+  <programme start="20260306035401 +0100" stop="20260306075401 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Málaga - Real Valladolid (Sábado 07/03 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 2 | (Sábado 07/03 - 21:00)</desc>
+  </programme>
+  <programme start="20260306075401 +0100" stop="20260306115401 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Málaga - Real Valladolid (Sábado 07/03 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 2 | (Sábado 07/03 - 21:00)</desc>
+  </programme>
+  <programme start="20260306115401 +0100" stop="20260306155401 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Málaga - Real Valladolid (Sábado 07/03 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 2 | (Sábado 07/03 - 21:00)</desc>
+  </programme>
+  <programme start="20260306155401 +0100" stop="20260306195401 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Málaga - Real Valladolid (Sábado 07/03 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 2 | (Sábado 07/03 - 21:00)</desc>
+  </programme>
+  <programme start="20260306195401 +0100" stop="20260306235401 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Málaga - Real Valladolid (Sábado 07/03 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 2 | (Sábado 07/03 - 21:00)</desc>
+  </programme>
+  <programme start="20260306235401 +0100" stop="20260307035401 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Málaga - Real Valladolid (Sábado 07/03 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 2 | (Sábado 07/03 - 21:00)</desc>
+  </programme>
+  <programme start="20260307035401 +0100" stop="20260307075401 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Málaga - Real Valladolid (Sábado 07/03 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 2 | (Sábado 07/03 - 21:00)</desc>
+  </programme>
+  <programme start="20260307075401 +0100" stop="20260307115401 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Málaga - Real Valladolid (Sábado 07/03 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 2 | (Sábado 07/03 - 21:00)</desc>
+  </programme>
+  <programme start="20260307115401 +0100" stop="20260307155401 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Málaga - Real Valladolid (Sábado 07/03 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 2 | (Sábado 07/03 - 21:00)</desc>
+  </programme>
+  <programme start="20260307155401 +0100" stop="20260307195401 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Málaga - Real Valladolid (Sábado 07/03 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 2 | (Sábado 07/03 - 21:00)</desc>
+  </programme>
+  <programme start="20260307195401 +0100" stop="20260307210000 +0100" channel="Fútbol 2">
     <title>Próximo partido: Málaga - Real Valladolid (Sábado 07/03 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 07/03 - 21:00)</desc>
   </programme>
@@ -381,143 +305,111 @@
   <channel id="Fútbol 3">
     <display-name>Fútbol 3</display-name>
   </channel>
-  <programme start="20260228180000 +0100" stop="20260228200000 +0100" channel="Fútbol 3">
-    <title>Serie A: Hellas Verona - Nápoles</title>
-    <desc>Fútbol en directo - Serie A: Hellas Verona - Nápoles</desc>
-  </programme>
-  <programme start="20260301193000 +0100" stop="20260301213000 +0100" channel="Fútbol 3">
-    <title>Bundesliga Alemania: Hamburgo - Leipzig</title>
-    <desc>Fútbol en directo - Bundesliga Alemania: Hamburgo - Leipzig</desc>
-  </programme>
-  <programme start="20260302075944 +0100" stop="20260302115944 +0100" channel="Fútbol 3">
+  <programme start="20260303075401 +0100" stop="20260303115401 +0100" channel="Fútbol 3">
     <title>Próximo partido: Colonia - Borussia Dortmund (Sábado 07/03 - 19:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 07/03 - 19:30)</desc>
   </programme>
-  <programme start="20260302115944 +0100" stop="20260302155944 +0100" channel="Fútbol 3">
+  <programme start="20260303115401 +0100" stop="20260303155401 +0100" channel="Fútbol 3">
     <title>Próximo partido: Colonia - Borussia Dortmund (Sábado 07/03 - 19:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 07/03 - 19:30)</desc>
   </programme>
-  <programme start="20260302155944 +0100" stop="20260302195944 +0100" channel="Fútbol 3">
+  <programme start="20260303155401 +0100" stop="20260303195401 +0100" channel="Fútbol 3">
     <title>Próximo partido: Colonia - Borussia Dortmund (Sábado 07/03 - 19:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 07/03 - 19:30)</desc>
   </programme>
-  <programme start="20260302195944 +0100" stop="20260302235944 +0100" channel="Fútbol 3">
+  <programme start="20260303195401 +0100" stop="20260303235401 +0100" channel="Fútbol 3">
     <title>Próximo partido: Colonia - Borussia Dortmund (Sábado 07/03 - 19:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 07/03 - 19:30)</desc>
   </programme>
-  <programme start="20260302235944 +0100" stop="20260303035944 +0100" channel="Fútbol 3">
+  <programme start="20260303235401 +0100" stop="20260304035401 +0100" channel="Fútbol 3">
     <title>Próximo partido: Colonia - Borussia Dortmund (Sábado 07/03 - 19:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 07/03 - 19:30)</desc>
   </programme>
-  <programme start="20260303035944 +0100" stop="20260303075944 +0100" channel="Fútbol 3">
+  <programme start="20260304035401 +0100" stop="20260304075401 +0100" channel="Fútbol 3">
     <title>Próximo partido: Colonia - Borussia Dortmund (Sábado 07/03 - 19:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 07/03 - 19:30)</desc>
   </programme>
-  <programme start="20260303075944 +0100" stop="20260303115944 +0100" channel="Fútbol 3">
+  <programme start="20260304075401 +0100" stop="20260304115401 +0100" channel="Fútbol 3">
     <title>Próximo partido: Colonia - Borussia Dortmund (Sábado 07/03 - 19:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 07/03 - 19:30)</desc>
   </programme>
-  <programme start="20260303115944 +0100" stop="20260303155944 +0100" channel="Fútbol 3">
+  <programme start="20260304115401 +0100" stop="20260304155401 +0100" channel="Fútbol 3">
     <title>Próximo partido: Colonia - Borussia Dortmund (Sábado 07/03 - 19:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 07/03 - 19:30)</desc>
   </programme>
-  <programme start="20260303155944 +0100" stop="20260303195944 +0100" channel="Fútbol 3">
+  <programme start="20260304155401 +0100" stop="20260304195401 +0100" channel="Fútbol 3">
     <title>Próximo partido: Colonia - Borussia Dortmund (Sábado 07/03 - 19:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 07/03 - 19:30)</desc>
   </programme>
-  <programme start="20260303195944 +0100" stop="20260303235944 +0100" channel="Fútbol 3">
+  <programme start="20260304195401 +0100" stop="20260304235401 +0100" channel="Fútbol 3">
     <title>Próximo partido: Colonia - Borussia Dortmund (Sábado 07/03 - 19:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 07/03 - 19:30)</desc>
   </programme>
-  <programme start="20260303235944 +0100" stop="20260304035944 +0100" channel="Fútbol 3">
+  <programme start="20260304235401 +0100" stop="20260305035401 +0100" channel="Fútbol 3">
     <title>Próximo partido: Colonia - Borussia Dortmund (Sábado 07/03 - 19:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 07/03 - 19:30)</desc>
   </programme>
-  <programme start="20260304035944 +0100" stop="20260304075944 +0100" channel="Fútbol 3">
+  <programme start="20260305035401 +0100" stop="20260305075401 +0100" channel="Fútbol 3">
     <title>Próximo partido: Colonia - Borussia Dortmund (Sábado 07/03 - 19:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 07/03 - 19:30)</desc>
   </programme>
-  <programme start="20260304075944 +0100" stop="20260304115944 +0100" channel="Fútbol 3">
+  <programme start="20260305075401 +0100" stop="20260305115401 +0100" channel="Fútbol 3">
     <title>Próximo partido: Colonia - Borussia Dortmund (Sábado 07/03 - 19:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 07/03 - 19:30)</desc>
   </programme>
-  <programme start="20260304115944 +0100" stop="20260304155944 +0100" channel="Fútbol 3">
+  <programme start="20260305115401 +0100" stop="20260305155401 +0100" channel="Fútbol 3">
     <title>Próximo partido: Colonia - Borussia Dortmund (Sábado 07/03 - 19:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 07/03 - 19:30)</desc>
   </programme>
-  <programme start="20260304155944 +0100" stop="20260304195944 +0100" channel="Fútbol 3">
+  <programme start="20260305155401 +0100" stop="20260305195401 +0100" channel="Fútbol 3">
     <title>Próximo partido: Colonia - Borussia Dortmund (Sábado 07/03 - 19:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 07/03 - 19:30)</desc>
   </programme>
-  <programme start="20260304195944 +0100" stop="20260304235944 +0100" channel="Fútbol 3">
+  <programme start="20260305195401 +0100" stop="20260305235401 +0100" channel="Fútbol 3">
     <title>Próximo partido: Colonia - Borussia Dortmund (Sábado 07/03 - 19:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 07/03 - 19:30)</desc>
   </programme>
-  <programme start="20260304235944 +0100" stop="20260305035944 +0100" channel="Fútbol 3">
+  <programme start="20260305235401 +0100" stop="20260306035401 +0100" channel="Fútbol 3">
     <title>Próximo partido: Colonia - Borussia Dortmund (Sábado 07/03 - 19:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 07/03 - 19:30)</desc>
   </programme>
-  <programme start="20260305035944 +0100" stop="20260305075944 +0100" channel="Fútbol 3">
+  <programme start="20260306035401 +0100" stop="20260306075401 +0100" channel="Fútbol 3">
     <title>Próximo partido: Colonia - Borussia Dortmund (Sábado 07/03 - 19:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 07/03 - 19:30)</desc>
   </programme>
-  <programme start="20260305075944 +0100" stop="20260305115944 +0100" channel="Fútbol 3">
+  <programme start="20260306075401 +0100" stop="20260306115401 +0100" channel="Fútbol 3">
     <title>Próximo partido: Colonia - Borussia Dortmund (Sábado 07/03 - 19:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 07/03 - 19:30)</desc>
   </programme>
-  <programme start="20260305115944 +0100" stop="20260305155944 +0100" channel="Fútbol 3">
+  <programme start="20260306115401 +0100" stop="20260306155401 +0100" channel="Fútbol 3">
     <title>Próximo partido: Colonia - Borussia Dortmund (Sábado 07/03 - 19:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 07/03 - 19:30)</desc>
   </programme>
-  <programme start="20260305155944 +0100" stop="20260305195944 +0100" channel="Fútbol 3">
+  <programme start="20260306155401 +0100" stop="20260306195401 +0100" channel="Fútbol 3">
     <title>Próximo partido: Colonia - Borussia Dortmund (Sábado 07/03 - 19:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 07/03 - 19:30)</desc>
   </programme>
-  <programme start="20260305195944 +0100" stop="20260305235944 +0100" channel="Fútbol 3">
+  <programme start="20260306195401 +0100" stop="20260306235401 +0100" channel="Fútbol 3">
     <title>Próximo partido: Colonia - Borussia Dortmund (Sábado 07/03 - 19:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 07/03 - 19:30)</desc>
   </programme>
-  <programme start="20260305235944 +0100" stop="20260306035944 +0100" channel="Fútbol 3">
+  <programme start="20260306235401 +0100" stop="20260307035401 +0100" channel="Fútbol 3">
     <title>Próximo partido: Colonia - Borussia Dortmund (Sábado 07/03 - 19:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 07/03 - 19:30)</desc>
   </programme>
-  <programme start="20260306035944 +0100" stop="20260306075944 +0100" channel="Fútbol 3">
+  <programme start="20260307035401 +0100" stop="20260307075401 +0100" channel="Fútbol 3">
     <title>Próximo partido: Colonia - Borussia Dortmund (Sábado 07/03 - 19:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 07/03 - 19:30)</desc>
   </programme>
-  <programme start="20260306075944 +0100" stop="20260306115944 +0100" channel="Fútbol 3">
+  <programme start="20260307075401 +0100" stop="20260307115401 +0100" channel="Fútbol 3">
     <title>Próximo partido: Colonia - Borussia Dortmund (Sábado 07/03 - 19:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 07/03 - 19:30)</desc>
   </programme>
-  <programme start="20260306115944 +0100" stop="20260306155944 +0100" channel="Fútbol 3">
+  <programme start="20260307115401 +0100" stop="20260307155401 +0100" channel="Fútbol 3">
     <title>Próximo partido: Colonia - Borussia Dortmund (Sábado 07/03 - 19:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 07/03 - 19:30)</desc>
   </programme>
-  <programme start="20260306155944 +0100" stop="20260306195944 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Colonia - Borussia Dortmund (Sábado 07/03 - 19:30)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Sábado 07/03 - 19:30)</desc>
-  </programme>
-  <programme start="20260306195944 +0100" stop="20260306235944 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Colonia - Borussia Dortmund (Sábado 07/03 - 19:30)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Sábado 07/03 - 19:30)</desc>
-  </programme>
-  <programme start="20260306235944 +0100" stop="20260307035944 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Colonia - Borussia Dortmund (Sábado 07/03 - 19:30)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Sábado 07/03 - 19:30)</desc>
-  </programme>
-  <programme start="20260307035944 +0100" stop="20260307075944 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Colonia - Borussia Dortmund (Sábado 07/03 - 19:30)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Sábado 07/03 - 19:30)</desc>
-  </programme>
-  <programme start="20260307075944 +0100" stop="20260307115944 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Colonia - Borussia Dortmund (Sábado 07/03 - 19:30)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Sábado 07/03 - 19:30)</desc>
-  </programme>
-  <programme start="20260307115944 +0100" stop="20260307155944 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Colonia - Borussia Dortmund (Sábado 07/03 - 19:30)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Sábado 07/03 - 19:30)</desc>
-  </programme>
-  <programme start="20260307155944 +0100" stop="20260307193000 +0100" channel="Fútbol 3">
+  <programme start="20260307155401 +0100" stop="20260307193000 +0100" channel="Fútbol 3">
     <title>Próximo partido: Colonia - Borussia Dortmund (Sábado 07/03 - 19:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 07/03 - 19:30)</desc>
   </programme>
