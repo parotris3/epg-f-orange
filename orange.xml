@@ -15,39 +15,15 @@
     <title>Laliga Hypermotion: Cádiz - Zaragoza</title>
     <desc>Fútbol en directo - Laliga Hypermotion: Cádiz - Zaragoza</desc>
   </programme>
-  <programme start="20260307074227 +0100" stop="20260307114227 +0100" channel="Fútbol 1">
+  <programme start="20260308074401 +0100" stop="20260308114401 +0100" channel="Fútbol 1">
     <title>Próximo partido: Athletic Club - Barcelona (Domingo 08/03 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Domingo 08/03 - 16:15)</desc>
   </programme>
-  <programme start="20260307114227 +0100" stop="20260307154227 +0100" channel="Fútbol 1">
+  <programme start="20260308114401 +0100" stop="20260308154401 +0100" channel="Fútbol 1">
     <title>Próximo partido: Athletic Club - Barcelona (Domingo 08/03 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Domingo 08/03 - 16:15)</desc>
   </programme>
-  <programme start="20260307154227 +0100" stop="20260307194227 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Athletic Club - Barcelona (Domingo 08/03 - 16:15)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Domingo 08/03 - 16:15)</desc>
-  </programme>
-  <programme start="20260307194227 +0100" stop="20260307234227 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Athletic Club - Barcelona (Domingo 08/03 - 16:15)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Domingo 08/03 - 16:15)</desc>
-  </programme>
-  <programme start="20260307234227 +0100" stop="20260308034227 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Athletic Club - Barcelona (Domingo 08/03 - 16:15)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Domingo 08/03 - 16:15)</desc>
-  </programme>
-  <programme start="20260308034227 +0100" stop="20260308074227 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Athletic Club - Barcelona (Domingo 08/03 - 16:15)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Domingo 08/03 - 16:15)</desc>
-  </programme>
-  <programme start="20260308074227 +0100" stop="20260308114227 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Athletic Club - Barcelona (Domingo 08/03 - 16:15)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Domingo 08/03 - 16:15)</desc>
-  </programme>
-  <programme start="20260308114227 +0100" stop="20260308154227 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Athletic Club - Barcelona (Domingo 08/03 - 16:15)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Domingo 08/03 - 16:15)</desc>
-  </programme>
-  <programme start="20260308154227 +0100" stop="20260308161500 +0100" channel="Fútbol 1">
+  <programme start="20260308154401 +0100" stop="20260308161500 +0100" channel="Fútbol 1">
     <title>Próximo partido: Athletic Club - Barcelona (Domingo 08/03 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Domingo 08/03 - 16:15)</desc>
   </programme>
@@ -402,43 +378,19 @@
   <channel id="Fútbol 2">
     <display-name>Fútbol 2</display-name>
   </channel>
-  <programme start="20260307074227 +0100" stop="20260307114227 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Málaga - Valladolid (Sábado 07/03 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Sábado 07/03 - 21:00)</desc>
-  </programme>
-  <programme start="20260307114227 +0100" stop="20260307154227 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Málaga - Valladolid (Sábado 07/03 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Sábado 07/03 - 21:00)</desc>
-  </programme>
-  <programme start="20260307154227 +0100" stop="20260307194227 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Málaga - Valladolid (Sábado 07/03 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Sábado 07/03 - 21:00)</desc>
-  </programme>
-  <programme start="20260307194227 +0100" stop="20260307210000 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Málaga - Valladolid (Sábado 07/03 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Sábado 07/03 - 21:00)</desc>
-  </programme>
   <programme start="20260307210000 +0100" stop="20260307230000 +0100" channel="Fútbol 2">
     <title>Laliga Hypermotion: Málaga - Valladolid</title>
     <desc>Fútbol en directo - Laliga Hypermotion: Málaga - Valladolid</desc>
   </programme>
-  <programme start="20260307230000 +0100" stop="20260308030000 +0100" channel="Fútbol 2">
+  <programme start="20260308074401 +0100" stop="20260308114401 +0100" channel="Fútbol 2">
     <title>Próximo partido: Racing - Córdoba (Domingo 08/03 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Domingo 08/03 - 18:30)</desc>
   </programme>
-  <programme start="20260308030000 +0100" stop="20260308070000 +0100" channel="Fútbol 2">
+  <programme start="20260308114401 +0100" stop="20260308154401 +0100" channel="Fútbol 2">
     <title>Próximo partido: Racing - Córdoba (Domingo 08/03 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Domingo 08/03 - 18:30)</desc>
   </programme>
-  <programme start="20260308070000 +0100" stop="20260308110000 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Racing - Córdoba (Domingo 08/03 - 18:30)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Domingo 08/03 - 18:30)</desc>
-  </programme>
-  <programme start="20260308110000 +0100" stop="20260308150000 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Racing - Córdoba (Domingo 08/03 - 18:30)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Domingo 08/03 - 18:30)</desc>
-  </programme>
-  <programme start="20260308150000 +0100" stop="20260308183000 +0100" channel="Fútbol 2">
+  <programme start="20260308154401 +0100" stop="20260308183000 +0100" channel="Fútbol 2">
     <title>Próximo partido: Racing - Córdoba (Domingo 08/03 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Domingo 08/03 - 18:30)</desc>
   </programme>
@@ -645,43 +597,19 @@
   <channel id="Fútbol 3">
     <display-name>Fútbol 3</display-name>
   </channel>
-  <programme start="20260307074227 +0100" stop="20260307114227 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Colonia - Borussia Dortmund (Sábado 07/03 - 19:30)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Sábado 07/03 - 19:30)</desc>
-  </programme>
-  <programme start="20260307114227 +0100" stop="20260307154227 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Colonia - Borussia Dortmund (Sábado 07/03 - 19:30)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Sábado 07/03 - 19:30)</desc>
-  </programme>
-  <programme start="20260307154227 +0100" stop="20260307193000 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Colonia - Borussia Dortmund (Sábado 07/03 - 19:30)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Sábado 07/03 - 19:30)</desc>
-  </programme>
   <programme start="20260307193000 +0100" stop="20260307213000 +0100" channel="Fútbol 3">
     <title>Bundesliga Alemania: Colonia - Borussia Dortmund</title>
     <desc>Fútbol en directo - Bundesliga Alemania: Colonia - Borussia Dortmund</desc>
   </programme>
-  <programme start="20260307213000 +0100" stop="20260308013000 +0100" channel="Fútbol 3">
+  <programme start="20260308074401 +0100" stop="20260308114401 +0100" channel="Fútbol 3">
     <title>Próximo partido: Génova - Roma (Domingo 08/03 - 18:00)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Domingo 08/03 - 18:00)</desc>
   </programme>
-  <programme start="20260308013000 +0100" stop="20260308053000 +0100" channel="Fútbol 3">
+  <programme start="20260308114401 +0100" stop="20260308154401 +0100" channel="Fútbol 3">
     <title>Próximo partido: Génova - Roma (Domingo 08/03 - 18:00)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Domingo 08/03 - 18:00)</desc>
   </programme>
-  <programme start="20260308053000 +0100" stop="20260308093000 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Génova - Roma (Domingo 08/03 - 18:00)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Domingo 08/03 - 18:00)</desc>
-  </programme>
-  <programme start="20260308093000 +0100" stop="20260308133000 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Génova - Roma (Domingo 08/03 - 18:00)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Domingo 08/03 - 18:00)</desc>
-  </programme>
-  <programme start="20260308133000 +0100" stop="20260308173000 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Génova - Roma (Domingo 08/03 - 18:00)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Domingo 08/03 - 18:00)</desc>
-  </programme>
-  <programme start="20260308173000 +0100" stop="20260308180000 +0100" channel="Fútbol 3">
+  <programme start="20260308154401 +0100" stop="20260308180000 +0100" channel="Fútbol 3">
     <title>Próximo partido: Génova - Roma (Domingo 08/03 - 18:00)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Domingo 08/03 - 18:00)</desc>
   </programme>
