@@ -3,63 +3,23 @@
   <channel id="Fútbol 1">
     <display-name>Fútbol 1</display-name>
   </channel>
-  <programme start="20260303210000 +0100" stop="20260303230000 +0100" channel="Fútbol 1">
-    <title>Copa Del Rey: Barcelona - Atlético</title>
-    <desc>Fútbol en directo - Copa Del Rey: Barcelona - Atlético</desc>
-  </programme>
-  <programme start="20260304210000 +0100" stop="20260304230000 +0100" channel="Fútbol 1">
-    <title>Copa Del Rey: Real Sociedad - Athletic Club</title>
-    <desc>Fútbol en directo - Copa Del Rey: Real Sociedad - Athletic Club</desc>
-  </programme>
-  <programme start="20260306203000 +0100" stop="20260306223000 +0100" channel="Fútbol 1">
-    <title>Laliga Hypermotion: Cádiz - Zaragoza</title>
-    <desc>Fútbol en directo - Laliga Hypermotion: Cádiz - Zaragoza</desc>
-  </programme>
-  <programme start="20260308161500 +0100" stop="20260308181500 +0100" channel="Fútbol 1">
-    <title>Laliga Ea Sports: Athletic Club - Barcelona</title>
-    <desc>Fútbol en directo - Laliga Ea Sports: Athletic Club - Barcelona</desc>
-  </programme>
   <programme start="20260308183000 +0100" stop="20260308203000 +0100" channel="Fútbol 1">
     <title>Laliga Ea Sports: Betis - Celta</title>
     <desc>Fútbol en directo - Laliga Ea Sports: Betis - Celta</desc>
   </programme>
-  <programme start="20260309080340 +0100" stop="20260309120340 +0100" channel="Fútbol 1">
+  <programme start="20260310075236 +0100" stop="20260310115236 +0100" channel="Fútbol 1">
     <title>Próximo partido: Newcastle - Barcelona (Martes 10/03 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Martes 10/03 - 21:00)</desc>
   </programme>
-  <programme start="20260309120340 +0100" stop="20260309160340 +0100" channel="Fútbol 1">
+  <programme start="20260310115236 +0100" stop="20260310155236 +0100" channel="Fútbol 1">
     <title>Próximo partido: Newcastle - Barcelona (Martes 10/03 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Martes 10/03 - 21:00)</desc>
   </programme>
-  <programme start="20260309160340 +0100" stop="20260309200340 +0100" channel="Fútbol 1">
+  <programme start="20260310155236 +0100" stop="20260310195236 +0100" channel="Fútbol 1">
     <title>Próximo partido: Newcastle - Barcelona (Martes 10/03 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Martes 10/03 - 21:00)</desc>
   </programme>
-  <programme start="20260309200340 +0100" stop="20260310000340 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Newcastle - Barcelona (Martes 10/03 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Martes 10/03 - 21:00)</desc>
-  </programme>
-  <programme start="20260310000340 +0100" stop="20260310040340 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Newcastle - Barcelona (Martes 10/03 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Martes 10/03 - 21:00)</desc>
-  </programme>
-  <programme start="20260310040340 +0100" stop="20260310080340 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Newcastle - Barcelona (Martes 10/03 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Martes 10/03 - 21:00)</desc>
-  </programme>
-  <programme start="20260310080340 +0100" stop="20260310120340 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Newcastle - Barcelona (Martes 10/03 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Martes 10/03 - 21:00)</desc>
-  </programme>
-  <programme start="20260310120340 +0100" stop="20260310160340 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Newcastle - Barcelona (Martes 10/03 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Martes 10/03 - 21:00)</desc>
-  </programme>
-  <programme start="20260310160340 +0100" stop="20260310200340 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Newcastle - Barcelona (Martes 10/03 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Martes 10/03 - 21:00)</desc>
-  </programme>
-  <programme start="20260310200340 +0100" stop="20260310210000 +0100" channel="Fútbol 1">
+  <programme start="20260310195236 +0100" stop="20260310210000 +0100" channel="Fútbol 1">
     <title>Próximo partido: Newcastle - Barcelona (Martes 10/03 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Martes 10/03 - 21:00)</desc>
   </programme>
@@ -68,174 +28,170 @@
     <desc>Fútbol en directo - Champions League: Newcastle - Barcelona</desc>
   </programme>
   <programme start="20260310230000 +0100" stop="20260311030000 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Girona - Athletic Club (Sábado 14/03 - 14:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Sábado 14/03 - 14:00)</desc>
+    <title>Próximo partido: Manchester City - Real Madrid (Martes 17/03 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Martes 17/03 - 21:00)</desc>
   </programme>
   <programme start="20260311030000 +0100" stop="20260311070000 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Girona - Athletic Club (Sábado 14/03 - 14:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Sábado 14/03 - 14:00)</desc>
+    <title>Próximo partido: Manchester City - Real Madrid (Martes 17/03 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Martes 17/03 - 21:00)</desc>
   </programme>
   <programme start="20260311070000 +0100" stop="20260311110000 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Girona - Athletic Club (Sábado 14/03 - 14:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Sábado 14/03 - 14:00)</desc>
+    <title>Próximo partido: Manchester City - Real Madrid (Martes 17/03 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Martes 17/03 - 21:00)</desc>
   </programme>
   <programme start="20260311110000 +0100" stop="20260311150000 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Girona - Athletic Club (Sábado 14/03 - 14:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Sábado 14/03 - 14:00)</desc>
+    <title>Próximo partido: Manchester City - Real Madrid (Martes 17/03 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Martes 17/03 - 21:00)</desc>
   </programme>
   <programme start="20260311150000 +0100" stop="20260311190000 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Girona - Athletic Club (Sábado 14/03 - 14:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Sábado 14/03 - 14:00)</desc>
+    <title>Próximo partido: Manchester City - Real Madrid (Martes 17/03 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Martes 17/03 - 21:00)</desc>
   </programme>
   <programme start="20260311190000 +0100" stop="20260311230000 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Girona - Athletic Club (Sábado 14/03 - 14:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Sábado 14/03 - 14:00)</desc>
+    <title>Próximo partido: Manchester City - Real Madrid (Martes 17/03 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Martes 17/03 - 21:00)</desc>
   </programme>
   <programme start="20260311230000 +0100" stop="20260312030000 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Girona - Athletic Club (Sábado 14/03 - 14:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Sábado 14/03 - 14:00)</desc>
+    <title>Próximo partido: Manchester City - Real Madrid (Martes 17/03 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Martes 17/03 - 21:00)</desc>
   </programme>
   <programme start="20260312030000 +0100" stop="20260312070000 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Girona - Athletic Club (Sábado 14/03 - 14:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Sábado 14/03 - 14:00)</desc>
+    <title>Próximo partido: Manchester City - Real Madrid (Martes 17/03 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Martes 17/03 - 21:00)</desc>
   </programme>
   <programme start="20260312070000 +0100" stop="20260312110000 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Girona - Athletic Club (Sábado 14/03 - 14:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Sábado 14/03 - 14:00)</desc>
+    <title>Próximo partido: Manchester City - Real Madrid (Martes 17/03 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Martes 17/03 - 21:00)</desc>
   </programme>
   <programme start="20260312110000 +0100" stop="20260312150000 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Girona - Athletic Club (Sábado 14/03 - 14:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Sábado 14/03 - 14:00)</desc>
+    <title>Próximo partido: Manchester City - Real Madrid (Martes 17/03 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Martes 17/03 - 21:00)</desc>
   </programme>
   <programme start="20260312150000 +0100" stop="20260312190000 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Girona - Athletic Club (Sábado 14/03 - 14:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Sábado 14/03 - 14:00)</desc>
+    <title>Próximo partido: Manchester City - Real Madrid (Martes 17/03 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Martes 17/03 - 21:00)</desc>
   </programme>
   <programme start="20260312190000 +0100" stop="20260312230000 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Girona - Athletic Club (Sábado 14/03 - 14:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Sábado 14/03 - 14:00)</desc>
+    <title>Próximo partido: Manchester City - Real Madrid (Martes 17/03 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Martes 17/03 - 21:00)</desc>
   </programme>
   <programme start="20260312230000 +0100" stop="20260313030000 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Girona - Athletic Club (Sábado 14/03 - 14:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Sábado 14/03 - 14:00)</desc>
+    <title>Próximo partido: Manchester City - Real Madrid (Martes 17/03 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Martes 17/03 - 21:00)</desc>
   </programme>
   <programme start="20260313030000 +0100" stop="20260313070000 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Girona - Athletic Club (Sábado 14/03 - 14:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Sábado 14/03 - 14:00)</desc>
+    <title>Próximo partido: Manchester City - Real Madrid (Martes 17/03 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Martes 17/03 - 21:00)</desc>
   </programme>
   <programme start="20260313070000 +0100" stop="20260313110000 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Girona - Athletic Club (Sábado 14/03 - 14:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Sábado 14/03 - 14:00)</desc>
+    <title>Próximo partido: Manchester City - Real Madrid (Martes 17/03 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Martes 17/03 - 21:00)</desc>
   </programme>
   <programme start="20260313110000 +0100" stop="20260313150000 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Girona - Athletic Club (Sábado 14/03 - 14:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Sábado 14/03 - 14:00)</desc>
+    <title>Próximo partido: Manchester City - Real Madrid (Martes 17/03 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Martes 17/03 - 21:00)</desc>
   </programme>
   <programme start="20260313150000 +0100" stop="20260313190000 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Girona - Athletic Club (Sábado 14/03 - 14:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Sábado 14/03 - 14:00)</desc>
+    <title>Próximo partido: Manchester City - Real Madrid (Martes 17/03 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Martes 17/03 - 21:00)</desc>
   </programme>
   <programme start="20260313190000 +0100" stop="20260313230000 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Girona - Athletic Club (Sábado 14/03 - 14:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Sábado 14/03 - 14:00)</desc>
+    <title>Próximo partido: Manchester City - Real Madrid (Martes 17/03 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Martes 17/03 - 21:00)</desc>
   </programme>
   <programme start="20260313230000 +0100" stop="20260314030000 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Girona - Athletic Club (Sábado 14/03 - 14:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Sábado 14/03 - 14:00)</desc>
+    <title>Próximo partido: Manchester City - Real Madrid (Martes 17/03 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Martes 17/03 - 21:00)</desc>
   </programme>
   <programme start="20260314030000 +0100" stop="20260314070000 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Girona - Athletic Club (Sábado 14/03 - 14:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Sábado 14/03 - 14:00)</desc>
+    <title>Próximo partido: Manchester City - Real Madrid (Martes 17/03 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Martes 17/03 - 21:00)</desc>
   </programme>
   <programme start="20260314070000 +0100" stop="20260314110000 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Girona - Athletic Club (Sábado 14/03 - 14:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Sábado 14/03 - 14:00)</desc>
-  </programme>
-  <programme start="20260314110000 +0100" stop="20260314140000 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Girona - Athletic Club (Sábado 14/03 - 14:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Sábado 14/03 - 14:00)</desc>
-  </programme>
-  <programme start="20260314140000 +0100" stop="20260314160000 +0100" channel="Fútbol 1">
-    <title>Laliga Ea Sports: Girona - Athletic Club</title>
-    <desc>Fútbol en directo - Laliga Ea Sports: Girona - Athletic Club</desc>
-  </programme>
-  <programme start="20260314160000 +0100" stop="20260314200000 +0100" channel="Fútbol 1">
     <title>Próximo partido: Manchester City - Real Madrid (Martes 17/03 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Martes 17/03 - 21:00)</desc>
   </programme>
-  <programme start="20260314200000 +0100" stop="20260315000000 +0100" channel="Fútbol 1">
+  <programme start="20260314110000 +0100" stop="20260314150000 +0100" channel="Fútbol 1">
     <title>Próximo partido: Manchester City - Real Madrid (Martes 17/03 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Martes 17/03 - 21:00)</desc>
   </programme>
-  <programme start="20260315000000 +0100" stop="20260315040000 +0100" channel="Fútbol 1">
+  <programme start="20260314150000 +0100" stop="20260314190000 +0100" channel="Fútbol 1">
     <title>Próximo partido: Manchester City - Real Madrid (Martes 17/03 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Martes 17/03 - 21:00)</desc>
   </programme>
-  <programme start="20260315040000 +0100" stop="20260315080000 +0100" channel="Fútbol 1">
+  <programme start="20260314190000 +0100" stop="20260314230000 +0100" channel="Fútbol 1">
     <title>Próximo partido: Manchester City - Real Madrid (Martes 17/03 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Martes 17/03 - 21:00)</desc>
   </programme>
-  <programme start="20260315080000 +0100" stop="20260315120000 +0100" channel="Fútbol 1">
+  <programme start="20260314230000 +0100" stop="20260315030000 +0100" channel="Fútbol 1">
     <title>Próximo partido: Manchester City - Real Madrid (Martes 17/03 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Martes 17/03 - 21:00)</desc>
   </programme>
-  <programme start="20260315120000 +0100" stop="20260315160000 +0100" channel="Fútbol 1">
+  <programme start="20260315030000 +0100" stop="20260315070000 +0100" channel="Fútbol 1">
     <title>Próximo partido: Manchester City - Real Madrid (Martes 17/03 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Martes 17/03 - 21:00)</desc>
   </programme>
-  <programme start="20260315160000 +0100" stop="20260315200000 +0100" channel="Fútbol 1">
+  <programme start="20260315070000 +0100" stop="20260315110000 +0100" channel="Fútbol 1">
     <title>Próximo partido: Manchester City - Real Madrid (Martes 17/03 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Martes 17/03 - 21:00)</desc>
   </programme>
-  <programme start="20260315200000 +0100" stop="20260316000000 +0100" channel="Fútbol 1">
+  <programme start="20260315110000 +0100" stop="20260315150000 +0100" channel="Fútbol 1">
     <title>Próximo partido: Manchester City - Real Madrid (Martes 17/03 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Martes 17/03 - 21:00)</desc>
   </programme>
-  <programme start="20260316000000 +0100" stop="20260316040000 +0100" channel="Fútbol 1">
+  <programme start="20260315150000 +0100" stop="20260315190000 +0100" channel="Fútbol 1">
     <title>Próximo partido: Manchester City - Real Madrid (Martes 17/03 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Martes 17/03 - 21:00)</desc>
   </programme>
-  <programme start="20260316040000 +0100" stop="20260316080000 +0100" channel="Fútbol 1">
+  <programme start="20260315190000 +0100" stop="20260315230000 +0100" channel="Fútbol 1">
     <title>Próximo partido: Manchester City - Real Madrid (Martes 17/03 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Martes 17/03 - 21:00)</desc>
   </programme>
-  <programme start="20260316080000 +0100" stop="20260316120000 +0100" channel="Fútbol 1">
+  <programme start="20260315230000 +0100" stop="20260316030000 +0100" channel="Fútbol 1">
     <title>Próximo partido: Manchester City - Real Madrid (Martes 17/03 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Martes 17/03 - 21:00)</desc>
   </programme>
-  <programme start="20260316120000 +0100" stop="20260316160000 +0100" channel="Fútbol 1">
+  <programme start="20260316030000 +0100" stop="20260316070000 +0100" channel="Fútbol 1">
     <title>Próximo partido: Manchester City - Real Madrid (Martes 17/03 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Martes 17/03 - 21:00)</desc>
   </programme>
-  <programme start="20260316160000 +0100" stop="20260316200000 +0100" channel="Fútbol 1">
+  <programme start="20260316070000 +0100" stop="20260316110000 +0100" channel="Fútbol 1">
     <title>Próximo partido: Manchester City - Real Madrid (Martes 17/03 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Martes 17/03 - 21:00)</desc>
   </programme>
-  <programme start="20260316200000 +0100" stop="20260317000000 +0100" channel="Fútbol 1">
+  <programme start="20260316110000 +0100" stop="20260316150000 +0100" channel="Fútbol 1">
     <title>Próximo partido: Manchester City - Real Madrid (Martes 17/03 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Martes 17/03 - 21:00)</desc>
   </programme>
-  <programme start="20260317000000 +0100" stop="20260317040000 +0100" channel="Fútbol 1">
+  <programme start="20260316150000 +0100" stop="20260316190000 +0100" channel="Fútbol 1">
     <title>Próximo partido: Manchester City - Real Madrid (Martes 17/03 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Martes 17/03 - 21:00)</desc>
   </programme>
-  <programme start="20260317040000 +0100" stop="20260317080000 +0100" channel="Fútbol 1">
+  <programme start="20260316190000 +0100" stop="20260316230000 +0100" channel="Fútbol 1">
     <title>Próximo partido: Manchester City - Real Madrid (Martes 17/03 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Martes 17/03 - 21:00)</desc>
   </programme>
-  <programme start="20260317080000 +0100" stop="20260317120000 +0100" channel="Fútbol 1">
+  <programme start="20260316230000 +0100" stop="20260317030000 +0100" channel="Fútbol 1">
     <title>Próximo partido: Manchester City - Real Madrid (Martes 17/03 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Martes 17/03 - 21:00)</desc>
   </programme>
-  <programme start="20260317120000 +0100" stop="20260317160000 +0100" channel="Fútbol 1">
+  <programme start="20260317030000 +0100" stop="20260317070000 +0100" channel="Fútbol 1">
     <title>Próximo partido: Manchester City - Real Madrid (Martes 17/03 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Martes 17/03 - 21:00)</desc>
   </programme>
-  <programme start="20260317160000 +0100" stop="20260317200000 +0100" channel="Fútbol 1">
+  <programme start="20260317070000 +0100" stop="20260317110000 +0100" channel="Fútbol 1">
     <title>Próximo partido: Manchester City - Real Madrid (Martes 17/03 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Martes 17/03 - 21:00)</desc>
   </programme>
-  <programme start="20260317200000 +0100" stop="20260317210000 +0100" channel="Fútbol 1">
+  <programme start="20260317110000 +0100" stop="20260317150000 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Manchester City - Real Madrid (Martes 17/03 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Martes 17/03 - 21:00)</desc>
+  </programme>
+  <programme start="20260317150000 +0100" stop="20260317190000 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Manchester City - Real Madrid (Martes 17/03 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Martes 17/03 - 21:00)</desc>
+  </programme>
+  <programme start="20260317190000 +0100" stop="20260317210000 +0100" channel="Fútbol 1">
     <title>Próximo partido: Manchester City - Real Madrid (Martes 17/03 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Martes 17/03 - 21:00)</desc>
   </programme>
@@ -350,147 +306,111 @@
   <channel id="Fútbol 2">
     <display-name>Fútbol 2</display-name>
   </channel>
-  <programme start="20260307210000 +0100" stop="20260307230000 +0100" channel="Fútbol 2">
-    <title>Laliga Hypermotion: Málaga - Valladolid</title>
-    <desc>Fútbol en directo - Laliga Hypermotion: Málaga - Valladolid</desc>
-  </programme>
-  <programme start="20260308183000 +0100" stop="20260308203000 +0100" channel="Fútbol 2">
-    <title>Laliga Hypermotion: Racing - Córdoba</title>
-    <desc>Fútbol en directo - Laliga Hypermotion: Racing - Córdoba</desc>
-  </programme>
-  <programme start="20260308210000 +0100" stop="20260308230000 +0100" channel="Fútbol 2">
-    <title>Laliga Hypermotion: Deportivo - Granada</title>
-    <desc>Fútbol en directo - Laliga Hypermotion: Deportivo - Granada</desc>
-  </programme>
-  <programme start="20260309080340 +0100" stop="20260309120340 +0100" channel="Fútbol 2">
+  <programme start="20260310075236 +0100" stop="20260310115236 +0100" channel="Fútbol 2">
     <title>Próximo partido: Cultural Leonesa - Racing (Sábado 14/03 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 14/03 - 16:15)</desc>
   </programme>
-  <programme start="20260309120340 +0100" stop="20260309160340 +0100" channel="Fútbol 2">
+  <programme start="20260310115236 +0100" stop="20260310155236 +0100" channel="Fútbol 2">
     <title>Próximo partido: Cultural Leonesa - Racing (Sábado 14/03 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 14/03 - 16:15)</desc>
   </programme>
-  <programme start="20260309160340 +0100" stop="20260309200340 +0100" channel="Fútbol 2">
+  <programme start="20260310155236 +0100" stop="20260310195236 +0100" channel="Fútbol 2">
     <title>Próximo partido: Cultural Leonesa - Racing (Sábado 14/03 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 14/03 - 16:15)</desc>
   </programme>
-  <programme start="20260309200340 +0100" stop="20260310000340 +0100" channel="Fútbol 2">
+  <programme start="20260310195236 +0100" stop="20260310235236 +0100" channel="Fútbol 2">
     <title>Próximo partido: Cultural Leonesa - Racing (Sábado 14/03 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 14/03 - 16:15)</desc>
   </programme>
-  <programme start="20260310000340 +0100" stop="20260310040340 +0100" channel="Fútbol 2">
+  <programme start="20260310235236 +0100" stop="20260311035236 +0100" channel="Fútbol 2">
     <title>Próximo partido: Cultural Leonesa - Racing (Sábado 14/03 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 14/03 - 16:15)</desc>
   </programme>
-  <programme start="20260310040340 +0100" stop="20260310080340 +0100" channel="Fútbol 2">
+  <programme start="20260311035236 +0100" stop="20260311075236 +0100" channel="Fútbol 2">
     <title>Próximo partido: Cultural Leonesa - Racing (Sábado 14/03 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 14/03 - 16:15)</desc>
   </programme>
-  <programme start="20260310080340 +0100" stop="20260310120340 +0100" channel="Fútbol 2">
+  <programme start="20260311075236 +0100" stop="20260311115236 +0100" channel="Fútbol 2">
     <title>Próximo partido: Cultural Leonesa - Racing (Sábado 14/03 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 14/03 - 16:15)</desc>
   </programme>
-  <programme start="20260310120340 +0100" stop="20260310160340 +0100" channel="Fútbol 2">
+  <programme start="20260311115236 +0100" stop="20260311155236 +0100" channel="Fútbol 2">
     <title>Próximo partido: Cultural Leonesa - Racing (Sábado 14/03 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 14/03 - 16:15)</desc>
   </programme>
-  <programme start="20260310160340 +0100" stop="20260310200340 +0100" channel="Fútbol 2">
+  <programme start="20260311155236 +0100" stop="20260311195236 +0100" channel="Fútbol 2">
     <title>Próximo partido: Cultural Leonesa - Racing (Sábado 14/03 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 14/03 - 16:15)</desc>
   </programme>
-  <programme start="20260310200340 +0100" stop="20260311000340 +0100" channel="Fútbol 2">
+  <programme start="20260311195236 +0100" stop="20260311235236 +0100" channel="Fútbol 2">
     <title>Próximo partido: Cultural Leonesa - Racing (Sábado 14/03 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 14/03 - 16:15)</desc>
   </programme>
-  <programme start="20260311000340 +0100" stop="20260311040340 +0100" channel="Fútbol 2">
+  <programme start="20260311235236 +0100" stop="20260312035236 +0100" channel="Fútbol 2">
     <title>Próximo partido: Cultural Leonesa - Racing (Sábado 14/03 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 14/03 - 16:15)</desc>
   </programme>
-  <programme start="20260311040340 +0100" stop="20260311080340 +0100" channel="Fútbol 2">
+  <programme start="20260312035236 +0100" stop="20260312075236 +0100" channel="Fútbol 2">
     <title>Próximo partido: Cultural Leonesa - Racing (Sábado 14/03 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 14/03 - 16:15)</desc>
   </programme>
-  <programme start="20260311080340 +0100" stop="20260311120340 +0100" channel="Fútbol 2">
+  <programme start="20260312075236 +0100" stop="20260312115236 +0100" channel="Fútbol 2">
     <title>Próximo partido: Cultural Leonesa - Racing (Sábado 14/03 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 14/03 - 16:15)</desc>
   </programme>
-  <programme start="20260311120340 +0100" stop="20260311160340 +0100" channel="Fútbol 2">
+  <programme start="20260312115236 +0100" stop="20260312155236 +0100" channel="Fútbol 2">
     <title>Próximo partido: Cultural Leonesa - Racing (Sábado 14/03 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 14/03 - 16:15)</desc>
   </programme>
-  <programme start="20260311160340 +0100" stop="20260311200340 +0100" channel="Fútbol 2">
+  <programme start="20260312155236 +0100" stop="20260312195236 +0100" channel="Fútbol 2">
     <title>Próximo partido: Cultural Leonesa - Racing (Sábado 14/03 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 14/03 - 16:15)</desc>
   </programme>
-  <programme start="20260311200340 +0100" stop="20260312000340 +0100" channel="Fútbol 2">
+  <programme start="20260312195236 +0100" stop="20260312235236 +0100" channel="Fútbol 2">
     <title>Próximo partido: Cultural Leonesa - Racing (Sábado 14/03 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 14/03 - 16:15)</desc>
   </programme>
-  <programme start="20260312000340 +0100" stop="20260312040340 +0100" channel="Fútbol 2">
+  <programme start="20260312235236 +0100" stop="20260313035236 +0100" channel="Fútbol 2">
     <title>Próximo partido: Cultural Leonesa - Racing (Sábado 14/03 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 14/03 - 16:15)</desc>
   </programme>
-  <programme start="20260312040340 +0100" stop="20260312080340 +0100" channel="Fútbol 2">
+  <programme start="20260313035236 +0100" stop="20260313075236 +0100" channel="Fútbol 2">
     <title>Próximo partido: Cultural Leonesa - Racing (Sábado 14/03 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 14/03 - 16:15)</desc>
   </programme>
-  <programme start="20260312080340 +0100" stop="20260312120340 +0100" channel="Fútbol 2">
+  <programme start="20260313075236 +0100" stop="20260313115236 +0100" channel="Fútbol 2">
     <title>Próximo partido: Cultural Leonesa - Racing (Sábado 14/03 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 14/03 - 16:15)</desc>
   </programme>
-  <programme start="20260312120340 +0100" stop="20260312160340 +0100" channel="Fútbol 2">
+  <programme start="20260313115236 +0100" stop="20260313155236 +0100" channel="Fútbol 2">
     <title>Próximo partido: Cultural Leonesa - Racing (Sábado 14/03 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 14/03 - 16:15)</desc>
   </programme>
-  <programme start="20260312160340 +0100" stop="20260312200340 +0100" channel="Fútbol 2">
+  <programme start="20260313155236 +0100" stop="20260313195236 +0100" channel="Fútbol 2">
     <title>Próximo partido: Cultural Leonesa - Racing (Sábado 14/03 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 14/03 - 16:15)</desc>
   </programme>
-  <programme start="20260312200340 +0100" stop="20260313000340 +0100" channel="Fútbol 2">
+  <programme start="20260313195236 +0100" stop="20260313235236 +0100" channel="Fútbol 2">
     <title>Próximo partido: Cultural Leonesa - Racing (Sábado 14/03 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 14/03 - 16:15)</desc>
   </programme>
-  <programme start="20260313000340 +0100" stop="20260313040340 +0100" channel="Fútbol 2">
+  <programme start="20260313235236 +0100" stop="20260314035236 +0100" channel="Fútbol 2">
     <title>Próximo partido: Cultural Leonesa - Racing (Sábado 14/03 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 14/03 - 16:15)</desc>
   </programme>
-  <programme start="20260313040340 +0100" stop="20260313080340 +0100" channel="Fútbol 2">
+  <programme start="20260314035236 +0100" stop="20260314075236 +0100" channel="Fútbol 2">
     <title>Próximo partido: Cultural Leonesa - Racing (Sábado 14/03 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 14/03 - 16:15)</desc>
   </programme>
-  <programme start="20260313080340 +0100" stop="20260313120340 +0100" channel="Fútbol 2">
+  <programme start="20260314075236 +0100" stop="20260314115236 +0100" channel="Fútbol 2">
     <title>Próximo partido: Cultural Leonesa - Racing (Sábado 14/03 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 14/03 - 16:15)</desc>
   </programme>
-  <programme start="20260313120340 +0100" stop="20260313160340 +0100" channel="Fútbol 2">
+  <programme start="20260314115236 +0100" stop="20260314155236 +0100" channel="Fútbol 2">
     <title>Próximo partido: Cultural Leonesa - Racing (Sábado 14/03 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 14/03 - 16:15)</desc>
   </programme>
-  <programme start="20260313160340 +0100" stop="20260313200340 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Cultural Leonesa - Racing (Sábado 14/03 - 16:15)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Sábado 14/03 - 16:15)</desc>
-  </programme>
-  <programme start="20260313200340 +0100" stop="20260314000340 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Cultural Leonesa - Racing (Sábado 14/03 - 16:15)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Sábado 14/03 - 16:15)</desc>
-  </programme>
-  <programme start="20260314000340 +0100" stop="20260314040340 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Cultural Leonesa - Racing (Sábado 14/03 - 16:15)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Sábado 14/03 - 16:15)</desc>
-  </programme>
-  <programme start="20260314040340 +0100" stop="20260314080340 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Cultural Leonesa - Racing (Sábado 14/03 - 16:15)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Sábado 14/03 - 16:15)</desc>
-  </programme>
-  <programme start="20260314080340 +0100" stop="20260314120340 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Cultural Leonesa - Racing (Sábado 14/03 - 16:15)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Sábado 14/03 - 16:15)</desc>
-  </programme>
-  <programme start="20260314120340 +0100" stop="20260314160340 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Cultural Leonesa - Racing (Sábado 14/03 - 16:15)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Sábado 14/03 - 16:15)</desc>
-  </programme>
-  <programme start="20260314160340 +0100" stop="20260314161500 +0100" channel="Fútbol 2">
+  <programme start="20260314155236 +0100" stop="20260314161500 +0100" channel="Fútbol 2">
     <title>Próximo partido: Cultural Leonesa - Racing (Sábado 14/03 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 14/03 - 16:15)</desc>
   </programme>
@@ -545,163 +465,131 @@
   <channel id="Fútbol 3">
     <display-name>Fútbol 3</display-name>
   </channel>
-  <programme start="20260307193000 +0100" stop="20260307213000 +0100" channel="Fútbol 3">
-    <title>Bundesliga Alemania: Colonia - Borussia Dortmund</title>
-    <desc>Fútbol en directo - Bundesliga Alemania: Colonia - Borussia Dortmund</desc>
-  </programme>
-  <programme start="20260308180000 +0100" stop="20260308200000 +0100" channel="Fútbol 3">
-    <title>Serie A: Génova - Roma</title>
-    <desc>Fútbol en directo - Serie A: Génova - Roma</desc>
-  </programme>
-  <programme start="20260309080340 +0100" stop="20260309120340 +0100" channel="Fútbol 3">
+  <programme start="20260310075236 +0100" stop="20260310115236 +0100" channel="Fútbol 3">
     <title>Próximo partido: Inter - Atalanta (Domingo 15/03 - 15:00)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Domingo 15/03 - 15:00)</desc>
   </programme>
-  <programme start="20260309120340 +0100" stop="20260309160340 +0100" channel="Fútbol 3">
+  <programme start="20260310115236 +0100" stop="20260310155236 +0100" channel="Fútbol 3">
     <title>Próximo partido: Inter - Atalanta (Domingo 15/03 - 15:00)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Domingo 15/03 - 15:00)</desc>
   </programme>
-  <programme start="20260309160340 +0100" stop="20260309200340 +0100" channel="Fútbol 3">
+  <programme start="20260310155236 +0100" stop="20260310195236 +0100" channel="Fútbol 3">
     <title>Próximo partido: Inter - Atalanta (Domingo 15/03 - 15:00)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Domingo 15/03 - 15:00)</desc>
   </programme>
-  <programme start="20260309200340 +0100" stop="20260310000340 +0100" channel="Fútbol 3">
+  <programme start="20260310195236 +0100" stop="20260310235236 +0100" channel="Fútbol 3">
     <title>Próximo partido: Inter - Atalanta (Domingo 15/03 - 15:00)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Domingo 15/03 - 15:00)</desc>
   </programme>
-  <programme start="20260310000340 +0100" stop="20260310040340 +0100" channel="Fútbol 3">
+  <programme start="20260310235236 +0100" stop="20260311035236 +0100" channel="Fútbol 3">
     <title>Próximo partido: Inter - Atalanta (Domingo 15/03 - 15:00)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Domingo 15/03 - 15:00)</desc>
   </programme>
-  <programme start="20260310040340 +0100" stop="20260310080340 +0100" channel="Fútbol 3">
+  <programme start="20260311035236 +0100" stop="20260311075236 +0100" channel="Fútbol 3">
     <title>Próximo partido: Inter - Atalanta (Domingo 15/03 - 15:00)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Domingo 15/03 - 15:00)</desc>
   </programme>
-  <programme start="20260310080340 +0100" stop="20260310120340 +0100" channel="Fútbol 3">
+  <programme start="20260311075236 +0100" stop="20260311115236 +0100" channel="Fútbol 3">
     <title>Próximo partido: Inter - Atalanta (Domingo 15/03 - 15:00)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Domingo 15/03 - 15:00)</desc>
   </programme>
-  <programme start="20260310120340 +0100" stop="20260310160340 +0100" channel="Fútbol 3">
+  <programme start="20260311115236 +0100" stop="20260311155236 +0100" channel="Fútbol 3">
     <title>Próximo partido: Inter - Atalanta (Domingo 15/03 - 15:00)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Domingo 15/03 - 15:00)</desc>
   </programme>
-  <programme start="20260310160340 +0100" stop="20260310200340 +0100" channel="Fútbol 3">
+  <programme start="20260311155236 +0100" stop="20260311195236 +0100" channel="Fútbol 3">
     <title>Próximo partido: Inter - Atalanta (Domingo 15/03 - 15:00)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Domingo 15/03 - 15:00)</desc>
   </programme>
-  <programme start="20260310200340 +0100" stop="20260311000340 +0100" channel="Fútbol 3">
+  <programme start="20260311195236 +0100" stop="20260311235236 +0100" channel="Fútbol 3">
     <title>Próximo partido: Inter - Atalanta (Domingo 15/03 - 15:00)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Domingo 15/03 - 15:00)</desc>
   </programme>
-  <programme start="20260311000340 +0100" stop="20260311040340 +0100" channel="Fútbol 3">
+  <programme start="20260311235236 +0100" stop="20260312035236 +0100" channel="Fútbol 3">
     <title>Próximo partido: Inter - Atalanta (Domingo 15/03 - 15:00)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Domingo 15/03 - 15:00)</desc>
   </programme>
-  <programme start="20260311040340 +0100" stop="20260311080340 +0100" channel="Fútbol 3">
+  <programme start="20260312035236 +0100" stop="20260312075236 +0100" channel="Fútbol 3">
     <title>Próximo partido: Inter - Atalanta (Domingo 15/03 - 15:00)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Domingo 15/03 - 15:00)</desc>
   </programme>
-  <programme start="20260311080340 +0100" stop="20260311120340 +0100" channel="Fútbol 3">
+  <programme start="20260312075236 +0100" stop="20260312115236 +0100" channel="Fútbol 3">
     <title>Próximo partido: Inter - Atalanta (Domingo 15/03 - 15:00)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Domingo 15/03 - 15:00)</desc>
   </programme>
-  <programme start="20260311120340 +0100" stop="20260311160340 +0100" channel="Fútbol 3">
+  <programme start="20260312115236 +0100" stop="20260312155236 +0100" channel="Fútbol 3">
     <title>Próximo partido: Inter - Atalanta (Domingo 15/03 - 15:00)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Domingo 15/03 - 15:00)</desc>
   </programme>
-  <programme start="20260311160340 +0100" stop="20260311200340 +0100" channel="Fútbol 3">
+  <programme start="20260312155236 +0100" stop="20260312195236 +0100" channel="Fútbol 3">
     <title>Próximo partido: Inter - Atalanta (Domingo 15/03 - 15:00)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Domingo 15/03 - 15:00)</desc>
   </programme>
-  <programme start="20260311200340 +0100" stop="20260312000340 +0100" channel="Fútbol 3">
+  <programme start="20260312195236 +0100" stop="20260312235236 +0100" channel="Fútbol 3">
     <title>Próximo partido: Inter - Atalanta (Domingo 15/03 - 15:00)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Domingo 15/03 - 15:00)</desc>
   </programme>
-  <programme start="20260312000340 +0100" stop="20260312040340 +0100" channel="Fútbol 3">
+  <programme start="20260312235236 +0100" stop="20260313035236 +0100" channel="Fútbol 3">
     <title>Próximo partido: Inter - Atalanta (Domingo 15/03 - 15:00)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Domingo 15/03 - 15:00)</desc>
   </programme>
-  <programme start="20260312040340 +0100" stop="20260312080340 +0100" channel="Fútbol 3">
+  <programme start="20260313035236 +0100" stop="20260313075236 +0100" channel="Fútbol 3">
     <title>Próximo partido: Inter - Atalanta (Domingo 15/03 - 15:00)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Domingo 15/03 - 15:00)</desc>
   </programme>
-  <programme start="20260312080340 +0100" stop="20260312120340 +0100" channel="Fútbol 3">
+  <programme start="20260313075236 +0100" stop="20260313115236 +0100" channel="Fútbol 3">
     <title>Próximo partido: Inter - Atalanta (Domingo 15/03 - 15:00)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Domingo 15/03 - 15:00)</desc>
   </programme>
-  <programme start="20260312120340 +0100" stop="20260312160340 +0100" channel="Fútbol 3">
+  <programme start="20260313115236 +0100" stop="20260313155236 +0100" channel="Fútbol 3">
     <title>Próximo partido: Inter - Atalanta (Domingo 15/03 - 15:00)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Domingo 15/03 - 15:00)</desc>
   </programme>
-  <programme start="20260312160340 +0100" stop="20260312200340 +0100" channel="Fútbol 3">
+  <programme start="20260313155236 +0100" stop="20260313195236 +0100" channel="Fútbol 3">
     <title>Próximo partido: Inter - Atalanta (Domingo 15/03 - 15:00)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Domingo 15/03 - 15:00)</desc>
   </programme>
-  <programme start="20260312200340 +0100" stop="20260313000340 +0100" channel="Fútbol 3">
+  <programme start="20260313195236 +0100" stop="20260313235236 +0100" channel="Fútbol 3">
     <title>Próximo partido: Inter - Atalanta (Domingo 15/03 - 15:00)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Domingo 15/03 - 15:00)</desc>
   </programme>
-  <programme start="20260313000340 +0100" stop="20260313040340 +0100" channel="Fútbol 3">
+  <programme start="20260313235236 +0100" stop="20260314035236 +0100" channel="Fútbol 3">
     <title>Próximo partido: Inter - Atalanta (Domingo 15/03 - 15:00)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Domingo 15/03 - 15:00)</desc>
   </programme>
-  <programme start="20260313040340 +0100" stop="20260313080340 +0100" channel="Fútbol 3">
+  <programme start="20260314035236 +0100" stop="20260314075236 +0100" channel="Fútbol 3">
     <title>Próximo partido: Inter - Atalanta (Domingo 15/03 - 15:00)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Domingo 15/03 - 15:00)</desc>
   </programme>
-  <programme start="20260313080340 +0100" stop="20260313120340 +0100" channel="Fútbol 3">
+  <programme start="20260314075236 +0100" stop="20260314115236 +0100" channel="Fútbol 3">
     <title>Próximo partido: Inter - Atalanta (Domingo 15/03 - 15:00)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Domingo 15/03 - 15:00)</desc>
   </programme>
-  <programme start="20260313120340 +0100" stop="20260313160340 +0100" channel="Fútbol 3">
+  <programme start="20260314115236 +0100" stop="20260314155236 +0100" channel="Fútbol 3">
     <title>Próximo partido: Inter - Atalanta (Domingo 15/03 - 15:00)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Domingo 15/03 - 15:00)</desc>
   </programme>
-  <programme start="20260313160340 +0100" stop="20260313200340 +0100" channel="Fútbol 3">
+  <programme start="20260314155236 +0100" stop="20260314195236 +0100" channel="Fútbol 3">
     <title>Próximo partido: Inter - Atalanta (Domingo 15/03 - 15:00)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Domingo 15/03 - 15:00)</desc>
   </programme>
-  <programme start="20260313200340 +0100" stop="20260314000340 +0100" channel="Fútbol 3">
+  <programme start="20260314195236 +0100" stop="20260314235236 +0100" channel="Fútbol 3">
     <title>Próximo partido: Inter - Atalanta (Domingo 15/03 - 15:00)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Domingo 15/03 - 15:00)</desc>
   </programme>
-  <programme start="20260314000340 +0100" stop="20260314040340 +0100" channel="Fútbol 3">
+  <programme start="20260314235236 +0100" stop="20260315035236 +0100" channel="Fútbol 3">
     <title>Próximo partido: Inter - Atalanta (Domingo 15/03 - 15:00)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Domingo 15/03 - 15:00)</desc>
   </programme>
-  <programme start="20260314040340 +0100" stop="20260314080340 +0100" channel="Fútbol 3">
+  <programme start="20260315035236 +0100" stop="20260315075236 +0100" channel="Fútbol 3">
     <title>Próximo partido: Inter - Atalanta (Domingo 15/03 - 15:00)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Domingo 15/03 - 15:00)</desc>
   </programme>
-  <programme start="20260314080340 +0100" stop="20260314120340 +0100" channel="Fútbol 3">
+  <programme start="20260315075236 +0100" stop="20260315115236 +0100" channel="Fútbol 3">
     <title>Próximo partido: Inter - Atalanta (Domingo 15/03 - 15:00)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Domingo 15/03 - 15:00)</desc>
   </programme>
-  <programme start="20260314120340 +0100" stop="20260314160340 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Inter - Atalanta (Domingo 15/03 - 15:00)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Domingo 15/03 - 15:00)</desc>
-  </programme>
-  <programme start="20260314160340 +0100" stop="20260314200340 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Inter - Atalanta (Domingo 15/03 - 15:00)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Domingo 15/03 - 15:00)</desc>
-  </programme>
-  <programme start="20260314200340 +0100" stop="20260315000340 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Inter - Atalanta (Domingo 15/03 - 15:00)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Domingo 15/03 - 15:00)</desc>
-  </programme>
-  <programme start="20260315000340 +0100" stop="20260315040340 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Inter - Atalanta (Domingo 15/03 - 15:00)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Domingo 15/03 - 15:00)</desc>
-  </programme>
-  <programme start="20260315040340 +0100" stop="20260315080340 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Inter - Atalanta (Domingo 15/03 - 15:00)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Domingo 15/03 - 15:00)</desc>
-  </programme>
-  <programme start="20260315080340 +0100" stop="20260315120340 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Inter - Atalanta (Domingo 15/03 - 15:00)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Domingo 15/03 - 15:00)</desc>
-  </programme>
-  <programme start="20260315120340 +0100" stop="20260315150000 +0100" channel="Fútbol 3">
+  <programme start="20260315115236 +0100" stop="20260315150000 +0100" channel="Fútbol 3">
     <title>Próximo partido: Inter - Atalanta (Domingo 15/03 - 15:00)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Domingo 15/03 - 15:00)</desc>
   </programme>
