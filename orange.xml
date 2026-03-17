@@ -3,43 +3,19 @@
   <channel id="Fútbol 1">
     <display-name>Fútbol 1</display-name>
   </channel>
-  <programme start="20260316081914 +0100" stop="20260316121914 +0100" channel="Fútbol 1">
+  <programme start="20260317080537 +0100" stop="20260317120537 +0100" channel="Fútbol 1">
     <title>Próximo partido: Manchester City - Real Madrid (Martes 17/03 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Martes 17/03 - 21:00)</desc>
   </programme>
-  <programme start="20260316121914 +0100" stop="20260316161914 +0100" channel="Fútbol 1">
+  <programme start="20260317120537 +0100" stop="20260317160537 +0100" channel="Fútbol 1">
     <title>Próximo partido: Manchester City - Real Madrid (Martes 17/03 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Martes 17/03 - 21:00)</desc>
   </programme>
-  <programme start="20260316161914 +0100" stop="20260316201914 +0100" channel="Fútbol 1">
+  <programme start="20260317160537 +0100" stop="20260317200537 +0100" channel="Fútbol 1">
     <title>Próximo partido: Manchester City - Real Madrid (Martes 17/03 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Martes 17/03 - 21:00)</desc>
   </programme>
-  <programme start="20260316201914 +0100" stop="20260317001914 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Manchester City - Real Madrid (Martes 17/03 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Martes 17/03 - 21:00)</desc>
-  </programme>
-  <programme start="20260317001914 +0100" stop="20260317041914 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Manchester City - Real Madrid (Martes 17/03 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Martes 17/03 - 21:00)</desc>
-  </programme>
-  <programme start="20260317041914 +0100" stop="20260317081914 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Manchester City - Real Madrid (Martes 17/03 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Martes 17/03 - 21:00)</desc>
-  </programme>
-  <programme start="20260317081914 +0100" stop="20260317121914 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Manchester City - Real Madrid (Martes 17/03 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Martes 17/03 - 21:00)</desc>
-  </programme>
-  <programme start="20260317121914 +0100" stop="20260317161914 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Manchester City - Real Madrid (Martes 17/03 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Martes 17/03 - 21:00)</desc>
-  </programme>
-  <programme start="20260317161914 +0100" stop="20260317201914 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Manchester City - Real Madrid (Martes 17/03 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Martes 17/03 - 21:00)</desc>
-  </programme>
-  <programme start="20260317201914 +0100" stop="20260317210000 +0100" channel="Fútbol 1">
+  <programme start="20260317200537 +0100" stop="20260317210000 +0100" channel="Fútbol 1">
     <title>Próximo partido: Manchester City - Real Madrid (Martes 17/03 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Martes 17/03 - 21:00)</desc>
   </programme>
@@ -166,135 +142,111 @@
     <title>Laliga Hypermotion: Sporting - Castellón</title>
     <desc>Fútbol en directo - Laliga Hypermotion: Sporting - Castellón</desc>
   </programme>
-  <programme start="20260316081914 +0100" stop="20260316121914 +0100" channel="Fútbol 2">
+  <programme start="20260317080537 +0100" stop="20260317120537 +0100" channel="Fútbol 2">
     <title>Próximo partido: Cádiz - Málaga (Sábado 21/03 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 21/03 - 18:30)</desc>
   </programme>
-  <programme start="20260316121914 +0100" stop="20260316161914 +0100" channel="Fútbol 2">
+  <programme start="20260317120537 +0100" stop="20260317160537 +0100" channel="Fútbol 2">
     <title>Próximo partido: Cádiz - Málaga (Sábado 21/03 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 21/03 - 18:30)</desc>
   </programme>
-  <programme start="20260316161914 +0100" stop="20260316201914 +0100" channel="Fútbol 2">
+  <programme start="20260317160537 +0100" stop="20260317200537 +0100" channel="Fútbol 2">
     <title>Próximo partido: Cádiz - Málaga (Sábado 21/03 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 21/03 - 18:30)</desc>
   </programme>
-  <programme start="20260316201914 +0100" stop="20260317001914 +0100" channel="Fútbol 2">
+  <programme start="20260317200537 +0100" stop="20260318000537 +0100" channel="Fútbol 2">
     <title>Próximo partido: Cádiz - Málaga (Sábado 21/03 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 21/03 - 18:30)</desc>
   </programme>
-  <programme start="20260317001914 +0100" stop="20260317041914 +0100" channel="Fútbol 2">
+  <programme start="20260318000537 +0100" stop="20260318040537 +0100" channel="Fútbol 2">
     <title>Próximo partido: Cádiz - Málaga (Sábado 21/03 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 21/03 - 18:30)</desc>
   </programme>
-  <programme start="20260317041914 +0100" stop="20260317081914 +0100" channel="Fútbol 2">
+  <programme start="20260318040537 +0100" stop="20260318080537 +0100" channel="Fútbol 2">
     <title>Próximo partido: Cádiz - Málaga (Sábado 21/03 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 21/03 - 18:30)</desc>
   </programme>
-  <programme start="20260317081914 +0100" stop="20260317121914 +0100" channel="Fútbol 2">
+  <programme start="20260318080537 +0100" stop="20260318120537 +0100" channel="Fútbol 2">
     <title>Próximo partido: Cádiz - Málaga (Sábado 21/03 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 21/03 - 18:30)</desc>
   </programme>
-  <programme start="20260317121914 +0100" stop="20260317161914 +0100" channel="Fútbol 2">
+  <programme start="20260318120537 +0100" stop="20260318160537 +0100" channel="Fútbol 2">
     <title>Próximo partido: Cádiz - Málaga (Sábado 21/03 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 21/03 - 18:30)</desc>
   </programme>
-  <programme start="20260317161914 +0100" stop="20260317201914 +0100" channel="Fútbol 2">
+  <programme start="20260318160537 +0100" stop="20260318200537 +0100" channel="Fútbol 2">
     <title>Próximo partido: Cádiz - Málaga (Sábado 21/03 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 21/03 - 18:30)</desc>
   </programme>
-  <programme start="20260317201914 +0100" stop="20260318001914 +0100" channel="Fútbol 2">
+  <programme start="20260318200537 +0100" stop="20260319000537 +0100" channel="Fútbol 2">
     <title>Próximo partido: Cádiz - Málaga (Sábado 21/03 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 21/03 - 18:30)</desc>
   </programme>
-  <programme start="20260318001914 +0100" stop="20260318041914 +0100" channel="Fútbol 2">
+  <programme start="20260319000537 +0100" stop="20260319040537 +0100" channel="Fútbol 2">
     <title>Próximo partido: Cádiz - Málaga (Sábado 21/03 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 21/03 - 18:30)</desc>
   </programme>
-  <programme start="20260318041914 +0100" stop="20260318081914 +0100" channel="Fútbol 2">
+  <programme start="20260319040537 +0100" stop="20260319080537 +0100" channel="Fútbol 2">
     <title>Próximo partido: Cádiz - Málaga (Sábado 21/03 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 21/03 - 18:30)</desc>
   </programme>
-  <programme start="20260318081914 +0100" stop="20260318121914 +0100" channel="Fútbol 2">
+  <programme start="20260319080537 +0100" stop="20260319120537 +0100" channel="Fútbol 2">
     <title>Próximo partido: Cádiz - Málaga (Sábado 21/03 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 21/03 - 18:30)</desc>
   </programme>
-  <programme start="20260318121914 +0100" stop="20260318161914 +0100" channel="Fútbol 2">
+  <programme start="20260319120537 +0100" stop="20260319160537 +0100" channel="Fútbol 2">
     <title>Próximo partido: Cádiz - Málaga (Sábado 21/03 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 21/03 - 18:30)</desc>
   </programme>
-  <programme start="20260318161914 +0100" stop="20260318201914 +0100" channel="Fútbol 2">
+  <programme start="20260319160537 +0100" stop="20260319200537 +0100" channel="Fútbol 2">
     <title>Próximo partido: Cádiz - Málaga (Sábado 21/03 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 21/03 - 18:30)</desc>
   </programme>
-  <programme start="20260318201914 +0100" stop="20260319001914 +0100" channel="Fútbol 2">
+  <programme start="20260319200537 +0100" stop="20260320000537 +0100" channel="Fútbol 2">
     <title>Próximo partido: Cádiz - Málaga (Sábado 21/03 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 21/03 - 18:30)</desc>
   </programme>
-  <programme start="20260319001914 +0100" stop="20260319041914 +0100" channel="Fútbol 2">
+  <programme start="20260320000537 +0100" stop="20260320040537 +0100" channel="Fútbol 2">
     <title>Próximo partido: Cádiz - Málaga (Sábado 21/03 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 21/03 - 18:30)</desc>
   </programme>
-  <programme start="20260319041914 +0100" stop="20260319081914 +0100" channel="Fútbol 2">
+  <programme start="20260320040537 +0100" stop="20260320080537 +0100" channel="Fútbol 2">
     <title>Próximo partido: Cádiz - Málaga (Sábado 21/03 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 21/03 - 18:30)</desc>
   </programme>
-  <programme start="20260319081914 +0100" stop="20260319121914 +0100" channel="Fútbol 2">
+  <programme start="20260320080537 +0100" stop="20260320120537 +0100" channel="Fútbol 2">
     <title>Próximo partido: Cádiz - Málaga (Sábado 21/03 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 21/03 - 18:30)</desc>
   </programme>
-  <programme start="20260319121914 +0100" stop="20260319161914 +0100" channel="Fútbol 2">
+  <programme start="20260320120537 +0100" stop="20260320160537 +0100" channel="Fútbol 2">
     <title>Próximo partido: Cádiz - Málaga (Sábado 21/03 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 21/03 - 18:30)</desc>
   </programme>
-  <programme start="20260319161914 +0100" stop="20260319201914 +0100" channel="Fútbol 2">
+  <programme start="20260320160537 +0100" stop="20260320200537 +0100" channel="Fútbol 2">
     <title>Próximo partido: Cádiz - Málaga (Sábado 21/03 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 21/03 - 18:30)</desc>
   </programme>
-  <programme start="20260319201914 +0100" stop="20260320001914 +0100" channel="Fútbol 2">
+  <programme start="20260320200537 +0100" stop="20260321000537 +0100" channel="Fútbol 2">
     <title>Próximo partido: Cádiz - Málaga (Sábado 21/03 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 21/03 - 18:30)</desc>
   </programme>
-  <programme start="20260320001914 +0100" stop="20260320041914 +0100" channel="Fútbol 2">
+  <programme start="20260321000537 +0100" stop="20260321040537 +0100" channel="Fútbol 2">
     <title>Próximo partido: Cádiz - Málaga (Sábado 21/03 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 21/03 - 18:30)</desc>
   </programme>
-  <programme start="20260320041914 +0100" stop="20260320081914 +0100" channel="Fútbol 2">
+  <programme start="20260321040537 +0100" stop="20260321080537 +0100" channel="Fútbol 2">
     <title>Próximo partido: Cádiz - Málaga (Sábado 21/03 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 21/03 - 18:30)</desc>
   </programme>
-  <programme start="20260320081914 +0100" stop="20260320121914 +0100" channel="Fútbol 2">
+  <programme start="20260321080537 +0100" stop="20260321120537 +0100" channel="Fútbol 2">
     <title>Próximo partido: Cádiz - Málaga (Sábado 21/03 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 21/03 - 18:30)</desc>
   </programme>
-  <programme start="20260320121914 +0100" stop="20260320161914 +0100" channel="Fútbol 2">
+  <programme start="20260321120537 +0100" stop="20260321160537 +0100" channel="Fútbol 2">
     <title>Próximo partido: Cádiz - Málaga (Sábado 21/03 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 21/03 - 18:30)</desc>
   </programme>
-  <programme start="20260320161914 +0100" stop="20260320201914 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Cádiz - Málaga (Sábado 21/03 - 18:30)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Sábado 21/03 - 18:30)</desc>
-  </programme>
-  <programme start="20260320201914 +0100" stop="20260321001914 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Cádiz - Málaga (Sábado 21/03 - 18:30)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Sábado 21/03 - 18:30)</desc>
-  </programme>
-  <programme start="20260321001914 +0100" stop="20260321041914 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Cádiz - Málaga (Sábado 21/03 - 18:30)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Sábado 21/03 - 18:30)</desc>
-  </programme>
-  <programme start="20260321041914 +0100" stop="20260321081914 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Cádiz - Málaga (Sábado 21/03 - 18:30)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Sábado 21/03 - 18:30)</desc>
-  </programme>
-  <programme start="20260321081914 +0100" stop="20260321121914 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Cádiz - Málaga (Sábado 21/03 - 18:30)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Sábado 21/03 - 18:30)</desc>
-  </programme>
-  <programme start="20260321121914 +0100" stop="20260321161914 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Cádiz - Málaga (Sábado 21/03 - 18:30)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Sábado 21/03 - 18:30)</desc>
-  </programme>
-  <programme start="20260321161914 +0100" stop="20260321183000 +0100" channel="Fútbol 2">
+  <programme start="20260321160537 +0100" stop="20260321183000 +0100" channel="Fútbol 2">
     <title>Próximo partido: Cádiz - Málaga (Sábado 21/03 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 21/03 - 18:30)</desc>
   </programme>
@@ -385,115 +337,91 @@
     <title>Bundesliga Alemania: Stuttgart - Leipzig</title>
     <desc>Fútbol en directo - Bundesliga Alemania: Stuttgart - Leipzig</desc>
   </programme>
-  <programme start="20260316081914 +0100" stop="20260316121914 +0100" channel="Fútbol 3">
+  <programme start="20260317080537 +0100" stop="20260317120537 +0100" channel="Fútbol 3">
     <title>Próximo partido: Leipzig - Hoffenheim (Viernes 20/03 - 20:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Viernes 20/03 - 20:30)</desc>
   </programme>
-  <programme start="20260316121914 +0100" stop="20260316161914 +0100" channel="Fútbol 3">
+  <programme start="20260317120537 +0100" stop="20260317160537 +0100" channel="Fútbol 3">
     <title>Próximo partido: Leipzig - Hoffenheim (Viernes 20/03 - 20:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Viernes 20/03 - 20:30)</desc>
   </programme>
-  <programme start="20260316161914 +0100" stop="20260316201914 +0100" channel="Fútbol 3">
+  <programme start="20260317160537 +0100" stop="20260317200537 +0100" channel="Fútbol 3">
     <title>Próximo partido: Leipzig - Hoffenheim (Viernes 20/03 - 20:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Viernes 20/03 - 20:30)</desc>
   </programme>
-  <programme start="20260316201914 +0100" stop="20260317001914 +0100" channel="Fútbol 3">
+  <programme start="20260317200537 +0100" stop="20260318000537 +0100" channel="Fútbol 3">
     <title>Próximo partido: Leipzig - Hoffenheim (Viernes 20/03 - 20:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Viernes 20/03 - 20:30)</desc>
   </programme>
-  <programme start="20260317001914 +0100" stop="20260317041914 +0100" channel="Fútbol 3">
+  <programme start="20260318000537 +0100" stop="20260318040537 +0100" channel="Fútbol 3">
     <title>Próximo partido: Leipzig - Hoffenheim (Viernes 20/03 - 20:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Viernes 20/03 - 20:30)</desc>
   </programme>
-  <programme start="20260317041914 +0100" stop="20260317081914 +0100" channel="Fútbol 3">
+  <programme start="20260318040537 +0100" stop="20260318080537 +0100" channel="Fútbol 3">
     <title>Próximo partido: Leipzig - Hoffenheim (Viernes 20/03 - 20:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Viernes 20/03 - 20:30)</desc>
   </programme>
-  <programme start="20260317081914 +0100" stop="20260317121914 +0100" channel="Fútbol 3">
+  <programme start="20260318080537 +0100" stop="20260318120537 +0100" channel="Fútbol 3">
     <title>Próximo partido: Leipzig - Hoffenheim (Viernes 20/03 - 20:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Viernes 20/03 - 20:30)</desc>
   </programme>
-  <programme start="20260317121914 +0100" stop="20260317161914 +0100" channel="Fútbol 3">
+  <programme start="20260318120537 +0100" stop="20260318160537 +0100" channel="Fútbol 3">
     <title>Próximo partido: Leipzig - Hoffenheim (Viernes 20/03 - 20:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Viernes 20/03 - 20:30)</desc>
   </programme>
-  <programme start="20260317161914 +0100" stop="20260317201914 +0100" channel="Fútbol 3">
+  <programme start="20260318160537 +0100" stop="20260318200537 +0100" channel="Fútbol 3">
     <title>Próximo partido: Leipzig - Hoffenheim (Viernes 20/03 - 20:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Viernes 20/03 - 20:30)</desc>
   </programme>
-  <programme start="20260317201914 +0100" stop="20260318001914 +0100" channel="Fútbol 3">
+  <programme start="20260318200537 +0100" stop="20260319000537 +0100" channel="Fútbol 3">
     <title>Próximo partido: Leipzig - Hoffenheim (Viernes 20/03 - 20:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Viernes 20/03 - 20:30)</desc>
   </programme>
-  <programme start="20260318001914 +0100" stop="20260318041914 +0100" channel="Fútbol 3">
+  <programme start="20260319000537 +0100" stop="20260319040537 +0100" channel="Fútbol 3">
     <title>Próximo partido: Leipzig - Hoffenheim (Viernes 20/03 - 20:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Viernes 20/03 - 20:30)</desc>
   </programme>
-  <programme start="20260318041914 +0100" stop="20260318081914 +0100" channel="Fútbol 3">
+  <programme start="20260319040537 +0100" stop="20260319080537 +0100" channel="Fútbol 3">
     <title>Próximo partido: Leipzig - Hoffenheim (Viernes 20/03 - 20:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Viernes 20/03 - 20:30)</desc>
   </programme>
-  <programme start="20260318081914 +0100" stop="20260318121914 +0100" channel="Fútbol 3">
+  <programme start="20260319080537 +0100" stop="20260319120537 +0100" channel="Fútbol 3">
     <title>Próximo partido: Leipzig - Hoffenheim (Viernes 20/03 - 20:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Viernes 20/03 - 20:30)</desc>
   </programme>
-  <programme start="20260318121914 +0100" stop="20260318161914 +0100" channel="Fútbol 3">
+  <programme start="20260319120537 +0100" stop="20260319160537 +0100" channel="Fútbol 3">
     <title>Próximo partido: Leipzig - Hoffenheim (Viernes 20/03 - 20:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Viernes 20/03 - 20:30)</desc>
   </programme>
-  <programme start="20260318161914 +0100" stop="20260318201914 +0100" channel="Fútbol 3">
+  <programme start="20260319160537 +0100" stop="20260319200537 +0100" channel="Fútbol 3">
     <title>Próximo partido: Leipzig - Hoffenheim (Viernes 20/03 - 20:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Viernes 20/03 - 20:30)</desc>
   </programme>
-  <programme start="20260318201914 +0100" stop="20260319001914 +0100" channel="Fútbol 3">
+  <programme start="20260319200537 +0100" stop="20260320000537 +0100" channel="Fútbol 3">
     <title>Próximo partido: Leipzig - Hoffenheim (Viernes 20/03 - 20:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Viernes 20/03 - 20:30)</desc>
   </programme>
-  <programme start="20260319001914 +0100" stop="20260319041914 +0100" channel="Fútbol 3">
+  <programme start="20260320000537 +0100" stop="20260320040537 +0100" channel="Fútbol 3">
     <title>Próximo partido: Leipzig - Hoffenheim (Viernes 20/03 - 20:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Viernes 20/03 - 20:30)</desc>
   </programme>
-  <programme start="20260319041914 +0100" stop="20260319081914 +0100" channel="Fútbol 3">
+  <programme start="20260320040537 +0100" stop="20260320080537 +0100" channel="Fútbol 3">
     <title>Próximo partido: Leipzig - Hoffenheim (Viernes 20/03 - 20:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Viernes 20/03 - 20:30)</desc>
   </programme>
-  <programme start="20260319081914 +0100" stop="20260319121914 +0100" channel="Fútbol 3">
+  <programme start="20260320080537 +0100" stop="20260320120537 +0100" channel="Fútbol 3">
     <title>Próximo partido: Leipzig - Hoffenheim (Viernes 20/03 - 20:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Viernes 20/03 - 20:30)</desc>
   </programme>
-  <programme start="20260319121914 +0100" stop="20260319161914 +0100" channel="Fútbol 3">
+  <programme start="20260320120537 +0100" stop="20260320160537 +0100" channel="Fútbol 3">
     <title>Próximo partido: Leipzig - Hoffenheim (Viernes 20/03 - 20:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Viernes 20/03 - 20:30)</desc>
   </programme>
-  <programme start="20260319161914 +0100" stop="20260319201914 +0100" channel="Fútbol 3">
+  <programme start="20260320160537 +0100" stop="20260320200537 +0100" channel="Fútbol 3">
     <title>Próximo partido: Leipzig - Hoffenheim (Viernes 20/03 - 20:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Viernes 20/03 - 20:30)</desc>
   </programme>
-  <programme start="20260319201914 +0100" stop="20260320001914 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Leipzig - Hoffenheim (Viernes 20/03 - 20:30)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Viernes 20/03 - 20:30)</desc>
-  </programme>
-  <programme start="20260320001914 +0100" stop="20260320041914 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Leipzig - Hoffenheim (Viernes 20/03 - 20:30)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Viernes 20/03 - 20:30)</desc>
-  </programme>
-  <programme start="20260320041914 +0100" stop="20260320081914 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Leipzig - Hoffenheim (Viernes 20/03 - 20:30)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Viernes 20/03 - 20:30)</desc>
-  </programme>
-  <programme start="20260320081914 +0100" stop="20260320121914 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Leipzig - Hoffenheim (Viernes 20/03 - 20:30)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Viernes 20/03 - 20:30)</desc>
-  </programme>
-  <programme start="20260320121914 +0100" stop="20260320161914 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Leipzig - Hoffenheim (Viernes 20/03 - 20:30)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Viernes 20/03 - 20:30)</desc>
-  </programme>
-  <programme start="20260320161914 +0100" stop="20260320201914 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Leipzig - Hoffenheim (Viernes 20/03 - 20:30)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Viernes 20/03 - 20:30)</desc>
-  </programme>
-  <programme start="20260320201914 +0100" stop="20260320203000 +0100" channel="Fútbol 3">
+  <programme start="20260320200537 +0100" stop="20260320203000 +0100" channel="Fútbol 3">
     <title>Próximo partido: Leipzig - Hoffenheim (Viernes 20/03 - 20:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Viernes 20/03 - 20:30)</desc>
   </programme>
