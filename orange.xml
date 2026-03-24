@@ -3,119 +3,91 @@
   <channel id="Fútbol 1">
     <display-name>Fútbol 1</display-name>
   </channel>
-  <programme start="20260321210000 +0100" stop="20260321230000 +0100" channel="Fútbol 1">
-    <title>Laliga Ea Sports: Sevilla - Valencia</title>
-    <desc>Fútbol en directo - Laliga Ea Sports: Sevilla - Valencia</desc>
-  </programme>
-  <programme start="20260323081226 +0100" stop="20260323121226 +0100" channel="Fútbol 1">
+  <programme start="20260324080533 +0100" stop="20260324120533 +0100" channel="Fútbol 1">
     <title>Próximo partido: España - Serbia (Viernes 27/03 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Viernes 27/03 - 21:00)</desc>
   </programme>
-  <programme start="20260323121226 +0100" stop="20260323161226 +0100" channel="Fútbol 1">
+  <programme start="20260324120533 +0100" stop="20260324160533 +0100" channel="Fútbol 1">
     <title>Próximo partido: España - Serbia (Viernes 27/03 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Viernes 27/03 - 21:00)</desc>
   </programme>
-  <programme start="20260323161226 +0100" stop="20260323201226 +0100" channel="Fútbol 1">
+  <programme start="20260324160533 +0100" stop="20260324200533 +0100" channel="Fútbol 1">
     <title>Próximo partido: España - Serbia (Viernes 27/03 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Viernes 27/03 - 21:00)</desc>
   </programme>
-  <programme start="20260323201226 +0100" stop="20260324001226 +0100" channel="Fútbol 1">
+  <programme start="20260324200533 +0100" stop="20260325000533 +0100" channel="Fútbol 1">
     <title>Próximo partido: España - Serbia (Viernes 27/03 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Viernes 27/03 - 21:00)</desc>
   </programme>
-  <programme start="20260324001226 +0100" stop="20260324041226 +0100" channel="Fútbol 1">
+  <programme start="20260325000533 +0100" stop="20260325040533 +0100" channel="Fútbol 1">
     <title>Próximo partido: España - Serbia (Viernes 27/03 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Viernes 27/03 - 21:00)</desc>
   </programme>
-  <programme start="20260324041226 +0100" stop="20260324081226 +0100" channel="Fútbol 1">
+  <programme start="20260325040533 +0100" stop="20260325080533 +0100" channel="Fútbol 1">
     <title>Próximo partido: España - Serbia (Viernes 27/03 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Viernes 27/03 - 21:00)</desc>
   </programme>
-  <programme start="20260324081226 +0100" stop="20260324121226 +0100" channel="Fútbol 1">
+  <programme start="20260325080533 +0100" stop="20260325120533 +0100" channel="Fútbol 1">
     <title>Próximo partido: España - Serbia (Viernes 27/03 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Viernes 27/03 - 21:00)</desc>
   </programme>
-  <programme start="20260324121226 +0100" stop="20260324161226 +0100" channel="Fútbol 1">
+  <programme start="20260325120533 +0100" stop="20260325160533 +0100" channel="Fútbol 1">
     <title>Próximo partido: España - Serbia (Viernes 27/03 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Viernes 27/03 - 21:00)</desc>
   </programme>
-  <programme start="20260324161226 +0100" stop="20260324201226 +0100" channel="Fútbol 1">
+  <programme start="20260325160533 +0100" stop="20260325200533 +0100" channel="Fútbol 1">
     <title>Próximo partido: España - Serbia (Viernes 27/03 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Viernes 27/03 - 21:00)</desc>
   </programme>
-  <programme start="20260324201226 +0100" stop="20260325001226 +0100" channel="Fútbol 1">
+  <programme start="20260325200533 +0100" stop="20260326000533 +0100" channel="Fútbol 1">
     <title>Próximo partido: España - Serbia (Viernes 27/03 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Viernes 27/03 - 21:00)</desc>
   </programme>
-  <programme start="20260325001226 +0100" stop="20260325041226 +0100" channel="Fútbol 1">
+  <programme start="20260326000533 +0100" stop="20260326040533 +0100" channel="Fútbol 1">
     <title>Próximo partido: España - Serbia (Viernes 27/03 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Viernes 27/03 - 21:00)</desc>
   </programme>
-  <programme start="20260325041226 +0100" stop="20260325081226 +0100" channel="Fútbol 1">
+  <programme start="20260326040533 +0100" stop="20260326080533 +0100" channel="Fútbol 1">
     <title>Próximo partido: España - Serbia (Viernes 27/03 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Viernes 27/03 - 21:00)</desc>
   </programme>
-  <programme start="20260325081226 +0100" stop="20260325121226 +0100" channel="Fútbol 1">
+  <programme start="20260326080533 +0100" stop="20260326120533 +0100" channel="Fútbol 1">
     <title>Próximo partido: España - Serbia (Viernes 27/03 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Viernes 27/03 - 21:00)</desc>
   </programme>
-  <programme start="20260325121226 +0100" stop="20260325161226 +0100" channel="Fútbol 1">
+  <programme start="20260326120533 +0100" stop="20260326160533 +0100" channel="Fútbol 1">
     <title>Próximo partido: España - Serbia (Viernes 27/03 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Viernes 27/03 - 21:00)</desc>
   </programme>
-  <programme start="20260325161226 +0100" stop="20260325201226 +0100" channel="Fútbol 1">
+  <programme start="20260326160533 +0100" stop="20260326200533 +0100" channel="Fútbol 1">
     <title>Próximo partido: España - Serbia (Viernes 27/03 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Viernes 27/03 - 21:00)</desc>
   </programme>
-  <programme start="20260325201226 +0100" stop="20260326001226 +0100" channel="Fútbol 1">
+  <programme start="20260326200533 +0100" stop="20260327000533 +0100" channel="Fútbol 1">
     <title>Próximo partido: España - Serbia (Viernes 27/03 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Viernes 27/03 - 21:00)</desc>
   </programme>
-  <programme start="20260326001226 +0100" stop="20260326041226 +0100" channel="Fútbol 1">
+  <programme start="20260327000533 +0100" stop="20260327040533 +0100" channel="Fútbol 1">
     <title>Próximo partido: España - Serbia (Viernes 27/03 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Viernes 27/03 - 21:00)</desc>
   </programme>
-  <programme start="20260326041226 +0100" stop="20260326081226 +0100" channel="Fútbol 1">
+  <programme start="20260327040533 +0100" stop="20260327080533 +0100" channel="Fútbol 1">
     <title>Próximo partido: España - Serbia (Viernes 27/03 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Viernes 27/03 - 21:00)</desc>
   </programme>
-  <programme start="20260326081226 +0100" stop="20260326121226 +0100" channel="Fútbol 1">
+  <programme start="20260327080533 +0100" stop="20260327120533 +0100" channel="Fútbol 1">
     <title>Próximo partido: España - Serbia (Viernes 27/03 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Viernes 27/03 - 21:00)</desc>
   </programme>
-  <programme start="20260326121226 +0100" stop="20260326161226 +0100" channel="Fútbol 1">
+  <programme start="20260327120533 +0100" stop="20260327160533 +0100" channel="Fútbol 1">
     <title>Próximo partido: España - Serbia (Viernes 27/03 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Viernes 27/03 - 21:00)</desc>
   </programme>
-  <programme start="20260326161226 +0100" stop="20260326201226 +0100" channel="Fútbol 1">
+  <programme start="20260327160533 +0100" stop="20260327200533 +0100" channel="Fútbol 1">
     <title>Próximo partido: España - Serbia (Viernes 27/03 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Viernes 27/03 - 21:00)</desc>
   </programme>
-  <programme start="20260326201226 +0100" stop="20260327001226 +0100" channel="Fútbol 1">
-    <title>Próximo partido: España - Serbia (Viernes 27/03 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Viernes 27/03 - 21:00)</desc>
-  </programme>
-  <programme start="20260327001226 +0100" stop="20260327041226 +0100" channel="Fútbol 1">
-    <title>Próximo partido: España - Serbia (Viernes 27/03 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Viernes 27/03 - 21:00)</desc>
-  </programme>
-  <programme start="20260327041226 +0100" stop="20260327081226 +0100" channel="Fútbol 1">
-    <title>Próximo partido: España - Serbia (Viernes 27/03 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Viernes 27/03 - 21:00)</desc>
-  </programme>
-  <programme start="20260327081226 +0100" stop="20260327121226 +0100" channel="Fútbol 1">
-    <title>Próximo partido: España - Serbia (Viernes 27/03 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Viernes 27/03 - 21:00)</desc>
-  </programme>
-  <programme start="20260327121226 +0100" stop="20260327161226 +0100" channel="Fútbol 1">
-    <title>Próximo partido: España - Serbia (Viernes 27/03 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Viernes 27/03 - 21:00)</desc>
-  </programme>
-  <programme start="20260327161226 +0100" stop="20260327201226 +0100" channel="Fútbol 1">
-    <title>Próximo partido: España - Serbia (Viernes 27/03 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Viernes 27/03 - 21:00)</desc>
-  </programme>
-  <programme start="20260327201226 +0100" stop="20260327210000 +0100" channel="Fútbol 1">
+  <programme start="20260327200533 +0100" stop="20260327210000 +0100" channel="Fútbol 1">
     <title>Próximo partido: España - Serbia (Viernes 27/03 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Viernes 27/03 - 21:00)</desc>
   </programme>
@@ -350,151 +322,111 @@
   <channel id="Fútbol 2">
     <display-name>Fútbol 2</display-name>
   </channel>
-  <programme start="20260321183000 +0100" stop="20260321203000 +0100" channel="Fútbol 2">
-    <title>Laliga Hypermotion: Cádiz - Málaga</title>
-    <desc>Fútbol en directo - Laliga Hypermotion: Cádiz - Málaga</desc>
-  </programme>
-  <programme start="20260321210000 +0100" stop="20260321230000 +0100" channel="Fútbol 2">
-    <title>Laliga Hypermotion: Deportivo - Zaragoza</title>
-    <desc>Fútbol en directo - Laliga Hypermotion: Deportivo - Zaragoza</desc>
-  </programme>
-  <programme start="20260322183000 +0100" stop="20260322203000 +0100" channel="Fútbol 2">
-    <title>Laliga Hypermotion: Las Palmas - Sporting</title>
-    <desc>Fútbol en directo - Laliga Hypermotion: Las Palmas - Sporting</desc>
-  </programme>
-  <programme start="20260323081226 +0100" stop="20260323121226 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Castellón - Cultural Leonesa (Lunes 23/03 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Lunes 23/03 - 21:00)</desc>
-  </programme>
-  <programme start="20260323121226 +0100" stop="20260323161226 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Castellón - Cultural Leonesa (Lunes 23/03 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Lunes 23/03 - 21:00)</desc>
-  </programme>
-  <programme start="20260323161226 +0100" stop="20260323201226 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Castellón - Cultural Leonesa (Lunes 23/03 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Lunes 23/03 - 21:00)</desc>
-  </programme>
-  <programme start="20260323201226 +0100" stop="20260323210000 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Castellón - Cultural Leonesa (Lunes 23/03 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Lunes 23/03 - 21:00)</desc>
-  </programme>
-  <programme start="20260323210000 +0100" stop="20260323230000 +0100" channel="Fútbol 2">
-    <title>Laliga Hypermotion: Castellón - Cultural Leonesa</title>
-    <desc>Fútbol en directo - Laliga Hypermotion: Castellón - Cultural Leonesa</desc>
-  </programme>
-  <programme start="20260323230000 +0100" stop="20260324030000 +0100" channel="Fútbol 2">
+  <programme start="20260324080533 +0100" stop="20260324120533 +0100" channel="Fútbol 2">
     <title>Próximo partido: Valladolid - Burgos (Sábado 28/03 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 28/03 - 16:15)</desc>
   </programme>
-  <programme start="20260324030000 +0100" stop="20260324070000 +0100" channel="Fútbol 2">
+  <programme start="20260324120533 +0100" stop="20260324160533 +0100" channel="Fútbol 2">
     <title>Próximo partido: Valladolid - Burgos (Sábado 28/03 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 28/03 - 16:15)</desc>
   </programme>
-  <programme start="20260324070000 +0100" stop="20260324110000 +0100" channel="Fútbol 2">
+  <programme start="20260324160533 +0100" stop="20260324200533 +0100" channel="Fútbol 2">
     <title>Próximo partido: Valladolid - Burgos (Sábado 28/03 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 28/03 - 16:15)</desc>
   </programme>
-  <programme start="20260324110000 +0100" stop="20260324150000 +0100" channel="Fútbol 2">
+  <programme start="20260324200533 +0100" stop="20260325000533 +0100" channel="Fútbol 2">
     <title>Próximo partido: Valladolid - Burgos (Sábado 28/03 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 28/03 - 16:15)</desc>
   </programme>
-  <programme start="20260324150000 +0100" stop="20260324190000 +0100" channel="Fútbol 2">
+  <programme start="20260325000533 +0100" stop="20260325040533 +0100" channel="Fútbol 2">
     <title>Próximo partido: Valladolid - Burgos (Sábado 28/03 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 28/03 - 16:15)</desc>
   </programme>
-  <programme start="20260324190000 +0100" stop="20260324230000 +0100" channel="Fútbol 2">
+  <programme start="20260325040533 +0100" stop="20260325080533 +0100" channel="Fútbol 2">
     <title>Próximo partido: Valladolid - Burgos (Sábado 28/03 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 28/03 - 16:15)</desc>
   </programme>
-  <programme start="20260324230000 +0100" stop="20260325030000 +0100" channel="Fútbol 2">
+  <programme start="20260325080533 +0100" stop="20260325120533 +0100" channel="Fútbol 2">
     <title>Próximo partido: Valladolid - Burgos (Sábado 28/03 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 28/03 - 16:15)</desc>
   </programme>
-  <programme start="20260325030000 +0100" stop="20260325070000 +0100" channel="Fútbol 2">
+  <programme start="20260325120533 +0100" stop="20260325160533 +0100" channel="Fútbol 2">
     <title>Próximo partido: Valladolid - Burgos (Sábado 28/03 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 28/03 - 16:15)</desc>
   </programme>
-  <programme start="20260325070000 +0100" stop="20260325110000 +0100" channel="Fútbol 2">
+  <programme start="20260325160533 +0100" stop="20260325200533 +0100" channel="Fútbol 2">
     <title>Próximo partido: Valladolid - Burgos (Sábado 28/03 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 28/03 - 16:15)</desc>
   </programme>
-  <programme start="20260325110000 +0100" stop="20260325150000 +0100" channel="Fútbol 2">
+  <programme start="20260325200533 +0100" stop="20260326000533 +0100" channel="Fútbol 2">
     <title>Próximo partido: Valladolid - Burgos (Sábado 28/03 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 28/03 - 16:15)</desc>
   </programme>
-  <programme start="20260325150000 +0100" stop="20260325190000 +0100" channel="Fútbol 2">
+  <programme start="20260326000533 +0100" stop="20260326040533 +0100" channel="Fútbol 2">
     <title>Próximo partido: Valladolid - Burgos (Sábado 28/03 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 28/03 - 16:15)</desc>
   </programme>
-  <programme start="20260325190000 +0100" stop="20260325230000 +0100" channel="Fútbol 2">
+  <programme start="20260326040533 +0100" stop="20260326080533 +0100" channel="Fútbol 2">
     <title>Próximo partido: Valladolid - Burgos (Sábado 28/03 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 28/03 - 16:15)</desc>
   </programme>
-  <programme start="20260325230000 +0100" stop="20260326030000 +0100" channel="Fútbol 2">
+  <programme start="20260326080533 +0100" stop="20260326120533 +0100" channel="Fútbol 2">
     <title>Próximo partido: Valladolid - Burgos (Sábado 28/03 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 28/03 - 16:15)</desc>
   </programme>
-  <programme start="20260326030000 +0100" stop="20260326070000 +0100" channel="Fútbol 2">
+  <programme start="20260326120533 +0100" stop="20260326160533 +0100" channel="Fútbol 2">
     <title>Próximo partido: Valladolid - Burgos (Sábado 28/03 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 28/03 - 16:15)</desc>
   </programme>
-  <programme start="20260326070000 +0100" stop="20260326110000 +0100" channel="Fútbol 2">
+  <programme start="20260326160533 +0100" stop="20260326200533 +0100" channel="Fútbol 2">
     <title>Próximo partido: Valladolid - Burgos (Sábado 28/03 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 28/03 - 16:15)</desc>
   </programme>
-  <programme start="20260326110000 +0100" stop="20260326150000 +0100" channel="Fútbol 2">
+  <programme start="20260326200533 +0100" stop="20260327000533 +0100" channel="Fútbol 2">
     <title>Próximo partido: Valladolid - Burgos (Sábado 28/03 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 28/03 - 16:15)</desc>
   </programme>
-  <programme start="20260326150000 +0100" stop="20260326190000 +0100" channel="Fútbol 2">
+  <programme start="20260327000533 +0100" stop="20260327040533 +0100" channel="Fútbol 2">
     <title>Próximo partido: Valladolid - Burgos (Sábado 28/03 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 28/03 - 16:15)</desc>
   </programme>
-  <programme start="20260326190000 +0100" stop="20260326230000 +0100" channel="Fútbol 2">
+  <programme start="20260327040533 +0100" stop="20260327080533 +0100" channel="Fútbol 2">
     <title>Próximo partido: Valladolid - Burgos (Sábado 28/03 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 28/03 - 16:15)</desc>
   </programme>
-  <programme start="20260326230000 +0100" stop="20260327030000 +0100" channel="Fútbol 2">
+  <programme start="20260327080533 +0100" stop="20260327120533 +0100" channel="Fútbol 2">
     <title>Próximo partido: Valladolid - Burgos (Sábado 28/03 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 28/03 - 16:15)</desc>
   </programme>
-  <programme start="20260327030000 +0100" stop="20260327070000 +0100" channel="Fútbol 2">
+  <programme start="20260327120533 +0100" stop="20260327160533 +0100" channel="Fútbol 2">
     <title>Próximo partido: Valladolid - Burgos (Sábado 28/03 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 28/03 - 16:15)</desc>
   </programme>
-  <programme start="20260327070000 +0100" stop="20260327110000 +0100" channel="Fútbol 2">
+  <programme start="20260327160533 +0100" stop="20260327200533 +0100" channel="Fútbol 2">
     <title>Próximo partido: Valladolid - Burgos (Sábado 28/03 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 28/03 - 16:15)</desc>
   </programme>
-  <programme start="20260327110000 +0100" stop="20260327150000 +0100" channel="Fútbol 2">
+  <programme start="20260327200533 +0100" stop="20260328000533 +0100" channel="Fútbol 2">
     <title>Próximo partido: Valladolid - Burgos (Sábado 28/03 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 28/03 - 16:15)</desc>
   </programme>
-  <programme start="20260327150000 +0100" stop="20260327190000 +0100" channel="Fútbol 2">
+  <programme start="20260328000533 +0100" stop="20260328040533 +0100" channel="Fútbol 2">
     <title>Próximo partido: Valladolid - Burgos (Sábado 28/03 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 28/03 - 16:15)</desc>
   </programme>
-  <programme start="20260327190000 +0100" stop="20260327230000 +0100" channel="Fútbol 2">
+  <programme start="20260328040533 +0100" stop="20260328080533 +0100" channel="Fútbol 2">
     <title>Próximo partido: Valladolid - Burgos (Sábado 28/03 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 28/03 - 16:15)</desc>
   </programme>
-  <programme start="20260327230000 +0100" stop="20260328030000 +0100" channel="Fútbol 2">
+  <programme start="20260328080533 +0100" stop="20260328120533 +0100" channel="Fútbol 2">
     <title>Próximo partido: Valladolid - Burgos (Sábado 28/03 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 28/03 - 16:15)</desc>
   </programme>
-  <programme start="20260328030000 +0100" stop="20260328070000 +0100" channel="Fútbol 2">
+  <programme start="20260328120533 +0100" stop="20260328160533 +0100" channel="Fútbol 2">
     <title>Próximo partido: Valladolid - Burgos (Sábado 28/03 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 28/03 - 16:15)</desc>
   </programme>
-  <programme start="20260328070000 +0100" stop="20260328110000 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Valladolid - Burgos (Sábado 28/03 - 16:15)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Sábado 28/03 - 16:15)</desc>
-  </programme>
-  <programme start="20260328110000 +0100" stop="20260328150000 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Valladolid - Burgos (Sábado 28/03 - 16:15)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Sábado 28/03 - 16:15)</desc>
-  </programme>
-  <programme start="20260328150000 +0100" stop="20260328161500 +0100" channel="Fútbol 2">
+  <programme start="20260328160533 +0100" stop="20260328161500 +0100" channel="Fútbol 2">
     <title>Próximo partido: Valladolid - Burgos (Sábado 28/03 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 28/03 - 16:15)</desc>
   </programme>
@@ -781,303 +713,279 @@
     <title>Serie A: Milan - Torino</title>
     <desc>Fútbol en directo - Serie A: Milan - Torino</desc>
   </programme>
-  <programme start="20260323081226 +0100" stop="20260323121226 +0100" channel="Fútbol 3">
+  <programme start="20260324080533 +0100" stop="20260324120533 +0100" channel="Fútbol 3">
     <title>Próximo partido: Stuttgart - Borussia Dortmund (Sábado 04/04 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 04/04 - 18:30)</desc>
   </programme>
-  <programme start="20260323121226 +0100" stop="20260323161226 +0100" channel="Fútbol 3">
+  <programme start="20260324120533 +0100" stop="20260324160533 +0100" channel="Fútbol 3">
     <title>Próximo partido: Stuttgart - Borussia Dortmund (Sábado 04/04 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 04/04 - 18:30)</desc>
   </programme>
-  <programme start="20260323161226 +0100" stop="20260323201226 +0100" channel="Fútbol 3">
+  <programme start="20260324160533 +0100" stop="20260324200533 +0100" channel="Fútbol 3">
     <title>Próximo partido: Stuttgart - Borussia Dortmund (Sábado 04/04 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 04/04 - 18:30)</desc>
   </programme>
-  <programme start="20260323201226 +0100" stop="20260324001226 +0100" channel="Fútbol 3">
+  <programme start="20260324200533 +0100" stop="20260325000533 +0100" channel="Fútbol 3">
     <title>Próximo partido: Stuttgart - Borussia Dortmund (Sábado 04/04 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 04/04 - 18:30)</desc>
   </programme>
-  <programme start="20260324001226 +0100" stop="20260324041226 +0100" channel="Fútbol 3">
+  <programme start="20260325000533 +0100" stop="20260325040533 +0100" channel="Fútbol 3">
     <title>Próximo partido: Stuttgart - Borussia Dortmund (Sábado 04/04 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 04/04 - 18:30)</desc>
   </programme>
-  <programme start="20260324041226 +0100" stop="20260324081226 +0100" channel="Fútbol 3">
+  <programme start="20260325040533 +0100" stop="20260325080533 +0100" channel="Fútbol 3">
     <title>Próximo partido: Stuttgart - Borussia Dortmund (Sábado 04/04 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 04/04 - 18:30)</desc>
   </programme>
-  <programme start="20260324081226 +0100" stop="20260324121226 +0100" channel="Fútbol 3">
+  <programme start="20260325080533 +0100" stop="20260325120533 +0100" channel="Fútbol 3">
     <title>Próximo partido: Stuttgart - Borussia Dortmund (Sábado 04/04 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 04/04 - 18:30)</desc>
   </programme>
-  <programme start="20260324121226 +0100" stop="20260324161226 +0100" channel="Fútbol 3">
+  <programme start="20260325120533 +0100" stop="20260325160533 +0100" channel="Fútbol 3">
     <title>Próximo partido: Stuttgart - Borussia Dortmund (Sábado 04/04 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 04/04 - 18:30)</desc>
   </programme>
-  <programme start="20260324161226 +0100" stop="20260324201226 +0100" channel="Fútbol 3">
+  <programme start="20260325160533 +0100" stop="20260325200533 +0100" channel="Fútbol 3">
     <title>Próximo partido: Stuttgart - Borussia Dortmund (Sábado 04/04 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 04/04 - 18:30)</desc>
   </programme>
-  <programme start="20260324201226 +0100" stop="20260325001226 +0100" channel="Fútbol 3">
+  <programme start="20260325200533 +0100" stop="20260326000533 +0100" channel="Fútbol 3">
     <title>Próximo partido: Stuttgart - Borussia Dortmund (Sábado 04/04 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 04/04 - 18:30)</desc>
   </programme>
-  <programme start="20260325001226 +0100" stop="20260325041226 +0100" channel="Fútbol 3">
+  <programme start="20260326000533 +0100" stop="20260326040533 +0100" channel="Fútbol 3">
     <title>Próximo partido: Stuttgart - Borussia Dortmund (Sábado 04/04 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 04/04 - 18:30)</desc>
   </programme>
-  <programme start="20260325041226 +0100" stop="20260325081226 +0100" channel="Fútbol 3">
+  <programme start="20260326040533 +0100" stop="20260326080533 +0100" channel="Fútbol 3">
     <title>Próximo partido: Stuttgart - Borussia Dortmund (Sábado 04/04 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 04/04 - 18:30)</desc>
   </programme>
-  <programme start="20260325081226 +0100" stop="20260325121226 +0100" channel="Fútbol 3">
+  <programme start="20260326080533 +0100" stop="20260326120533 +0100" channel="Fútbol 3">
     <title>Próximo partido: Stuttgart - Borussia Dortmund (Sábado 04/04 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 04/04 - 18:30)</desc>
   </programme>
-  <programme start="20260325121226 +0100" stop="20260325161226 +0100" channel="Fútbol 3">
+  <programme start="20260326120533 +0100" stop="20260326160533 +0100" channel="Fútbol 3">
     <title>Próximo partido: Stuttgart - Borussia Dortmund (Sábado 04/04 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 04/04 - 18:30)</desc>
   </programme>
-  <programme start="20260325161226 +0100" stop="20260325201226 +0100" channel="Fútbol 3">
+  <programme start="20260326160533 +0100" stop="20260326200533 +0100" channel="Fútbol 3">
     <title>Próximo partido: Stuttgart - Borussia Dortmund (Sábado 04/04 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 04/04 - 18:30)</desc>
   </programme>
-  <programme start="20260325201226 +0100" stop="20260326001226 +0100" channel="Fútbol 3">
+  <programme start="20260326200533 +0100" stop="20260327000533 +0100" channel="Fútbol 3">
     <title>Próximo partido: Stuttgart - Borussia Dortmund (Sábado 04/04 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 04/04 - 18:30)</desc>
   </programme>
-  <programme start="20260326001226 +0100" stop="20260326041226 +0100" channel="Fútbol 3">
+  <programme start="20260327000533 +0100" stop="20260327040533 +0100" channel="Fútbol 3">
     <title>Próximo partido: Stuttgart - Borussia Dortmund (Sábado 04/04 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 04/04 - 18:30)</desc>
   </programme>
-  <programme start="20260326041226 +0100" stop="20260326081226 +0100" channel="Fútbol 3">
+  <programme start="20260327040533 +0100" stop="20260327080533 +0100" channel="Fútbol 3">
     <title>Próximo partido: Stuttgart - Borussia Dortmund (Sábado 04/04 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 04/04 - 18:30)</desc>
   </programme>
-  <programme start="20260326081226 +0100" stop="20260326121226 +0100" channel="Fútbol 3">
+  <programme start="20260327080533 +0100" stop="20260327120533 +0100" channel="Fútbol 3">
     <title>Próximo partido: Stuttgart - Borussia Dortmund (Sábado 04/04 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 04/04 - 18:30)</desc>
   </programme>
-  <programme start="20260326121226 +0100" stop="20260326161226 +0100" channel="Fútbol 3">
+  <programme start="20260327120533 +0100" stop="20260327160533 +0100" channel="Fútbol 3">
     <title>Próximo partido: Stuttgart - Borussia Dortmund (Sábado 04/04 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 04/04 - 18:30)</desc>
   </programme>
-  <programme start="20260326161226 +0100" stop="20260326201226 +0100" channel="Fútbol 3">
+  <programme start="20260327160533 +0100" stop="20260327200533 +0100" channel="Fútbol 3">
     <title>Próximo partido: Stuttgart - Borussia Dortmund (Sábado 04/04 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 04/04 - 18:30)</desc>
   </programme>
-  <programme start="20260326201226 +0100" stop="20260327001226 +0100" channel="Fútbol 3">
+  <programme start="20260327200533 +0100" stop="20260328000533 +0100" channel="Fútbol 3">
     <title>Próximo partido: Stuttgart - Borussia Dortmund (Sábado 04/04 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 04/04 - 18:30)</desc>
   </programme>
-  <programme start="20260327001226 +0100" stop="20260327041226 +0100" channel="Fútbol 3">
+  <programme start="20260328000533 +0100" stop="20260328040533 +0100" channel="Fútbol 3">
     <title>Próximo partido: Stuttgart - Borussia Dortmund (Sábado 04/04 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 04/04 - 18:30)</desc>
   </programme>
-  <programme start="20260327041226 +0100" stop="20260327081226 +0100" channel="Fútbol 3">
+  <programme start="20260328040533 +0100" stop="20260328080533 +0100" channel="Fútbol 3">
     <title>Próximo partido: Stuttgart - Borussia Dortmund (Sábado 04/04 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 04/04 - 18:30)</desc>
   </programme>
-  <programme start="20260327081226 +0100" stop="20260327121226 +0100" channel="Fútbol 3">
+  <programme start="20260328080533 +0100" stop="20260328120533 +0100" channel="Fútbol 3">
     <title>Próximo partido: Stuttgart - Borussia Dortmund (Sábado 04/04 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 04/04 - 18:30)</desc>
   </programme>
-  <programme start="20260327121226 +0100" stop="20260327161226 +0100" channel="Fútbol 3">
+  <programme start="20260328120533 +0100" stop="20260328160533 +0100" channel="Fútbol 3">
     <title>Próximo partido: Stuttgart - Borussia Dortmund (Sábado 04/04 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 04/04 - 18:30)</desc>
   </programme>
-  <programme start="20260327161226 +0100" stop="20260327201226 +0100" channel="Fútbol 3">
+  <programme start="20260328160533 +0100" stop="20260328200533 +0100" channel="Fútbol 3">
     <title>Próximo partido: Stuttgart - Borussia Dortmund (Sábado 04/04 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 04/04 - 18:30)</desc>
   </programme>
-  <programme start="20260327201226 +0100" stop="20260328001226 +0100" channel="Fútbol 3">
+  <programme start="20260328200533 +0100" stop="20260329000533 +0100" channel="Fútbol 3">
     <title>Próximo partido: Stuttgart - Borussia Dortmund (Sábado 04/04 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 04/04 - 18:30)</desc>
   </programme>
-  <programme start="20260328001226 +0100" stop="20260328041226 +0100" channel="Fútbol 3">
+  <programme start="20260329000533 +0100" stop="20260329040533 +0100" channel="Fútbol 3">
     <title>Próximo partido: Stuttgart - Borussia Dortmund (Sábado 04/04 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 04/04 - 18:30)</desc>
   </programme>
-  <programme start="20260328041226 +0100" stop="20260328081226 +0100" channel="Fútbol 3">
+  <programme start="20260329040533 +0100" stop="20260329080533 +0100" channel="Fútbol 3">
     <title>Próximo partido: Stuttgart - Borussia Dortmund (Sábado 04/04 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 04/04 - 18:30)</desc>
   </programme>
-  <programme start="20260328081226 +0100" stop="20260328121226 +0100" channel="Fútbol 3">
+  <programme start="20260329080533 +0100" stop="20260329120533 +0100" channel="Fútbol 3">
     <title>Próximo partido: Stuttgart - Borussia Dortmund (Sábado 04/04 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 04/04 - 18:30)</desc>
   </programme>
-  <programme start="20260328121226 +0100" stop="20260328161226 +0100" channel="Fútbol 3">
+  <programme start="20260329120533 +0100" stop="20260329160533 +0100" channel="Fútbol 3">
     <title>Próximo partido: Stuttgart - Borussia Dortmund (Sábado 04/04 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 04/04 - 18:30)</desc>
   </programme>
-  <programme start="20260328161226 +0100" stop="20260328201226 +0100" channel="Fútbol 3">
+  <programme start="20260329160533 +0100" stop="20260329200533 +0100" channel="Fútbol 3">
     <title>Próximo partido: Stuttgart - Borussia Dortmund (Sábado 04/04 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 04/04 - 18:30)</desc>
   </programme>
-  <programme start="20260328201226 +0100" stop="20260329001226 +0100" channel="Fútbol 3">
+  <programme start="20260329200533 +0100" stop="20260330000533 +0100" channel="Fútbol 3">
     <title>Próximo partido: Stuttgart - Borussia Dortmund (Sábado 04/04 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 04/04 - 18:30)</desc>
   </programme>
-  <programme start="20260329001226 +0100" stop="20260329041226 +0100" channel="Fútbol 3">
+  <programme start="20260330000533 +0100" stop="20260330040533 +0100" channel="Fútbol 3">
     <title>Próximo partido: Stuttgart - Borussia Dortmund (Sábado 04/04 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 04/04 - 18:30)</desc>
   </programme>
-  <programme start="20260329041226 +0100" stop="20260329081226 +0100" channel="Fútbol 3">
+  <programme start="20260330040533 +0100" stop="20260330080533 +0100" channel="Fútbol 3">
     <title>Próximo partido: Stuttgart - Borussia Dortmund (Sábado 04/04 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 04/04 - 18:30)</desc>
   </programme>
-  <programme start="20260329081226 +0100" stop="20260329121226 +0100" channel="Fútbol 3">
+  <programme start="20260330080533 +0100" stop="20260330120533 +0100" channel="Fútbol 3">
     <title>Próximo partido: Stuttgart - Borussia Dortmund (Sábado 04/04 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 04/04 - 18:30)</desc>
   </programme>
-  <programme start="20260329121226 +0100" stop="20260329161226 +0100" channel="Fútbol 3">
+  <programme start="20260330120533 +0100" stop="20260330160533 +0100" channel="Fútbol 3">
     <title>Próximo partido: Stuttgart - Borussia Dortmund (Sábado 04/04 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 04/04 - 18:30)</desc>
   </programme>
-  <programme start="20260329161226 +0100" stop="20260329201226 +0100" channel="Fútbol 3">
+  <programme start="20260330160533 +0100" stop="20260330200533 +0100" channel="Fútbol 3">
     <title>Próximo partido: Stuttgart - Borussia Dortmund (Sábado 04/04 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 04/04 - 18:30)</desc>
   </programme>
-  <programme start="20260329201226 +0100" stop="20260330001226 +0100" channel="Fútbol 3">
+  <programme start="20260330200533 +0100" stop="20260331000533 +0100" channel="Fútbol 3">
     <title>Próximo partido: Stuttgart - Borussia Dortmund (Sábado 04/04 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 04/04 - 18:30)</desc>
   </programme>
-  <programme start="20260330001226 +0100" stop="20260330041226 +0100" channel="Fútbol 3">
+  <programme start="20260331000533 +0100" stop="20260331040533 +0100" channel="Fútbol 3">
     <title>Próximo partido: Stuttgart - Borussia Dortmund (Sábado 04/04 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 04/04 - 18:30)</desc>
   </programme>
-  <programme start="20260330041226 +0100" stop="20260330081226 +0100" channel="Fútbol 3">
+  <programme start="20260331040533 +0100" stop="20260331080533 +0100" channel="Fútbol 3">
     <title>Próximo partido: Stuttgart - Borussia Dortmund (Sábado 04/04 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 04/04 - 18:30)</desc>
   </programme>
-  <programme start="20260330081226 +0100" stop="20260330121226 +0100" channel="Fútbol 3">
+  <programme start="20260331080533 +0100" stop="20260331120533 +0100" channel="Fútbol 3">
     <title>Próximo partido: Stuttgart - Borussia Dortmund (Sábado 04/04 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 04/04 - 18:30)</desc>
   </programme>
-  <programme start="20260330121226 +0100" stop="20260330161226 +0100" channel="Fútbol 3">
+  <programme start="20260331120533 +0100" stop="20260331160533 +0100" channel="Fútbol 3">
     <title>Próximo partido: Stuttgart - Borussia Dortmund (Sábado 04/04 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 04/04 - 18:30)</desc>
   </programme>
-  <programme start="20260330161226 +0100" stop="20260330201226 +0100" channel="Fútbol 3">
+  <programme start="20260331160533 +0100" stop="20260331200533 +0100" channel="Fútbol 3">
     <title>Próximo partido: Stuttgart - Borussia Dortmund (Sábado 04/04 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 04/04 - 18:30)</desc>
   </programme>
-  <programme start="20260330201226 +0100" stop="20260331001226 +0100" channel="Fútbol 3">
+  <programme start="20260331200533 +0100" stop="20260401000533 +0100" channel="Fútbol 3">
     <title>Próximo partido: Stuttgart - Borussia Dortmund (Sábado 04/04 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 04/04 - 18:30)</desc>
   </programme>
-  <programme start="20260331001226 +0100" stop="20260331041226 +0100" channel="Fútbol 3">
+  <programme start="20260401000533 +0100" stop="20260401040533 +0100" channel="Fútbol 3">
     <title>Próximo partido: Stuttgart - Borussia Dortmund (Sábado 04/04 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 04/04 - 18:30)</desc>
   </programme>
-  <programme start="20260331041226 +0100" stop="20260331081226 +0100" channel="Fútbol 3">
+  <programme start="20260401040533 +0100" stop="20260401080533 +0100" channel="Fútbol 3">
     <title>Próximo partido: Stuttgart - Borussia Dortmund (Sábado 04/04 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 04/04 - 18:30)</desc>
   </programme>
-  <programme start="20260331081226 +0100" stop="20260331121226 +0100" channel="Fútbol 3">
+  <programme start="20260401080533 +0100" stop="20260401120533 +0100" channel="Fútbol 3">
     <title>Próximo partido: Stuttgart - Borussia Dortmund (Sábado 04/04 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 04/04 - 18:30)</desc>
   </programme>
-  <programme start="20260331121226 +0100" stop="20260331161226 +0100" channel="Fútbol 3">
+  <programme start="20260401120533 +0100" stop="20260401160533 +0100" channel="Fútbol 3">
     <title>Próximo partido: Stuttgart - Borussia Dortmund (Sábado 04/04 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 04/04 - 18:30)</desc>
   </programme>
-  <programme start="20260331161226 +0100" stop="20260331201226 +0100" channel="Fútbol 3">
+  <programme start="20260401160533 +0100" stop="20260401200533 +0100" channel="Fútbol 3">
     <title>Próximo partido: Stuttgart - Borussia Dortmund (Sábado 04/04 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 04/04 - 18:30)</desc>
   </programme>
-  <programme start="20260331201226 +0100" stop="20260401001226 +0100" channel="Fútbol 3">
+  <programme start="20260401200533 +0100" stop="20260402000533 +0100" channel="Fútbol 3">
     <title>Próximo partido: Stuttgart - Borussia Dortmund (Sábado 04/04 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 04/04 - 18:30)</desc>
   </programme>
-  <programme start="20260401001226 +0100" stop="20260401041226 +0100" channel="Fútbol 3">
+  <programme start="20260402000533 +0100" stop="20260402040533 +0100" channel="Fútbol 3">
     <title>Próximo partido: Stuttgart - Borussia Dortmund (Sábado 04/04 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 04/04 - 18:30)</desc>
   </programme>
-  <programme start="20260401041226 +0100" stop="20260401081226 +0100" channel="Fútbol 3">
+  <programme start="20260402040533 +0100" stop="20260402080533 +0100" channel="Fútbol 3">
     <title>Próximo partido: Stuttgart - Borussia Dortmund (Sábado 04/04 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 04/04 - 18:30)</desc>
   </programme>
-  <programme start="20260401081226 +0100" stop="20260401121226 +0100" channel="Fútbol 3">
+  <programme start="20260402080533 +0100" stop="20260402120533 +0100" channel="Fútbol 3">
     <title>Próximo partido: Stuttgart - Borussia Dortmund (Sábado 04/04 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 04/04 - 18:30)</desc>
   </programme>
-  <programme start="20260401121226 +0100" stop="20260401161226 +0100" channel="Fútbol 3">
+  <programme start="20260402120533 +0100" stop="20260402160533 +0100" channel="Fútbol 3">
     <title>Próximo partido: Stuttgart - Borussia Dortmund (Sábado 04/04 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 04/04 - 18:30)</desc>
   </programme>
-  <programme start="20260401161226 +0100" stop="20260401201226 +0100" channel="Fútbol 3">
+  <programme start="20260402160533 +0100" stop="20260402200533 +0100" channel="Fútbol 3">
     <title>Próximo partido: Stuttgart - Borussia Dortmund (Sábado 04/04 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 04/04 - 18:30)</desc>
   </programme>
-  <programme start="20260401201226 +0100" stop="20260402001226 +0100" channel="Fútbol 3">
+  <programme start="20260402200533 +0100" stop="20260403000533 +0100" channel="Fútbol 3">
     <title>Próximo partido: Stuttgart - Borussia Dortmund (Sábado 04/04 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 04/04 - 18:30)</desc>
   </programme>
-  <programme start="20260402001226 +0100" stop="20260402041226 +0100" channel="Fútbol 3">
+  <programme start="20260403000533 +0100" stop="20260403040533 +0100" channel="Fútbol 3">
     <title>Próximo partido: Stuttgart - Borussia Dortmund (Sábado 04/04 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 04/04 - 18:30)</desc>
   </programme>
-  <programme start="20260402041226 +0100" stop="20260402081226 +0100" channel="Fútbol 3">
+  <programme start="20260403040533 +0100" stop="20260403080533 +0100" channel="Fútbol 3">
     <title>Próximo partido: Stuttgart - Borussia Dortmund (Sábado 04/04 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 04/04 - 18:30)</desc>
   </programme>
-  <programme start="20260402081226 +0100" stop="20260402121226 +0100" channel="Fútbol 3">
+  <programme start="20260403080533 +0100" stop="20260403120533 +0100" channel="Fútbol 3">
     <title>Próximo partido: Stuttgart - Borussia Dortmund (Sábado 04/04 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 04/04 - 18:30)</desc>
   </programme>
-  <programme start="20260402121226 +0100" stop="20260402161226 +0100" channel="Fútbol 3">
+  <programme start="20260403120533 +0100" stop="20260403160533 +0100" channel="Fútbol 3">
     <title>Próximo partido: Stuttgart - Borussia Dortmund (Sábado 04/04 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 04/04 - 18:30)</desc>
   </programme>
-  <programme start="20260402161226 +0100" stop="20260402201226 +0100" channel="Fútbol 3">
+  <programme start="20260403160533 +0100" stop="20260403200533 +0100" channel="Fútbol 3">
     <title>Próximo partido: Stuttgart - Borussia Dortmund (Sábado 04/04 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 04/04 - 18:30)</desc>
   </programme>
-  <programme start="20260402201226 +0100" stop="20260403001226 +0100" channel="Fútbol 3">
+  <programme start="20260403200533 +0100" stop="20260404000533 +0100" channel="Fútbol 3">
     <title>Próximo partido: Stuttgart - Borussia Dortmund (Sábado 04/04 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 04/04 - 18:30)</desc>
   </programme>
-  <programme start="20260403001226 +0100" stop="20260403041226 +0100" channel="Fútbol 3">
+  <programme start="20260404000533 +0100" stop="20260404040533 +0100" channel="Fútbol 3">
     <title>Próximo partido: Stuttgart - Borussia Dortmund (Sábado 04/04 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 04/04 - 18:30)</desc>
   </programme>
-  <programme start="20260403041226 +0100" stop="20260403081226 +0100" channel="Fútbol 3">
+  <programme start="20260404040533 +0100" stop="20260404080533 +0100" channel="Fútbol 3">
     <title>Próximo partido: Stuttgart - Borussia Dortmund (Sábado 04/04 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 04/04 - 18:30)</desc>
   </programme>
-  <programme start="20260403081226 +0100" stop="20260403121226 +0100" channel="Fútbol 3">
+  <programme start="20260404080533 +0100" stop="20260404120533 +0100" channel="Fútbol 3">
     <title>Próximo partido: Stuttgart - Borussia Dortmund (Sábado 04/04 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 04/04 - 18:30)</desc>
   </programme>
-  <programme start="20260403121226 +0100" stop="20260403161226 +0100" channel="Fútbol 3">
+  <programme start="20260404120533 +0100" stop="20260404160533 +0100" channel="Fútbol 3">
     <title>Próximo partido: Stuttgart - Borussia Dortmund (Sábado 04/04 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 04/04 - 18:30)</desc>
   </programme>
-  <programme start="20260403161226 +0100" stop="20260403201226 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Stuttgart - Borussia Dortmund (Sábado 04/04 - 18:30)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Sábado 04/04 - 18:30)</desc>
-  </programme>
-  <programme start="20260403201226 +0100" stop="20260404001226 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Stuttgart - Borussia Dortmund (Sábado 04/04 - 18:30)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Sábado 04/04 - 18:30)</desc>
-  </programme>
-  <programme start="20260404001226 +0100" stop="20260404041226 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Stuttgart - Borussia Dortmund (Sábado 04/04 - 18:30)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Sábado 04/04 - 18:30)</desc>
-  </programme>
-  <programme start="20260404041226 +0100" stop="20260404081226 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Stuttgart - Borussia Dortmund (Sábado 04/04 - 18:30)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Sábado 04/04 - 18:30)</desc>
-  </programme>
-  <programme start="20260404081226 +0100" stop="20260404121226 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Stuttgart - Borussia Dortmund (Sábado 04/04 - 18:30)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Sábado 04/04 - 18:30)</desc>
-  </programme>
-  <programme start="20260404121226 +0100" stop="20260404161226 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Stuttgart - Borussia Dortmund (Sábado 04/04 - 18:30)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Sábado 04/04 - 18:30)</desc>
-  </programme>
-  <programme start="20260404161226 +0100" stop="20260404183000 +0100" channel="Fútbol 3">
+  <programme start="20260404160533 +0100" stop="20260404183000 +0100" channel="Fútbol 3">
     <title>Próximo partido: Stuttgart - Borussia Dortmund (Sábado 04/04 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 04/04 - 18:30)</desc>
   </programme>
