@@ -3,211 +3,187 @@
   <channel id="Fútbol 1">
     <display-name>Fútbol 1</display-name>
   </channel>
-  <programme start="20260327080950 +0100" stop="20260327120950 +0100" channel="Fútbol 1">
-    <title>Próximo partido: España - Serbia (Viernes 27/03 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Viernes 27/03 - 21:00)</desc>
-  </programme>
-  <programme start="20260327120950 +0100" stop="20260327160950 +0100" channel="Fútbol 1">
-    <title>Próximo partido: España - Serbia (Viernes 27/03 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Viernes 27/03 - 21:00)</desc>
-  </programme>
-  <programme start="20260327160950 +0100" stop="20260327200950 +0100" channel="Fútbol 1">
-    <title>Próximo partido: España - Serbia (Viernes 27/03 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Viernes 27/03 - 21:00)</desc>
-  </programme>
-  <programme start="20260327200950 +0100" stop="20260327210000 +0100" channel="Fútbol 1">
-    <title>Próximo partido: España - Serbia (Viernes 27/03 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Viernes 27/03 - 21:00)</desc>
-  </programme>
   <programme start="20260327210000 +0100" stop="20260327230000 +0100" channel="Fútbol 1">
     <title>Amistoso Selección Masculina: España - Serbia</title>
     <desc>Fútbol en directo - Amistoso Selección Masculina: España - Serbia</desc>
   </programme>
-  <programme start="20260327230000 +0100" stop="20260328030000 +0100" channel="Fútbol 1">
+  <programme start="20260328080015 +0100" stop="20260328120015 +0100" channel="Fútbol 1">
     <title>Próximo partido: Mallorca - Real Madrid (Sábado 04/04 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 04/04 - 16:15)</desc>
   </programme>
-  <programme start="20260328030000 +0100" stop="20260328070000 +0100" channel="Fútbol 1">
+  <programme start="20260328120015 +0100" stop="20260328160015 +0100" channel="Fútbol 1">
     <title>Próximo partido: Mallorca - Real Madrid (Sábado 04/04 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 04/04 - 16:15)</desc>
   </programme>
-  <programme start="20260328070000 +0100" stop="20260328110000 +0100" channel="Fútbol 1">
+  <programme start="20260328160015 +0100" stop="20260328200015 +0100" channel="Fútbol 1">
     <title>Próximo partido: Mallorca - Real Madrid (Sábado 04/04 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 04/04 - 16:15)</desc>
   </programme>
-  <programme start="20260328110000 +0100" stop="20260328150000 +0100" channel="Fútbol 1">
+  <programme start="20260328200015 +0100" stop="20260329000015 +0100" channel="Fútbol 1">
     <title>Próximo partido: Mallorca - Real Madrid (Sábado 04/04 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 04/04 - 16:15)</desc>
   </programme>
-  <programme start="20260328150000 +0100" stop="20260328190000 +0100" channel="Fútbol 1">
+  <programme start="20260329000015 +0100" stop="20260329040015 +0100" channel="Fútbol 1">
     <title>Próximo partido: Mallorca - Real Madrid (Sábado 04/04 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 04/04 - 16:15)</desc>
   </programme>
-  <programme start="20260328190000 +0100" stop="20260328230000 +0100" channel="Fútbol 1">
+  <programme start="20260329040015 +0100" stop="20260329080015 +0100" channel="Fútbol 1">
     <title>Próximo partido: Mallorca - Real Madrid (Sábado 04/04 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 04/04 - 16:15)</desc>
   </programme>
-  <programme start="20260328230000 +0100" stop="20260329030000 +0100" channel="Fútbol 1">
+  <programme start="20260329080015 +0100" stop="20260329120015 +0100" channel="Fútbol 1">
     <title>Próximo partido: Mallorca - Real Madrid (Sábado 04/04 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 04/04 - 16:15)</desc>
   </programme>
-  <programme start="20260329030000 +0100" stop="20260329070000 +0100" channel="Fútbol 1">
+  <programme start="20260329120015 +0100" stop="20260329160015 +0100" channel="Fútbol 1">
     <title>Próximo partido: Mallorca - Real Madrid (Sábado 04/04 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 04/04 - 16:15)</desc>
   </programme>
-  <programme start="20260329070000 +0100" stop="20260329110000 +0100" channel="Fútbol 1">
+  <programme start="20260329160015 +0100" stop="20260329200015 +0100" channel="Fútbol 1">
     <title>Próximo partido: Mallorca - Real Madrid (Sábado 04/04 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 04/04 - 16:15)</desc>
   </programme>
-  <programme start="20260329110000 +0100" stop="20260329150000 +0100" channel="Fútbol 1">
+  <programme start="20260329200015 +0100" stop="20260330000015 +0100" channel="Fútbol 1">
     <title>Próximo partido: Mallorca - Real Madrid (Sábado 04/04 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 04/04 - 16:15)</desc>
   </programme>
-  <programme start="20260329150000 +0100" stop="20260329190000 +0100" channel="Fútbol 1">
+  <programme start="20260330000015 +0100" stop="20260330040015 +0100" channel="Fútbol 1">
     <title>Próximo partido: Mallorca - Real Madrid (Sábado 04/04 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 04/04 - 16:15)</desc>
   </programme>
-  <programme start="20260329190000 +0100" stop="20260329230000 +0100" channel="Fútbol 1">
+  <programme start="20260330040015 +0100" stop="20260330080015 +0100" channel="Fútbol 1">
     <title>Próximo partido: Mallorca - Real Madrid (Sábado 04/04 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 04/04 - 16:15)</desc>
   </programme>
-  <programme start="20260329230000 +0100" stop="20260330030000 +0100" channel="Fútbol 1">
+  <programme start="20260330080015 +0100" stop="20260330120015 +0100" channel="Fútbol 1">
     <title>Próximo partido: Mallorca - Real Madrid (Sábado 04/04 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 04/04 - 16:15)</desc>
   </programme>
-  <programme start="20260330030000 +0100" stop="20260330070000 +0100" channel="Fútbol 1">
+  <programme start="20260330120015 +0100" stop="20260330160015 +0100" channel="Fútbol 1">
     <title>Próximo partido: Mallorca - Real Madrid (Sábado 04/04 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 04/04 - 16:15)</desc>
   </programme>
-  <programme start="20260330070000 +0100" stop="20260330110000 +0100" channel="Fútbol 1">
+  <programme start="20260330160015 +0100" stop="20260330200015 +0100" channel="Fútbol 1">
     <title>Próximo partido: Mallorca - Real Madrid (Sábado 04/04 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 04/04 - 16:15)</desc>
   </programme>
-  <programme start="20260330110000 +0100" stop="20260330150000 +0100" channel="Fútbol 1">
+  <programme start="20260330200015 +0100" stop="20260331000015 +0100" channel="Fútbol 1">
     <title>Próximo partido: Mallorca - Real Madrid (Sábado 04/04 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 04/04 - 16:15)</desc>
   </programme>
-  <programme start="20260330150000 +0100" stop="20260330190000 +0100" channel="Fútbol 1">
+  <programme start="20260331000015 +0100" stop="20260331040015 +0100" channel="Fútbol 1">
     <title>Próximo partido: Mallorca - Real Madrid (Sábado 04/04 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 04/04 - 16:15)</desc>
   </programme>
-  <programme start="20260330190000 +0100" stop="20260330230000 +0100" channel="Fútbol 1">
+  <programme start="20260331040015 +0100" stop="20260331080015 +0100" channel="Fútbol 1">
     <title>Próximo partido: Mallorca - Real Madrid (Sábado 04/04 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 04/04 - 16:15)</desc>
   </programme>
-  <programme start="20260330230000 +0100" stop="20260331030000 +0100" channel="Fútbol 1">
+  <programme start="20260331080015 +0100" stop="20260331120015 +0100" channel="Fútbol 1">
     <title>Próximo partido: Mallorca - Real Madrid (Sábado 04/04 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 04/04 - 16:15)</desc>
   </programme>
-  <programme start="20260331030000 +0100" stop="20260331070000 +0100" channel="Fútbol 1">
+  <programme start="20260331120015 +0100" stop="20260331160015 +0100" channel="Fútbol 1">
     <title>Próximo partido: Mallorca - Real Madrid (Sábado 04/04 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 04/04 - 16:15)</desc>
   </programme>
-  <programme start="20260331070000 +0100" stop="20260331110000 +0100" channel="Fútbol 1">
+  <programme start="20260331160015 +0100" stop="20260331200015 +0100" channel="Fútbol 1">
     <title>Próximo partido: Mallorca - Real Madrid (Sábado 04/04 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 04/04 - 16:15)</desc>
   </programme>
-  <programme start="20260331110000 +0100" stop="20260331150000 +0100" channel="Fútbol 1">
+  <programme start="20260331200015 +0100" stop="20260401000015 +0100" channel="Fútbol 1">
     <title>Próximo partido: Mallorca - Real Madrid (Sábado 04/04 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 04/04 - 16:15)</desc>
   </programme>
-  <programme start="20260331150000 +0100" stop="20260331190000 +0100" channel="Fútbol 1">
+  <programme start="20260401000015 +0100" stop="20260401040015 +0100" channel="Fútbol 1">
     <title>Próximo partido: Mallorca - Real Madrid (Sábado 04/04 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 04/04 - 16:15)</desc>
   </programme>
-  <programme start="20260331190000 +0100" stop="20260331230000 +0100" channel="Fútbol 1">
+  <programme start="20260401040015 +0100" stop="20260401080015 +0100" channel="Fútbol 1">
     <title>Próximo partido: Mallorca - Real Madrid (Sábado 04/04 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 04/04 - 16:15)</desc>
   </programme>
-  <programme start="20260331230000 +0100" stop="20260401030000 +0100" channel="Fútbol 1">
+  <programme start="20260401080015 +0100" stop="20260401120015 +0100" channel="Fútbol 1">
     <title>Próximo partido: Mallorca - Real Madrid (Sábado 04/04 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 04/04 - 16:15)</desc>
   </programme>
-  <programme start="20260401030000 +0100" stop="20260401070000 +0100" channel="Fútbol 1">
+  <programme start="20260401120015 +0100" stop="20260401160015 +0100" channel="Fútbol 1">
     <title>Próximo partido: Mallorca - Real Madrid (Sábado 04/04 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 04/04 - 16:15)</desc>
   </programme>
-  <programme start="20260401070000 +0100" stop="20260401110000 +0100" channel="Fútbol 1">
+  <programme start="20260401160015 +0100" stop="20260401200015 +0100" channel="Fútbol 1">
     <title>Próximo partido: Mallorca - Real Madrid (Sábado 04/04 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 04/04 - 16:15)</desc>
   </programme>
-  <programme start="20260401110000 +0100" stop="20260401150000 +0100" channel="Fútbol 1">
+  <programme start="20260401200015 +0100" stop="20260402000015 +0100" channel="Fútbol 1">
     <title>Próximo partido: Mallorca - Real Madrid (Sábado 04/04 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 04/04 - 16:15)</desc>
   </programme>
-  <programme start="20260401150000 +0100" stop="20260401190000 +0100" channel="Fútbol 1">
+  <programme start="20260402000015 +0100" stop="20260402040015 +0100" channel="Fútbol 1">
     <title>Próximo partido: Mallorca - Real Madrid (Sábado 04/04 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 04/04 - 16:15)</desc>
   </programme>
-  <programme start="20260401190000 +0100" stop="20260401230000 +0100" channel="Fútbol 1">
+  <programme start="20260402040015 +0100" stop="20260402080015 +0100" channel="Fútbol 1">
     <title>Próximo partido: Mallorca - Real Madrid (Sábado 04/04 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 04/04 - 16:15)</desc>
   </programme>
-  <programme start="20260401230000 +0100" stop="20260402030000 +0100" channel="Fútbol 1">
+  <programme start="20260402080015 +0100" stop="20260402120015 +0100" channel="Fútbol 1">
     <title>Próximo partido: Mallorca - Real Madrid (Sábado 04/04 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 04/04 - 16:15)</desc>
   </programme>
-  <programme start="20260402030000 +0100" stop="20260402070000 +0100" channel="Fútbol 1">
+  <programme start="20260402120015 +0100" stop="20260402160015 +0100" channel="Fútbol 1">
     <title>Próximo partido: Mallorca - Real Madrid (Sábado 04/04 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 04/04 - 16:15)</desc>
   </programme>
-  <programme start="20260402070000 +0100" stop="20260402110000 +0100" channel="Fútbol 1">
+  <programme start="20260402160015 +0100" stop="20260402200015 +0100" channel="Fútbol 1">
     <title>Próximo partido: Mallorca - Real Madrid (Sábado 04/04 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 04/04 - 16:15)</desc>
   </programme>
-  <programme start="20260402110000 +0100" stop="20260402150000 +0100" channel="Fútbol 1">
+  <programme start="20260402200015 +0100" stop="20260403000015 +0100" channel="Fútbol 1">
     <title>Próximo partido: Mallorca - Real Madrid (Sábado 04/04 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 04/04 - 16:15)</desc>
   </programme>
-  <programme start="20260402150000 +0100" stop="20260402190000 +0100" channel="Fútbol 1">
+  <programme start="20260403000015 +0100" stop="20260403040015 +0100" channel="Fútbol 1">
     <title>Próximo partido: Mallorca - Real Madrid (Sábado 04/04 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 04/04 - 16:15)</desc>
   </programme>
-  <programme start="20260402190000 +0100" stop="20260402230000 +0100" channel="Fútbol 1">
+  <programme start="20260403040015 +0100" stop="20260403080015 +0100" channel="Fútbol 1">
     <title>Próximo partido: Mallorca - Real Madrid (Sábado 04/04 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 04/04 - 16:15)</desc>
   </programme>
-  <programme start="20260402230000 +0100" stop="20260403030000 +0100" channel="Fútbol 1">
+  <programme start="20260403080015 +0100" stop="20260403120015 +0100" channel="Fútbol 1">
     <title>Próximo partido: Mallorca - Real Madrid (Sábado 04/04 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 04/04 - 16:15)</desc>
   </programme>
-  <programme start="20260403030000 +0100" stop="20260403070000 +0100" channel="Fútbol 1">
+  <programme start="20260403120015 +0100" stop="20260403160015 +0100" channel="Fútbol 1">
     <title>Próximo partido: Mallorca - Real Madrid (Sábado 04/04 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 04/04 - 16:15)</desc>
   </programme>
-  <programme start="20260403070000 +0100" stop="20260403110000 +0100" channel="Fútbol 1">
+  <programme start="20260403160015 +0100" stop="20260403200015 +0100" channel="Fútbol 1">
     <title>Próximo partido: Mallorca - Real Madrid (Sábado 04/04 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 04/04 - 16:15)</desc>
   </programme>
-  <programme start="20260403110000 +0100" stop="20260403150000 +0100" channel="Fútbol 1">
+  <programme start="20260403200015 +0100" stop="20260404000015 +0100" channel="Fútbol 1">
     <title>Próximo partido: Mallorca - Real Madrid (Sábado 04/04 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 04/04 - 16:15)</desc>
   </programme>
-  <programme start="20260403150000 +0100" stop="20260403190000 +0100" channel="Fútbol 1">
+  <programme start="20260404000015 +0100" stop="20260404040015 +0100" channel="Fútbol 1">
     <title>Próximo partido: Mallorca - Real Madrid (Sábado 04/04 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 04/04 - 16:15)</desc>
   </programme>
-  <programme start="20260403190000 +0100" stop="20260403230000 +0100" channel="Fútbol 1">
+  <programme start="20260404040015 +0100" stop="20260404080015 +0100" channel="Fútbol 1">
     <title>Próximo partido: Mallorca - Real Madrid (Sábado 04/04 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 04/04 - 16:15)</desc>
   </programme>
-  <programme start="20260403230000 +0100" stop="20260404030000 +0100" channel="Fútbol 1">
+  <programme start="20260404080015 +0100" stop="20260404120015 +0100" channel="Fútbol 1">
     <title>Próximo partido: Mallorca - Real Madrid (Sábado 04/04 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 04/04 - 16:15)</desc>
   </programme>
-  <programme start="20260404030000 +0100" stop="20260404070000 +0100" channel="Fútbol 1">
+  <programme start="20260404120015 +0100" stop="20260404160015 +0100" channel="Fútbol 1">
     <title>Próximo partido: Mallorca - Real Madrid (Sábado 04/04 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 04/04 - 16:15)</desc>
   </programme>
-  <programme start="20260404070000 +0100" stop="20260404110000 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Mallorca - Real Madrid (Sábado 04/04 - 16:15)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Sábado 04/04 - 16:15)</desc>
-  </programme>
-  <programme start="20260404110000 +0100" stop="20260404150000 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Mallorca - Real Madrid (Sábado 04/04 - 16:15)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Sábado 04/04 - 16:15)</desc>
-  </programme>
-  <programme start="20260404150000 +0100" stop="20260404161500 +0100" channel="Fútbol 1">
+  <programme start="20260404160015 +0100" stop="20260404161500 +0100" channel="Fútbol 1">
     <title>Próximo partido: Mallorca - Real Madrid (Sábado 04/04 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 04/04 - 16:15)</desc>
   </programme>
@@ -250,39 +226,15 @@
   <channel id="Fútbol 2">
     <display-name>Fútbol 2</display-name>
   </channel>
-  <programme start="20260327080950 +0100" stop="20260327120950 +0100" channel="Fútbol 2">
+  <programme start="20260328080015 +0100" stop="20260328120015 +0100" channel="Fútbol 2">
     <title>Próximo partido: Valladolid - Burgos (Sábado 28/03 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 28/03 - 16:15)</desc>
   </programme>
-  <programme start="20260327120950 +0100" stop="20260327160950 +0100" channel="Fútbol 2">
+  <programme start="20260328120015 +0100" stop="20260328160015 +0100" channel="Fútbol 2">
     <title>Próximo partido: Valladolid - Burgos (Sábado 28/03 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 28/03 - 16:15)</desc>
   </programme>
-  <programme start="20260327160950 +0100" stop="20260327200950 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Valladolid - Burgos (Sábado 28/03 - 16:15)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Sábado 28/03 - 16:15)</desc>
-  </programme>
-  <programme start="20260327200950 +0100" stop="20260328000950 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Valladolid - Burgos (Sábado 28/03 - 16:15)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Sábado 28/03 - 16:15)</desc>
-  </programme>
-  <programme start="20260328000950 +0100" stop="20260328040950 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Valladolid - Burgos (Sábado 28/03 - 16:15)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Sábado 28/03 - 16:15)</desc>
-  </programme>
-  <programme start="20260328040950 +0100" stop="20260328080950 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Valladolid - Burgos (Sábado 28/03 - 16:15)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Sábado 28/03 - 16:15)</desc>
-  </programme>
-  <programme start="20260328080950 +0100" stop="20260328120950 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Valladolid - Burgos (Sábado 28/03 - 16:15)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Sábado 28/03 - 16:15)</desc>
-  </programme>
-  <programme start="20260328120950 +0100" stop="20260328160950 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Valladolid - Burgos (Sábado 28/03 - 16:15)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Sábado 28/03 - 16:15)</desc>
-  </programme>
-  <programme start="20260328160950 +0100" stop="20260328161500 +0100" channel="Fútbol 2">
+  <programme start="20260328160015 +0100" stop="20260328161500 +0100" channel="Fútbol 2">
     <title>Próximo partido: Valladolid - Burgos (Sábado 28/03 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 28/03 - 16:15)</desc>
   </programme>
@@ -553,39 +505,15 @@
   <channel id="Fútbol 3">
     <display-name>Fútbol 3</display-name>
   </channel>
-  <programme start="20260327080950 +0100" stop="20260327120950 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Barakaldo - Real Madrid Castilla (Viernes 27/03 - 19:00)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Viernes 27/03 - 19:00)</desc>
-  </programme>
-  <programme start="20260327120950 +0100" stop="20260327160950 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Barakaldo - Real Madrid Castilla (Viernes 27/03 - 19:00)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Viernes 27/03 - 19:00)</desc>
-  </programme>
-  <programme start="20260327160950 +0100" stop="20260327190000 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Barakaldo - Real Madrid Castilla (Viernes 27/03 - 19:00)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Viernes 27/03 - 19:00)</desc>
-  </programme>
   <programme start="20260327190000 +0100" stop="20260327210000 +0100" channel="Fútbol 3">
     <title>Primera Federación: Barakaldo - Real Madrid Castilla</title>
     <desc>Fútbol en directo - Primera Federación: Barakaldo - Real Madrid Castilla</desc>
   </programme>
-  <programme start="20260327210000 +0100" stop="20260328010000 +0100" channel="Fútbol 3">
+  <programme start="20260328080015 +0100" stop="20260328120015 +0100" channel="Fútbol 3">
     <title>Próximo partido: Europa - Algeciras (Sábado 28/03 - 14:00)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 28/03 - 14:00)</desc>
   </programme>
-  <programme start="20260328010000 +0100" stop="20260328050000 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Europa - Algeciras (Sábado 28/03 - 14:00)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Sábado 28/03 - 14:00)</desc>
-  </programme>
-  <programme start="20260328050000 +0100" stop="20260328090000 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Europa - Algeciras (Sábado 28/03 - 14:00)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Sábado 28/03 - 14:00)</desc>
-  </programme>
-  <programme start="20260328090000 +0100" stop="20260328130000 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Europa - Algeciras (Sábado 28/03 - 14:00)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Sábado 28/03 - 14:00)</desc>
-  </programme>
-  <programme start="20260328130000 +0100" stop="20260328140000 +0100" channel="Fútbol 3">
+  <programme start="20260328120015 +0100" stop="20260328140000 +0100" channel="Fútbol 3">
     <title>Próximo partido: Europa - Algeciras (Sábado 28/03 - 14:00)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 28/03 - 14:00)</desc>
   </programme>
