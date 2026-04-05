@@ -7,43 +7,19 @@
     <title>Amistoso Selección Masculina: España - Egipto</title>
     <desc>Fútbol en directo - Amistoso Selección Masculina: España - Egipto</desc>
   </programme>
-  <programme start="20260404090238 +0100" stop="20260404130238 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Mallorca - Real Madrid (Sábado 04/04 - 16:15)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Sábado 04/04 - 16:15)</desc>
-  </programme>
-  <programme start="20260404130238 +0100" stop="20260404161500 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Mallorca - Real Madrid (Sábado 04/04 - 16:15)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Sábado 04/04 - 16:15)</desc>
-  </programme>
   <programme start="20260404161500 +0100" stop="20260404181500 +0100" channel="Fútbol 1">
     <title>Laliga Ea Sports: Mallorca - Real Madrid</title>
     <desc>Fútbol en directo - Laliga Ea Sports: Mallorca - Real Madrid</desc>
   </programme>
-  <programme start="20260404181500 +0100" stop="20260404221500 +0100" channel="Fútbol 1">
+  <programme start="20260405090853 +0100" stop="20260405130853 +0100" channel="Fútbol 1">
     <title>Próximo partido: Oviedo - Sevilla (Domingo 05/04 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Domingo 05/04 - 18:30)</desc>
   </programme>
-  <programme start="20260404221500 +0100" stop="20260405021500 +0100" channel="Fútbol 1">
+  <programme start="20260405130853 +0100" stop="20260405170853 +0100" channel="Fútbol 1">
     <title>Próximo partido: Oviedo - Sevilla (Domingo 05/04 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Domingo 05/04 - 18:30)</desc>
   </programme>
-  <programme start="20260405021500 +0100" stop="20260405061500 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Oviedo - Sevilla (Domingo 05/04 - 18:30)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Domingo 05/04 - 18:30)</desc>
-  </programme>
-  <programme start="20260405061500 +0100" stop="20260405101500 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Oviedo - Sevilla (Domingo 05/04 - 18:30)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Domingo 05/04 - 18:30)</desc>
-  </programme>
-  <programme start="20260405101500 +0100" stop="20260405141500 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Oviedo - Sevilla (Domingo 05/04 - 18:30)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Domingo 05/04 - 18:30)</desc>
-  </programme>
-  <programme start="20260405141500 +0100" stop="20260405181500 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Oviedo - Sevilla (Domingo 05/04 - 18:30)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Domingo 05/04 - 18:30)</desc>
-  </programme>
-  <programme start="20260405181500 +0100" stop="20260405183000 +0100" channel="Fútbol 1">
+  <programme start="20260405170853 +0100" stop="20260405183000 +0100" channel="Fútbol 1">
     <title>Próximo partido: Oviedo - Sevilla (Domingo 05/04 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Domingo 05/04 - 18:30)</desc>
   </programme>
@@ -406,47 +382,23 @@
     <title>Laliga Hypermotion: Leagnés - Zaragoza</title>
     <desc>Fútbol en directo - Laliga Hypermotion: Leagnés - Zaragoza</desc>
   </programme>
-  <programme start="20260404090238 +0100" stop="20260404130238 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Cádiz - Córdoba (Sábado 04/04 - 14:00)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Sábado 04/04 - 14:00)</desc>
-  </programme>
-  <programme start="20260404130238 +0100" stop="20260404140000 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Cádiz - Córdoba (Sábado 04/04 - 14:00)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Sábado 04/04 - 14:00)</desc>
-  </programme>
   <programme start="20260404140000 +0100" stop="20260404160000 +0100" channel="Fútbol 2">
     <title>Laliga Hypermotion: Cádiz - Córdoba</title>
     <desc>Fútbol en directo - Laliga Hypermotion: Cádiz - Córdoba</desc>
-  </programme>
-  <programme start="20260404160000 +0100" stop="20260404183000 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Deportivo - Málaga (Sábado 04/04 - 18:30)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Sábado 04/04 - 18:30)</desc>
   </programme>
   <programme start="20260404183000 +0100" stop="20260404203000 +0100" channel="Fútbol 2">
     <title>Laliga Hypermotion: Deportivo - Málaga</title>
     <desc>Fútbol en directo - Laliga Hypermotion: Deportivo - Málaga</desc>
   </programme>
-  <programme start="20260404203000 +0100" stop="20260405003000 +0100" channel="Fútbol 2">
+  <programme start="20260405090853 +0100" stop="20260405130853 +0100" channel="Fútbol 2">
     <title>Próximo partido: Las Palmas - Huesca (Domingo 05/04 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Domingo 05/04 - 18:30)</desc>
   </programme>
-  <programme start="20260405003000 +0100" stop="20260405043000 +0100" channel="Fútbol 2">
+  <programme start="20260405130853 +0100" stop="20260405170853 +0100" channel="Fútbol 2">
     <title>Próximo partido: Las Palmas - Huesca (Domingo 05/04 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Domingo 05/04 - 18:30)</desc>
   </programme>
-  <programme start="20260405043000 +0100" stop="20260405083000 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Las Palmas - Huesca (Domingo 05/04 - 18:30)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Domingo 05/04 - 18:30)</desc>
-  </programme>
-  <programme start="20260405083000 +0100" stop="20260405123000 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Las Palmas - Huesca (Domingo 05/04 - 18:30)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Domingo 05/04 - 18:30)</desc>
-  </programme>
-  <programme start="20260405123000 +0100" stop="20260405163000 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Las Palmas - Huesca (Domingo 05/04 - 18:30)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Domingo 05/04 - 18:30)</desc>
-  </programme>
-  <programme start="20260405163000 +0100" stop="20260405183000 +0100" channel="Fútbol 2">
+  <programme start="20260405170853 +0100" stop="20260405183000 +0100" channel="Fútbol 2">
     <title>Próximo partido: Las Palmas - Huesca (Domingo 05/04 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Domingo 05/04 - 18:30)</desc>
   </programme>
@@ -657,67 +609,43 @@
     <title>Primera Federación: Eldense - Europa</title>
     <desc>Fútbol en directo - Primera Federación: Eldense - Europa</desc>
   </programme>
-  <programme start="20260404090238 +0100" stop="20260404130238 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Stuttgart - Borussia Dortmund (Sábado 04/04 - 18:30)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Sábado 04/04 - 18:30)</desc>
-  </programme>
-  <programme start="20260404130238 +0100" stop="20260404170238 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Stuttgart - Borussia Dortmund (Sábado 04/04 - 18:30)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Sábado 04/04 - 18:30)</desc>
-  </programme>
-  <programme start="20260404170238 +0100" stop="20260404183000 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Stuttgart - Borussia Dortmund (Sábado 04/04 - 18:30)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Sábado 04/04 - 18:30)</desc>
-  </programme>
   <programme start="20260404183000 +0100" stop="20260404203000 +0100" channel="Fútbol 3">
     <title>Bundesliga Alemania: Stuttgart - Borussia Dortmund</title>
     <desc>Fútbol en directo - Bundesliga Alemania: Stuttgart - Borussia Dortmund</desc>
   </programme>
-  <programme start="20260404203000 +0100" stop="20260405003000 +0100" channel="Fútbol 3">
+  <programme start="20260405090853 +0100" stop="20260405130853 +0100" channel="Fútbol 3">
     <title>Próximo partido: Juventus - Genova (Lunes 06/04 - 18:00)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Lunes 06/04 - 18:00)</desc>
   </programme>
-  <programme start="20260405003000 +0100" stop="20260405043000 +0100" channel="Fútbol 3">
+  <programme start="20260405130853 +0100" stop="20260405170853 +0100" channel="Fútbol 3">
     <title>Próximo partido: Juventus - Genova (Lunes 06/04 - 18:00)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Lunes 06/04 - 18:00)</desc>
   </programme>
-  <programme start="20260405043000 +0100" stop="20260405083000 +0100" channel="Fútbol 3">
+  <programme start="20260405170853 +0100" stop="20260405210853 +0100" channel="Fútbol 3">
     <title>Próximo partido: Juventus - Genova (Lunes 06/04 - 18:00)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Lunes 06/04 - 18:00)</desc>
   </programme>
-  <programme start="20260405083000 +0100" stop="20260405123000 +0100" channel="Fútbol 3">
+  <programme start="20260405210853 +0100" stop="20260406010853 +0100" channel="Fútbol 3">
     <title>Próximo partido: Juventus - Genova (Lunes 06/04 - 18:00)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Lunes 06/04 - 18:00)</desc>
   </programme>
-  <programme start="20260405123000 +0100" stop="20260405163000 +0100" channel="Fútbol 3">
+  <programme start="20260406010853 +0100" stop="20260406050853 +0100" channel="Fútbol 3">
     <title>Próximo partido: Juventus - Genova (Lunes 06/04 - 18:00)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Lunes 06/04 - 18:00)</desc>
   </programme>
-  <programme start="20260405163000 +0100" stop="20260405203000 +0100" channel="Fútbol 3">
+  <programme start="20260406050853 +0100" stop="20260406090853 +0100" channel="Fútbol 3">
     <title>Próximo partido: Juventus - Genova (Lunes 06/04 - 18:00)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Lunes 06/04 - 18:00)</desc>
   </programme>
-  <programme start="20260405203000 +0100" stop="20260406003000 +0100" channel="Fútbol 3">
+  <programme start="20260406090853 +0100" stop="20260406130853 +0100" channel="Fútbol 3">
     <title>Próximo partido: Juventus - Genova (Lunes 06/04 - 18:00)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Lunes 06/04 - 18:00)</desc>
   </programme>
-  <programme start="20260406003000 +0100" stop="20260406043000 +0100" channel="Fútbol 3">
+  <programme start="20260406130853 +0100" stop="20260406170853 +0100" channel="Fútbol 3">
     <title>Próximo partido: Juventus - Genova (Lunes 06/04 - 18:00)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Lunes 06/04 - 18:00)</desc>
   </programme>
-  <programme start="20260406043000 +0100" stop="20260406083000 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Juventus - Genova (Lunes 06/04 - 18:00)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Lunes 06/04 - 18:00)</desc>
-  </programme>
-  <programme start="20260406083000 +0100" stop="20260406123000 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Juventus - Genova (Lunes 06/04 - 18:00)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Lunes 06/04 - 18:00)</desc>
-  </programme>
-  <programme start="20260406123000 +0100" stop="20260406163000 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Juventus - Genova (Lunes 06/04 - 18:00)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Lunes 06/04 - 18:00)</desc>
-  </programme>
-  <programme start="20260406163000 +0100" stop="20260406180000 +0100" channel="Fútbol 3">
+  <programme start="20260406170853 +0100" stop="20260406180000 +0100" channel="Fútbol 3">
     <title>Próximo partido: Juventus - Genova (Lunes 06/04 - 18:00)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Lunes 06/04 - 18:00)</desc>
   </programme>
