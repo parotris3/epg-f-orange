@@ -3,63 +3,39 @@
   <channel id="Fútbol 1">
     <display-name>Fútbol 1</display-name>
   </channel>
-  <programme start="20260409092433 +0100" stop="20260409132433 +0100" channel="Fútbol 1">
+  <programme start="20260410094336 +0100" stop="20260410134336 +0100" channel="Fútbol 1">
     <title>Próximo partido: Sevilla - Atlético (Sábado 11/04 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 11/04 - 21:00)</desc>
   </programme>
-  <programme start="20260409132433 +0100" stop="20260409172433 +0100" channel="Fútbol 1">
+  <programme start="20260410134336 +0100" stop="20260410174336 +0100" channel="Fútbol 1">
     <title>Próximo partido: Sevilla - Atlético (Sábado 11/04 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 11/04 - 21:00)</desc>
   </programme>
-  <programme start="20260409172433 +0100" stop="20260409212433 +0100" channel="Fútbol 1">
+  <programme start="20260410174336 +0100" stop="20260410214336 +0100" channel="Fútbol 1">
     <title>Próximo partido: Sevilla - Atlético (Sábado 11/04 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 11/04 - 21:00)</desc>
   </programme>
-  <programme start="20260409212433 +0100" stop="20260410012433 +0100" channel="Fútbol 1">
+  <programme start="20260410214336 +0100" stop="20260411014336 +0100" channel="Fútbol 1">
     <title>Próximo partido: Sevilla - Atlético (Sábado 11/04 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 11/04 - 21:00)</desc>
   </programme>
-  <programme start="20260410012433 +0100" stop="20260410052433 +0100" channel="Fútbol 1">
+  <programme start="20260411014336 +0100" stop="20260411054336 +0100" channel="Fútbol 1">
     <title>Próximo partido: Sevilla - Atlético (Sábado 11/04 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 11/04 - 21:00)</desc>
   </programme>
-  <programme start="20260410052433 +0100" stop="20260410092433 +0100" channel="Fútbol 1">
+  <programme start="20260411054336 +0100" stop="20260411094336 +0100" channel="Fútbol 1">
     <title>Próximo partido: Sevilla - Atlético (Sábado 11/04 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 11/04 - 21:00)</desc>
   </programme>
-  <programme start="20260410092433 +0100" stop="20260410132433 +0100" channel="Fútbol 1">
+  <programme start="20260411094336 +0100" stop="20260411134336 +0100" channel="Fútbol 1">
     <title>Próximo partido: Sevilla - Atlético (Sábado 11/04 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 11/04 - 21:00)</desc>
   </programme>
-  <programme start="20260410132433 +0100" stop="20260410172433 +0100" channel="Fútbol 1">
+  <programme start="20260411134336 +0100" stop="20260411174336 +0100" channel="Fútbol 1">
     <title>Próximo partido: Sevilla - Atlético (Sábado 11/04 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 11/04 - 21:00)</desc>
   </programme>
-  <programme start="20260410172433 +0100" stop="20260410212433 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Sevilla - Atlético (Sábado 11/04 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Sábado 11/04 - 21:00)</desc>
-  </programme>
-  <programme start="20260410212433 +0100" stop="20260411012433 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Sevilla - Atlético (Sábado 11/04 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Sábado 11/04 - 21:00)</desc>
-  </programme>
-  <programme start="20260411012433 +0100" stop="20260411052433 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Sevilla - Atlético (Sábado 11/04 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Sábado 11/04 - 21:00)</desc>
-  </programme>
-  <programme start="20260411052433 +0100" stop="20260411092433 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Sevilla - Atlético (Sábado 11/04 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Sábado 11/04 - 21:00)</desc>
-  </programme>
-  <programme start="20260411092433 +0100" stop="20260411132433 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Sevilla - Atlético (Sábado 11/04 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Sábado 11/04 - 21:00)</desc>
-  </programme>
-  <programme start="20260411132433 +0100" stop="20260411172433 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Sevilla - Atlético (Sábado 11/04 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Sábado 11/04 - 21:00)</desc>
-  </programme>
-  <programme start="20260411172433 +0100" stop="20260411210000 +0100" channel="Fútbol 1">
+  <programme start="20260411174336 +0100" stop="20260411210000 +0100" channel="Fútbol 1">
     <title>Próximo partido: Sevilla - Atlético (Sábado 11/04 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 11/04 - 21:00)</desc>
   </programme>
@@ -250,63 +226,39 @@
   <channel id="Fútbol 2">
     <display-name>Fútbol 2</display-name>
   </channel>
-  <programme start="20260409092433 +0100" stop="20260409132433 +0100" channel="Fútbol 2">
+  <programme start="20260410094336 +0100" stop="20260410134336 +0100" channel="Fútbol 2">
     <title>Próximo partido: Málaga - Las Palmas (Sábado 11/04 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 11/04 - 18:30)</desc>
   </programme>
-  <programme start="20260409132433 +0100" stop="20260409172433 +0100" channel="Fútbol 2">
+  <programme start="20260410134336 +0100" stop="20260410174336 +0100" channel="Fútbol 2">
     <title>Próximo partido: Málaga - Las Palmas (Sábado 11/04 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 11/04 - 18:30)</desc>
   </programme>
-  <programme start="20260409172433 +0100" stop="20260409212433 +0100" channel="Fútbol 2">
+  <programme start="20260410174336 +0100" stop="20260410214336 +0100" channel="Fútbol 2">
     <title>Próximo partido: Málaga - Las Palmas (Sábado 11/04 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 11/04 - 18:30)</desc>
   </programme>
-  <programme start="20260409212433 +0100" stop="20260410012433 +0100" channel="Fútbol 2">
+  <programme start="20260410214336 +0100" stop="20260411014336 +0100" channel="Fútbol 2">
     <title>Próximo partido: Málaga - Las Palmas (Sábado 11/04 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 11/04 - 18:30)</desc>
   </programme>
-  <programme start="20260410012433 +0100" stop="20260410052433 +0100" channel="Fútbol 2">
+  <programme start="20260411014336 +0100" stop="20260411054336 +0100" channel="Fútbol 2">
     <title>Próximo partido: Málaga - Las Palmas (Sábado 11/04 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 11/04 - 18:30)</desc>
   </programme>
-  <programme start="20260410052433 +0100" stop="20260410092433 +0100" channel="Fútbol 2">
+  <programme start="20260411054336 +0100" stop="20260411094336 +0100" channel="Fútbol 2">
     <title>Próximo partido: Málaga - Las Palmas (Sábado 11/04 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 11/04 - 18:30)</desc>
   </programme>
-  <programme start="20260410092433 +0100" stop="20260410132433 +0100" channel="Fútbol 2">
+  <programme start="20260411094336 +0100" stop="20260411134336 +0100" channel="Fútbol 2">
     <title>Próximo partido: Málaga - Las Palmas (Sábado 11/04 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 11/04 - 18:30)</desc>
   </programme>
-  <programme start="20260410132433 +0100" stop="20260410172433 +0100" channel="Fútbol 2">
+  <programme start="20260411134336 +0100" stop="20260411174336 +0100" channel="Fútbol 2">
     <title>Próximo partido: Málaga - Las Palmas (Sábado 11/04 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 11/04 - 18:30)</desc>
   </programme>
-  <programme start="20260410172433 +0100" stop="20260410212433 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Málaga - Las Palmas (Sábado 11/04 - 18:30)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Sábado 11/04 - 18:30)</desc>
-  </programme>
-  <programme start="20260410212433 +0100" stop="20260411012433 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Málaga - Las Palmas (Sábado 11/04 - 18:30)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Sábado 11/04 - 18:30)</desc>
-  </programme>
-  <programme start="20260411012433 +0100" stop="20260411052433 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Málaga - Las Palmas (Sábado 11/04 - 18:30)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Sábado 11/04 - 18:30)</desc>
-  </programme>
-  <programme start="20260411052433 +0100" stop="20260411092433 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Málaga - Las Palmas (Sábado 11/04 - 18:30)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Sábado 11/04 - 18:30)</desc>
-  </programme>
-  <programme start="20260411092433 +0100" stop="20260411132433 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Málaga - Las Palmas (Sábado 11/04 - 18:30)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Sábado 11/04 - 18:30)</desc>
-  </programme>
-  <programme start="20260411132433 +0100" stop="20260411172433 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Málaga - Las Palmas (Sábado 11/04 - 18:30)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Sábado 11/04 - 18:30)</desc>
-  </programme>
-  <programme start="20260411172433 +0100" stop="20260411183000 +0100" channel="Fútbol 2">
+  <programme start="20260411174336 +0100" stop="20260411183000 +0100" channel="Fútbol 2">
     <title>Próximo partido: Málaga - Las Palmas (Sábado 11/04 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 11/04 - 18:30)</desc>
   </programme>
@@ -357,39 +309,15 @@
   <channel id="Fútbol 3">
     <display-name>Fútbol 3</display-name>
   </channel>
-  <programme start="20260409092433 +0100" stop="20260409132433 +0100" channel="Fútbol 3">
+  <programme start="20260410094336 +0100" stop="20260410134336 +0100" channel="Fútbol 3">
     <title>Próximo partido: Atlético Madrileño - Marbella (Viernes 10/04 - 19:00)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Viernes 10/04 - 19:00)</desc>
   </programme>
-  <programme start="20260409132433 +0100" stop="20260409172433 +0100" channel="Fútbol 3">
+  <programme start="20260410134336 +0100" stop="20260410174336 +0100" channel="Fútbol 3">
     <title>Próximo partido: Atlético Madrileño - Marbella (Viernes 10/04 - 19:00)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Viernes 10/04 - 19:00)</desc>
   </programme>
-  <programme start="20260409172433 +0100" stop="20260409212433 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Atlético Madrileño - Marbella (Viernes 10/04 - 19:00)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Viernes 10/04 - 19:00)</desc>
-  </programme>
-  <programme start="20260409212433 +0100" stop="20260410012433 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Atlético Madrileño - Marbella (Viernes 10/04 - 19:00)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Viernes 10/04 - 19:00)</desc>
-  </programme>
-  <programme start="20260410012433 +0100" stop="20260410052433 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Atlético Madrileño - Marbella (Viernes 10/04 - 19:00)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Viernes 10/04 - 19:00)</desc>
-  </programme>
-  <programme start="20260410052433 +0100" stop="20260410092433 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Atlético Madrileño - Marbella (Viernes 10/04 - 19:00)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Viernes 10/04 - 19:00)</desc>
-  </programme>
-  <programme start="20260410092433 +0100" stop="20260410132433 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Atlético Madrileño - Marbella (Viernes 10/04 - 19:00)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Viernes 10/04 - 19:00)</desc>
-  </programme>
-  <programme start="20260410132433 +0100" stop="20260410172433 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Atlético Madrileño - Marbella (Viernes 10/04 - 19:00)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Viernes 10/04 - 19:00)</desc>
-  </programme>
-  <programme start="20260410172433 +0100" stop="20260410190000 +0100" channel="Fútbol 3">
+  <programme start="20260410174336 +0100" stop="20260410190000 +0100" channel="Fútbol 3">
     <title>Próximo partido: Atlético Madrileño - Marbella (Viernes 10/04 - 19:00)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Viernes 10/04 - 19:00)</desc>
   </programme>
