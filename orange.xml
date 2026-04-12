@@ -3,43 +3,19 @@
   <channel id="Fútbol 1">
     <display-name>Fútbol 1</display-name>
   </channel>
-  <programme start="20260411090214 +0100" stop="20260411130214 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Sevilla - Atlético (Sábado 11/04 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Sábado 11/04 - 21:00)</desc>
-  </programme>
-  <programme start="20260411130214 +0100" stop="20260411170214 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Sevilla - Atlético (Sábado 11/04 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Sábado 11/04 - 21:00)</desc>
-  </programme>
-  <programme start="20260411170214 +0100" stop="20260411210000 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Sevilla - Atlético (Sábado 11/04 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Sábado 11/04 - 21:00)</desc>
-  </programme>
   <programme start="20260411210000 +0100" stop="20260411230000 +0100" channel="Fútbol 1">
     <title>Laliga Ea Sports: Sevilla - Atlético</title>
     <desc>Fútbol en directo - Laliga Ea Sports: Sevilla - Atlético</desc>
   </programme>
-  <programme start="20260411230000 +0100" stop="20260412030000 +0100" channel="Fútbol 1">
+  <programme start="20260412091606 +0100" stop="20260412131606 +0100" channel="Fútbol 1">
     <title>Próximo partido: Athletic Club - Villarreal (Domingo 12/04 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Domingo 12/04 - 21:00)</desc>
   </programme>
-  <programme start="20260412030000 +0100" stop="20260412070000 +0100" channel="Fútbol 1">
+  <programme start="20260412131606 +0100" stop="20260412171606 +0100" channel="Fútbol 1">
     <title>Próximo partido: Athletic Club - Villarreal (Domingo 12/04 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Domingo 12/04 - 21:00)</desc>
   </programme>
-  <programme start="20260412070000 +0100" stop="20260412110000 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Athletic Club - Villarreal (Domingo 12/04 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Domingo 12/04 - 21:00)</desc>
-  </programme>
-  <programme start="20260412110000 +0100" stop="20260412150000 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Athletic Club - Villarreal (Domingo 12/04 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Domingo 12/04 - 21:00)</desc>
-  </programme>
-  <programme start="20260412150000 +0100" stop="20260412190000 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Athletic Club - Villarreal (Domingo 12/04 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Domingo 12/04 - 21:00)</desc>
-  </programme>
-  <programme start="20260412190000 +0100" stop="20260412210000 +0100" channel="Fútbol 1">
+  <programme start="20260412171606 +0100" stop="20260412210000 +0100" channel="Fútbol 1">
     <title>Próximo partido: Athletic Club - Villarreal (Domingo 12/04 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Domingo 12/04 - 21:00)</desc>
   </programme>
@@ -202,47 +178,19 @@
   <channel id="Fútbol 2">
     <display-name>Fútbol 2</display-name>
   </channel>
-  <programme start="20260411090214 +0100" stop="20260411130214 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Málaga - Las Palmas (Sábado 11/04 - 18:30)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Sábado 11/04 - 18:30)</desc>
-  </programme>
-  <programme start="20260411130214 +0100" stop="20260411170214 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Málaga - Las Palmas (Sábado 11/04 - 18:30)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Sábado 11/04 - 18:30)</desc>
-  </programme>
-  <programme start="20260411170214 +0100" stop="20260411183000 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Málaga - Las Palmas (Sábado 11/04 - 18:30)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Sábado 11/04 - 18:30)</desc>
-  </programme>
   <programme start="20260411183000 +0100" stop="20260411203000 +0100" channel="Fútbol 2">
     <title>Laliga Hypermotion: Málaga - Las Palmas</title>
     <desc>Fútbol en directo - Laliga Hypermotion: Málaga - Las Palmas</desc>
-  </programme>
-  <programme start="20260411203000 +0100" stop="20260411210000 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Córdoba - Zaragoza (Sábado 11/04 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Sábado 11/04 - 21:00)</desc>
   </programme>
   <programme start="20260411210000 +0100" stop="20260411230000 +0100" channel="Fútbol 2">
     <title>Laliga Hypermotion: Córdoba - Zaragoza</title>
     <desc>Fútbol en directo - Laliga Hypermotion: Córdoba - Zaragoza</desc>
   </programme>
-  <programme start="20260411230000 +0100" stop="20260412030000 +0100" channel="Fútbol 2">
+  <programme start="20260412091606 +0100" stop="20260412131606 +0100" channel="Fútbol 2">
     <title>Próximo partido: Huesca - Deportivo (Domingo 12/04 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Domingo 12/04 - 16:15)</desc>
   </programme>
-  <programme start="20260412030000 +0100" stop="20260412070000 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Huesca - Deportivo (Domingo 12/04 - 16:15)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Domingo 12/04 - 16:15)</desc>
-  </programme>
-  <programme start="20260412070000 +0100" stop="20260412110000 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Huesca - Deportivo (Domingo 12/04 - 16:15)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Domingo 12/04 - 16:15)</desc>
-  </programme>
-  <programme start="20260412110000 +0100" stop="20260412150000 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Huesca - Deportivo (Domingo 12/04 - 16:15)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Domingo 12/04 - 16:15)</desc>
-  </programme>
-  <programme start="20260412150000 +0100" stop="20260412161500 +0100" channel="Fútbol 2">
+  <programme start="20260412131606 +0100" stop="20260412161500 +0100" channel="Fútbol 2">
     <title>Próximo partido: Huesca - Deportivo (Domingo 12/04 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Domingo 12/04 - 16:15)</desc>
   </programme>
@@ -269,21 +217,9 @@
     <title>Primera Federación: Cacereño - Bilbao Athletic</title>
     <desc>Fútbol en directo - Primera Federación: Cacereño - Bilbao Athletic</desc>
   </programme>
-  <programme start="20260411090214 +0100" stop="20260411130214 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Borussia Dortmund - Bayer Leverkusen (Sábado 11/04 - 15:30)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Sábado 11/04 - 15:30)</desc>
-  </programme>
-  <programme start="20260411130214 +0100" stop="20260411153000 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Borussia Dortmund - Bayer Leverkusen (Sábado 11/04 - 15:30)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Sábado 11/04 - 15:30)</desc>
-  </programme>
   <programme start="20260411153000 +0100" stop="20260411173000 +0100" channel="Fútbol 3">
     <title>Bundesliga Alemania: Borussia Dortmund - Bayer Leverkusen</title>
     <desc>Fútbol en directo - Bundesliga Alemania: Borussia Dortmund - Bayer Leverkusen</desc>
-  </programme>
-  <programme start="20260411173000 +0100" stop="20260411180000 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Milan - Udinese (Sábado 11/04 - 18:00)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Sábado 11/04 - 18:00)</desc>
   </programme>
   <programme start="20260411180000 +0100" stop="20260411200000 +0100" channel="Fútbol 3">
     <title>Serie A: Milan - Udinese</title>
