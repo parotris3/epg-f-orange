@@ -3,47 +3,15 @@
   <channel id="Fútbol 1">
     <display-name>Fútbol 1</display-name>
   </channel>
-  <programme start="20260411210000 +0100" stop="20260411230000 +0100" channel="Fútbol 1">
-    <title>Laliga Ea Sports: Sevilla - Atlético</title>
-    <desc>Fútbol en directo - Laliga Ea Sports: Sevilla - Atlético</desc>
-  </programme>
-  <programme start="20260412210000 +0100" stop="20260412230000 +0100" channel="Fútbol 1">
-    <title>Laliga Ea Sports: Athletic Club - Villarreal</title>
-    <desc>Fútbol en directo - Laliga Ea Sports: Athletic Club - Villarreal</desc>
-  </programme>
-  <programme start="20260413100511 +0100" stop="20260413140511 +0100" channel="Fútbol 1">
+  <programme start="20260414094752 +0100" stop="20260414134752 +0100" channel="Fútbol 1">
     <title>Próximo partido: Atlético - Barcelona (Martes 14/04 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Martes 14/04 - 21:00)</desc>
   </programme>
-  <programme start="20260413140511 +0100" stop="20260413180511 +0100" channel="Fútbol 1">
+  <programme start="20260414134752 +0100" stop="20260414174752 +0100" channel="Fútbol 1">
     <title>Próximo partido: Atlético - Barcelona (Martes 14/04 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Martes 14/04 - 21:00)</desc>
   </programme>
-  <programme start="20260413180511 +0100" stop="20260413220511 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Atlético - Barcelona (Martes 14/04 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Martes 14/04 - 21:00)</desc>
-  </programme>
-  <programme start="20260413220511 +0100" stop="20260414020511 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Atlético - Barcelona (Martes 14/04 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Martes 14/04 - 21:00)</desc>
-  </programme>
-  <programme start="20260414020511 +0100" stop="20260414060511 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Atlético - Barcelona (Martes 14/04 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Martes 14/04 - 21:00)</desc>
-  </programme>
-  <programme start="20260414060511 +0100" stop="20260414100511 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Atlético - Barcelona (Martes 14/04 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Martes 14/04 - 21:00)</desc>
-  </programme>
-  <programme start="20260414100511 +0100" stop="20260414140511 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Atlético - Barcelona (Martes 14/04 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Martes 14/04 - 21:00)</desc>
-  </programme>
-  <programme start="20260414140511 +0100" stop="20260414180511 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Atlético - Barcelona (Martes 14/04 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Martes 14/04 - 21:00)</desc>
-  </programme>
-  <programme start="20260414180511 +0100" stop="20260414210000 +0100" channel="Fútbol 1">
+  <programme start="20260414174752 +0100" stop="20260414210000 +0100" channel="Fútbol 1">
     <title>Próximo partido: Atlético - Barcelona (Martes 14/04 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Martes 14/04 - 21:00)</desc>
   </programme>
@@ -173,14 +141,6 @@
   <channel id="Fútbol 3">
     <display-name>Fútbol 3</display-name>
   </channel>
-  <programme start="20260410190000 +0100" stop="20260410210000 +0100" channel="Fútbol 3">
-    <title>Primera Federación: Atlético Madrileño - Marbella</title>
-    <desc>Fútbol en directo - Primera Federación: Atlético Madrileño - Marbella</desc>
-  </programme>
-  <programme start="20260410211500 +0100" stop="20260410231500 +0100" channel="Fútbol 3">
-    <title>Primera Federación: Cacereño - Bilbao Athletic</title>
-    <desc>Fútbol en directo - Primera Federación: Cacereño - Bilbao Athletic</desc>
-  </programme>
   <programme start="20260411153000 +0100" stop="20260411173000 +0100" channel="Fútbol 3">
     <title>Bundesliga Alemania: Borussia Dortmund - Bayer Leverkusen</title>
     <desc>Fútbol en directo - Bundesliga Alemania: Borussia Dortmund - Bayer Leverkusen</desc>
@@ -188,5 +148,93 @@
   <programme start="20260411180000 +0100" stop="20260411200000 +0100" channel="Fútbol 3">
     <title>Serie A: Milan - Udinese</title>
     <desc>Fútbol en directo - Serie A: Milan - Udinese</desc>
+  </programme>
+  <programme start="20260414094752 +0100" stop="20260414134752 +0100" channel="Fútbol 3">
+    <title>Próximo partido: Real Madrid Castilla - Ourense (Martes 14/04 - 17:00)</title>
+    <desc>Siguiente emisión en Fútbol 3 | (Martes 14/04 - 17:00)</desc>
+  </programme>
+  <programme start="20260414134752 +0100" stop="20260414170000 +0100" channel="Fútbol 3">
+    <title>Próximo partido: Real Madrid Castilla - Ourense (Martes 14/04 - 17:00)</title>
+    <desc>Siguiente emisión en Fútbol 3 | (Martes 14/04 - 17:00)</desc>
+  </programme>
+  <programme start="20260414170000 +0100" stop="20260414190000 +0100" channel="Fútbol 3">
+    <title>Primera Federación: Real Madrid Castilla - Ourense</title>
+    <desc>Fútbol en directo - Primera Federación: Real Madrid Castilla - Ourense</desc>
+  </programme>
+  <programme start="20260414190000 +0100" stop="20260414230000 +0100" channel="Fútbol 3">
+    <title>Próximo partido: Celta Fortuna - Cacereño (Viernes 17/04 - 19:00)</title>
+    <desc>Siguiente emisión en Fútbol 3 | (Viernes 17/04 - 19:00)</desc>
+  </programme>
+  <programme start="20260414230000 +0100" stop="20260415030000 +0100" channel="Fútbol 3">
+    <title>Próximo partido: Celta Fortuna - Cacereño (Viernes 17/04 - 19:00)</title>
+    <desc>Siguiente emisión en Fútbol 3 | (Viernes 17/04 - 19:00)</desc>
+  </programme>
+  <programme start="20260415030000 +0100" stop="20260415070000 +0100" channel="Fútbol 3">
+    <title>Próximo partido: Celta Fortuna - Cacereño (Viernes 17/04 - 19:00)</title>
+    <desc>Siguiente emisión en Fútbol 3 | (Viernes 17/04 - 19:00)</desc>
+  </programme>
+  <programme start="20260415070000 +0100" stop="20260415110000 +0100" channel="Fútbol 3">
+    <title>Próximo partido: Celta Fortuna - Cacereño (Viernes 17/04 - 19:00)</title>
+    <desc>Siguiente emisión en Fútbol 3 | (Viernes 17/04 - 19:00)</desc>
+  </programme>
+  <programme start="20260415110000 +0100" stop="20260415150000 +0100" channel="Fútbol 3">
+    <title>Próximo partido: Celta Fortuna - Cacereño (Viernes 17/04 - 19:00)</title>
+    <desc>Siguiente emisión en Fútbol 3 | (Viernes 17/04 - 19:00)</desc>
+  </programme>
+  <programme start="20260415150000 +0100" stop="20260415190000 +0100" channel="Fútbol 3">
+    <title>Próximo partido: Celta Fortuna - Cacereño (Viernes 17/04 - 19:00)</title>
+    <desc>Siguiente emisión en Fútbol 3 | (Viernes 17/04 - 19:00)</desc>
+  </programme>
+  <programme start="20260415190000 +0100" stop="20260415230000 +0100" channel="Fútbol 3">
+    <title>Próximo partido: Celta Fortuna - Cacereño (Viernes 17/04 - 19:00)</title>
+    <desc>Siguiente emisión en Fútbol 3 | (Viernes 17/04 - 19:00)</desc>
+  </programme>
+  <programme start="20260415230000 +0100" stop="20260416030000 +0100" channel="Fútbol 3">
+    <title>Próximo partido: Celta Fortuna - Cacereño (Viernes 17/04 - 19:00)</title>
+    <desc>Siguiente emisión en Fútbol 3 | (Viernes 17/04 - 19:00)</desc>
+  </programme>
+  <programme start="20260416030000 +0100" stop="20260416070000 +0100" channel="Fútbol 3">
+    <title>Próximo partido: Celta Fortuna - Cacereño (Viernes 17/04 - 19:00)</title>
+    <desc>Siguiente emisión en Fútbol 3 | (Viernes 17/04 - 19:00)</desc>
+  </programme>
+  <programme start="20260416070000 +0100" stop="20260416110000 +0100" channel="Fútbol 3">
+    <title>Próximo partido: Celta Fortuna - Cacereño (Viernes 17/04 - 19:00)</title>
+    <desc>Siguiente emisión en Fútbol 3 | (Viernes 17/04 - 19:00)</desc>
+  </programme>
+  <programme start="20260416110000 +0100" stop="20260416150000 +0100" channel="Fútbol 3">
+    <title>Próximo partido: Celta Fortuna - Cacereño (Viernes 17/04 - 19:00)</title>
+    <desc>Siguiente emisión en Fútbol 3 | (Viernes 17/04 - 19:00)</desc>
+  </programme>
+  <programme start="20260416150000 +0100" stop="20260416190000 +0100" channel="Fútbol 3">
+    <title>Próximo partido: Celta Fortuna - Cacereño (Viernes 17/04 - 19:00)</title>
+    <desc>Siguiente emisión en Fútbol 3 | (Viernes 17/04 - 19:00)</desc>
+  </programme>
+  <programme start="20260416190000 +0100" stop="20260416230000 +0100" channel="Fútbol 3">
+    <title>Próximo partido: Celta Fortuna - Cacereño (Viernes 17/04 - 19:00)</title>
+    <desc>Siguiente emisión en Fútbol 3 | (Viernes 17/04 - 19:00)</desc>
+  </programme>
+  <programme start="20260416230000 +0100" stop="20260417030000 +0100" channel="Fútbol 3">
+    <title>Próximo partido: Celta Fortuna - Cacereño (Viernes 17/04 - 19:00)</title>
+    <desc>Siguiente emisión en Fútbol 3 | (Viernes 17/04 - 19:00)</desc>
+  </programme>
+  <programme start="20260417030000 +0100" stop="20260417070000 +0100" channel="Fútbol 3">
+    <title>Próximo partido: Celta Fortuna - Cacereño (Viernes 17/04 - 19:00)</title>
+    <desc>Siguiente emisión en Fútbol 3 | (Viernes 17/04 - 19:00)</desc>
+  </programme>
+  <programme start="20260417070000 +0100" stop="20260417110000 +0100" channel="Fútbol 3">
+    <title>Próximo partido: Celta Fortuna - Cacereño (Viernes 17/04 - 19:00)</title>
+    <desc>Siguiente emisión en Fútbol 3 | (Viernes 17/04 - 19:00)</desc>
+  </programme>
+  <programme start="20260417110000 +0100" stop="20260417150000 +0100" channel="Fútbol 3">
+    <title>Próximo partido: Celta Fortuna - Cacereño (Viernes 17/04 - 19:00)</title>
+    <desc>Siguiente emisión en Fútbol 3 | (Viernes 17/04 - 19:00)</desc>
+  </programme>
+  <programme start="20260417150000 +0100" stop="20260417190000 +0100" channel="Fútbol 3">
+    <title>Próximo partido: Celta Fortuna - Cacereño (Viernes 17/04 - 19:00)</title>
+    <desc>Siguiente emisión en Fútbol 3 | (Viernes 17/04 - 19:00)</desc>
+  </programme>
+  <programme start="20260417190000 +0100" stop="20260417210000 +0100" channel="Fútbol 3">
+    <title>Primera Federación: Celta Fortuna - Cacereño</title>
+    <desc>Fútbol en directo - Primera Federación: Celta Fortuna - Cacereño</desc>
   </programme>
 </tv>
