@@ -3,39 +3,15 @@
   <channel id="Fútbol 1">
     <display-name>Fútbol 1</display-name>
   </channel>
-  <programme start="20260417094831 +0100" stop="20260417134831 +0100" channel="Fútbol 1">
+  <programme start="20260418090948 +0100" stop="20260418130948 +0100" channel="Fútbol 1">
     <title>Próximo partido: Atlético - Real Sociedad (Sábado 18/04 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 18/04 - 21:00)</desc>
   </programme>
-  <programme start="20260417134831 +0100" stop="20260417174831 +0100" channel="Fútbol 1">
+  <programme start="20260418130948 +0100" stop="20260418170948 +0100" channel="Fútbol 1">
     <title>Próximo partido: Atlético - Real Sociedad (Sábado 18/04 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 18/04 - 21:00)</desc>
   </programme>
-  <programme start="20260417174831 +0100" stop="20260417214831 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Atlético - Real Sociedad (Sábado 18/04 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Sábado 18/04 - 21:00)</desc>
-  </programme>
-  <programme start="20260417214831 +0100" stop="20260418014831 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Atlético - Real Sociedad (Sábado 18/04 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Sábado 18/04 - 21:00)</desc>
-  </programme>
-  <programme start="20260418014831 +0100" stop="20260418054831 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Atlético - Real Sociedad (Sábado 18/04 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Sábado 18/04 - 21:00)</desc>
-  </programme>
-  <programme start="20260418054831 +0100" stop="20260418094831 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Atlético - Real Sociedad (Sábado 18/04 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Sábado 18/04 - 21:00)</desc>
-  </programme>
-  <programme start="20260418094831 +0100" stop="20260418134831 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Atlético - Real Sociedad (Sábado 18/04 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Sábado 18/04 - 21:00)</desc>
-  </programme>
-  <programme start="20260418134831 +0100" stop="20260418174831 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Atlético - Real Sociedad (Sábado 18/04 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Sábado 18/04 - 21:00)</desc>
-  </programme>
-  <programme start="20260418174831 +0100" stop="20260418210000 +0100" channel="Fútbol 1">
+  <programme start="20260418170948 +0100" stop="20260418210000 +0100" channel="Fútbol 1">
     <title>Próximo partido: Atlético - Real Sociedad (Sábado 18/04 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 18/04 - 21:00)</desc>
   </programme>
@@ -250,39 +226,15 @@
   <channel id="Fútbol 2">
     <display-name>Fútbol 2</display-name>
   </channel>
-  <programme start="20260417094831 +0100" stop="20260417134831 +0100" channel="Fútbol 2">
-    <title>Próximo partido: R. Sociedad B - Racing (Viernes 17/04 - 20:30)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Viernes 17/04 - 20:30)</desc>
-  </programme>
-  <programme start="20260417134831 +0100" stop="20260417174831 +0100" channel="Fútbol 2">
-    <title>Próximo partido: R. Sociedad B - Racing (Viernes 17/04 - 20:30)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Viernes 17/04 - 20:30)</desc>
-  </programme>
-  <programme start="20260417174831 +0100" stop="20260417203000 +0100" channel="Fútbol 2">
-    <title>Próximo partido: R. Sociedad B - Racing (Viernes 17/04 - 20:30)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Viernes 17/04 - 20:30)</desc>
-  </programme>
   <programme start="20260417203000 +0100" stop="20260417223000 +0100" channel="Fútbol 2">
     <title>Laliga Hypermotion: R. Sociedad B - Racing</title>
     <desc>Fútbol en directo - Laliga Hypermotion: R. Sociedad B - Racing</desc>
   </programme>
-  <programme start="20260417223000 +0100" stop="20260418023000 +0100" channel="Fútbol 2">
+  <programme start="20260418090948 +0100" stop="20260418130948 +0100" channel="Fútbol 2">
     <title>Próximo partido: Zaragoza - Ceuta (Sábado 18/04 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 18/04 - 16:15)</desc>
   </programme>
-  <programme start="20260418023000 +0100" stop="20260418063000 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Zaragoza - Ceuta (Sábado 18/04 - 16:15)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Sábado 18/04 - 16:15)</desc>
-  </programme>
-  <programme start="20260418063000 +0100" stop="20260418103000 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Zaragoza - Ceuta (Sábado 18/04 - 16:15)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Sábado 18/04 - 16:15)</desc>
-  </programme>
-  <programme start="20260418103000 +0100" stop="20260418143000 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Zaragoza - Ceuta (Sábado 18/04 - 16:15)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Sábado 18/04 - 16:15)</desc>
-  </programme>
-  <programme start="20260418143000 +0100" stop="20260418161500 +0100" channel="Fútbol 2">
+  <programme start="20260418130948 +0100" stop="20260418161500 +0100" channel="Fútbol 2">
     <title>Próximo partido: Zaragoza - Ceuta (Sábado 18/04 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 18/04 - 16:15)</desc>
   </programme>
@@ -541,39 +493,15 @@
     <title>Primera Federación: Real Madrid Castilla - Ourense</title>
     <desc>Fútbol en directo - Primera Federación: Real Madrid Castilla - Ourense</desc>
   </programme>
-  <programme start="20260417094831 +0100" stop="20260417134831 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Celta Fortuna - Cacereño (Viernes 17/04 - 19:00)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Viernes 17/04 - 19:00)</desc>
-  </programme>
-  <programme start="20260417134831 +0100" stop="20260417174831 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Celta Fortuna - Cacereño (Viernes 17/04 - 19:00)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Viernes 17/04 - 19:00)</desc>
-  </programme>
-  <programme start="20260417174831 +0100" stop="20260417190000 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Celta Fortuna - Cacereño (Viernes 17/04 - 19:00)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Viernes 17/04 - 19:00)</desc>
-  </programme>
   <programme start="20260417190000 +0100" stop="20260417210000 +0100" channel="Fútbol 3">
     <title>Primera Federación: Celta Fortuna - Cacereño</title>
     <desc>Fútbol en directo - Primera Federación: Celta Fortuna - Cacereño</desc>
   </programme>
-  <programme start="20260417210000 +0100" stop="20260418010000 +0100" channel="Fútbol 3">
+  <programme start="20260418090948 +0100" stop="20260418130948 +0100" channel="Fútbol 3">
     <title>Próximo partido: Hoffenheim - Borussia Dortmund (Sábado 18/04 - 15:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 18/04 - 15:30)</desc>
   </programme>
-  <programme start="20260418010000 +0100" stop="20260418050000 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Hoffenheim - Borussia Dortmund (Sábado 18/04 - 15:30)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Sábado 18/04 - 15:30)</desc>
-  </programme>
-  <programme start="20260418050000 +0100" stop="20260418090000 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Hoffenheim - Borussia Dortmund (Sábado 18/04 - 15:30)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Sábado 18/04 - 15:30)</desc>
-  </programme>
-  <programme start="20260418090000 +0100" stop="20260418130000 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Hoffenheim - Borussia Dortmund (Sábado 18/04 - 15:30)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Sábado 18/04 - 15:30)</desc>
-  </programme>
-  <programme start="20260418130000 +0100" stop="20260418153000 +0100" channel="Fútbol 3">
+  <programme start="20260418130948 +0100" stop="20260418153000 +0100" channel="Fútbol 3">
     <title>Próximo partido: Hoffenheim - Borussia Dortmund (Sábado 18/04 - 15:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 18/04 - 15:30)</desc>
   </programme>
