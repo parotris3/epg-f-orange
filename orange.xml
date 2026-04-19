@@ -3,91 +3,67 @@
   <channel id="Fútbol 1">
     <display-name>Fútbol 1</display-name>
   </channel>
-  <programme start="20260418090948 +0100" stop="20260418130948 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Atlético - Real Sociedad (Sábado 18/04 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Sábado 18/04 - 21:00)</desc>
-  </programme>
-  <programme start="20260418130948 +0100" stop="20260418170948 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Atlético - Real Sociedad (Sábado 18/04 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Sábado 18/04 - 21:00)</desc>
-  </programme>
-  <programme start="20260418170948 +0100" stop="20260418210000 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Atlético - Real Sociedad (Sábado 18/04 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Sábado 18/04 - 21:00)</desc>
-  </programme>
   <programme start="20260418210000 +0100" stop="20260418230000 +0100" channel="Fútbol 1">
     <title>Copa Del Rey: Atlético - Real Sociedad</title>
     <desc>Fútbol en directo - Copa Del Rey: Atlético - Real Sociedad</desc>
   </programme>
-  <programme start="20260418230000 +0100" stop="20260419030000 +0100" channel="Fútbol 1">
+  <programme start="20260419092103 +0100" stop="20260419132103 +0100" channel="Fútbol 1">
     <title>Próximo partido: Girona - Betis (Martes 21/04 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Martes 21/04 - 21:00)</desc>
   </programme>
-  <programme start="20260419030000 +0100" stop="20260419070000 +0100" channel="Fútbol 1">
+  <programme start="20260419132103 +0100" stop="20260419172103 +0100" channel="Fútbol 1">
     <title>Próximo partido: Girona - Betis (Martes 21/04 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Martes 21/04 - 21:00)</desc>
   </programme>
-  <programme start="20260419070000 +0100" stop="20260419110000 +0100" channel="Fútbol 1">
+  <programme start="20260419172103 +0100" stop="20260419212103 +0100" channel="Fútbol 1">
     <title>Próximo partido: Girona - Betis (Martes 21/04 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Martes 21/04 - 21:00)</desc>
   </programme>
-  <programme start="20260419110000 +0100" stop="20260419150000 +0100" channel="Fútbol 1">
+  <programme start="20260419212103 +0100" stop="20260420012103 +0100" channel="Fútbol 1">
     <title>Próximo partido: Girona - Betis (Martes 21/04 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Martes 21/04 - 21:00)</desc>
   </programme>
-  <programme start="20260419150000 +0100" stop="20260419190000 +0100" channel="Fútbol 1">
+  <programme start="20260420012103 +0100" stop="20260420052103 +0100" channel="Fútbol 1">
     <title>Próximo partido: Girona - Betis (Martes 21/04 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Martes 21/04 - 21:00)</desc>
   </programme>
-  <programme start="20260419190000 +0100" stop="20260419230000 +0100" channel="Fútbol 1">
+  <programme start="20260420052103 +0100" stop="20260420092103 +0100" channel="Fútbol 1">
     <title>Próximo partido: Girona - Betis (Martes 21/04 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Martes 21/04 - 21:00)</desc>
   </programme>
-  <programme start="20260419230000 +0100" stop="20260420030000 +0100" channel="Fútbol 1">
+  <programme start="20260420092103 +0100" stop="20260420132103 +0100" channel="Fútbol 1">
     <title>Próximo partido: Girona - Betis (Martes 21/04 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Martes 21/04 - 21:00)</desc>
   </programme>
-  <programme start="20260420030000 +0100" stop="20260420070000 +0100" channel="Fútbol 1">
+  <programme start="20260420132103 +0100" stop="20260420172103 +0100" channel="Fútbol 1">
     <title>Próximo partido: Girona - Betis (Martes 21/04 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Martes 21/04 - 21:00)</desc>
   </programme>
-  <programme start="20260420070000 +0100" stop="20260420110000 +0100" channel="Fútbol 1">
+  <programme start="20260420172103 +0100" stop="20260420212103 +0100" channel="Fútbol 1">
     <title>Próximo partido: Girona - Betis (Martes 21/04 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Martes 21/04 - 21:00)</desc>
   </programme>
-  <programme start="20260420110000 +0100" stop="20260420150000 +0100" channel="Fútbol 1">
+  <programme start="20260420212103 +0100" stop="20260421012103 +0100" channel="Fútbol 1">
     <title>Próximo partido: Girona - Betis (Martes 21/04 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Martes 21/04 - 21:00)</desc>
   </programme>
-  <programme start="20260420150000 +0100" stop="20260420190000 +0100" channel="Fútbol 1">
+  <programme start="20260421012103 +0100" stop="20260421052103 +0100" channel="Fútbol 1">
     <title>Próximo partido: Girona - Betis (Martes 21/04 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Martes 21/04 - 21:00)</desc>
   </programme>
-  <programme start="20260420190000 +0100" stop="20260420230000 +0100" channel="Fútbol 1">
+  <programme start="20260421052103 +0100" stop="20260421092103 +0100" channel="Fútbol 1">
     <title>Próximo partido: Girona - Betis (Martes 21/04 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Martes 21/04 - 21:00)</desc>
   </programme>
-  <programme start="20260420230000 +0100" stop="20260421030000 +0100" channel="Fútbol 1">
+  <programme start="20260421092103 +0100" stop="20260421132103 +0100" channel="Fútbol 1">
     <title>Próximo partido: Girona - Betis (Martes 21/04 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Martes 21/04 - 21:00)</desc>
   </programme>
-  <programme start="20260421030000 +0100" stop="20260421070000 +0100" channel="Fútbol 1">
+  <programme start="20260421132103 +0100" stop="20260421172103 +0100" channel="Fútbol 1">
     <title>Próximo partido: Girona - Betis (Martes 21/04 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Martes 21/04 - 21:00)</desc>
   </programme>
-  <programme start="20260421070000 +0100" stop="20260421110000 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Girona - Betis (Martes 21/04 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Martes 21/04 - 21:00)</desc>
-  </programme>
-  <programme start="20260421110000 +0100" stop="20260421150000 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Girona - Betis (Martes 21/04 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Martes 21/04 - 21:00)</desc>
-  </programme>
-  <programme start="20260421150000 +0100" stop="20260421190000 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Girona - Betis (Martes 21/04 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Martes 21/04 - 21:00)</desc>
-  </programme>
-  <programme start="20260421190000 +0100" stop="20260421210000 +0100" channel="Fútbol 1">
+  <programme start="20260421172103 +0100" stop="20260421210000 +0100" channel="Fútbol 1">
     <title>Próximo partido: Girona - Betis (Martes 21/04 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Martes 21/04 - 21:00)</desc>
   </programme>
@@ -230,39 +206,15 @@
     <title>Laliga Hypermotion: R. Sociedad B - Racing</title>
     <desc>Fútbol en directo - Laliga Hypermotion: R. Sociedad B - Racing</desc>
   </programme>
-  <programme start="20260418090948 +0100" stop="20260418130948 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Zaragoza - Ceuta (Sábado 18/04 - 16:15)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Sábado 18/04 - 16:15)</desc>
-  </programme>
-  <programme start="20260418130948 +0100" stop="20260418161500 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Zaragoza - Ceuta (Sábado 18/04 - 16:15)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Sábado 18/04 - 16:15)</desc>
-  </programme>
   <programme start="20260418161500 +0100" stop="20260418181500 +0100" channel="Fútbol 2">
     <title>Laliga Hypermotion: Zaragoza - Ceuta</title>
     <desc>Fútbol en directo - Laliga Hypermotion: Zaragoza - Ceuta</desc>
   </programme>
-  <programme start="20260418181500 +0100" stop="20260418221500 +0100" channel="Fútbol 2">
+  <programme start="20260419092103 +0100" stop="20260419132103 +0100" channel="Fútbol 2">
     <title>Próximo partido: Sporting - Cádiz (Domingo 19/04 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Domingo 19/04 - 16:15)</desc>
   </programme>
-  <programme start="20260418221500 +0100" stop="20260419021500 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Sporting - Cádiz (Domingo 19/04 - 16:15)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Domingo 19/04 - 16:15)</desc>
-  </programme>
-  <programme start="20260419021500 +0100" stop="20260419061500 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Sporting - Cádiz (Domingo 19/04 - 16:15)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Domingo 19/04 - 16:15)</desc>
-  </programme>
-  <programme start="20260419061500 +0100" stop="20260419101500 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Sporting - Cádiz (Domingo 19/04 - 16:15)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Domingo 19/04 - 16:15)</desc>
-  </programme>
-  <programme start="20260419101500 +0100" stop="20260419141500 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Sporting - Cádiz (Domingo 19/04 - 16:15)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Domingo 19/04 - 16:15)</desc>
-  </programme>
-  <programme start="20260419141500 +0100" stop="20260419161500 +0100" channel="Fútbol 2">
+  <programme start="20260419132103 +0100" stop="20260419161500 +0100" channel="Fútbol 2">
     <title>Próximo partido: Sporting - Cádiz (Domingo 19/04 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Domingo 19/04 - 16:15)</desc>
   </programme>
@@ -497,39 +449,15 @@
     <title>Primera Federación: Celta Fortuna - Cacereño</title>
     <desc>Fútbol en directo - Primera Federación: Celta Fortuna - Cacereño</desc>
   </programme>
-  <programme start="20260418090948 +0100" stop="20260418130948 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Hoffenheim - Borussia Dortmund (Sábado 18/04 - 15:30)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Sábado 18/04 - 15:30)</desc>
-  </programme>
-  <programme start="20260418130948 +0100" stop="20260418153000 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Hoffenheim - Borussia Dortmund (Sábado 18/04 - 15:30)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Sábado 18/04 - 15:30)</desc>
-  </programme>
   <programme start="20260418153000 +0100" stop="20260418173000 +0100" channel="Fútbol 3">
     <title>Bundesliga Alemania: Hoffenheim - Borussia Dortmund</title>
     <desc>Fútbol en directo - Bundesliga Alemania: Hoffenheim - Borussia Dortmund</desc>
   </programme>
-  <programme start="20260418173000 +0100" stop="20260418213000 +0100" channel="Fútbol 3">
+  <programme start="20260419092103 +0100" stop="20260419132103 +0100" channel="Fútbol 3">
     <title>Próximo partido: Hellas Verona - Milan (Domingo 19/04 - 15:00)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Domingo 19/04 - 15:00)</desc>
   </programme>
-  <programme start="20260418213000 +0100" stop="20260419013000 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Hellas Verona - Milan (Domingo 19/04 - 15:00)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Domingo 19/04 - 15:00)</desc>
-  </programme>
-  <programme start="20260419013000 +0100" stop="20260419053000 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Hellas Verona - Milan (Domingo 19/04 - 15:00)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Domingo 19/04 - 15:00)</desc>
-  </programme>
-  <programme start="20260419053000 +0100" stop="20260419093000 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Hellas Verona - Milan (Domingo 19/04 - 15:00)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Domingo 19/04 - 15:00)</desc>
-  </programme>
-  <programme start="20260419093000 +0100" stop="20260419133000 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Hellas Verona - Milan (Domingo 19/04 - 15:00)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Domingo 19/04 - 15:00)</desc>
-  </programme>
-  <programme start="20260419133000 +0100" stop="20260419150000 +0100" channel="Fútbol 3">
+  <programme start="20260419132103 +0100" stop="20260419150000 +0100" channel="Fútbol 3">
     <title>Próximo partido: Hellas Verona - Milan (Domingo 19/04 - 15:00)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Domingo 19/04 - 15:00)</desc>
   </programme>
