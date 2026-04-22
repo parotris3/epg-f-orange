@@ -3,115 +3,87 @@
   <channel id="Fútbol 1">
     <display-name>Fútbol 1</display-name>
   </channel>
-  <programme start="20260418210000 +0100" stop="20260418230000 +0100" channel="Fútbol 1">
-    <title>Copa Del Rey: Atlético - Real Sociedad</title>
-    <desc>Fútbol en directo - Copa Del Rey: Atlético - Real Sociedad</desc>
-  </programme>
-  <programme start="20260421095227 +0100" stop="20260421135227 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Girona - Betis (Martes 21/04 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Martes 21/04 - 21:00)</desc>
-  </programme>
-  <programme start="20260421135227 +0100" stop="20260421175227 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Girona - Betis (Martes 21/04 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Martes 21/04 - 21:00)</desc>
-  </programme>
-  <programme start="20260421175227 +0100" stop="20260421210000 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Girona - Betis (Martes 21/04 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Martes 21/04 - 21:00)</desc>
-  </programme>
   <programme start="20260421210000 +0100" stop="20260421230000 +0100" channel="Fútbol 1">
     <title>Laliga Ea Sports: Girona - Betis</title>
     <desc>Fútbol en directo - Laliga Ea Sports: Girona - Betis</desc>
   </programme>
-  <programme start="20260421230000 +0100" stop="20260422030000 +0100" channel="Fútbol 1">
+  <programme start="20260422094912 +0100" stop="20260422134912 +0100" channel="Fútbol 1">
     <title>Próximo partido: Getafe - Barcelona (Sábado 25/04 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 25/04 - 16:15)</desc>
   </programme>
-  <programme start="20260422030000 +0100" stop="20260422070000 +0100" channel="Fútbol 1">
+  <programme start="20260422134912 +0100" stop="20260422174912 +0100" channel="Fútbol 1">
     <title>Próximo partido: Getafe - Barcelona (Sábado 25/04 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 25/04 - 16:15)</desc>
   </programme>
-  <programme start="20260422070000 +0100" stop="20260422110000 +0100" channel="Fútbol 1">
+  <programme start="20260422174912 +0100" stop="20260422214912 +0100" channel="Fútbol 1">
     <title>Próximo partido: Getafe - Barcelona (Sábado 25/04 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 25/04 - 16:15)</desc>
   </programme>
-  <programme start="20260422110000 +0100" stop="20260422150000 +0100" channel="Fútbol 1">
+  <programme start="20260422214912 +0100" stop="20260423014912 +0100" channel="Fútbol 1">
     <title>Próximo partido: Getafe - Barcelona (Sábado 25/04 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 25/04 - 16:15)</desc>
   </programme>
-  <programme start="20260422150000 +0100" stop="20260422190000 +0100" channel="Fútbol 1">
+  <programme start="20260423014912 +0100" stop="20260423054912 +0100" channel="Fútbol 1">
     <title>Próximo partido: Getafe - Barcelona (Sábado 25/04 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 25/04 - 16:15)</desc>
   </programme>
-  <programme start="20260422190000 +0100" stop="20260422230000 +0100" channel="Fútbol 1">
+  <programme start="20260423054912 +0100" stop="20260423094912 +0100" channel="Fútbol 1">
     <title>Próximo partido: Getafe - Barcelona (Sábado 25/04 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 25/04 - 16:15)</desc>
   </programme>
-  <programme start="20260422230000 +0100" stop="20260423030000 +0100" channel="Fútbol 1">
+  <programme start="20260423094912 +0100" stop="20260423134912 +0100" channel="Fútbol 1">
     <title>Próximo partido: Getafe - Barcelona (Sábado 25/04 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 25/04 - 16:15)</desc>
   </programme>
-  <programme start="20260423030000 +0100" stop="20260423070000 +0100" channel="Fútbol 1">
+  <programme start="20260423134912 +0100" stop="20260423174912 +0100" channel="Fútbol 1">
     <title>Próximo partido: Getafe - Barcelona (Sábado 25/04 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 25/04 - 16:15)</desc>
   </programme>
-  <programme start="20260423070000 +0100" stop="20260423110000 +0100" channel="Fútbol 1">
+  <programme start="20260423174912 +0100" stop="20260423214912 +0100" channel="Fútbol 1">
     <title>Próximo partido: Getafe - Barcelona (Sábado 25/04 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 25/04 - 16:15)</desc>
   </programme>
-  <programme start="20260423110000 +0100" stop="20260423150000 +0100" channel="Fútbol 1">
+  <programme start="20260423214912 +0100" stop="20260424014912 +0100" channel="Fútbol 1">
     <title>Próximo partido: Getafe - Barcelona (Sábado 25/04 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 25/04 - 16:15)</desc>
   </programme>
-  <programme start="20260423150000 +0100" stop="20260423190000 +0100" channel="Fútbol 1">
+  <programme start="20260424014912 +0100" stop="20260424054912 +0100" channel="Fútbol 1">
     <title>Próximo partido: Getafe - Barcelona (Sábado 25/04 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 25/04 - 16:15)</desc>
   </programme>
-  <programme start="20260423190000 +0100" stop="20260423230000 +0100" channel="Fútbol 1">
+  <programme start="20260424054912 +0100" stop="20260424094912 +0100" channel="Fútbol 1">
     <title>Próximo partido: Getafe - Barcelona (Sábado 25/04 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 25/04 - 16:15)</desc>
   </programme>
-  <programme start="20260423230000 +0100" stop="20260424030000 +0100" channel="Fútbol 1">
+  <programme start="20260424094912 +0100" stop="20260424134912 +0100" channel="Fútbol 1">
     <title>Próximo partido: Getafe - Barcelona (Sábado 25/04 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 25/04 - 16:15)</desc>
   </programme>
-  <programme start="20260424030000 +0100" stop="20260424070000 +0100" channel="Fútbol 1">
+  <programme start="20260424134912 +0100" stop="20260424174912 +0100" channel="Fútbol 1">
     <title>Próximo partido: Getafe - Barcelona (Sábado 25/04 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 25/04 - 16:15)</desc>
   </programme>
-  <programme start="20260424070000 +0100" stop="20260424110000 +0100" channel="Fútbol 1">
+  <programme start="20260424174912 +0100" stop="20260424214912 +0100" channel="Fútbol 1">
     <title>Próximo partido: Getafe - Barcelona (Sábado 25/04 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 25/04 - 16:15)</desc>
   </programme>
-  <programme start="20260424110000 +0100" stop="20260424150000 +0100" channel="Fútbol 1">
+  <programme start="20260424214912 +0100" stop="20260425014912 +0100" channel="Fútbol 1">
     <title>Próximo partido: Getafe - Barcelona (Sábado 25/04 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 25/04 - 16:15)</desc>
   </programme>
-  <programme start="20260424150000 +0100" stop="20260424190000 +0100" channel="Fútbol 1">
+  <programme start="20260425014912 +0100" stop="20260425054912 +0100" channel="Fútbol 1">
     <title>Próximo partido: Getafe - Barcelona (Sábado 25/04 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 25/04 - 16:15)</desc>
   </programme>
-  <programme start="20260424190000 +0100" stop="20260424230000 +0100" channel="Fútbol 1">
+  <programme start="20260425054912 +0100" stop="20260425094912 +0100" channel="Fútbol 1">
     <title>Próximo partido: Getafe - Barcelona (Sábado 25/04 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 25/04 - 16:15)</desc>
   </programme>
-  <programme start="20260424230000 +0100" stop="20260425030000 +0100" channel="Fútbol 1">
+  <programme start="20260425094912 +0100" stop="20260425134912 +0100" channel="Fútbol 1">
     <title>Próximo partido: Getafe - Barcelona (Sábado 25/04 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 25/04 - 16:15)</desc>
   </programme>
-  <programme start="20260425030000 +0100" stop="20260425070000 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Getafe - Barcelona (Sábado 25/04 - 16:15)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Sábado 25/04 - 16:15)</desc>
-  </programme>
-  <programme start="20260425070000 +0100" stop="20260425110000 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Getafe - Barcelona (Sábado 25/04 - 16:15)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Sábado 25/04 - 16:15)</desc>
-  </programme>
-  <programme start="20260425110000 +0100" stop="20260425150000 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Getafe - Barcelona (Sábado 25/04 - 16:15)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Sábado 25/04 - 16:15)</desc>
-  </programme>
-  <programme start="20260425150000 +0100" stop="20260425161500 +0100" channel="Fútbol 1">
+  <programme start="20260425134912 +0100" stop="20260425161500 +0100" channel="Fútbol 1">
     <title>Próximo partido: Getafe - Barcelona (Sábado 25/04 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 25/04 - 16:15)</desc>
   </programme>
@@ -151,130 +123,294 @@
     <title>Laliga Ea Sports: Osasuna - Sevilla</title>
     <desc>Fútbol en directo - Laliga Ea Sports: Osasuna - Sevilla</desc>
   </programme>
+  <programme start="20260426203000 +0100" stop="20260427003000 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Espanyol - Real Madrid (Domingo 03/05 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Domingo 03/05 - 21:00)</desc>
+  </programme>
+  <programme start="20260427003000 +0100" stop="20260427043000 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Espanyol - Real Madrid (Domingo 03/05 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Domingo 03/05 - 21:00)</desc>
+  </programme>
+  <programme start="20260427043000 +0100" stop="20260427083000 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Espanyol - Real Madrid (Domingo 03/05 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Domingo 03/05 - 21:00)</desc>
+  </programme>
+  <programme start="20260427083000 +0100" stop="20260427123000 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Espanyol - Real Madrid (Domingo 03/05 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Domingo 03/05 - 21:00)</desc>
+  </programme>
+  <programme start="20260427123000 +0100" stop="20260427163000 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Espanyol - Real Madrid (Domingo 03/05 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Domingo 03/05 - 21:00)</desc>
+  </programme>
+  <programme start="20260427163000 +0100" stop="20260427203000 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Espanyol - Real Madrid (Domingo 03/05 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Domingo 03/05 - 21:00)</desc>
+  </programme>
+  <programme start="20260427203000 +0100" stop="20260428003000 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Espanyol - Real Madrid (Domingo 03/05 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Domingo 03/05 - 21:00)</desc>
+  </programme>
+  <programme start="20260428003000 +0100" stop="20260428043000 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Espanyol - Real Madrid (Domingo 03/05 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Domingo 03/05 - 21:00)</desc>
+  </programme>
+  <programme start="20260428043000 +0100" stop="20260428083000 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Espanyol - Real Madrid (Domingo 03/05 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Domingo 03/05 - 21:00)</desc>
+  </programme>
+  <programme start="20260428083000 +0100" stop="20260428123000 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Espanyol - Real Madrid (Domingo 03/05 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Domingo 03/05 - 21:00)</desc>
+  </programme>
+  <programme start="20260428123000 +0100" stop="20260428163000 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Espanyol - Real Madrid (Domingo 03/05 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Domingo 03/05 - 21:00)</desc>
+  </programme>
+  <programme start="20260428163000 +0100" stop="20260428203000 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Espanyol - Real Madrid (Domingo 03/05 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Domingo 03/05 - 21:00)</desc>
+  </programme>
+  <programme start="20260428203000 +0100" stop="20260429003000 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Espanyol - Real Madrid (Domingo 03/05 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Domingo 03/05 - 21:00)</desc>
+  </programme>
+  <programme start="20260429003000 +0100" stop="20260429043000 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Espanyol - Real Madrid (Domingo 03/05 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Domingo 03/05 - 21:00)</desc>
+  </programme>
+  <programme start="20260429043000 +0100" stop="20260429083000 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Espanyol - Real Madrid (Domingo 03/05 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Domingo 03/05 - 21:00)</desc>
+  </programme>
+  <programme start="20260429083000 +0100" stop="20260429123000 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Espanyol - Real Madrid (Domingo 03/05 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Domingo 03/05 - 21:00)</desc>
+  </programme>
+  <programme start="20260429123000 +0100" stop="20260429163000 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Espanyol - Real Madrid (Domingo 03/05 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Domingo 03/05 - 21:00)</desc>
+  </programme>
+  <programme start="20260429163000 +0100" stop="20260429203000 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Espanyol - Real Madrid (Domingo 03/05 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Domingo 03/05 - 21:00)</desc>
+  </programme>
+  <programme start="20260429203000 +0100" stop="20260430003000 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Espanyol - Real Madrid (Domingo 03/05 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Domingo 03/05 - 21:00)</desc>
+  </programme>
+  <programme start="20260430003000 +0100" stop="20260430043000 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Espanyol - Real Madrid (Domingo 03/05 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Domingo 03/05 - 21:00)</desc>
+  </programme>
+  <programme start="20260430043000 +0100" stop="20260430083000 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Espanyol - Real Madrid (Domingo 03/05 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Domingo 03/05 - 21:00)</desc>
+  </programme>
+  <programme start="20260430083000 +0100" stop="20260430123000 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Espanyol - Real Madrid (Domingo 03/05 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Domingo 03/05 - 21:00)</desc>
+  </programme>
+  <programme start="20260430123000 +0100" stop="20260430163000 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Espanyol - Real Madrid (Domingo 03/05 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Domingo 03/05 - 21:00)</desc>
+  </programme>
+  <programme start="20260430163000 +0100" stop="20260430203000 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Espanyol - Real Madrid (Domingo 03/05 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Domingo 03/05 - 21:00)</desc>
+  </programme>
+  <programme start="20260430203000 +0100" stop="20260501003000 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Espanyol - Real Madrid (Domingo 03/05 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Domingo 03/05 - 21:00)</desc>
+  </programme>
+  <programme start="20260501003000 +0100" stop="20260501043000 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Espanyol - Real Madrid (Domingo 03/05 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Domingo 03/05 - 21:00)</desc>
+  </programme>
+  <programme start="20260501043000 +0100" stop="20260501083000 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Espanyol - Real Madrid (Domingo 03/05 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Domingo 03/05 - 21:00)</desc>
+  </programme>
+  <programme start="20260501083000 +0100" stop="20260501123000 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Espanyol - Real Madrid (Domingo 03/05 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Domingo 03/05 - 21:00)</desc>
+  </programme>
+  <programme start="20260501123000 +0100" stop="20260501163000 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Espanyol - Real Madrid (Domingo 03/05 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Domingo 03/05 - 21:00)</desc>
+  </programme>
+  <programme start="20260501163000 +0100" stop="20260501203000 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Espanyol - Real Madrid (Domingo 03/05 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Domingo 03/05 - 21:00)</desc>
+  </programme>
+  <programme start="20260501203000 +0100" stop="20260502003000 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Espanyol - Real Madrid (Domingo 03/05 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Domingo 03/05 - 21:00)</desc>
+  </programme>
+  <programme start="20260502003000 +0100" stop="20260502043000 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Espanyol - Real Madrid (Domingo 03/05 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Domingo 03/05 - 21:00)</desc>
+  </programme>
+  <programme start="20260502043000 +0100" stop="20260502083000 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Espanyol - Real Madrid (Domingo 03/05 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Domingo 03/05 - 21:00)</desc>
+  </programme>
+  <programme start="20260502083000 +0100" stop="20260502123000 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Espanyol - Real Madrid (Domingo 03/05 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Domingo 03/05 - 21:00)</desc>
+  </programme>
+  <programme start="20260502123000 +0100" stop="20260502163000 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Espanyol - Real Madrid (Domingo 03/05 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Domingo 03/05 - 21:00)</desc>
+  </programme>
+  <programme start="20260502163000 +0100" stop="20260502203000 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Espanyol - Real Madrid (Domingo 03/05 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Domingo 03/05 - 21:00)</desc>
+  </programme>
+  <programme start="20260502203000 +0100" stop="20260503003000 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Espanyol - Real Madrid (Domingo 03/05 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Domingo 03/05 - 21:00)</desc>
+  </programme>
+  <programme start="20260503003000 +0100" stop="20260503043000 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Espanyol - Real Madrid (Domingo 03/05 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Domingo 03/05 - 21:00)</desc>
+  </programme>
+  <programme start="20260503043000 +0100" stop="20260503083000 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Espanyol - Real Madrid (Domingo 03/05 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Domingo 03/05 - 21:00)</desc>
+  </programme>
+  <programme start="20260503083000 +0100" stop="20260503123000 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Espanyol - Real Madrid (Domingo 03/05 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Domingo 03/05 - 21:00)</desc>
+  </programme>
+  <programme start="20260503123000 +0100" stop="20260503163000 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Espanyol - Real Madrid (Domingo 03/05 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Domingo 03/05 - 21:00)</desc>
+  </programme>
+  <programme start="20260503163000 +0100" stop="20260503203000 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Espanyol - Real Madrid (Domingo 03/05 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Domingo 03/05 - 21:00)</desc>
+  </programme>
+  <programme start="20260503203000 +0100" stop="20260503210000 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Espanyol - Real Madrid (Domingo 03/05 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Domingo 03/05 - 21:00)</desc>
+  </programme>
+  <programme start="20260503210000 +0100" stop="20260503230000 +0100" channel="Fútbol 1">
+    <title>Laliga Ea Sports: Espanyol - Real Madrid</title>
+    <desc>Fútbol en directo - Laliga Ea Sports: Espanyol - Real Madrid</desc>
+  </programme>
+  <programme start="20260503230000 +0100" stop="20260504030000 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Sevilla - Real Sociedad (Lunes 04/05 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Lunes 04/05 - 21:00)</desc>
+  </programme>
+  <programme start="20260504030000 +0100" stop="20260504070000 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Sevilla - Real Sociedad (Lunes 04/05 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Lunes 04/05 - 21:00)</desc>
+  </programme>
+  <programme start="20260504070000 +0100" stop="20260504110000 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Sevilla - Real Sociedad (Lunes 04/05 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Lunes 04/05 - 21:00)</desc>
+  </programme>
+  <programme start="20260504110000 +0100" stop="20260504150000 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Sevilla - Real Sociedad (Lunes 04/05 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Lunes 04/05 - 21:00)</desc>
+  </programme>
+  <programme start="20260504150000 +0100" stop="20260504190000 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Sevilla - Real Sociedad (Lunes 04/05 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Lunes 04/05 - 21:00)</desc>
+  </programme>
+  <programme start="20260504190000 +0100" stop="20260504210000 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Sevilla - Real Sociedad (Lunes 04/05 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Lunes 04/05 - 21:00)</desc>
+  </programme>
+  <programme start="20260504210000 +0100" stop="20260504230000 +0100" channel="Fútbol 1">
+    <title>Laliga Ea Sports: Sevilla - Real Sociedad</title>
+    <desc>Fútbol en directo - Laliga Ea Sports: Sevilla - Real Sociedad</desc>
+  </programme>
   <channel id="Fútbol 2">
     <display-name>Fútbol 2</display-name>
   </channel>
-  <programme start="20260417203000 +0100" stop="20260417223000 +0100" channel="Fútbol 2">
-    <title>Laliga Hypermotion: R. Sociedad B - Racing</title>
-    <desc>Fútbol en directo - Laliga Hypermotion: R. Sociedad B - Racing</desc>
-  </programme>
-  <programme start="20260418161500 +0100" stop="20260418181500 +0100" channel="Fútbol 2">
-    <title>Laliga Hypermotion: Zaragoza - Ceuta</title>
-    <desc>Fútbol en directo - Laliga Hypermotion: Zaragoza - Ceuta</desc>
-  </programme>
-  <programme start="20260419161500 +0100" stop="20260419181500 +0100" channel="Fútbol 2">
-    <title>Laliga Hypermotion: Sporting - Cádiz</title>
-    <desc>Fútbol en directo - Laliga Hypermotion: Sporting - Cádiz</desc>
-  </programme>
-  <programme start="20260419210000 +0100" stop="20260419230000 +0100" channel="Fútbol 2">
-    <title>Laliga Hypermotion: Almería - Málaga</title>
-    <desc>Fútbol en directo - Laliga Hypermotion: Almería - Málaga</desc>
-  </programme>
-  <programme start="20260421095227 +0100" stop="20260421135227 +0100" channel="Fútbol 2">
+  <programme start="20260422094912 +0100" stop="20260422134912 +0100" channel="Fútbol 2">
     <title>Próximo partido: Málaga - Castellón (Sábado 25/04 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 25/04 - 21:00)</desc>
   </programme>
-  <programme start="20260421135227 +0100" stop="20260421175227 +0100" channel="Fútbol 2">
+  <programme start="20260422134912 +0100" stop="20260422174912 +0100" channel="Fútbol 2">
     <title>Próximo partido: Málaga - Castellón (Sábado 25/04 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 25/04 - 21:00)</desc>
   </programme>
-  <programme start="20260421175227 +0100" stop="20260421215227 +0100" channel="Fútbol 2">
+  <programme start="20260422174912 +0100" stop="20260422214912 +0100" channel="Fútbol 2">
     <title>Próximo partido: Málaga - Castellón (Sábado 25/04 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 25/04 - 21:00)</desc>
   </programme>
-  <programme start="20260421215227 +0100" stop="20260422015227 +0100" channel="Fútbol 2">
+  <programme start="20260422214912 +0100" stop="20260423014912 +0100" channel="Fútbol 2">
     <title>Próximo partido: Málaga - Castellón (Sábado 25/04 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 25/04 - 21:00)</desc>
   </programme>
-  <programme start="20260422015227 +0100" stop="20260422055227 +0100" channel="Fútbol 2">
+  <programme start="20260423014912 +0100" stop="20260423054912 +0100" channel="Fútbol 2">
     <title>Próximo partido: Málaga - Castellón (Sábado 25/04 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 25/04 - 21:00)</desc>
   </programme>
-  <programme start="20260422055227 +0100" stop="20260422095227 +0100" channel="Fútbol 2">
+  <programme start="20260423054912 +0100" stop="20260423094912 +0100" channel="Fútbol 2">
     <title>Próximo partido: Málaga - Castellón (Sábado 25/04 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 25/04 - 21:00)</desc>
   </programme>
-  <programme start="20260422095227 +0100" stop="20260422135227 +0100" channel="Fútbol 2">
+  <programme start="20260423094912 +0100" stop="20260423134912 +0100" channel="Fútbol 2">
     <title>Próximo partido: Málaga - Castellón (Sábado 25/04 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 25/04 - 21:00)</desc>
   </programme>
-  <programme start="20260422135227 +0100" stop="20260422175227 +0100" channel="Fútbol 2">
+  <programme start="20260423134912 +0100" stop="20260423174912 +0100" channel="Fútbol 2">
     <title>Próximo partido: Málaga - Castellón (Sábado 25/04 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 25/04 - 21:00)</desc>
   </programme>
-  <programme start="20260422175227 +0100" stop="20260422215227 +0100" channel="Fútbol 2">
+  <programme start="20260423174912 +0100" stop="20260423214912 +0100" channel="Fútbol 2">
     <title>Próximo partido: Málaga - Castellón (Sábado 25/04 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 25/04 - 21:00)</desc>
   </programme>
-  <programme start="20260422215227 +0100" stop="20260423015227 +0100" channel="Fútbol 2">
+  <programme start="20260423214912 +0100" stop="20260424014912 +0100" channel="Fútbol 2">
     <title>Próximo partido: Málaga - Castellón (Sábado 25/04 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 25/04 - 21:00)</desc>
   </programme>
-  <programme start="20260423015227 +0100" stop="20260423055227 +0100" channel="Fútbol 2">
+  <programme start="20260424014912 +0100" stop="20260424054912 +0100" channel="Fútbol 2">
     <title>Próximo partido: Málaga - Castellón (Sábado 25/04 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 25/04 - 21:00)</desc>
   </programme>
-  <programme start="20260423055227 +0100" stop="20260423095227 +0100" channel="Fútbol 2">
+  <programme start="20260424054912 +0100" stop="20260424094912 +0100" channel="Fútbol 2">
     <title>Próximo partido: Málaga - Castellón (Sábado 25/04 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 25/04 - 21:00)</desc>
   </programme>
-  <programme start="20260423095227 +0100" stop="20260423135227 +0100" channel="Fútbol 2">
+  <programme start="20260424094912 +0100" stop="20260424134912 +0100" channel="Fútbol 2">
     <title>Próximo partido: Málaga - Castellón (Sábado 25/04 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 25/04 - 21:00)</desc>
   </programme>
-  <programme start="20260423135227 +0100" stop="20260423175227 +0100" channel="Fútbol 2">
+  <programme start="20260424134912 +0100" stop="20260424174912 +0100" channel="Fútbol 2">
     <title>Próximo partido: Málaga - Castellón (Sábado 25/04 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 25/04 - 21:00)</desc>
   </programme>
-  <programme start="20260423175227 +0100" stop="20260423215227 +0100" channel="Fútbol 2">
+  <programme start="20260424174912 +0100" stop="20260424214912 +0100" channel="Fútbol 2">
     <title>Próximo partido: Málaga - Castellón (Sábado 25/04 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 25/04 - 21:00)</desc>
   </programme>
-  <programme start="20260423215227 +0100" stop="20260424015227 +0100" channel="Fútbol 2">
+  <programme start="20260424214912 +0100" stop="20260425014912 +0100" channel="Fútbol 2">
     <title>Próximo partido: Málaga - Castellón (Sábado 25/04 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 25/04 - 21:00)</desc>
   </programme>
-  <programme start="20260424015227 +0100" stop="20260424055227 +0100" channel="Fútbol 2">
+  <programme start="20260425014912 +0100" stop="20260425054912 +0100" channel="Fútbol 2">
     <title>Próximo partido: Málaga - Castellón (Sábado 25/04 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 25/04 - 21:00)</desc>
   </programme>
-  <programme start="20260424055227 +0100" stop="20260424095227 +0100" channel="Fútbol 2">
+  <programme start="20260425054912 +0100" stop="20260425094912 +0100" channel="Fútbol 2">
     <title>Próximo partido: Málaga - Castellón (Sábado 25/04 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 25/04 - 21:00)</desc>
   </programme>
-  <programme start="20260424095227 +0100" stop="20260424135227 +0100" channel="Fútbol 2">
+  <programme start="20260425094912 +0100" stop="20260425134912 +0100" channel="Fútbol 2">
     <title>Próximo partido: Málaga - Castellón (Sábado 25/04 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 25/04 - 21:00)</desc>
   </programme>
-  <programme start="20260424135227 +0100" stop="20260424175227 +0100" channel="Fútbol 2">
+  <programme start="20260425134912 +0100" stop="20260425174912 +0100" channel="Fútbol 2">
     <title>Próximo partido: Málaga - Castellón (Sábado 25/04 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 25/04 - 21:00)</desc>
   </programme>
-  <programme start="20260424175227 +0100" stop="20260424215227 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Málaga - Castellón (Sábado 25/04 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Sábado 25/04 - 21:00)</desc>
-  </programme>
-  <programme start="20260424215227 +0100" stop="20260425015227 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Málaga - Castellón (Sábado 25/04 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Sábado 25/04 - 21:00)</desc>
-  </programme>
-  <programme start="20260425015227 +0100" stop="20260425055227 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Málaga - Castellón (Sábado 25/04 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Sábado 25/04 - 21:00)</desc>
-  </programme>
-  <programme start="20260425055227 +0100" stop="20260425095227 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Málaga - Castellón (Sábado 25/04 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Sábado 25/04 - 21:00)</desc>
-  </programme>
-  <programme start="20260425095227 +0100" stop="20260425135227 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Málaga - Castellón (Sábado 25/04 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Sábado 25/04 - 21:00)</desc>
-  </programme>
-  <programme start="20260425135227 +0100" stop="20260425175227 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Málaga - Castellón (Sábado 25/04 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Sábado 25/04 - 21:00)</desc>
-  </programme>
-  <programme start="20260425175227 +0100" stop="20260425210000 +0100" channel="Fútbol 2">
+  <programme start="20260425174912 +0100" stop="20260425210000 +0100" channel="Fútbol 2">
     <title>Próximo partido: Málaga - Castellón (Sábado 25/04 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 25/04 - 21:00)</desc>
   </programme>
@@ -342,98 +478,218 @@
     <title>Laliga Hypermotion: Cádiz - Las Palmas</title>
     <desc>Fútbol en directo - Laliga Hypermotion: Cádiz - Las Palmas</desc>
   </programme>
+  <programme start="20260427223000 +0100" stop="20260428023000 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Deportivo - Leganés (Viernes 01/05 - 18:30)</title>
+    <desc>Siguiente emisión en Fútbol 2 | (Viernes 01/05 - 18:30)</desc>
+  </programme>
+  <programme start="20260428023000 +0100" stop="20260428063000 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Deportivo - Leganés (Viernes 01/05 - 18:30)</title>
+    <desc>Siguiente emisión en Fútbol 2 | (Viernes 01/05 - 18:30)</desc>
+  </programme>
+  <programme start="20260428063000 +0100" stop="20260428103000 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Deportivo - Leganés (Viernes 01/05 - 18:30)</title>
+    <desc>Siguiente emisión en Fútbol 2 | (Viernes 01/05 - 18:30)</desc>
+  </programme>
+  <programme start="20260428103000 +0100" stop="20260428143000 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Deportivo - Leganés (Viernes 01/05 - 18:30)</title>
+    <desc>Siguiente emisión en Fútbol 2 | (Viernes 01/05 - 18:30)</desc>
+  </programme>
+  <programme start="20260428143000 +0100" stop="20260428183000 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Deportivo - Leganés (Viernes 01/05 - 18:30)</title>
+    <desc>Siguiente emisión en Fútbol 2 | (Viernes 01/05 - 18:30)</desc>
+  </programme>
+  <programme start="20260428183000 +0100" stop="20260428223000 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Deportivo - Leganés (Viernes 01/05 - 18:30)</title>
+    <desc>Siguiente emisión en Fútbol 2 | (Viernes 01/05 - 18:30)</desc>
+  </programme>
+  <programme start="20260428223000 +0100" stop="20260429023000 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Deportivo - Leganés (Viernes 01/05 - 18:30)</title>
+    <desc>Siguiente emisión en Fútbol 2 | (Viernes 01/05 - 18:30)</desc>
+  </programme>
+  <programme start="20260429023000 +0100" stop="20260429063000 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Deportivo - Leganés (Viernes 01/05 - 18:30)</title>
+    <desc>Siguiente emisión en Fútbol 2 | (Viernes 01/05 - 18:30)</desc>
+  </programme>
+  <programme start="20260429063000 +0100" stop="20260429103000 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Deportivo - Leganés (Viernes 01/05 - 18:30)</title>
+    <desc>Siguiente emisión en Fútbol 2 | (Viernes 01/05 - 18:30)</desc>
+  </programme>
+  <programme start="20260429103000 +0100" stop="20260429143000 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Deportivo - Leganés (Viernes 01/05 - 18:30)</title>
+    <desc>Siguiente emisión en Fútbol 2 | (Viernes 01/05 - 18:30)</desc>
+  </programme>
+  <programme start="20260429143000 +0100" stop="20260429183000 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Deportivo - Leganés (Viernes 01/05 - 18:30)</title>
+    <desc>Siguiente emisión en Fútbol 2 | (Viernes 01/05 - 18:30)</desc>
+  </programme>
+  <programme start="20260429183000 +0100" stop="20260429223000 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Deportivo - Leganés (Viernes 01/05 - 18:30)</title>
+    <desc>Siguiente emisión en Fútbol 2 | (Viernes 01/05 - 18:30)</desc>
+  </programme>
+  <programme start="20260429223000 +0100" stop="20260430023000 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Deportivo - Leganés (Viernes 01/05 - 18:30)</title>
+    <desc>Siguiente emisión en Fútbol 2 | (Viernes 01/05 - 18:30)</desc>
+  </programme>
+  <programme start="20260430023000 +0100" stop="20260430063000 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Deportivo - Leganés (Viernes 01/05 - 18:30)</title>
+    <desc>Siguiente emisión en Fútbol 2 | (Viernes 01/05 - 18:30)</desc>
+  </programme>
+  <programme start="20260430063000 +0100" stop="20260430103000 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Deportivo - Leganés (Viernes 01/05 - 18:30)</title>
+    <desc>Siguiente emisión en Fútbol 2 | (Viernes 01/05 - 18:30)</desc>
+  </programme>
+  <programme start="20260430103000 +0100" stop="20260430143000 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Deportivo - Leganés (Viernes 01/05 - 18:30)</title>
+    <desc>Siguiente emisión en Fútbol 2 | (Viernes 01/05 - 18:30)</desc>
+  </programme>
+  <programme start="20260430143000 +0100" stop="20260430183000 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Deportivo - Leganés (Viernes 01/05 - 18:30)</title>
+    <desc>Siguiente emisión en Fútbol 2 | (Viernes 01/05 - 18:30)</desc>
+  </programme>
+  <programme start="20260430183000 +0100" stop="20260430223000 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Deportivo - Leganés (Viernes 01/05 - 18:30)</title>
+    <desc>Siguiente emisión en Fútbol 2 | (Viernes 01/05 - 18:30)</desc>
+  </programme>
+  <programme start="20260430223000 +0100" stop="20260501023000 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Deportivo - Leganés (Viernes 01/05 - 18:30)</title>
+    <desc>Siguiente emisión en Fútbol 2 | (Viernes 01/05 - 18:30)</desc>
+  </programme>
+  <programme start="20260501023000 +0100" stop="20260501063000 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Deportivo - Leganés (Viernes 01/05 - 18:30)</title>
+    <desc>Siguiente emisión en Fútbol 2 | (Viernes 01/05 - 18:30)</desc>
+  </programme>
+  <programme start="20260501063000 +0100" stop="20260501103000 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Deportivo - Leganés (Viernes 01/05 - 18:30)</title>
+    <desc>Siguiente emisión en Fútbol 2 | (Viernes 01/05 - 18:30)</desc>
+  </programme>
+  <programme start="20260501103000 +0100" stop="20260501143000 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Deportivo - Leganés (Viernes 01/05 - 18:30)</title>
+    <desc>Siguiente emisión en Fútbol 2 | (Viernes 01/05 - 18:30)</desc>
+  </programme>
+  <programme start="20260501143000 +0100" stop="20260501183000 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Deportivo - Leganés (Viernes 01/05 - 18:30)</title>
+    <desc>Siguiente emisión en Fútbol 2 | (Viernes 01/05 - 18:30)</desc>
+  </programme>
+  <programme start="20260501183000 +0100" stop="20260501203000 +0100" channel="Fútbol 2">
+    <title>Laliga Hypermotion: Deportivo - Leganés</title>
+    <desc>Fútbol en directo - Laliga Hypermotion: Deportivo - Leganés</desc>
+  </programme>
+  <programme start="20260501203000 +0100" stop="20260501210000 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Zaragoza - Granada (Viernes 01/05 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 2 | (Viernes 01/05 - 21:00)</desc>
+  </programme>
+  <programme start="20260501210000 +0100" stop="20260501230000 +0100" channel="Fútbol 2">
+    <title>Laliga Hypermotion: Zaragoza - Granada</title>
+    <desc>Fútbol en directo - Laliga Hypermotion: Zaragoza - Granada</desc>
+  </programme>
+  <programme start="20260501230000 +0100" stop="20260502030000 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Eibar - Málaga (Sábado 02/05 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 2 | (Sábado 02/05 - 21:00)</desc>
+  </programme>
+  <programme start="20260502030000 +0100" stop="20260502070000 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Eibar - Málaga (Sábado 02/05 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 2 | (Sábado 02/05 - 21:00)</desc>
+  </programme>
+  <programme start="20260502070000 +0100" stop="20260502110000 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Eibar - Málaga (Sábado 02/05 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 2 | (Sábado 02/05 - 21:00)</desc>
+  </programme>
+  <programme start="20260502110000 +0100" stop="20260502150000 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Eibar - Málaga (Sábado 02/05 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 2 | (Sábado 02/05 - 21:00)</desc>
+  </programme>
+  <programme start="20260502150000 +0100" stop="20260502190000 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Eibar - Málaga (Sábado 02/05 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 2 | (Sábado 02/05 - 21:00)</desc>
+  </programme>
+  <programme start="20260502190000 +0100" stop="20260502210000 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Eibar - Málaga (Sábado 02/05 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 2 | (Sábado 02/05 - 21:00)</desc>
+  </programme>
+  <programme start="20260502210000 +0100" stop="20260502230000 +0100" channel="Fútbol 2">
+    <title>Laliga Hypermotion: Eibar - Málaga</title>
+    <desc>Fútbol en directo - Laliga Hypermotion: Eibar - Málaga</desc>
+  </programme>
+  <programme start="20260502230000 +0100" stop="20260503030000 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Racing - Huesca (Domingo 03/05 - 14:00)</title>
+    <desc>Siguiente emisión en Fútbol 2 | (Domingo 03/05 - 14:00)</desc>
+  </programme>
+  <programme start="20260503030000 +0100" stop="20260503070000 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Racing - Huesca (Domingo 03/05 - 14:00)</title>
+    <desc>Siguiente emisión en Fútbol 2 | (Domingo 03/05 - 14:00)</desc>
+  </programme>
+  <programme start="20260503070000 +0100" stop="20260503110000 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Racing - Huesca (Domingo 03/05 - 14:00)</title>
+    <desc>Siguiente emisión en Fútbol 2 | (Domingo 03/05 - 14:00)</desc>
+  </programme>
+  <programme start="20260503110000 +0100" stop="20260503140000 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Racing - Huesca (Domingo 03/05 - 14:00)</title>
+    <desc>Siguiente emisión en Fútbol 2 | (Domingo 03/05 - 14:00)</desc>
+  </programme>
+  <programme start="20260503140000 +0100" stop="20260503160000 +0100" channel="Fútbol 2">
+    <title>Laliga Hypermotion: Racing - Huesca</title>
+    <desc>Fútbol en directo - Laliga Hypermotion: Racing - Huesca</desc>
+  </programme>
   <channel id="Fútbol 3">
     <display-name>Fútbol 3</display-name>
   </channel>
-  <programme start="20260418153000 +0100" stop="20260418173000 +0100" channel="Fútbol 3">
-    <title>Bundesliga Alemania: Hoffenheim - Borussia Dortmund</title>
-    <desc>Fútbol en directo - Bundesliga Alemania: Hoffenheim - Borussia Dortmund</desc>
-  </programme>
-  <programme start="20260419150000 +0100" stop="20260419170000 +0100" channel="Fútbol 3">
-    <title>Serie A: Hellas Verona - Milan</title>
-    <desc>Fútbol en directo - Serie A: Hellas Verona - Milan</desc>
-  </programme>
-  <programme start="20260421095227 +0100" stop="20260421135227 +0100" channel="Fútbol 3">
+  <programme start="20260422094912 +0100" stop="20260422134912 +0100" channel="Fútbol 3">
     <title>Próximo partido: Atlético Madrileño - Betis Deportivo (Viernes 24/04 - 19:00)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Viernes 24/04 - 19:00)</desc>
   </programme>
-  <programme start="20260421135227 +0100" stop="20260421175227 +0100" channel="Fútbol 3">
+  <programme start="20260422134912 +0100" stop="20260422174912 +0100" channel="Fútbol 3">
     <title>Próximo partido: Atlético Madrileño - Betis Deportivo (Viernes 24/04 - 19:00)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Viernes 24/04 - 19:00)</desc>
   </programme>
-  <programme start="20260421175227 +0100" stop="20260421215227 +0100" channel="Fútbol 3">
+  <programme start="20260422174912 +0100" stop="20260422214912 +0100" channel="Fútbol 3">
     <title>Próximo partido: Atlético Madrileño - Betis Deportivo (Viernes 24/04 - 19:00)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Viernes 24/04 - 19:00)</desc>
   </programme>
-  <programme start="20260421215227 +0100" stop="20260422015227 +0100" channel="Fútbol 3">
+  <programme start="20260422214912 +0100" stop="20260423014912 +0100" channel="Fútbol 3">
     <title>Próximo partido: Atlético Madrileño - Betis Deportivo (Viernes 24/04 - 19:00)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Viernes 24/04 - 19:00)</desc>
   </programme>
-  <programme start="20260422015227 +0100" stop="20260422055227 +0100" channel="Fútbol 3">
+  <programme start="20260423014912 +0100" stop="20260423054912 +0100" channel="Fútbol 3">
     <title>Próximo partido: Atlético Madrileño - Betis Deportivo (Viernes 24/04 - 19:00)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Viernes 24/04 - 19:00)</desc>
   </programme>
-  <programme start="20260422055227 +0100" stop="20260422095227 +0100" channel="Fútbol 3">
+  <programme start="20260423054912 +0100" stop="20260423094912 +0100" channel="Fútbol 3">
     <title>Próximo partido: Atlético Madrileño - Betis Deportivo (Viernes 24/04 - 19:00)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Viernes 24/04 - 19:00)</desc>
   </programme>
-  <programme start="20260422095227 +0100" stop="20260422135227 +0100" channel="Fútbol 3">
+  <programme start="20260423094912 +0100" stop="20260423134912 +0100" channel="Fútbol 3">
     <title>Próximo partido: Atlético Madrileño - Betis Deportivo (Viernes 24/04 - 19:00)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Viernes 24/04 - 19:00)</desc>
   </programme>
-  <programme start="20260422135227 +0100" stop="20260422175227 +0100" channel="Fútbol 3">
+  <programme start="20260423134912 +0100" stop="20260423174912 +0100" channel="Fútbol 3">
     <title>Próximo partido: Atlético Madrileño - Betis Deportivo (Viernes 24/04 - 19:00)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Viernes 24/04 - 19:00)</desc>
   </programme>
-  <programme start="20260422175227 +0100" stop="20260422215227 +0100" channel="Fútbol 3">
+  <programme start="20260423174912 +0100" stop="20260423214912 +0100" channel="Fútbol 3">
     <title>Próximo partido: Atlético Madrileño - Betis Deportivo (Viernes 24/04 - 19:00)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Viernes 24/04 - 19:00)</desc>
   </programme>
-  <programme start="20260422215227 +0100" stop="20260423015227 +0100" channel="Fútbol 3">
+  <programme start="20260423214912 +0100" stop="20260424014912 +0100" channel="Fútbol 3">
     <title>Próximo partido: Atlético Madrileño - Betis Deportivo (Viernes 24/04 - 19:00)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Viernes 24/04 - 19:00)</desc>
   </programme>
-  <programme start="20260423015227 +0100" stop="20260423055227 +0100" channel="Fútbol 3">
+  <programme start="20260424014912 +0100" stop="20260424054912 +0100" channel="Fútbol 3">
     <title>Próximo partido: Atlético Madrileño - Betis Deportivo (Viernes 24/04 - 19:00)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Viernes 24/04 - 19:00)</desc>
   </programme>
-  <programme start="20260423055227 +0100" stop="20260423095227 +0100" channel="Fútbol 3">
+  <programme start="20260424054912 +0100" stop="20260424094912 +0100" channel="Fútbol 3">
     <title>Próximo partido: Atlético Madrileño - Betis Deportivo (Viernes 24/04 - 19:00)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Viernes 24/04 - 19:00)</desc>
   </programme>
-  <programme start="20260423095227 +0100" stop="20260423135227 +0100" channel="Fútbol 3">
+  <programme start="20260424094912 +0100" stop="20260424134912 +0100" channel="Fútbol 3">
     <title>Próximo partido: Atlético Madrileño - Betis Deportivo (Viernes 24/04 - 19:00)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Viernes 24/04 - 19:00)</desc>
   </programme>
-  <programme start="20260423135227 +0100" stop="20260423175227 +0100" channel="Fútbol 3">
+  <programme start="20260424134912 +0100" stop="20260424174912 +0100" channel="Fútbol 3">
     <title>Próximo partido: Atlético Madrileño - Betis Deportivo (Viernes 24/04 - 19:00)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Viernes 24/04 - 19:00)</desc>
   </programme>
-  <programme start="20260423175227 +0100" stop="20260423215227 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Atlético Madrileño - Betis Deportivo (Viernes 24/04 - 19:00)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Viernes 24/04 - 19:00)</desc>
-  </programme>
-  <programme start="20260423215227 +0100" stop="20260424015227 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Atlético Madrileño - Betis Deportivo (Viernes 24/04 - 19:00)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Viernes 24/04 - 19:00)</desc>
-  </programme>
-  <programme start="20260424015227 +0100" stop="20260424055227 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Atlético Madrileño - Betis Deportivo (Viernes 24/04 - 19:00)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Viernes 24/04 - 19:00)</desc>
-  </programme>
-  <programme start="20260424055227 +0100" stop="20260424095227 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Atlético Madrileño - Betis Deportivo (Viernes 24/04 - 19:00)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Viernes 24/04 - 19:00)</desc>
-  </programme>
-  <programme start="20260424095227 +0100" stop="20260424135227 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Atlético Madrileño - Betis Deportivo (Viernes 24/04 - 19:00)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Viernes 24/04 - 19:00)</desc>
-  </programme>
-  <programme start="20260424135227 +0100" stop="20260424175227 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Atlético Madrileño - Betis Deportivo (Viernes 24/04 - 19:00)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Viernes 24/04 - 19:00)</desc>
-  </programme>
-  <programme start="20260424175227 +0100" stop="20260424190000 +0100" channel="Fútbol 3">
+  <programme start="20260424174912 +0100" stop="20260424190000 +0100" channel="Fútbol 3">
     <title>Próximo partido: Atlético Madrileño - Betis Deportivo (Viernes 24/04 - 19:00)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Viernes 24/04 - 19:00)</desc>
   </programme>
@@ -492,5 +748,181 @@
   <programme start="20260426150000 +0100" stop="20260426170000 +0100" channel="Fútbol 3">
     <title>Serie A: Génova - Como</title>
     <desc>Fútbol en directo - Serie A: Génova - Como</desc>
+  </programme>
+  <programme start="20260426170000 +0100" stop="20260426210000 +0100" channel="Fútbol 3">
+    <title>Próximo partido: Bayer Leverkusen - Leipzig (Sábado 02/05 - 18:30)</title>
+    <desc>Siguiente emisión en Fútbol 3 | (Sábado 02/05 - 18:30)</desc>
+  </programme>
+  <programme start="20260426210000 +0100" stop="20260427010000 +0100" channel="Fútbol 3">
+    <title>Próximo partido: Bayer Leverkusen - Leipzig (Sábado 02/05 - 18:30)</title>
+    <desc>Siguiente emisión en Fútbol 3 | (Sábado 02/05 - 18:30)</desc>
+  </programme>
+  <programme start="20260427010000 +0100" stop="20260427050000 +0100" channel="Fútbol 3">
+    <title>Próximo partido: Bayer Leverkusen - Leipzig (Sábado 02/05 - 18:30)</title>
+    <desc>Siguiente emisión en Fútbol 3 | (Sábado 02/05 - 18:30)</desc>
+  </programme>
+  <programme start="20260427050000 +0100" stop="20260427090000 +0100" channel="Fútbol 3">
+    <title>Próximo partido: Bayer Leverkusen - Leipzig (Sábado 02/05 - 18:30)</title>
+    <desc>Siguiente emisión en Fútbol 3 | (Sábado 02/05 - 18:30)</desc>
+  </programme>
+  <programme start="20260427090000 +0100" stop="20260427130000 +0100" channel="Fútbol 3">
+    <title>Próximo partido: Bayer Leverkusen - Leipzig (Sábado 02/05 - 18:30)</title>
+    <desc>Siguiente emisión en Fútbol 3 | (Sábado 02/05 - 18:30)</desc>
+  </programme>
+  <programme start="20260427130000 +0100" stop="20260427170000 +0100" channel="Fútbol 3">
+    <title>Próximo partido: Bayer Leverkusen - Leipzig (Sábado 02/05 - 18:30)</title>
+    <desc>Siguiente emisión en Fútbol 3 | (Sábado 02/05 - 18:30)</desc>
+  </programme>
+  <programme start="20260427170000 +0100" stop="20260427210000 +0100" channel="Fútbol 3">
+    <title>Próximo partido: Bayer Leverkusen - Leipzig (Sábado 02/05 - 18:30)</title>
+    <desc>Siguiente emisión en Fútbol 3 | (Sábado 02/05 - 18:30)</desc>
+  </programme>
+  <programme start="20260427210000 +0100" stop="20260428010000 +0100" channel="Fútbol 3">
+    <title>Próximo partido: Bayer Leverkusen - Leipzig (Sábado 02/05 - 18:30)</title>
+    <desc>Siguiente emisión en Fútbol 3 | (Sábado 02/05 - 18:30)</desc>
+  </programme>
+  <programme start="20260428010000 +0100" stop="20260428050000 +0100" channel="Fútbol 3">
+    <title>Próximo partido: Bayer Leverkusen - Leipzig (Sábado 02/05 - 18:30)</title>
+    <desc>Siguiente emisión en Fútbol 3 | (Sábado 02/05 - 18:30)</desc>
+  </programme>
+  <programme start="20260428050000 +0100" stop="20260428090000 +0100" channel="Fútbol 3">
+    <title>Próximo partido: Bayer Leverkusen - Leipzig (Sábado 02/05 - 18:30)</title>
+    <desc>Siguiente emisión en Fútbol 3 | (Sábado 02/05 - 18:30)</desc>
+  </programme>
+  <programme start="20260428090000 +0100" stop="20260428130000 +0100" channel="Fútbol 3">
+    <title>Próximo partido: Bayer Leverkusen - Leipzig (Sábado 02/05 - 18:30)</title>
+    <desc>Siguiente emisión en Fútbol 3 | (Sábado 02/05 - 18:30)</desc>
+  </programme>
+  <programme start="20260428130000 +0100" stop="20260428170000 +0100" channel="Fútbol 3">
+    <title>Próximo partido: Bayer Leverkusen - Leipzig (Sábado 02/05 - 18:30)</title>
+    <desc>Siguiente emisión en Fútbol 3 | (Sábado 02/05 - 18:30)</desc>
+  </programme>
+  <programme start="20260428170000 +0100" stop="20260428210000 +0100" channel="Fútbol 3">
+    <title>Próximo partido: Bayer Leverkusen - Leipzig (Sábado 02/05 - 18:30)</title>
+    <desc>Siguiente emisión en Fútbol 3 | (Sábado 02/05 - 18:30)</desc>
+  </programme>
+  <programme start="20260428210000 +0100" stop="20260429010000 +0100" channel="Fútbol 3">
+    <title>Próximo partido: Bayer Leverkusen - Leipzig (Sábado 02/05 - 18:30)</title>
+    <desc>Siguiente emisión en Fútbol 3 | (Sábado 02/05 - 18:30)</desc>
+  </programme>
+  <programme start="20260429010000 +0100" stop="20260429050000 +0100" channel="Fútbol 3">
+    <title>Próximo partido: Bayer Leverkusen - Leipzig (Sábado 02/05 - 18:30)</title>
+    <desc>Siguiente emisión en Fútbol 3 | (Sábado 02/05 - 18:30)</desc>
+  </programme>
+  <programme start="20260429050000 +0100" stop="20260429090000 +0100" channel="Fútbol 3">
+    <title>Próximo partido: Bayer Leverkusen - Leipzig (Sábado 02/05 - 18:30)</title>
+    <desc>Siguiente emisión en Fútbol 3 | (Sábado 02/05 - 18:30)</desc>
+  </programme>
+  <programme start="20260429090000 +0100" stop="20260429130000 +0100" channel="Fútbol 3">
+    <title>Próximo partido: Bayer Leverkusen - Leipzig (Sábado 02/05 - 18:30)</title>
+    <desc>Siguiente emisión en Fútbol 3 | (Sábado 02/05 - 18:30)</desc>
+  </programme>
+  <programme start="20260429130000 +0100" stop="20260429170000 +0100" channel="Fútbol 3">
+    <title>Próximo partido: Bayer Leverkusen - Leipzig (Sábado 02/05 - 18:30)</title>
+    <desc>Siguiente emisión en Fútbol 3 | (Sábado 02/05 - 18:30)</desc>
+  </programme>
+  <programme start="20260429170000 +0100" stop="20260429210000 +0100" channel="Fútbol 3">
+    <title>Próximo partido: Bayer Leverkusen - Leipzig (Sábado 02/05 - 18:30)</title>
+    <desc>Siguiente emisión en Fútbol 3 | (Sábado 02/05 - 18:30)</desc>
+  </programme>
+  <programme start="20260429210000 +0100" stop="20260430010000 +0100" channel="Fútbol 3">
+    <title>Próximo partido: Bayer Leverkusen - Leipzig (Sábado 02/05 - 18:30)</title>
+    <desc>Siguiente emisión en Fútbol 3 | (Sábado 02/05 - 18:30)</desc>
+  </programme>
+  <programme start="20260430010000 +0100" stop="20260430050000 +0100" channel="Fútbol 3">
+    <title>Próximo partido: Bayer Leverkusen - Leipzig (Sábado 02/05 - 18:30)</title>
+    <desc>Siguiente emisión en Fútbol 3 | (Sábado 02/05 - 18:30)</desc>
+  </programme>
+  <programme start="20260430050000 +0100" stop="20260430090000 +0100" channel="Fútbol 3">
+    <title>Próximo partido: Bayer Leverkusen - Leipzig (Sábado 02/05 - 18:30)</title>
+    <desc>Siguiente emisión en Fútbol 3 | (Sábado 02/05 - 18:30)</desc>
+  </programme>
+  <programme start="20260430090000 +0100" stop="20260430130000 +0100" channel="Fútbol 3">
+    <title>Próximo partido: Bayer Leverkusen - Leipzig (Sábado 02/05 - 18:30)</title>
+    <desc>Siguiente emisión en Fútbol 3 | (Sábado 02/05 - 18:30)</desc>
+  </programme>
+  <programme start="20260430130000 +0100" stop="20260430170000 +0100" channel="Fútbol 3">
+    <title>Próximo partido: Bayer Leverkusen - Leipzig (Sábado 02/05 - 18:30)</title>
+    <desc>Siguiente emisión en Fútbol 3 | (Sábado 02/05 - 18:30)</desc>
+  </programme>
+  <programme start="20260430170000 +0100" stop="20260430210000 +0100" channel="Fútbol 3">
+    <title>Próximo partido: Bayer Leverkusen - Leipzig (Sábado 02/05 - 18:30)</title>
+    <desc>Siguiente emisión en Fútbol 3 | (Sábado 02/05 - 18:30)</desc>
+  </programme>
+  <programme start="20260430210000 +0100" stop="20260501010000 +0100" channel="Fútbol 3">
+    <title>Próximo partido: Bayer Leverkusen - Leipzig (Sábado 02/05 - 18:30)</title>
+    <desc>Siguiente emisión en Fútbol 3 | (Sábado 02/05 - 18:30)</desc>
+  </programme>
+  <programme start="20260501010000 +0100" stop="20260501050000 +0100" channel="Fútbol 3">
+    <title>Próximo partido: Bayer Leverkusen - Leipzig (Sábado 02/05 - 18:30)</title>
+    <desc>Siguiente emisión en Fútbol 3 | (Sábado 02/05 - 18:30)</desc>
+  </programme>
+  <programme start="20260501050000 +0100" stop="20260501090000 +0100" channel="Fútbol 3">
+    <title>Próximo partido: Bayer Leverkusen - Leipzig (Sábado 02/05 - 18:30)</title>
+    <desc>Siguiente emisión en Fútbol 3 | (Sábado 02/05 - 18:30)</desc>
+  </programme>
+  <programme start="20260501090000 +0100" stop="20260501130000 +0100" channel="Fútbol 3">
+    <title>Próximo partido: Bayer Leverkusen - Leipzig (Sábado 02/05 - 18:30)</title>
+    <desc>Siguiente emisión en Fútbol 3 | (Sábado 02/05 - 18:30)</desc>
+  </programme>
+  <programme start="20260501130000 +0100" stop="20260501170000 +0100" channel="Fútbol 3">
+    <title>Próximo partido: Bayer Leverkusen - Leipzig (Sábado 02/05 - 18:30)</title>
+    <desc>Siguiente emisión en Fútbol 3 | (Sábado 02/05 - 18:30)</desc>
+  </programme>
+  <programme start="20260501170000 +0100" stop="20260501210000 +0100" channel="Fútbol 3">
+    <title>Próximo partido: Bayer Leverkusen - Leipzig (Sábado 02/05 - 18:30)</title>
+    <desc>Siguiente emisión en Fútbol 3 | (Sábado 02/05 - 18:30)</desc>
+  </programme>
+  <programme start="20260501210000 +0100" stop="20260502010000 +0100" channel="Fútbol 3">
+    <title>Próximo partido: Bayer Leverkusen - Leipzig (Sábado 02/05 - 18:30)</title>
+    <desc>Siguiente emisión en Fútbol 3 | (Sábado 02/05 - 18:30)</desc>
+  </programme>
+  <programme start="20260502010000 +0100" stop="20260502050000 +0100" channel="Fútbol 3">
+    <title>Próximo partido: Bayer Leverkusen - Leipzig (Sábado 02/05 - 18:30)</title>
+    <desc>Siguiente emisión en Fútbol 3 | (Sábado 02/05 - 18:30)</desc>
+  </programme>
+  <programme start="20260502050000 +0100" stop="20260502090000 +0100" channel="Fútbol 3">
+    <title>Próximo partido: Bayer Leverkusen - Leipzig (Sábado 02/05 - 18:30)</title>
+    <desc>Siguiente emisión en Fútbol 3 | (Sábado 02/05 - 18:30)</desc>
+  </programme>
+  <programme start="20260502090000 +0100" stop="20260502130000 +0100" channel="Fútbol 3">
+    <title>Próximo partido: Bayer Leverkusen - Leipzig (Sábado 02/05 - 18:30)</title>
+    <desc>Siguiente emisión en Fútbol 3 | (Sábado 02/05 - 18:30)</desc>
+  </programme>
+  <programme start="20260502130000 +0100" stop="20260502170000 +0100" channel="Fútbol 3">
+    <title>Próximo partido: Bayer Leverkusen - Leipzig (Sábado 02/05 - 18:30)</title>
+    <desc>Siguiente emisión en Fútbol 3 | (Sábado 02/05 - 18:30)</desc>
+  </programme>
+  <programme start="20260502170000 +0100" stop="20260502183000 +0100" channel="Fútbol 3">
+    <title>Próximo partido: Bayer Leverkusen - Leipzig (Sábado 02/05 - 18:30)</title>
+    <desc>Siguiente emisión en Fútbol 3 | (Sábado 02/05 - 18:30)</desc>
+  </programme>
+  <programme start="20260502183000 +0100" stop="20260502203000 +0100" channel="Fútbol 3">
+    <title>Bundesliga Alemania: Bayer Leverkusen - Leipzig</title>
+    <desc>Fútbol en directo - Bundesliga Alemania: Bayer Leverkusen - Leipzig</desc>
+  </programme>
+  <programme start="20260502203000 +0100" stop="20260503003000 +0100" channel="Fútbol 3">
+    <title>Próximo partido: Sassuolo - Milan (Domingo 03/05 - 15:00)</title>
+    <desc>Siguiente emisión en Fútbol 3 | (Domingo 03/05 - 15:00)</desc>
+  </programme>
+  <programme start="20260503003000 +0100" stop="20260503043000 +0100" channel="Fútbol 3">
+    <title>Próximo partido: Sassuolo - Milan (Domingo 03/05 - 15:00)</title>
+    <desc>Siguiente emisión en Fútbol 3 | (Domingo 03/05 - 15:00)</desc>
+  </programme>
+  <programme start="20260503043000 +0100" stop="20260503083000 +0100" channel="Fútbol 3">
+    <title>Próximo partido: Sassuolo - Milan (Domingo 03/05 - 15:00)</title>
+    <desc>Siguiente emisión en Fútbol 3 | (Domingo 03/05 - 15:00)</desc>
+  </programme>
+  <programme start="20260503083000 +0100" stop="20260503123000 +0100" channel="Fútbol 3">
+    <title>Próximo partido: Sassuolo - Milan (Domingo 03/05 - 15:00)</title>
+    <desc>Siguiente emisión en Fútbol 3 | (Domingo 03/05 - 15:00)</desc>
+  </programme>
+  <programme start="20260503123000 +0100" stop="20260503150000 +0100" channel="Fútbol 3">
+    <title>Próximo partido: Sassuolo - Milan (Domingo 03/05 - 15:00)</title>
+    <desc>Siguiente emisión en Fútbol 3 | (Domingo 03/05 - 15:00)</desc>
+  </programme>
+  <programme start="20260503150000 +0100" stop="20260503170000 +0100" channel="Fútbol 3">
+    <title>Serie A: Sassuolo - Milan</title>
+    <desc>Fútbol en directo - Serie A: Sassuolo - Milan</desc>
   </programme>
 </tv>
