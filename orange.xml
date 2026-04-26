@@ -7,43 +7,19 @@
     <title>Laliga Ea Sports: Girona - Betis</title>
     <desc>Fútbol en directo - Laliga Ea Sports: Girona - Betis</desc>
   </programme>
-  <programme start="20260425091838 +0100" stop="20260425131838 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Getafe - Barcelona (Sábado 25/04 - 16:15)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Sábado 25/04 - 16:15)</desc>
-  </programme>
-  <programme start="20260425131838 +0100" stop="20260425161500 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Getafe - Barcelona (Sábado 25/04 - 16:15)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Sábado 25/04 - 16:15)</desc>
-  </programme>
   <programme start="20260425161500 +0100" stop="20260425181500 +0100" channel="Fútbol 1">
     <title>Laliga Ea Sports: Getafe - Barcelona</title>
     <desc>Fútbol en directo - Laliga Ea Sports: Getafe - Barcelona</desc>
   </programme>
-  <programme start="20260425181500 +0100" stop="20260425221500 +0100" channel="Fútbol 1">
+  <programme start="20260426094154 +0100" stop="20260426134154 +0100" channel="Fútbol 1">
     <title>Próximo partido: Osasuna - Sevilla (Domingo 26/04 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Domingo 26/04 - 18:30)</desc>
   </programme>
-  <programme start="20260425221500 +0100" stop="20260426021500 +0100" channel="Fútbol 1">
+  <programme start="20260426134154 +0100" stop="20260426174154 +0100" channel="Fútbol 1">
     <title>Próximo partido: Osasuna - Sevilla (Domingo 26/04 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Domingo 26/04 - 18:30)</desc>
   </programme>
-  <programme start="20260426021500 +0100" stop="20260426061500 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Osasuna - Sevilla (Domingo 26/04 - 18:30)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Domingo 26/04 - 18:30)</desc>
-  </programme>
-  <programme start="20260426061500 +0100" stop="20260426101500 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Osasuna - Sevilla (Domingo 26/04 - 18:30)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Domingo 26/04 - 18:30)</desc>
-  </programme>
-  <programme start="20260426101500 +0100" stop="20260426141500 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Osasuna - Sevilla (Domingo 26/04 - 18:30)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Domingo 26/04 - 18:30)</desc>
-  </programme>
-  <programme start="20260426141500 +0100" stop="20260426181500 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Osasuna - Sevilla (Domingo 26/04 - 18:30)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Domingo 26/04 - 18:30)</desc>
-  </programme>
-  <programme start="20260426181500 +0100" stop="20260426183000 +0100" channel="Fútbol 1">
+  <programme start="20260426174154 +0100" stop="20260426183000 +0100" channel="Fútbol 1">
     <title>Próximo partido: Osasuna - Sevilla (Domingo 26/04 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Domingo 26/04 - 18:30)</desc>
   </programme>
@@ -262,39 +238,15 @@
   <channel id="Fútbol 2">
     <display-name>Fútbol 2</display-name>
   </channel>
-  <programme start="20260425091838 +0100" stop="20260425131838 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Málaga - Castellón (Sábado 25/04 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Sábado 25/04 - 21:00)</desc>
-  </programme>
-  <programme start="20260425131838 +0100" stop="20260425171838 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Málaga - Castellón (Sábado 25/04 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Sábado 25/04 - 21:00)</desc>
-  </programme>
-  <programme start="20260425171838 +0100" stop="20260425210000 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Málaga - Castellón (Sábado 25/04 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Sábado 25/04 - 21:00)</desc>
-  </programme>
   <programme start="20260425210000 +0100" stop="20260425230000 +0100" channel="Fútbol 2">
     <title>Laliga Hypermotion: Málaga - Castellón</title>
     <desc>Fútbol en directo - Laliga Hypermotion: Málaga - Castellón</desc>
   </programme>
-  <programme start="20260425230000 +0100" stop="20260426030000 +0100" channel="Fútbol 2">
+  <programme start="20260426094154 +0100" stop="20260426134154 +0100" channel="Fútbol 2">
     <title>Próximo partido: Granada - Almería (Domingo 26/04 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Domingo 26/04 - 16:15)</desc>
   </programme>
-  <programme start="20260426030000 +0100" stop="20260426070000 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Granada - Almería (Domingo 26/04 - 16:15)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Domingo 26/04 - 16:15)</desc>
-  </programme>
-  <programme start="20260426070000 +0100" stop="20260426110000 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Granada - Almería (Domingo 26/04 - 16:15)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Domingo 26/04 - 16:15)</desc>
-  </programme>
-  <programme start="20260426110000 +0100" stop="20260426150000 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Granada - Almería (Domingo 26/04 - 16:15)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Domingo 26/04 - 16:15)</desc>
-  </programme>
-  <programme start="20260426150000 +0100" stop="20260426161500 +0100" channel="Fútbol 2">
+  <programme start="20260426134154 +0100" stop="20260426161500 +0100" channel="Fútbol 2">
     <title>Próximo partido: Granada - Almería (Domingo 26/04 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Domingo 26/04 - 16:15)</desc>
   </programme>
@@ -505,35 +457,11 @@
     <title>Primera Federación: Cacereño - Guadalajara</title>
     <desc>Fútbol en directo - Primera Federación: Cacereño - Guadalajara</desc>
   </programme>
-  <programme start="20260425091838 +0100" stop="20260425131838 +0100" channel="Fútbol 3">
+  <programme start="20260426094154 +0100" stop="20260426134154 +0100" channel="Fútbol 3">
     <title>Próximo partido: Génova - Como (Domingo 26/04 - 15:00)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Domingo 26/04 - 15:00)</desc>
   </programme>
-  <programme start="20260425131838 +0100" stop="20260425171838 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Génova - Como (Domingo 26/04 - 15:00)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Domingo 26/04 - 15:00)</desc>
-  </programme>
-  <programme start="20260425171838 +0100" stop="20260425211838 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Génova - Como (Domingo 26/04 - 15:00)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Domingo 26/04 - 15:00)</desc>
-  </programme>
-  <programme start="20260425211838 +0100" stop="20260426011838 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Génova - Como (Domingo 26/04 - 15:00)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Domingo 26/04 - 15:00)</desc>
-  </programme>
-  <programme start="20260426011838 +0100" stop="20260426051838 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Génova - Como (Domingo 26/04 - 15:00)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Domingo 26/04 - 15:00)</desc>
-  </programme>
-  <programme start="20260426051838 +0100" stop="20260426091838 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Génova - Como (Domingo 26/04 - 15:00)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Domingo 26/04 - 15:00)</desc>
-  </programme>
-  <programme start="20260426091838 +0100" stop="20260426131838 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Génova - Como (Domingo 26/04 - 15:00)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Domingo 26/04 - 15:00)</desc>
-  </programme>
-  <programme start="20260426131838 +0100" stop="20260426150000 +0100" channel="Fútbol 3">
+  <programme start="20260426134154 +0100" stop="20260426150000 +0100" channel="Fútbol 3">
     <title>Próximo partido: Génova - Como (Domingo 26/04 - 15:00)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Domingo 26/04 - 15:00)</desc>
   </programme>
