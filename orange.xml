@@ -3,47 +3,15 @@
   <channel id="Fútbol 1">
     <display-name>Fútbol 1</display-name>
   </channel>
-  <programme start="20260503210000 +0100" stop="20260503230000 +0100" channel="Fútbol 1">
-    <title>Laliga Ea Sports: Espanyol - Real Madrid</title>
-    <desc>Fútbol en directo - Laliga Ea Sports: Espanyol - Real Madrid</desc>
-  </programme>
-  <programme start="20260504210000 +0100" stop="20260504230000 +0100" channel="Fútbol 1">
-    <title>Laliga Ea Sports: Sevilla - Real Sociedad</title>
-    <desc>Fútbol en directo - Laliga Ea Sports: Sevilla - Real Sociedad</desc>
-  </programme>
-  <programme start="20260505101103 +0100" stop="20260505141103 +0100" channel="Fútbol 1">
+  <programme start="20260506102738 +0100" stop="20260506142738 +0100" channel="Fútbol 1">
     <title>Próximo partido: Bayern Múnich - Psg (Miércoles 06/05 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Miércoles 06/05 - 21:00)</desc>
   </programme>
-  <programme start="20260505141103 +0100" stop="20260505181103 +0100" channel="Fútbol 1">
+  <programme start="20260506142738 +0100" stop="20260506182738 +0100" channel="Fútbol 1">
     <title>Próximo partido: Bayern Múnich - Psg (Miércoles 06/05 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Miércoles 06/05 - 21:00)</desc>
   </programme>
-  <programme start="20260505181103 +0100" stop="20260505221103 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Bayern Múnich - Psg (Miércoles 06/05 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Miércoles 06/05 - 21:00)</desc>
-  </programme>
-  <programme start="20260505221103 +0100" stop="20260506021103 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Bayern Múnich - Psg (Miércoles 06/05 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Miércoles 06/05 - 21:00)</desc>
-  </programme>
-  <programme start="20260506021103 +0100" stop="20260506061103 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Bayern Múnich - Psg (Miércoles 06/05 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Miércoles 06/05 - 21:00)</desc>
-  </programme>
-  <programme start="20260506061103 +0100" stop="20260506101103 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Bayern Múnich - Psg (Miércoles 06/05 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Miércoles 06/05 - 21:00)</desc>
-  </programme>
-  <programme start="20260506101103 +0100" stop="20260506141103 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Bayern Múnich - Psg (Miércoles 06/05 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Miércoles 06/05 - 21:00)</desc>
-  </programme>
-  <programme start="20260506141103 +0100" stop="20260506181103 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Bayern Múnich - Psg (Miércoles 06/05 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Miércoles 06/05 - 21:00)</desc>
-  </programme>
-  <programme start="20260506181103 +0100" stop="20260506210000 +0100" channel="Fútbol 1">
+  <programme start="20260506182738 +0100" stop="20260506210000 +0100" channel="Fútbol 1">
     <title>Próximo partido: Bayern Múnich - Psg (Miércoles 06/05 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Miércoles 06/05 - 21:00)</desc>
   </programme>
@@ -52,80 +20,76 @@
     <desc>Fútbol en directo - Champions League: Bayern Múnich - Psg</desc>
   </programme>
   <programme start="20260506230000 +0100" stop="20260507030000 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Real Sociedad - Betis (Sábado 09/05 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Sábado 09/05 - 21:00)</desc>
+    <title>Próximo partido: Barcelona - Real Madrid (Domingo 10/05 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Domingo 10/05 - 21:00)</desc>
   </programme>
   <programme start="20260507030000 +0100" stop="20260507070000 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Real Sociedad - Betis (Sábado 09/05 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Sábado 09/05 - 21:00)</desc>
+    <title>Próximo partido: Barcelona - Real Madrid (Domingo 10/05 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Domingo 10/05 - 21:00)</desc>
   </programme>
   <programme start="20260507070000 +0100" stop="20260507110000 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Real Sociedad - Betis (Sábado 09/05 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Sábado 09/05 - 21:00)</desc>
+    <title>Próximo partido: Barcelona - Real Madrid (Domingo 10/05 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Domingo 10/05 - 21:00)</desc>
   </programme>
   <programme start="20260507110000 +0100" stop="20260507150000 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Real Sociedad - Betis (Sábado 09/05 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Sábado 09/05 - 21:00)</desc>
+    <title>Próximo partido: Barcelona - Real Madrid (Domingo 10/05 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Domingo 10/05 - 21:00)</desc>
   </programme>
   <programme start="20260507150000 +0100" stop="20260507190000 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Real Sociedad - Betis (Sábado 09/05 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Sábado 09/05 - 21:00)</desc>
+    <title>Próximo partido: Barcelona - Real Madrid (Domingo 10/05 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Domingo 10/05 - 21:00)</desc>
   </programme>
   <programme start="20260507190000 +0100" stop="20260507230000 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Real Sociedad - Betis (Sábado 09/05 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Sábado 09/05 - 21:00)</desc>
+    <title>Próximo partido: Barcelona - Real Madrid (Domingo 10/05 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Domingo 10/05 - 21:00)</desc>
   </programme>
   <programme start="20260507230000 +0100" stop="20260508030000 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Real Sociedad - Betis (Sábado 09/05 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Sábado 09/05 - 21:00)</desc>
+    <title>Próximo partido: Barcelona - Real Madrid (Domingo 10/05 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Domingo 10/05 - 21:00)</desc>
   </programme>
   <programme start="20260508030000 +0100" stop="20260508070000 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Real Sociedad - Betis (Sábado 09/05 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Sábado 09/05 - 21:00)</desc>
+    <title>Próximo partido: Barcelona - Real Madrid (Domingo 10/05 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Domingo 10/05 - 21:00)</desc>
   </programme>
   <programme start="20260508070000 +0100" stop="20260508110000 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Real Sociedad - Betis (Sábado 09/05 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Sábado 09/05 - 21:00)</desc>
+    <title>Próximo partido: Barcelona - Real Madrid (Domingo 10/05 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Domingo 10/05 - 21:00)</desc>
   </programme>
   <programme start="20260508110000 +0100" stop="20260508150000 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Real Sociedad - Betis (Sábado 09/05 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Sábado 09/05 - 21:00)</desc>
+    <title>Próximo partido: Barcelona - Real Madrid (Domingo 10/05 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Domingo 10/05 - 21:00)</desc>
   </programme>
   <programme start="20260508150000 +0100" stop="20260508190000 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Real Sociedad - Betis (Sábado 09/05 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Sábado 09/05 - 21:00)</desc>
+    <title>Próximo partido: Barcelona - Real Madrid (Domingo 10/05 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Domingo 10/05 - 21:00)</desc>
   </programme>
   <programme start="20260508190000 +0100" stop="20260508230000 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Real Sociedad - Betis (Sábado 09/05 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Sábado 09/05 - 21:00)</desc>
+    <title>Próximo partido: Barcelona - Real Madrid (Domingo 10/05 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Domingo 10/05 - 21:00)</desc>
   </programme>
   <programme start="20260508230000 +0100" stop="20260509030000 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Real Sociedad - Betis (Sábado 09/05 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Sábado 09/05 - 21:00)</desc>
+    <title>Próximo partido: Barcelona - Real Madrid (Domingo 10/05 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Domingo 10/05 - 21:00)</desc>
   </programme>
   <programme start="20260509030000 +0100" stop="20260509070000 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Real Sociedad - Betis (Sábado 09/05 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Sábado 09/05 - 21:00)</desc>
+    <title>Próximo partido: Barcelona - Real Madrid (Domingo 10/05 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Domingo 10/05 - 21:00)</desc>
   </programme>
   <programme start="20260509070000 +0100" stop="20260509110000 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Real Sociedad - Betis (Sábado 09/05 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Sábado 09/05 - 21:00)</desc>
+    <title>Próximo partido: Barcelona - Real Madrid (Domingo 10/05 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Domingo 10/05 - 21:00)</desc>
   </programme>
   <programme start="20260509110000 +0100" stop="20260509150000 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Real Sociedad - Betis (Sábado 09/05 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Sábado 09/05 - 21:00)</desc>
+    <title>Próximo partido: Barcelona - Real Madrid (Domingo 10/05 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Domingo 10/05 - 21:00)</desc>
   </programme>
   <programme start="20260509150000 +0100" stop="20260509190000 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Real Sociedad - Betis (Sábado 09/05 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Sábado 09/05 - 21:00)</desc>
+    <title>Próximo partido: Barcelona - Real Madrid (Domingo 10/05 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Domingo 10/05 - 21:00)</desc>
   </programme>
-  <programme start="20260509190000 +0100" stop="20260509210000 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Real Sociedad - Betis (Sábado 09/05 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Sábado 09/05 - 21:00)</desc>
-  </programme>
-  <programme start="20260509210000 +0100" stop="20260509230000 +0100" channel="Fútbol 1">
-    <title>Laliga Ea Sports: Real Sociedad - Betis</title>
-    <desc>Fútbol en directo - Laliga Ea Sports: Real Sociedad - Betis</desc>
+  <programme start="20260509190000 +0100" stop="20260509230000 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Barcelona - Real Madrid (Domingo 10/05 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Domingo 10/05 - 21:00)</desc>
   </programme>
   <programme start="20260509230000 +0100" stop="20260510030000 +0100" channel="Fútbol 1">
     <title>Próximo partido: Barcelona - Real Madrid (Domingo 10/05 - 21:00)</title>
@@ -158,103 +122,63 @@
   <channel id="Fútbol 2">
     <display-name>Fútbol 2</display-name>
   </channel>
-  <programme start="20260501183000 +0100" stop="20260501203000 +0100" channel="Fútbol 2">
-    <title>Laliga Hypermotion: Deportivo - Leganés</title>
-    <desc>Fútbol en directo - Laliga Hypermotion: Deportivo - Leganés</desc>
-  </programme>
-  <programme start="20260501210000 +0100" stop="20260501230000 +0100" channel="Fútbol 2">
-    <title>Laliga Hypermotion: Zaragoza - Granada</title>
-    <desc>Fútbol en directo - Laliga Hypermotion: Zaragoza - Granada</desc>
-  </programme>
-  <programme start="20260502210000 +0100" stop="20260502230000 +0100" channel="Fútbol 2">
-    <title>Laliga Hypermotion: Eibar - Málaga</title>
-    <desc>Fútbol en directo - Laliga Hypermotion: Eibar - Málaga</desc>
-  </programme>
-  <programme start="20260503140000 +0100" stop="20260503160000 +0100" channel="Fútbol 2">
-    <title>Laliga Hypermotion: Racing - Huesca</title>
-    <desc>Fútbol en directo - Laliga Hypermotion: Racing - Huesca</desc>
-  </programme>
-  <programme start="20260505101103 +0100" stop="20260505141103 +0100" channel="Fútbol 2">
+  <programme start="20260506102738 +0100" stop="20260506142738 +0100" channel="Fútbol 2">
     <title>Próximo partido: Cádiz - Deportivo (Viernes 08/05 - 20:30)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Viernes 08/05 - 20:30)</desc>
   </programme>
-  <programme start="20260505141103 +0100" stop="20260505181103 +0100" channel="Fútbol 2">
+  <programme start="20260506142738 +0100" stop="20260506182738 +0100" channel="Fútbol 2">
     <title>Próximo partido: Cádiz - Deportivo (Viernes 08/05 - 20:30)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Viernes 08/05 - 20:30)</desc>
   </programme>
-  <programme start="20260505181103 +0100" stop="20260505221103 +0100" channel="Fútbol 2">
+  <programme start="20260506182738 +0100" stop="20260506222738 +0100" channel="Fútbol 2">
     <title>Próximo partido: Cádiz - Deportivo (Viernes 08/05 - 20:30)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Viernes 08/05 - 20:30)</desc>
   </programme>
-  <programme start="20260505221103 +0100" stop="20260506021103 +0100" channel="Fútbol 2">
+  <programme start="20260506222738 +0100" stop="20260507022738 +0100" channel="Fútbol 2">
     <title>Próximo partido: Cádiz - Deportivo (Viernes 08/05 - 20:30)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Viernes 08/05 - 20:30)</desc>
   </programme>
-  <programme start="20260506021103 +0100" stop="20260506061103 +0100" channel="Fútbol 2">
+  <programme start="20260507022738 +0100" stop="20260507062738 +0100" channel="Fútbol 2">
     <title>Próximo partido: Cádiz - Deportivo (Viernes 08/05 - 20:30)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Viernes 08/05 - 20:30)</desc>
   </programme>
-  <programme start="20260506061103 +0100" stop="20260506101103 +0100" channel="Fútbol 2">
+  <programme start="20260507062738 +0100" stop="20260507102738 +0100" channel="Fútbol 2">
     <title>Próximo partido: Cádiz - Deportivo (Viernes 08/05 - 20:30)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Viernes 08/05 - 20:30)</desc>
   </programme>
-  <programme start="20260506101103 +0100" stop="20260506141103 +0100" channel="Fútbol 2">
+  <programme start="20260507102738 +0100" stop="20260507142738 +0100" channel="Fútbol 2">
     <title>Próximo partido: Cádiz - Deportivo (Viernes 08/05 - 20:30)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Viernes 08/05 - 20:30)</desc>
   </programme>
-  <programme start="20260506141103 +0100" stop="20260506181103 +0100" channel="Fútbol 2">
+  <programme start="20260507142738 +0100" stop="20260507182738 +0100" channel="Fútbol 2">
     <title>Próximo partido: Cádiz - Deportivo (Viernes 08/05 - 20:30)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Viernes 08/05 - 20:30)</desc>
   </programme>
-  <programme start="20260506181103 +0100" stop="20260506221103 +0100" channel="Fútbol 2">
+  <programme start="20260507182738 +0100" stop="20260507222738 +0100" channel="Fútbol 2">
     <title>Próximo partido: Cádiz - Deportivo (Viernes 08/05 - 20:30)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Viernes 08/05 - 20:30)</desc>
   </programme>
-  <programme start="20260506221103 +0100" stop="20260507021103 +0100" channel="Fútbol 2">
+  <programme start="20260507222738 +0100" stop="20260508022738 +0100" channel="Fútbol 2">
     <title>Próximo partido: Cádiz - Deportivo (Viernes 08/05 - 20:30)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Viernes 08/05 - 20:30)</desc>
   </programme>
-  <programme start="20260507021103 +0100" stop="20260507061103 +0100" channel="Fútbol 2">
+  <programme start="20260508022738 +0100" stop="20260508062738 +0100" channel="Fútbol 2">
     <title>Próximo partido: Cádiz - Deportivo (Viernes 08/05 - 20:30)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Viernes 08/05 - 20:30)</desc>
   </programme>
-  <programme start="20260507061103 +0100" stop="20260507101103 +0100" channel="Fútbol 2">
+  <programme start="20260508062738 +0100" stop="20260508102738 +0100" channel="Fútbol 2">
     <title>Próximo partido: Cádiz - Deportivo (Viernes 08/05 - 20:30)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Viernes 08/05 - 20:30)</desc>
   </programme>
-  <programme start="20260507101103 +0100" stop="20260507141103 +0100" channel="Fútbol 2">
+  <programme start="20260508102738 +0100" stop="20260508142738 +0100" channel="Fútbol 2">
     <title>Próximo partido: Cádiz - Deportivo (Viernes 08/05 - 20:30)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Viernes 08/05 - 20:30)</desc>
   </programme>
-  <programme start="20260507141103 +0100" stop="20260507181103 +0100" channel="Fútbol 2">
+  <programme start="20260508142738 +0100" stop="20260508182738 +0100" channel="Fútbol 2">
     <title>Próximo partido: Cádiz - Deportivo (Viernes 08/05 - 20:30)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Viernes 08/05 - 20:30)</desc>
   </programme>
-  <programme start="20260507181103 +0100" stop="20260507221103 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Cádiz - Deportivo (Viernes 08/05 - 20:30)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Viernes 08/05 - 20:30)</desc>
-  </programme>
-  <programme start="20260507221103 +0100" stop="20260508021103 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Cádiz - Deportivo (Viernes 08/05 - 20:30)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Viernes 08/05 - 20:30)</desc>
-  </programme>
-  <programme start="20260508021103 +0100" stop="20260508061103 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Cádiz - Deportivo (Viernes 08/05 - 20:30)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Viernes 08/05 - 20:30)</desc>
-  </programme>
-  <programme start="20260508061103 +0100" stop="20260508101103 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Cádiz - Deportivo (Viernes 08/05 - 20:30)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Viernes 08/05 - 20:30)</desc>
-  </programme>
-  <programme start="20260508101103 +0100" stop="20260508141103 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Cádiz - Deportivo (Viernes 08/05 - 20:30)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Viernes 08/05 - 20:30)</desc>
-  </programme>
-  <programme start="20260508141103 +0100" stop="20260508181103 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Cádiz - Deportivo (Viernes 08/05 - 20:30)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Viernes 08/05 - 20:30)</desc>
-  </programme>
-  <programme start="20260508181103 +0100" stop="20260508203000 +0100" channel="Fútbol 2">
+  <programme start="20260508182738 +0100" stop="20260508203000 +0100" channel="Fútbol 2">
     <title>Próximo partido: Cádiz - Deportivo (Viernes 08/05 - 20:30)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Viernes 08/05 - 20:30)</desc>
   </programme>
@@ -321,105 +245,73 @@
   <channel id="Fútbol 3">
     <display-name>Fútbol 3</display-name>
   </channel>
-  <programme start="20260501161500 +0100" stop="20260501181500 +0100" channel="Fútbol 3">
-    <title>Primera Federación: Alcorcón - Europa</title>
-    <desc>Fútbol en directo - Primera Federación: Alcorcón - Europa</desc>
+  <programme start="20260506102738 +0100" stop="20260506142738 +0100" channel="Fútbol 3">
+    <title>Próximo partido: Cartagena - Alcorcón (Viernes 08/05 - 16:15)</title>
+    <desc>Siguiente emisión en Fútbol 3 | (Viernes 08/05 - 16:15)</desc>
   </programme>
-  <programme start="20260501190000 +0100" stop="20260501210000 +0100" channel="Fútbol 3">
-    <title>Primera Federación: Cd Tenerife - Barakaldo Cf</title>
-    <desc>Fútbol en directo - Primera Federación: Cd Tenerife - Barakaldo Cf</desc>
+  <programme start="20260506142738 +0100" stop="20260506182738 +0100" channel="Fútbol 3">
+    <title>Próximo partido: Cartagena - Alcorcón (Viernes 08/05 - 16:15)</title>
+    <desc>Siguiente emisión en Fútbol 3 | (Viernes 08/05 - 16:15)</desc>
   </programme>
-  <programme start="20260502183000 +0100" stop="20260502203000 +0100" channel="Fútbol 3">
-    <title>Bundesliga Alemania: Bayer Leverkusen - Leipzig</title>
-    <desc>Fútbol en directo - Bundesliga Alemania: Bayer Leverkusen - Leipzig</desc>
+  <programme start="20260506182738 +0100" stop="20260506222738 +0100" channel="Fútbol 3">
+    <title>Próximo partido: Cartagena - Alcorcón (Viernes 08/05 - 16:15)</title>
+    <desc>Siguiente emisión en Fútbol 3 | (Viernes 08/05 - 16:15)</desc>
   </programme>
-  <programme start="20260503150000 +0100" stop="20260503170000 +0100" channel="Fútbol 3">
-    <title>Serie A: Sassuolo - Milan</title>
-    <desc>Fútbol en directo - Serie A: Sassuolo - Milan</desc>
+  <programme start="20260506222738 +0100" stop="20260507022738 +0100" channel="Fútbol 3">
+    <title>Próximo partido: Cartagena - Alcorcón (Viernes 08/05 - 16:15)</title>
+    <desc>Siguiente emisión en Fútbol 3 | (Viernes 08/05 - 16:15)</desc>
   </programme>
-  <programme start="20260505101103 +0100" stop="20260505141103 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Borussia Dortmund - Eintracht Frankfurt (Viernes 08/05 - 20:30)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Viernes 08/05 - 20:30)</desc>
+  <programme start="20260507022738 +0100" stop="20260507062738 +0100" channel="Fútbol 3">
+    <title>Próximo partido: Cartagena - Alcorcón (Viernes 08/05 - 16:15)</title>
+    <desc>Siguiente emisión en Fútbol 3 | (Viernes 08/05 - 16:15)</desc>
   </programme>
-  <programme start="20260505141103 +0100" stop="20260505181103 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Borussia Dortmund - Eintracht Frankfurt (Viernes 08/05 - 20:30)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Viernes 08/05 - 20:30)</desc>
+  <programme start="20260507062738 +0100" stop="20260507102738 +0100" channel="Fútbol 3">
+    <title>Próximo partido: Cartagena - Alcorcón (Viernes 08/05 - 16:15)</title>
+    <desc>Siguiente emisión en Fútbol 3 | (Viernes 08/05 - 16:15)</desc>
   </programme>
-  <programme start="20260505181103 +0100" stop="20260505221103 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Borussia Dortmund - Eintracht Frankfurt (Viernes 08/05 - 20:30)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Viernes 08/05 - 20:30)</desc>
+  <programme start="20260507102738 +0100" stop="20260507142738 +0100" channel="Fútbol 3">
+    <title>Próximo partido: Cartagena - Alcorcón (Viernes 08/05 - 16:15)</title>
+    <desc>Siguiente emisión en Fútbol 3 | (Viernes 08/05 - 16:15)</desc>
   </programme>
-  <programme start="20260505221103 +0100" stop="20260506021103 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Borussia Dortmund - Eintracht Frankfurt (Viernes 08/05 - 20:30)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Viernes 08/05 - 20:30)</desc>
+  <programme start="20260507142738 +0100" stop="20260507182738 +0100" channel="Fútbol 3">
+    <title>Próximo partido: Cartagena - Alcorcón (Viernes 08/05 - 16:15)</title>
+    <desc>Siguiente emisión en Fútbol 3 | (Viernes 08/05 - 16:15)</desc>
   </programme>
-  <programme start="20260506021103 +0100" stop="20260506061103 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Borussia Dortmund - Eintracht Frankfurt (Viernes 08/05 - 20:30)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Viernes 08/05 - 20:30)</desc>
+  <programme start="20260507182738 +0100" stop="20260507222738 +0100" channel="Fútbol 3">
+    <title>Próximo partido: Cartagena - Alcorcón (Viernes 08/05 - 16:15)</title>
+    <desc>Siguiente emisión en Fútbol 3 | (Viernes 08/05 - 16:15)</desc>
   </programme>
-  <programme start="20260506061103 +0100" stop="20260506101103 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Borussia Dortmund - Eintracht Frankfurt (Viernes 08/05 - 20:30)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Viernes 08/05 - 20:30)</desc>
+  <programme start="20260507222738 +0100" stop="20260508022738 +0100" channel="Fútbol 3">
+    <title>Próximo partido: Cartagena - Alcorcón (Viernes 08/05 - 16:15)</title>
+    <desc>Siguiente emisión en Fútbol 3 | (Viernes 08/05 - 16:15)</desc>
   </programme>
-  <programme start="20260506101103 +0100" stop="20260506141103 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Borussia Dortmund - Eintracht Frankfurt (Viernes 08/05 - 20:30)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Viernes 08/05 - 20:30)</desc>
+  <programme start="20260508022738 +0100" stop="20260508062738 +0100" channel="Fútbol 3">
+    <title>Próximo partido: Cartagena - Alcorcón (Viernes 08/05 - 16:15)</title>
+    <desc>Siguiente emisión en Fútbol 3 | (Viernes 08/05 - 16:15)</desc>
   </programme>
-  <programme start="20260506141103 +0100" stop="20260506181103 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Borussia Dortmund - Eintracht Frankfurt (Viernes 08/05 - 20:30)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Viernes 08/05 - 20:30)</desc>
+  <programme start="20260508062738 +0100" stop="20260508102738 +0100" channel="Fútbol 3">
+    <title>Próximo partido: Cartagena - Alcorcón (Viernes 08/05 - 16:15)</title>
+    <desc>Siguiente emisión en Fútbol 3 | (Viernes 08/05 - 16:15)</desc>
   </programme>
-  <programme start="20260506181103 +0100" stop="20260506221103 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Borussia Dortmund - Eintracht Frankfurt (Viernes 08/05 - 20:30)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Viernes 08/05 - 20:30)</desc>
+  <programme start="20260508102738 +0100" stop="20260508142738 +0100" channel="Fútbol 3">
+    <title>Próximo partido: Cartagena - Alcorcón (Viernes 08/05 - 16:15)</title>
+    <desc>Siguiente emisión en Fútbol 3 | (Viernes 08/05 - 16:15)</desc>
   </programme>
-  <programme start="20260506221103 +0100" stop="20260507021103 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Borussia Dortmund - Eintracht Frankfurt (Viernes 08/05 - 20:30)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Viernes 08/05 - 20:30)</desc>
+  <programme start="20260508142738 +0100" stop="20260508161500 +0100" channel="Fútbol 3">
+    <title>Próximo partido: Cartagena - Alcorcón (Viernes 08/05 - 16:15)</title>
+    <desc>Siguiente emisión en Fútbol 3 | (Viernes 08/05 - 16:15)</desc>
   </programme>
-  <programme start="20260507021103 +0100" stop="20260507061103 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Borussia Dortmund - Eintracht Frankfurt (Viernes 08/05 - 20:30)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Viernes 08/05 - 20:30)</desc>
+  <programme start="20260508161500 +0100" stop="20260508181500 +0100" channel="Fútbol 3">
+    <title>Primera Federación: Cartagena - Alcorcón</title>
+    <desc>Fútbol en directo - Primera Federación: Cartagena - Alcorcón</desc>
   </programme>
-  <programme start="20260507061103 +0100" stop="20260507101103 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Borussia Dortmund - Eintracht Frankfurt (Viernes 08/05 - 20:30)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Viernes 08/05 - 20:30)</desc>
+  <programme start="20260508181500 +0100" stop="20260508190000 +0100" channel="Fútbol 3">
+    <title>Próximo partido: Atlético Madrileño - Sabadell (Viernes 08/05 - 19:00)</title>
+    <desc>Siguiente emisión en Fútbol 3 | (Viernes 08/05 - 19:00)</desc>
   </programme>
-  <programme start="20260507101103 +0100" stop="20260507141103 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Borussia Dortmund - Eintracht Frankfurt (Viernes 08/05 - 20:30)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Viernes 08/05 - 20:30)</desc>
-  </programme>
-  <programme start="20260507141103 +0100" stop="20260507181103 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Borussia Dortmund - Eintracht Frankfurt (Viernes 08/05 - 20:30)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Viernes 08/05 - 20:30)</desc>
-  </programme>
-  <programme start="20260507181103 +0100" stop="20260507221103 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Borussia Dortmund - Eintracht Frankfurt (Viernes 08/05 - 20:30)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Viernes 08/05 - 20:30)</desc>
-  </programme>
-  <programme start="20260507221103 +0100" stop="20260508021103 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Borussia Dortmund - Eintracht Frankfurt (Viernes 08/05 - 20:30)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Viernes 08/05 - 20:30)</desc>
-  </programme>
-  <programme start="20260508021103 +0100" stop="20260508061103 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Borussia Dortmund - Eintracht Frankfurt (Viernes 08/05 - 20:30)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Viernes 08/05 - 20:30)</desc>
-  </programme>
-  <programme start="20260508061103 +0100" stop="20260508101103 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Borussia Dortmund - Eintracht Frankfurt (Viernes 08/05 - 20:30)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Viernes 08/05 - 20:30)</desc>
-  </programme>
-  <programme start="20260508101103 +0100" stop="20260508141103 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Borussia Dortmund - Eintracht Frankfurt (Viernes 08/05 - 20:30)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Viernes 08/05 - 20:30)</desc>
-  </programme>
-  <programme start="20260508141103 +0100" stop="20260508181103 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Borussia Dortmund - Eintracht Frankfurt (Viernes 08/05 - 20:30)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Viernes 08/05 - 20:30)</desc>
-  </programme>
-  <programme start="20260508181103 +0100" stop="20260508203000 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Borussia Dortmund - Eintracht Frankfurt (Viernes 08/05 - 20:30)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Viernes 08/05 - 20:30)</desc>
+  <programme start="20260508190000 +0100" stop="20260508210000 +0100" channel="Fútbol 3">
+    <title>Primera Federación: Atlético Madrileño - Sabadell</title>
+    <desc>Fútbol en directo - Primera Federación: Atlético Madrileño - Sabadell</desc>
   </programme>
   <programme start="20260508203000 +0100" stop="20260508223000 +0100" channel="Fútbol 3">
     <title>Bundesliga Alemania: Borussia Dortmund - Eintracht Frankfurt</title>
