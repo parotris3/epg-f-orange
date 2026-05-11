@@ -7,18 +7,6 @@
     <title>Champions League: Bayern Múnich - Psg</title>
     <desc>Fútbol en directo - Champions League: Bayern Múnich - Psg</desc>
   </programme>
-  <programme start="20260510100845 +0100" stop="20260510140845 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Barcelona - Real Madrid (Domingo 10/05 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Domingo 10/05 - 21:00)</desc>
-  </programme>
-  <programme start="20260510140845 +0100" stop="20260510180845 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Barcelona - Real Madrid (Domingo 10/05 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Domingo 10/05 - 21:00)</desc>
-  </programme>
-  <programme start="20260510180845 +0100" stop="20260510210000 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Barcelona - Real Madrid (Domingo 10/05 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Domingo 10/05 - 21:00)</desc>
-  </programme>
   <programme start="20260510210000 +0100" stop="20260510230000 +0100" channel="Fútbol 1">
     <title>Laliga Ea Sports: Barcelona - Real Madrid</title>
     <desc>Fútbol en directo - Laliga Ea Sports: Barcelona - Real Madrid</desc>
@@ -37,14 +25,6 @@
   <programme start="20260509183000 +0100" stop="20260509203000 +0100" channel="Fútbol 2">
     <title>Laliga Hypermotion: Valladolid - Zaragoza</title>
     <desc>Fútbol en directo - Laliga Hypermotion: Valladolid - Zaragoza</desc>
-  </programme>
-  <programme start="20260510100845 +0100" stop="20260510140845 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Leganés - Racing (Domingo 10/05 - 16:15)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Domingo 10/05 - 16:15)</desc>
-  </programme>
-  <programme start="20260510140845 +0100" stop="20260510161500 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Leganés - Racing (Domingo 10/05 - 16:15)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Domingo 10/05 - 16:15)</desc>
   </programme>
   <programme start="20260510161500 +0100" stop="20260510181500 +0100" channel="Fútbol 2">
     <title>Laliga Hypermotion: Leganés - Racing</title>
