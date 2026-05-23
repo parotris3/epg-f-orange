@@ -3,35 +3,11 @@
   <channel id="Fútbol 1">
     <display-name>Fútbol 1</display-name>
   </channel>
-  <programme start="20260522112557 +0100" stop="20260522152557 +0100" channel="Fútbol 1">
+  <programme start="20260523102039 +0100" stop="20260523142039 +0100" channel="Fútbol 1">
     <title>Próximo partido: Barcelona - Olympique De Lyon (Sábado 23/05 - 18:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 23/05 - 18:00)</desc>
   </programme>
-  <programme start="20260522152557 +0100" stop="20260522192557 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Barcelona - Olympique De Lyon (Sábado 23/05 - 18:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Sábado 23/05 - 18:00)</desc>
-  </programme>
-  <programme start="20260522192557 +0100" stop="20260522232557 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Barcelona - Olympique De Lyon (Sábado 23/05 - 18:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Sábado 23/05 - 18:00)</desc>
-  </programme>
-  <programme start="20260522232557 +0100" stop="20260523032557 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Barcelona - Olympique De Lyon (Sábado 23/05 - 18:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Sábado 23/05 - 18:00)</desc>
-  </programme>
-  <programme start="20260523032557 +0100" stop="20260523072557 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Barcelona - Olympique De Lyon (Sábado 23/05 - 18:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Sábado 23/05 - 18:00)</desc>
-  </programme>
-  <programme start="20260523072557 +0100" stop="20260523112557 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Barcelona - Olympique De Lyon (Sábado 23/05 - 18:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Sábado 23/05 - 18:00)</desc>
-  </programme>
-  <programme start="20260523112557 +0100" stop="20260523152557 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Barcelona - Olympique De Lyon (Sábado 23/05 - 18:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Sábado 23/05 - 18:00)</desc>
-  </programme>
-  <programme start="20260523152557 +0100" stop="20260523180000 +0100" channel="Fútbol 1">
+  <programme start="20260523142039 +0100" stop="20260523180000 +0100" channel="Fútbol 1">
     <title>Próximo partido: Barcelona - Olympique De Lyon (Sábado 23/05 - 18:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 23/05 - 18:00)</desc>
   </programme>
@@ -218,59 +194,39 @@
   <channel id="Fútbol 2">
     <display-name>Fútbol 2</display-name>
   </channel>
-  <programme start="20260522112557 +0100" stop="20260522152557 +0100" channel="Fútbol 2">
+  <programme start="20260523102039 +0100" stop="20260523142039 +0100" channel="Fútbol 2">
     <title>Próximo partido: Málaga - Racing (Domingo 24/05 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Domingo 24/05 - 18:30)</desc>
   </programme>
-  <programme start="20260522152557 +0100" stop="20260522192557 +0100" channel="Fútbol 2">
+  <programme start="20260523142039 +0100" stop="20260523182039 +0100" channel="Fútbol 2">
     <title>Próximo partido: Málaga - Racing (Domingo 24/05 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Domingo 24/05 - 18:30)</desc>
   </programme>
-  <programme start="20260522192557 +0100" stop="20260522232557 +0100" channel="Fútbol 2">
+  <programme start="20260523182039 +0100" stop="20260523222039 +0100" channel="Fútbol 2">
     <title>Próximo partido: Málaga - Racing (Domingo 24/05 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Domingo 24/05 - 18:30)</desc>
   </programme>
-  <programme start="20260522232557 +0100" stop="20260523032557 +0100" channel="Fútbol 2">
+  <programme start="20260523222039 +0100" stop="20260524022039 +0100" channel="Fútbol 2">
     <title>Próximo partido: Málaga - Racing (Domingo 24/05 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Domingo 24/05 - 18:30)</desc>
   </programme>
-  <programme start="20260523032557 +0100" stop="20260523072557 +0100" channel="Fútbol 2">
+  <programme start="20260524022039 +0100" stop="20260524062039 +0100" channel="Fútbol 2">
     <title>Próximo partido: Málaga - Racing (Domingo 24/05 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Domingo 24/05 - 18:30)</desc>
   </programme>
-  <programme start="20260523072557 +0100" stop="20260523112557 +0100" channel="Fútbol 2">
+  <programme start="20260524062039 +0100" stop="20260524102039 +0100" channel="Fútbol 2">
     <title>Próximo partido: Málaga - Racing (Domingo 24/05 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Domingo 24/05 - 18:30)</desc>
   </programme>
-  <programme start="20260523112557 +0100" stop="20260523152557 +0100" channel="Fútbol 2">
+  <programme start="20260524102039 +0100" stop="20260524142039 +0100" channel="Fútbol 2">
     <title>Próximo partido: Málaga - Racing (Domingo 24/05 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Domingo 24/05 - 18:30)</desc>
   </programme>
-  <programme start="20260523152557 +0100" stop="20260523192557 +0100" channel="Fútbol 2">
+  <programme start="20260524142039 +0100" stop="20260524182039 +0100" channel="Fútbol 2">
     <title>Próximo partido: Málaga - Racing (Domingo 24/05 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Domingo 24/05 - 18:30)</desc>
   </programme>
-  <programme start="20260523192557 +0100" stop="20260523232557 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Málaga - Racing (Domingo 24/05 - 18:30)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Domingo 24/05 - 18:30)</desc>
-  </programme>
-  <programme start="20260523232557 +0100" stop="20260524032557 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Málaga - Racing (Domingo 24/05 - 18:30)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Domingo 24/05 - 18:30)</desc>
-  </programme>
-  <programme start="20260524032557 +0100" stop="20260524072557 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Málaga - Racing (Domingo 24/05 - 18:30)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Domingo 24/05 - 18:30)</desc>
-  </programme>
-  <programme start="20260524072557 +0100" stop="20260524112557 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Málaga - Racing (Domingo 24/05 - 18:30)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Domingo 24/05 - 18:30)</desc>
-  </programme>
-  <programme start="20260524112557 +0100" stop="20260524152557 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Málaga - Racing (Domingo 24/05 - 18:30)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Domingo 24/05 - 18:30)</desc>
-  </programme>
-  <programme start="20260524152557 +0100" stop="20260524183000 +0100" channel="Fútbol 2">
+  <programme start="20260524182039 +0100" stop="20260524183000 +0100" channel="Fútbol 2">
     <title>Próximo partido: Málaga - Racing (Domingo 24/05 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Domingo 24/05 - 18:30)</desc>
   </programme>
@@ -285,39 +241,15 @@
   <channel id="Fútbol 3">
     <display-name>Fútbol 3</display-name>
   </channel>
-  <programme start="20260522112557 +0100" stop="20260522152557 +0100" channel="Fútbol 3">
+  <programme start="20260523102039 +0100" stop="20260523142039 +0100" channel="Fútbol 3">
     <title>Próximo partido: Multigol - Jornada 38 (Sábado 23/05 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 23/05 - 21:00)</desc>
   </programme>
-  <programme start="20260522152557 +0100" stop="20260522192557 +0100" channel="Fútbol 3">
+  <programme start="20260523142039 +0100" stop="20260523182039 +0100" channel="Fútbol 3">
     <title>Próximo partido: Multigol - Jornada 38 (Sábado 23/05 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 23/05 - 21:00)</desc>
   </programme>
-  <programme start="20260522192557 +0100" stop="20260522232557 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Multigol - Jornada 38 (Sábado 23/05 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Sábado 23/05 - 21:00)</desc>
-  </programme>
-  <programme start="20260522232557 +0100" stop="20260523032557 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Multigol - Jornada 38 (Sábado 23/05 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Sábado 23/05 - 21:00)</desc>
-  </programme>
-  <programme start="20260523032557 +0100" stop="20260523072557 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Multigol - Jornada 38 (Sábado 23/05 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Sábado 23/05 - 21:00)</desc>
-  </programme>
-  <programme start="20260523072557 +0100" stop="20260523112557 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Multigol - Jornada 38 (Sábado 23/05 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Sábado 23/05 - 21:00)</desc>
-  </programme>
-  <programme start="20260523112557 +0100" stop="20260523152557 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Multigol - Jornada 38 (Sábado 23/05 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Sábado 23/05 - 21:00)</desc>
-  </programme>
-  <programme start="20260523152557 +0100" stop="20260523192557 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Multigol - Jornada 38 (Sábado 23/05 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Sábado 23/05 - 21:00)</desc>
-  </programme>
-  <programme start="20260523192557 +0100" stop="20260523210000 +0100" channel="Fútbol 3">
+  <programme start="20260523182039 +0100" stop="20260523210000 +0100" channel="Fútbol 3">
     <title>Próximo partido: Multigol - Jornada 38 (Sábado 23/05 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 23/05 - 21:00)</desc>
   </programme>
