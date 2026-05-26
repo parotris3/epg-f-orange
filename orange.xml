@@ -3,139 +3,111 @@
   <channel id="Fútbol 1">
     <display-name>Fútbol 1</display-name>
   </channel>
-  <programme start="20260523180000 +0100" stop="20260523200000 +0100" channel="Fútbol 1">
-    <title>Champions League Femenina: Barcelona - Olympique De Lyon</title>
-    <desc>Fútbol en directo - Champions League Femenina: Barcelona - Olympique De Lyon</desc>
-  </programme>
   <programme start="20260523210000 +0100" stop="20260523230000 +0100" channel="Fútbol 1">
-    <title>Laliga Ea Sports: Getafe - Osasuna</title>
-    <desc>Fútbol en directo - Laliga Ea Sports: Getafe - Osasuna</desc>
+    <title>Primera Federación: Multigol - Jornada 38</title>
+    <desc>Fútbol en directo - Primera Federación: Multigol - Jornada 38</desc>
   </programme>
-  <programme start="20260525120742 +0100" stop="20260525160742 +0100" channel="Fútbol 1">
+  <programme start="20260526115727 +0100" stop="20260526155727 +0100" channel="Fútbol 1">
     <title>Próximo partido: Psg - Arsenal (Sábado 30/05 - 18:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 30/05 - 18:00)</desc>
   </programme>
-  <programme start="20260525160742 +0100" stop="20260525200742 +0100" channel="Fútbol 1">
+  <programme start="20260526155727 +0100" stop="20260526195727 +0100" channel="Fútbol 1">
     <title>Próximo partido: Psg - Arsenal (Sábado 30/05 - 18:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 30/05 - 18:00)</desc>
   </programme>
-  <programme start="20260525200742 +0100" stop="20260526000742 +0100" channel="Fútbol 1">
+  <programme start="20260526195727 +0100" stop="20260526235727 +0100" channel="Fútbol 1">
     <title>Próximo partido: Psg - Arsenal (Sábado 30/05 - 18:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 30/05 - 18:00)</desc>
   </programme>
-  <programme start="20260526000742 +0100" stop="20260526040742 +0100" channel="Fútbol 1">
+  <programme start="20260526235727 +0100" stop="20260527035727 +0100" channel="Fútbol 1">
     <title>Próximo partido: Psg - Arsenal (Sábado 30/05 - 18:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 30/05 - 18:00)</desc>
   </programme>
-  <programme start="20260526040742 +0100" stop="20260526080742 +0100" channel="Fútbol 1">
+  <programme start="20260527035727 +0100" stop="20260527075727 +0100" channel="Fútbol 1">
     <title>Próximo partido: Psg - Arsenal (Sábado 30/05 - 18:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 30/05 - 18:00)</desc>
   </programme>
-  <programme start="20260526080742 +0100" stop="20260526120742 +0100" channel="Fútbol 1">
+  <programme start="20260527075727 +0100" stop="20260527115727 +0100" channel="Fútbol 1">
     <title>Próximo partido: Psg - Arsenal (Sábado 30/05 - 18:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 30/05 - 18:00)</desc>
   </programme>
-  <programme start="20260526120742 +0100" stop="20260526160742 +0100" channel="Fútbol 1">
+  <programme start="20260527115727 +0100" stop="20260527155727 +0100" channel="Fútbol 1">
     <title>Próximo partido: Psg - Arsenal (Sábado 30/05 - 18:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 30/05 - 18:00)</desc>
   </programme>
-  <programme start="20260526160742 +0100" stop="20260526200742 +0100" channel="Fútbol 1">
+  <programme start="20260527155727 +0100" stop="20260527195727 +0100" channel="Fútbol 1">
     <title>Próximo partido: Psg - Arsenal (Sábado 30/05 - 18:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 30/05 - 18:00)</desc>
   </programme>
-  <programme start="20260526200742 +0100" stop="20260527000742 +0100" channel="Fútbol 1">
+  <programme start="20260527195727 +0100" stop="20260527235727 +0100" channel="Fútbol 1">
     <title>Próximo partido: Psg - Arsenal (Sábado 30/05 - 18:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 30/05 - 18:00)</desc>
   </programme>
-  <programme start="20260527000742 +0100" stop="20260527040742 +0100" channel="Fútbol 1">
+  <programme start="20260527235727 +0100" stop="20260528035727 +0100" channel="Fútbol 1">
     <title>Próximo partido: Psg - Arsenal (Sábado 30/05 - 18:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 30/05 - 18:00)</desc>
   </programme>
-  <programme start="20260527040742 +0100" stop="20260527080742 +0100" channel="Fútbol 1">
+  <programme start="20260528035727 +0100" stop="20260528075727 +0100" channel="Fútbol 1">
     <title>Próximo partido: Psg - Arsenal (Sábado 30/05 - 18:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 30/05 - 18:00)</desc>
   </programme>
-  <programme start="20260527080742 +0100" stop="20260527120742 +0100" channel="Fútbol 1">
+  <programme start="20260528075727 +0100" stop="20260528115727 +0100" channel="Fútbol 1">
     <title>Próximo partido: Psg - Arsenal (Sábado 30/05 - 18:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 30/05 - 18:00)</desc>
   </programme>
-  <programme start="20260527120742 +0100" stop="20260527160742 +0100" channel="Fútbol 1">
+  <programme start="20260528115727 +0100" stop="20260528155727 +0100" channel="Fútbol 1">
     <title>Próximo partido: Psg - Arsenal (Sábado 30/05 - 18:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 30/05 - 18:00)</desc>
   </programme>
-  <programme start="20260527160742 +0100" stop="20260527200742 +0100" channel="Fútbol 1">
+  <programme start="20260528155727 +0100" stop="20260528195727 +0100" channel="Fútbol 1">
     <title>Próximo partido: Psg - Arsenal (Sábado 30/05 - 18:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 30/05 - 18:00)</desc>
   </programme>
-  <programme start="20260527200742 +0100" stop="20260528000742 +0100" channel="Fútbol 1">
+  <programme start="20260528195727 +0100" stop="20260528235727 +0100" channel="Fútbol 1">
     <title>Próximo partido: Psg - Arsenal (Sábado 30/05 - 18:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 30/05 - 18:00)</desc>
   </programme>
-  <programme start="20260528000742 +0100" stop="20260528040742 +0100" channel="Fútbol 1">
+  <programme start="20260528235727 +0100" stop="20260529035727 +0100" channel="Fútbol 1">
     <title>Próximo partido: Psg - Arsenal (Sábado 30/05 - 18:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 30/05 - 18:00)</desc>
   </programme>
-  <programme start="20260528040742 +0100" stop="20260528080742 +0100" channel="Fútbol 1">
+  <programme start="20260529035727 +0100" stop="20260529075727 +0100" channel="Fútbol 1">
     <title>Próximo partido: Psg - Arsenal (Sábado 30/05 - 18:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 30/05 - 18:00)</desc>
   </programme>
-  <programme start="20260528080742 +0100" stop="20260528120742 +0100" channel="Fútbol 1">
+  <programme start="20260529075727 +0100" stop="20260529115727 +0100" channel="Fútbol 1">
     <title>Próximo partido: Psg - Arsenal (Sábado 30/05 - 18:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 30/05 - 18:00)</desc>
   </programme>
-  <programme start="20260528120742 +0100" stop="20260528160742 +0100" channel="Fútbol 1">
+  <programme start="20260529115727 +0100" stop="20260529155727 +0100" channel="Fútbol 1">
     <title>Próximo partido: Psg - Arsenal (Sábado 30/05 - 18:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 30/05 - 18:00)</desc>
   </programme>
-  <programme start="20260528160742 +0100" stop="20260528200742 +0100" channel="Fútbol 1">
+  <programme start="20260529155727 +0100" stop="20260529195727 +0100" channel="Fútbol 1">
     <title>Próximo partido: Psg - Arsenal (Sábado 30/05 - 18:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 30/05 - 18:00)</desc>
   </programme>
-  <programme start="20260528200742 +0100" stop="20260529000742 +0100" channel="Fútbol 1">
+  <programme start="20260529195727 +0100" stop="20260529235727 +0100" channel="Fútbol 1">
     <title>Próximo partido: Psg - Arsenal (Sábado 30/05 - 18:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 30/05 - 18:00)</desc>
   </programme>
-  <programme start="20260529000742 +0100" stop="20260529040742 +0100" channel="Fútbol 1">
+  <programme start="20260529235727 +0100" stop="20260530035727 +0100" channel="Fútbol 1">
     <title>Próximo partido: Psg - Arsenal (Sábado 30/05 - 18:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 30/05 - 18:00)</desc>
   </programme>
-  <programme start="20260529040742 +0100" stop="20260529080742 +0100" channel="Fútbol 1">
+  <programme start="20260530035727 +0100" stop="20260530075727 +0100" channel="Fútbol 1">
     <title>Próximo partido: Psg - Arsenal (Sábado 30/05 - 18:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 30/05 - 18:00)</desc>
   </programme>
-  <programme start="20260529080742 +0100" stop="20260529120742 +0100" channel="Fútbol 1">
+  <programme start="20260530075727 +0100" stop="20260530115727 +0100" channel="Fútbol 1">
     <title>Próximo partido: Psg - Arsenal (Sábado 30/05 - 18:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 30/05 - 18:00)</desc>
   </programme>
-  <programme start="20260529120742 +0100" stop="20260529160742 +0100" channel="Fútbol 1">
+  <programme start="20260530115727 +0100" stop="20260530155727 +0100" channel="Fútbol 1">
     <title>Próximo partido: Psg - Arsenal (Sábado 30/05 - 18:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 30/05 - 18:00)</desc>
   </programme>
-  <programme start="20260529160742 +0100" stop="20260529200742 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Psg - Arsenal (Sábado 30/05 - 18:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Sábado 30/05 - 18:00)</desc>
-  </programme>
-  <programme start="20260529200742 +0100" stop="20260530000742 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Psg - Arsenal (Sábado 30/05 - 18:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Sábado 30/05 - 18:00)</desc>
-  </programme>
-  <programme start="20260530000742 +0100" stop="20260530040742 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Psg - Arsenal (Sábado 30/05 - 18:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Sábado 30/05 - 18:00)</desc>
-  </programme>
-  <programme start="20260530040742 +0100" stop="20260530080742 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Psg - Arsenal (Sábado 30/05 - 18:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Sábado 30/05 - 18:00)</desc>
-  </programme>
-  <programme start="20260530080742 +0100" stop="20260530120742 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Psg - Arsenal (Sábado 30/05 - 18:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Sábado 30/05 - 18:00)</desc>
-  </programme>
-  <programme start="20260530120742 +0100" stop="20260530160742 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Psg - Arsenal (Sábado 30/05 - 18:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Sábado 30/05 - 18:00)</desc>
-  </programme>
-  <programme start="20260530160742 +0100" stop="20260530180000 +0100" channel="Fútbol 1">
+  <programme start="20260530155727 +0100" stop="20260530180000 +0100" channel="Fútbol 1">
     <title>Próximo partido: Psg - Arsenal (Sábado 30/05 - 18:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 30/05 - 18:00)</desc>
   </programme>
@@ -157,12 +129,4 @@
   <channel id="Fútbol 3">
     <display-name>Fútbol 3</display-name>
   </channel>
-  <programme start="20260523210000 +0100" stop="20260523230000 +0100" channel="Fútbol 3">
-    <title>Primera Federación: Multigol - Jornada 38</title>
-    <desc>Fútbol en directo - Primera Federación: Multigol - Jornada 38</desc>
-  </programme>
-  <programme start="20260524204500 +0100" stop="20260524224500 +0100" channel="Fútbol 3">
-    <title>Serie A: Milan - Cagliari</title>
-    <desc>Fútbol en directo - Serie A: Milan - Cagliari</desc>
-  </programme>
 </tv>
