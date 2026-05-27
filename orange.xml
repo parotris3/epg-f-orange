@@ -3,117 +3,101 @@
   <channel id="Fútbol 1">
     <display-name>Fútbol 1</display-name>
   </channel>
-  <programme start="20260523210000 +0100" stop="20260523230000 +0100" channel="Fútbol 1">
-    <title>Primera Federación: Multigol - Jornada 38</title>
-    <desc>Fútbol en directo - Primera Federación: Multigol - Jornada 38</desc>
+  <programme start="20260527115119 +0100" stop="20260527155119 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Real Madrid Castilla - Sabadell (Viernes 29/05 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Viernes 29/05 - 21:00)</desc>
   </programme>
-  <programme start="20260526115727 +0100" stop="20260526155727 +0100" channel="Fútbol 1">
+  <programme start="20260527155119 +0100" stop="20260527195119 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Real Madrid Castilla - Sabadell (Viernes 29/05 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Viernes 29/05 - 21:00)</desc>
+  </programme>
+  <programme start="20260527195119 +0100" stop="20260527235119 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Real Madrid Castilla - Sabadell (Viernes 29/05 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Viernes 29/05 - 21:00)</desc>
+  </programme>
+  <programme start="20260527235119 +0100" stop="20260528035119 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Real Madrid Castilla - Sabadell (Viernes 29/05 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Viernes 29/05 - 21:00)</desc>
+  </programme>
+  <programme start="20260528035119 +0100" stop="20260528075119 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Real Madrid Castilla - Sabadell (Viernes 29/05 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Viernes 29/05 - 21:00)</desc>
+  </programme>
+  <programme start="20260528075119 +0100" stop="20260528115119 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Real Madrid Castilla - Sabadell (Viernes 29/05 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Viernes 29/05 - 21:00)</desc>
+  </programme>
+  <programme start="20260528115119 +0100" stop="20260528155119 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Real Madrid Castilla - Sabadell (Viernes 29/05 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Viernes 29/05 - 21:00)</desc>
+  </programme>
+  <programme start="20260528155119 +0100" stop="20260528195119 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Real Madrid Castilla - Sabadell (Viernes 29/05 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Viernes 29/05 - 21:00)</desc>
+  </programme>
+  <programme start="20260528195119 +0100" stop="20260528235119 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Real Madrid Castilla - Sabadell (Viernes 29/05 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Viernes 29/05 - 21:00)</desc>
+  </programme>
+  <programme start="20260528235119 +0100" stop="20260529035119 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Real Madrid Castilla - Sabadell (Viernes 29/05 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Viernes 29/05 - 21:00)</desc>
+  </programme>
+  <programme start="20260529035119 +0100" stop="20260529075119 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Real Madrid Castilla - Sabadell (Viernes 29/05 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Viernes 29/05 - 21:00)</desc>
+  </programme>
+  <programme start="20260529075119 +0100" stop="20260529115119 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Real Madrid Castilla - Sabadell (Viernes 29/05 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Viernes 29/05 - 21:00)</desc>
+  </programme>
+  <programme start="20260529115119 +0100" stop="20260529155119 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Real Madrid Castilla - Sabadell (Viernes 29/05 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Viernes 29/05 - 21:00)</desc>
+  </programme>
+  <programme start="20260529155119 +0100" stop="20260529195119 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Real Madrid Castilla - Sabadell (Viernes 29/05 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Viernes 29/05 - 21:00)</desc>
+  </programme>
+  <programme start="20260529195119 +0100" stop="20260529210000 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Real Madrid Castilla - Sabadell (Viernes 29/05 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Viernes 29/05 - 21:00)</desc>
+  </programme>
+  <programme start="20260529210000 +0100" stop="20260529230000 +0100" channel="Fútbol 1">
+    <title>Primera Federación: Real Madrid Castilla - Sabadell</title>
+    <desc>Fútbol en directo - Primera Federación: Real Madrid Castilla - Sabadell</desc>
+  </programme>
+  <programme start="20260529230000 +0100" stop="20260530030000 +0100" channel="Fútbol 1">
     <title>Próximo partido: Psg - Arsenal (Sábado 30/05 - 18:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 30/05 - 18:00)</desc>
   </programme>
-  <programme start="20260526155727 +0100" stop="20260526195727 +0100" channel="Fútbol 1">
+  <programme start="20260530030000 +0100" stop="20260530070000 +0100" channel="Fútbol 1">
     <title>Próximo partido: Psg - Arsenal (Sábado 30/05 - 18:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 30/05 - 18:00)</desc>
   </programme>
-  <programme start="20260526195727 +0100" stop="20260526235727 +0100" channel="Fútbol 1">
+  <programme start="20260530070000 +0100" stop="20260530110000 +0100" channel="Fútbol 1">
     <title>Próximo partido: Psg - Arsenal (Sábado 30/05 - 18:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 30/05 - 18:00)</desc>
   </programme>
-  <programme start="20260526235727 +0100" stop="20260527035727 +0100" channel="Fútbol 1">
+  <programme start="20260530110000 +0100" stop="20260530150000 +0100" channel="Fútbol 1">
     <title>Próximo partido: Psg - Arsenal (Sábado 30/05 - 18:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 30/05 - 18:00)</desc>
   </programme>
-  <programme start="20260527035727 +0100" stop="20260527075727 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Psg - Arsenal (Sábado 30/05 - 18:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Sábado 30/05 - 18:00)</desc>
-  </programme>
-  <programme start="20260527075727 +0100" stop="20260527115727 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Psg - Arsenal (Sábado 30/05 - 18:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Sábado 30/05 - 18:00)</desc>
-  </programme>
-  <programme start="20260527115727 +0100" stop="20260527155727 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Psg - Arsenal (Sábado 30/05 - 18:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Sábado 30/05 - 18:00)</desc>
-  </programme>
-  <programme start="20260527155727 +0100" stop="20260527195727 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Psg - Arsenal (Sábado 30/05 - 18:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Sábado 30/05 - 18:00)</desc>
-  </programme>
-  <programme start="20260527195727 +0100" stop="20260527235727 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Psg - Arsenal (Sábado 30/05 - 18:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Sábado 30/05 - 18:00)</desc>
-  </programme>
-  <programme start="20260527235727 +0100" stop="20260528035727 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Psg - Arsenal (Sábado 30/05 - 18:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Sábado 30/05 - 18:00)</desc>
-  </programme>
-  <programme start="20260528035727 +0100" stop="20260528075727 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Psg - Arsenal (Sábado 30/05 - 18:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Sábado 30/05 - 18:00)</desc>
-  </programme>
-  <programme start="20260528075727 +0100" stop="20260528115727 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Psg - Arsenal (Sábado 30/05 - 18:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Sábado 30/05 - 18:00)</desc>
-  </programme>
-  <programme start="20260528115727 +0100" stop="20260528155727 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Psg - Arsenal (Sábado 30/05 - 18:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Sábado 30/05 - 18:00)</desc>
-  </programme>
-  <programme start="20260528155727 +0100" stop="20260528195727 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Psg - Arsenal (Sábado 30/05 - 18:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Sábado 30/05 - 18:00)</desc>
-  </programme>
-  <programme start="20260528195727 +0100" stop="20260528235727 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Psg - Arsenal (Sábado 30/05 - 18:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Sábado 30/05 - 18:00)</desc>
-  </programme>
-  <programme start="20260528235727 +0100" stop="20260529035727 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Psg - Arsenal (Sábado 30/05 - 18:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Sábado 30/05 - 18:00)</desc>
-  </programme>
-  <programme start="20260529035727 +0100" stop="20260529075727 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Psg - Arsenal (Sábado 30/05 - 18:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Sábado 30/05 - 18:00)</desc>
-  </programme>
-  <programme start="20260529075727 +0100" stop="20260529115727 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Psg - Arsenal (Sábado 30/05 - 18:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Sábado 30/05 - 18:00)</desc>
-  </programme>
-  <programme start="20260529115727 +0100" stop="20260529155727 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Psg - Arsenal (Sábado 30/05 - 18:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Sábado 30/05 - 18:00)</desc>
-  </programme>
-  <programme start="20260529155727 +0100" stop="20260529195727 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Psg - Arsenal (Sábado 30/05 - 18:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Sábado 30/05 - 18:00)</desc>
-  </programme>
-  <programme start="20260529195727 +0100" stop="20260529235727 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Psg - Arsenal (Sábado 30/05 - 18:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Sábado 30/05 - 18:00)</desc>
-  </programme>
-  <programme start="20260529235727 +0100" stop="20260530035727 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Psg - Arsenal (Sábado 30/05 - 18:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Sábado 30/05 - 18:00)</desc>
-  </programme>
-  <programme start="20260530035727 +0100" stop="20260530075727 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Psg - Arsenal (Sábado 30/05 - 18:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Sábado 30/05 - 18:00)</desc>
-  </programme>
-  <programme start="20260530075727 +0100" stop="20260530115727 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Psg - Arsenal (Sábado 30/05 - 18:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Sábado 30/05 - 18:00)</desc>
-  </programme>
-  <programme start="20260530115727 +0100" stop="20260530155727 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Psg - Arsenal (Sábado 30/05 - 18:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Sábado 30/05 - 18:00)</desc>
-  </programme>
-  <programme start="20260530155727 +0100" stop="20260530180000 +0100" channel="Fútbol 1">
+  <programme start="20260530150000 +0100" stop="20260530180000 +0100" channel="Fútbol 1">
     <title>Próximo partido: Psg - Arsenal (Sábado 30/05 - 18:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 30/05 - 18:00)</desc>
   </programme>
   <programme start="20260530180000 +0100" stop="20260530200000 +0100" channel="Fútbol 1">
     <title>Champions League: Psg - Arsenal</title>
     <desc>Fútbol en directo - Champions League: Psg - Arsenal</desc>
+  </programme>
+  <programme start="20260530200000 +0100" stop="20260530210000 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Ponferradina - Atlético Madrileño (Sábado 30/05 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Sábado 30/05 - 21:00)</desc>
+  </programme>
+  <programme start="20260530210000 +0100" stop="20260530230000 +0100" channel="Fútbol 1">
+    <title>Primera Federación: Ponferradina - Atlético Madrileño</title>
+    <desc>Fútbol en directo - Primera Federación: Ponferradina - Atlético Madrileño</desc>
   </programme>
   <channel id="Fútbol 2">
     <display-name>Fútbol 2</display-name>
