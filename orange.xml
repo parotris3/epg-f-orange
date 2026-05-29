@@ -3,39 +3,15 @@
   <channel id="Fútbol 1">
     <display-name>Fútbol 1</display-name>
   </channel>
-  <programme start="20260528120256 +0100" stop="20260528160256 +0100" channel="Fútbol 1">
+  <programme start="20260529115504 +0100" stop="20260529155504 +0100" channel="Fútbol 1">
     <title>Próximo partido: Real Madrid Castilla - Sabadell (Viernes 29/05 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Viernes 29/05 - 21:00)</desc>
   </programme>
-  <programme start="20260528160256 +0100" stop="20260528200256 +0100" channel="Fútbol 1">
+  <programme start="20260529155504 +0100" stop="20260529195504 +0100" channel="Fútbol 1">
     <title>Próximo partido: Real Madrid Castilla - Sabadell (Viernes 29/05 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Viernes 29/05 - 21:00)</desc>
   </programme>
-  <programme start="20260528200256 +0100" stop="20260529000256 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Real Madrid Castilla - Sabadell (Viernes 29/05 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Viernes 29/05 - 21:00)</desc>
-  </programme>
-  <programme start="20260529000256 +0100" stop="20260529040256 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Real Madrid Castilla - Sabadell (Viernes 29/05 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Viernes 29/05 - 21:00)</desc>
-  </programme>
-  <programme start="20260529040256 +0100" stop="20260529080256 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Real Madrid Castilla - Sabadell (Viernes 29/05 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Viernes 29/05 - 21:00)</desc>
-  </programme>
-  <programme start="20260529080256 +0100" stop="20260529120256 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Real Madrid Castilla - Sabadell (Viernes 29/05 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Viernes 29/05 - 21:00)</desc>
-  </programme>
-  <programme start="20260529120256 +0100" stop="20260529160256 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Real Madrid Castilla - Sabadell (Viernes 29/05 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Viernes 29/05 - 21:00)</desc>
-  </programme>
-  <programme start="20260529160256 +0100" stop="20260529200256 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Real Madrid Castilla - Sabadell (Viernes 29/05 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Viernes 29/05 - 21:00)</desc>
-  </programme>
-  <programme start="20260529200256 +0100" stop="20260529210000 +0100" channel="Fútbol 1">
+  <programme start="20260529195504 +0100" stop="20260529210000 +0100" channel="Fútbol 1">
     <title>Próximo partido: Real Madrid Castilla - Sabadell (Viernes 29/05 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Viernes 29/05 - 21:00)</desc>
   </programme>
@@ -78,63 +54,39 @@
   <channel id="Fútbol 2">
     <display-name>Fútbol 2</display-name>
   </channel>
-  <programme start="20260528120256 +0100" stop="20260528160256 +0100" channel="Fútbol 2">
+  <programme start="20260529115504 +0100" stop="20260529155504 +0100" channel="Fútbol 2">
     <title>Próximo partido: Granada - Sporting (Sábado 30/05 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 30/05 - 21:00)</desc>
   </programme>
-  <programme start="20260528160256 +0100" stop="20260528200256 +0100" channel="Fútbol 2">
+  <programme start="20260529155504 +0100" stop="20260529195504 +0100" channel="Fútbol 2">
     <title>Próximo partido: Granada - Sporting (Sábado 30/05 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 30/05 - 21:00)</desc>
   </programme>
-  <programme start="20260528200256 +0100" stop="20260529000256 +0100" channel="Fútbol 2">
+  <programme start="20260529195504 +0100" stop="20260529235504 +0100" channel="Fútbol 2">
     <title>Próximo partido: Granada - Sporting (Sábado 30/05 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 30/05 - 21:00)</desc>
   </programme>
-  <programme start="20260529000256 +0100" stop="20260529040256 +0100" channel="Fútbol 2">
+  <programme start="20260529235504 +0100" stop="20260530035504 +0100" channel="Fútbol 2">
     <title>Próximo partido: Granada - Sporting (Sábado 30/05 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 30/05 - 21:00)</desc>
   </programme>
-  <programme start="20260529040256 +0100" stop="20260529080256 +0100" channel="Fútbol 2">
+  <programme start="20260530035504 +0100" stop="20260530075504 +0100" channel="Fútbol 2">
     <title>Próximo partido: Granada - Sporting (Sábado 30/05 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 30/05 - 21:00)</desc>
   </programme>
-  <programme start="20260529080256 +0100" stop="20260529120256 +0100" channel="Fútbol 2">
+  <programme start="20260530075504 +0100" stop="20260530115504 +0100" channel="Fútbol 2">
     <title>Próximo partido: Granada - Sporting (Sábado 30/05 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 30/05 - 21:00)</desc>
   </programme>
-  <programme start="20260529120256 +0100" stop="20260529160256 +0100" channel="Fútbol 2">
+  <programme start="20260530115504 +0100" stop="20260530155504 +0100" channel="Fútbol 2">
     <title>Próximo partido: Granada - Sporting (Sábado 30/05 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 30/05 - 21:00)</desc>
   </programme>
-  <programme start="20260529160256 +0100" stop="20260529200256 +0100" channel="Fútbol 2">
+  <programme start="20260530155504 +0100" stop="20260530195504 +0100" channel="Fútbol 2">
     <title>Próximo partido: Granada - Sporting (Sábado 30/05 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 30/05 - 21:00)</desc>
   </programme>
-  <programme start="20260529200256 +0100" stop="20260530000256 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Granada - Sporting (Sábado 30/05 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Sábado 30/05 - 21:00)</desc>
-  </programme>
-  <programme start="20260530000256 +0100" stop="20260530040256 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Granada - Sporting (Sábado 30/05 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Sábado 30/05 - 21:00)</desc>
-  </programme>
-  <programme start="20260530040256 +0100" stop="20260530080256 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Granada - Sporting (Sábado 30/05 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Sábado 30/05 - 21:00)</desc>
-  </programme>
-  <programme start="20260530080256 +0100" stop="20260530120256 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Granada - Sporting (Sábado 30/05 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Sábado 30/05 - 21:00)</desc>
-  </programme>
-  <programme start="20260530120256 +0100" stop="20260530160256 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Granada - Sporting (Sábado 30/05 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Sábado 30/05 - 21:00)</desc>
-  </programme>
-  <programme start="20260530160256 +0100" stop="20260530200256 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Granada - Sporting (Sábado 30/05 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Sábado 30/05 - 21:00)</desc>
-  </programme>
-  <programme start="20260530200256 +0100" stop="20260530210000 +0100" channel="Fútbol 2">
+  <programme start="20260530195504 +0100" stop="20260530210000 +0100" channel="Fútbol 2">
     <title>Próximo partido: Granada - Sporting (Sábado 30/05 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 30/05 - 21:00)</desc>
   </programme>
