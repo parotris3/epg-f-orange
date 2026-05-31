@@ -3,86 +3,22 @@
   <channel id="Fútbol 1">
     <display-name>Fútbol 1</display-name>
   </channel>
-  <programme start="20260530102823 +0100" stop="20260530142823 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Psg - Arsenal (Sábado 30/05 - 18:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Sábado 30/05 - 18:00)</desc>
-  </programme>
-  <programme start="20260530142823 +0100" stop="20260530180000 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Psg - Arsenal (Sábado 30/05 - 18:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Sábado 30/05 - 18:00)</desc>
-  </programme>
-  <programme start="20260530180000 +0100" stop="20260530200000 +0100" channel="Fútbol 1">
-    <title>Champions League: Psg - Arsenal</title>
-    <desc>Fútbol en directo - Champions League: Psg - Arsenal</desc>
-  </programme>
-  <programme start="20260530200000 +0100" stop="20260530210000 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Ponferradina - Atlético Madrileño (Sábado 30/05 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Sábado 30/05 - 21:00)</desc>
-  </programme>
-  <programme start="20260530210000 +0100" stop="20260530230000 +0100" channel="Fútbol 1">
-    <title>Primera Federación: Ponferradina - Atlético Madrileño</title>
-    <desc>Fútbol en directo - Primera Federación: Ponferradina - Atlético Madrileño</desc>
-  </programme>
-  <programme start="20260530230000 +0100" stop="20260531030000 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Europa - Celta Fortuna (Domingo 31/05 - 16:15)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Domingo 31/05 - 16:15)</desc>
-  </programme>
-  <programme start="20260531030000 +0100" stop="20260531070000 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Europa - Celta Fortuna (Domingo 31/05 - 16:15)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Domingo 31/05 - 16:15)</desc>
-  </programme>
-  <programme start="20260531070000 +0100" stop="20260531110000 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Europa - Celta Fortuna (Domingo 31/05 - 16:15)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Domingo 31/05 - 16:15)</desc>
-  </programme>
-  <programme start="20260531110000 +0100" stop="20260531150000 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Europa - Celta Fortuna (Domingo 31/05 - 16:15)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Domingo 31/05 - 16:15)</desc>
-  </programme>
-  <programme start="20260531150000 +0100" stop="20260531161500 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Europa - Celta Fortuna (Domingo 31/05 - 16:15)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Domingo 31/05 - 16:15)</desc>
-  </programme>
-  <programme start="20260531161500 +0100" stop="20260531181500 +0100" channel="Fútbol 1">
-    <title>Primera Federación: Europa - Celta Fortuna</title>
-    <desc>Fútbol en directo - Primera Federación: Europa - Celta Fortuna</desc>
-  </programme>
   <channel id="Fútbol 2">
     <display-name>Fútbol 2</display-name>
   </channel>
-  <programme start="20260530102823 +0100" stop="20260530142823 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Granada - Sporting (Sábado 30/05 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Sábado 30/05 - 21:00)</desc>
+  <programme start="20260531104622 +0100" stop="20260531144622 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Europa - Celta Fortuna (Domingo 31/05 - 16:15)</title>
+    <desc>Siguiente emisión en Fútbol 2 | (Domingo 31/05 - 16:15)</desc>
   </programme>
-  <programme start="20260530142823 +0100" stop="20260530182823 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Granada - Sporting (Sábado 30/05 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Sábado 30/05 - 21:00)</desc>
+  <programme start="20260531144622 +0100" stop="20260531161500 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Europa - Celta Fortuna (Domingo 31/05 - 16:15)</title>
+    <desc>Siguiente emisión en Fútbol 2 | (Domingo 31/05 - 16:15)</desc>
   </programme>
-  <programme start="20260530182823 +0100" stop="20260530210000 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Granada - Sporting (Sábado 30/05 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Sábado 30/05 - 21:00)</desc>
+  <programme start="20260531161500 +0100" stop="20260531181500 +0100" channel="Fútbol 2">
+    <title>Primera Federación: Europa - Celta Fortuna</title>
+    <desc>Fútbol en directo - Primera Federación: Europa - Celta Fortuna</desc>
   </programme>
-  <programme start="20260530210000 +0100" stop="20260530230000 +0100" channel="Fútbol 2">
-    <title>Laliga Hypermotion: Granada - Sporting</title>
-    <desc>Fútbol en directo - Laliga Hypermotion: Granada - Sporting</desc>
-  </programme>
-  <programme start="20260530230000 +0100" stop="20260531030000 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Racing - Cádiz (Domingo 31/05 - 18:30)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Domingo 31/05 - 18:30)</desc>
-  </programme>
-  <programme start="20260531030000 +0100" stop="20260531070000 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Racing - Cádiz (Domingo 31/05 - 18:30)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Domingo 31/05 - 18:30)</desc>
-  </programme>
-  <programme start="20260531070000 +0100" stop="20260531110000 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Racing - Cádiz (Domingo 31/05 - 18:30)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Domingo 31/05 - 18:30)</desc>
-  </programme>
-  <programme start="20260531110000 +0100" stop="20260531150000 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Racing - Cádiz (Domingo 31/05 - 18:30)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Domingo 31/05 - 18:30)</desc>
-  </programme>
-  <programme start="20260531150000 +0100" stop="20260531183000 +0100" channel="Fútbol 2">
+  <programme start="20260531181500 +0100" stop="20260531183000 +0100" channel="Fútbol 2">
     <title>Próximo partido: Racing - Cádiz (Domingo 31/05 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Domingo 31/05 - 18:30)</desc>
   </programme>
@@ -94,9 +30,9 @@
     <title>Laliga Hypermotion: Deportivo - Las Palmas</title>
     <desc>Fútbol en directo - Laliga Hypermotion: Deportivo - Las Palmas</desc>
   </programme>
-  <programme start="20260531203000 +0100" stop="20260531210000 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Leganés - Mirandés (Domingo 31/05 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Domingo 31/05 - 21:00)</desc>
+  <programme start="20260531203000 +0100" stop="20260531223000 +0100" channel="Fútbol 2">
+    <title>Primera Federación: Villarreal B - Zamora</title>
+    <desc>Fútbol en directo - Primera Federación: Villarreal B - Zamora</desc>
   </programme>
   <programme start="20260531210000 +0100" stop="20260531230000 +0100" channel="Fútbol 2">
     <title>Laliga Hypermotion: Leganés - Mirandés</title>
