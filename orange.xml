@@ -6,29 +6,13 @@
   <channel id="Fútbol 2">
     <display-name>Fútbol 2</display-name>
   </channel>
-  <programme start="20260606183000 +0100" stop="20260606203000 +0100" channel="Fútbol 2">
-    <title>Primera Federación: Atlético Madrileño - Ponferradina</title>
-    <desc>Fútbol en directo - Primera Federación: Atlético Madrileño - Ponferradina</desc>
-  </programme>
-  <programme start="20260606210000 +0100" stop="20260606230000 +0100" channel="Fútbol 2">
-    <title>Laliga Hypermotion: Castellón - Almería</title>
-    <desc>Fútbol en directo - Laliga Hypermotion: Castellón - Almería</desc>
-  </programme>
-  <programme start="20260607105626 +0100" stop="20260607145626 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Celta Fortuna - Europa (Domingo 07/06 - 16:15)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Domingo 07/06 - 16:15)</desc>
-  </programme>
-  <programme start="20260607145626 +0100" stop="20260607161500 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Celta Fortuna - Europa (Domingo 07/06 - 16:15)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Domingo 07/06 - 16:15)</desc>
-  </programme>
   <programme start="20260607161500 +0100" stop="20260607181500 +0100" channel="Fútbol 2">
     <title>Primera Federación: Celta Fortuna - Europa</title>
     <desc>Fútbol en directo - Primera Federación: Celta Fortuna - Europa</desc>
   </programme>
-  <programme start="20260607181500 +0100" stop="20260607210000 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Las Palmas - Málaga (Domingo 07/06 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Domingo 07/06 - 21:00)</desc>
+  <programme start="20260607203000 +0100" stop="20260607223000 +0100" channel="Fútbol 2">
+    <title>Primera Federación: Zamora - Villarreal B</title>
+    <desc>Fútbol en directo - Primera Federación: Zamora - Villarreal B</desc>
   </programme>
   <programme start="20260607210000 +0100" stop="20260607230000 +0100" channel="Fútbol 2">
     <title>Laliga Hypermotion: Las Palmas - Málaga</title>
