@@ -6,17 +6,129 @@
   <channel id="Fútbol 2">
     <display-name>Fútbol 2</display-name>
   </channel>
-  <programme start="20260607161500 +0100" stop="20260607181500 +0100" channel="Fútbol 2">
-    <title>Primera Federación: Celta Fortuna - Europa</title>
-    <desc>Fútbol en directo - Primera Federación: Celta Fortuna - Europa</desc>
+  <programme start="20260609114803 +0100" stop="20260609154803 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Almería - Castellón (Martes 09/06 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 2 | (Martes 09/06 - 21:00)</desc>
   </programme>
-  <programme start="20260607203000 +0100" stop="20260607223000 +0100" channel="Fútbol 2">
-    <title>Primera Federación: Zamora - Villarreal B</title>
-    <desc>Fútbol en directo - Primera Federación: Zamora - Villarreal B</desc>
+  <programme start="20260609154803 +0100" stop="20260609194803 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Almería - Castellón (Martes 09/06 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 2 | (Martes 09/06 - 21:00)</desc>
   </programme>
-  <programme start="20260607210000 +0100" stop="20260607230000 +0100" channel="Fútbol 2">
-    <title>Laliga Hypermotion: Las Palmas - Málaga</title>
-    <desc>Fútbol en directo - Laliga Hypermotion: Las Palmas - Málaga</desc>
+  <programme start="20260609194803 +0100" stop="20260609210000 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Almería - Castellón (Martes 09/06 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 2 | (Martes 09/06 - 21:00)</desc>
+  </programme>
+  <programme start="20260609210000 +0100" stop="20260609230000 +0100" channel="Fútbol 2">
+    <title>Laliga Hypermotion: Almería - Castellón</title>
+    <desc>Fútbol en directo - Laliga Hypermotion: Almería - Castellón</desc>
+  </programme>
+  <programme start="20260609230000 +0100" stop="20260610030000 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Málaga - Las Palmas (Miércoles 10/06 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 2 | (Miércoles 10/06 - 21:00)</desc>
+  </programme>
+  <programme start="20260610030000 +0100" stop="20260610070000 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Málaga - Las Palmas (Miércoles 10/06 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 2 | (Miércoles 10/06 - 21:00)</desc>
+  </programme>
+  <programme start="20260610070000 +0100" stop="20260610110000 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Málaga - Las Palmas (Miércoles 10/06 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 2 | (Miércoles 10/06 - 21:00)</desc>
+  </programme>
+  <programme start="20260610110000 +0100" stop="20260610150000 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Málaga - Las Palmas (Miércoles 10/06 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 2 | (Miércoles 10/06 - 21:00)</desc>
+  </programme>
+  <programme start="20260610150000 +0100" stop="20260610190000 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Málaga - Las Palmas (Miércoles 10/06 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 2 | (Miércoles 10/06 - 21:00)</desc>
+  </programme>
+  <programme start="20260610190000 +0100" stop="20260610210000 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Málaga - Las Palmas (Miércoles 10/06 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 2 | (Miércoles 10/06 - 21:00)</desc>
+  </programme>
+  <programme start="20260610210000 +0100" stop="20260610230000 +0100" channel="Fútbol 2">
+    <title>Laliga Hypermotion: Málaga - Las Palmas</title>
+    <desc>Fútbol en directo - Laliga Hypermotion: Málaga - Las Palmas</desc>
+  </programme>
+  <programme start="20260610230000 +0100" stop="20260611030000 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Ponferradina - Celta Fortuna (Sábado 13/06 - 18:30)</title>
+    <desc>Siguiente emisión en Fútbol 2 | (Sábado 13/06 - 18:30)</desc>
+  </programme>
+  <programme start="20260611030000 +0100" stop="20260611070000 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Ponferradina - Celta Fortuna (Sábado 13/06 - 18:30)</title>
+    <desc>Siguiente emisión en Fútbol 2 | (Sábado 13/06 - 18:30)</desc>
+  </programme>
+  <programme start="20260611070000 +0100" stop="20260611110000 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Ponferradina - Celta Fortuna (Sábado 13/06 - 18:30)</title>
+    <desc>Siguiente emisión en Fútbol 2 | (Sábado 13/06 - 18:30)</desc>
+  </programme>
+  <programme start="20260611110000 +0100" stop="20260611150000 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Ponferradina - Celta Fortuna (Sábado 13/06 - 18:30)</title>
+    <desc>Siguiente emisión en Fútbol 2 | (Sábado 13/06 - 18:30)</desc>
+  </programme>
+  <programme start="20260611150000 +0100" stop="20260611190000 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Ponferradina - Celta Fortuna (Sábado 13/06 - 18:30)</title>
+    <desc>Siguiente emisión en Fútbol 2 | (Sábado 13/06 - 18:30)</desc>
+  </programme>
+  <programme start="20260611190000 +0100" stop="20260611230000 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Ponferradina - Celta Fortuna (Sábado 13/06 - 18:30)</title>
+    <desc>Siguiente emisión en Fútbol 2 | (Sábado 13/06 - 18:30)</desc>
+  </programme>
+  <programme start="20260611230000 +0100" stop="20260612030000 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Ponferradina - Celta Fortuna (Sábado 13/06 - 18:30)</title>
+    <desc>Siguiente emisión en Fútbol 2 | (Sábado 13/06 - 18:30)</desc>
+  </programme>
+  <programme start="20260612030000 +0100" stop="20260612070000 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Ponferradina - Celta Fortuna (Sábado 13/06 - 18:30)</title>
+    <desc>Siguiente emisión en Fútbol 2 | (Sábado 13/06 - 18:30)</desc>
+  </programme>
+  <programme start="20260612070000 +0100" stop="20260612110000 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Ponferradina - Celta Fortuna (Sábado 13/06 - 18:30)</title>
+    <desc>Siguiente emisión en Fútbol 2 | (Sábado 13/06 - 18:30)</desc>
+  </programme>
+  <programme start="20260612110000 +0100" stop="20260612150000 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Ponferradina - Celta Fortuna (Sábado 13/06 - 18:30)</title>
+    <desc>Siguiente emisión en Fútbol 2 | (Sábado 13/06 - 18:30)</desc>
+  </programme>
+  <programme start="20260612150000 +0100" stop="20260612190000 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Ponferradina - Celta Fortuna (Sábado 13/06 - 18:30)</title>
+    <desc>Siguiente emisión en Fútbol 2 | (Sábado 13/06 - 18:30)</desc>
+  </programme>
+  <programme start="20260612190000 +0100" stop="20260612230000 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Ponferradina - Celta Fortuna (Sábado 13/06 - 18:30)</title>
+    <desc>Siguiente emisión en Fútbol 2 | (Sábado 13/06 - 18:30)</desc>
+  </programme>
+  <programme start="20260612230000 +0100" stop="20260613030000 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Ponferradina - Celta Fortuna (Sábado 13/06 - 18:30)</title>
+    <desc>Siguiente emisión en Fútbol 2 | (Sábado 13/06 - 18:30)</desc>
+  </programme>
+  <programme start="20260613030000 +0100" stop="20260613070000 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Ponferradina - Celta Fortuna (Sábado 13/06 - 18:30)</title>
+    <desc>Siguiente emisión en Fútbol 2 | (Sábado 13/06 - 18:30)</desc>
+  </programme>
+  <programme start="20260613070000 +0100" stop="20260613110000 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Ponferradina - Celta Fortuna (Sábado 13/06 - 18:30)</title>
+    <desc>Siguiente emisión en Fútbol 2 | (Sábado 13/06 - 18:30)</desc>
+  </programme>
+  <programme start="20260613110000 +0100" stop="20260613150000 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Ponferradina - Celta Fortuna (Sábado 13/06 - 18:30)</title>
+    <desc>Siguiente emisión en Fútbol 2 | (Sábado 13/06 - 18:30)</desc>
+  </programme>
+  <programme start="20260613150000 +0100" stop="20260613183000 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Ponferradina - Celta Fortuna (Sábado 13/06 - 18:30)</title>
+    <desc>Siguiente emisión en Fútbol 2 | (Sábado 13/06 - 18:30)</desc>
+  </programme>
+  <programme start="20260613183000 +0100" stop="20260613203000 +0100" channel="Fútbol 2">
+    <title>Primera Federación: Ponferradina - Celta Fortuna</title>
+    <desc>Fútbol en directo - Primera Federación: Ponferradina - Celta Fortuna</desc>
+  </programme>
+  <programme start="20260613203000 +0100" stop="20260613210000 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Zamora - Sabadell (Sábado 13/06 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 2 | (Sábado 13/06 - 21:00)</desc>
+  </programme>
+  <programme start="20260613210000 +0100" stop="20260613230000 +0100" channel="Fútbol 2">
+    <title>Primera Federación: Zamora - Sabadell</title>
+    <desc>Fútbol en directo - Primera Federación: Zamora - Sabadell</desc>
   </programme>
   <channel id="Fútbol 3">
     <display-name>Fútbol 3</display-name>
