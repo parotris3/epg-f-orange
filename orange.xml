@@ -6,43 +6,19 @@
   <channel id="Fútbol 2">
     <display-name>Fútbol 2</display-name>
   </channel>
-  <programme start="20260609114803 +0100" stop="20260609154803 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Almería - Castellón (Martes 09/06 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Martes 09/06 - 21:00)</desc>
-  </programme>
-  <programme start="20260609154803 +0100" stop="20260609194803 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Almería - Castellón (Martes 09/06 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Martes 09/06 - 21:00)</desc>
-  </programme>
-  <programme start="20260609194803 +0100" stop="20260609210000 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Almería - Castellón (Martes 09/06 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Martes 09/06 - 21:00)</desc>
-  </programme>
   <programme start="20260609210000 +0100" stop="20260609230000 +0100" channel="Fútbol 2">
     <title>Laliga Hypermotion: Almería - Castellón</title>
     <desc>Fútbol en directo - Laliga Hypermotion: Almería - Castellón</desc>
   </programme>
-  <programme start="20260609230000 +0100" stop="20260610030000 +0100" channel="Fútbol 2">
+  <programme start="20260610120140 +0100" stop="20260610160140 +0100" channel="Fútbol 2">
     <title>Próximo partido: Málaga - Las Palmas (Miércoles 10/06 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Miércoles 10/06 - 21:00)</desc>
   </programme>
-  <programme start="20260610030000 +0100" stop="20260610070000 +0100" channel="Fútbol 2">
+  <programme start="20260610160140 +0100" stop="20260610200140 +0100" channel="Fútbol 2">
     <title>Próximo partido: Málaga - Las Palmas (Miércoles 10/06 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Miércoles 10/06 - 21:00)</desc>
   </programme>
-  <programme start="20260610070000 +0100" stop="20260610110000 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Málaga - Las Palmas (Miércoles 10/06 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Miércoles 10/06 - 21:00)</desc>
-  </programme>
-  <programme start="20260610110000 +0100" stop="20260610150000 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Málaga - Las Palmas (Miércoles 10/06 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Miércoles 10/06 - 21:00)</desc>
-  </programme>
-  <programme start="20260610150000 +0100" stop="20260610190000 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Málaga - Las Palmas (Miércoles 10/06 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Miércoles 10/06 - 21:00)</desc>
-  </programme>
-  <programme start="20260610190000 +0100" stop="20260610210000 +0100" channel="Fútbol 2">
+  <programme start="20260610200140 +0100" stop="20260610210000 +0100" channel="Fútbol 2">
     <title>Próximo partido: Málaga - Las Palmas (Miércoles 10/06 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Miércoles 10/06 - 21:00)</desc>
   </programme>
