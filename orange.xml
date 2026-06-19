@@ -6,39 +6,15 @@
   <channel id="Fútbol 2">
     <display-name>Fútbol 2</display-name>
   </channel>
-  <programme start="20260618122139 +0100" stop="20260618162139 +0100" channel="Fútbol 2">
+  <programme start="20260619122655 +0100" stop="20260619162655 +0100" channel="Fútbol 2">
     <title>Próximo partido: Sabadell - Zamora (Viernes 19/06 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Viernes 19/06 - 21:00)</desc>
   </programme>
-  <programme start="20260618162139 +0100" stop="20260618202139 +0100" channel="Fútbol 2">
+  <programme start="20260619162655 +0100" stop="20260619202655 +0100" channel="Fútbol 2">
     <title>Próximo partido: Sabadell - Zamora (Viernes 19/06 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Viernes 19/06 - 21:00)</desc>
   </programme>
-  <programme start="20260618202139 +0100" stop="20260619002139 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Sabadell - Zamora (Viernes 19/06 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Viernes 19/06 - 21:00)</desc>
-  </programme>
-  <programme start="20260619002139 +0100" stop="20260619042139 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Sabadell - Zamora (Viernes 19/06 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Viernes 19/06 - 21:00)</desc>
-  </programme>
-  <programme start="20260619042139 +0100" stop="20260619082139 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Sabadell - Zamora (Viernes 19/06 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Viernes 19/06 - 21:00)</desc>
-  </programme>
-  <programme start="20260619082139 +0100" stop="20260619122139 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Sabadell - Zamora (Viernes 19/06 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Viernes 19/06 - 21:00)</desc>
-  </programme>
-  <programme start="20260619122139 +0100" stop="20260619162139 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Sabadell - Zamora (Viernes 19/06 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Viernes 19/06 - 21:00)</desc>
-  </programme>
-  <programme start="20260619162139 +0100" stop="20260619202139 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Sabadell - Zamora (Viernes 19/06 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Viernes 19/06 - 21:00)</desc>
-  </programme>
-  <programme start="20260619202139 +0100" stop="20260619210000 +0100" channel="Fútbol 2">
+  <programme start="20260619202655 +0100" stop="20260619210000 +0100" channel="Fútbol 2">
     <title>Próximo partido: Sabadell - Zamora (Viernes 19/06 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Viernes 19/06 - 21:00)</desc>
   </programme>
