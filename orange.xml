@@ -6,25 +6,9 @@
   <channel id="Fútbol 2">
     <display-name>Fútbol 2</display-name>
   </channel>
-  <programme start="20260619210000 +0100" stop="20260619230000 +0100" channel="Fútbol 2">
-    <title>Primera Federación: Sabadell - Zamora</title>
-    <desc>Fútbol en directo - Primera Federación: Sabadell - Zamora</desc>
-  </programme>
-  <programme start="20260620105731 +0100" stop="20260620145731 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Celta Fortuna - Ponferradina (Sábado 20/06 - 18:30)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Sábado 20/06 - 18:30)</desc>
-  </programme>
-  <programme start="20260620145731 +0100" stop="20260620183000 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Celta Fortuna - Ponferradina (Sábado 20/06 - 18:30)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Sábado 20/06 - 18:30)</desc>
-  </programme>
   <programme start="20260620183000 +0100" stop="20260620203000 +0100" channel="Fútbol 2">
     <title>Primera Federación: Celta Fortuna - Ponferradina</title>
     <desc>Fútbol en directo - Primera Federación: Celta Fortuna - Ponferradina</desc>
-  </programme>
-  <programme start="20260620203000 +0100" stop="20260620210000 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Almería - Málaga (Sábado 20/06 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Sábado 20/06 - 21:00)</desc>
   </programme>
   <programme start="20260620210000 +0100" stop="20260620230000 +0100" channel="Fútbol 2">
     <title>Laliga Hypermotion: Almería - Málaga</title>
