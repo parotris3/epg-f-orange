@@ -6,14 +6,6 @@
   <channel id="Fútbol 2">
     <display-name>Fútbol 2</display-name>
   </channel>
-  <programme start="20260620183000 +0100" stop="20260620203000 +0100" channel="Fútbol 2">
-    <title>Primera Federación: Celta Fortuna - Ponferradina</title>
-    <desc>Fútbol en directo - Primera Federación: Celta Fortuna - Ponferradina</desc>
-  </programme>
-  <programme start="20260620210000 +0100" stop="20260620230000 +0100" channel="Fútbol 2">
-    <title>Laliga Hypermotion: Almería - Málaga</title>
-    <desc>Fútbol en directo - Laliga Hypermotion: Almería - Málaga</desc>
-  </programme>
   <channel id="Fútbol 3">
     <display-name>Fútbol 3</display-name>
   </channel>
