@@ -3,71 +3,43 @@
   <channel id="Fútbol 1">
     <display-name>Fútbol 1</display-name>
   </channel>
-  <programme start="20260816170000 +0100" stop="20260816190000 +0100" channel="Fútbol 1">
-    <title>Laliga Hypermotion: Eibar - Tenerife</title>
-    <desc>Fútbol en directo - Laliga Hypermotion: Eibar - Tenerife</desc>
-  </programme>
-  <programme start="20260817085517 +0100" stop="20260817125517 +0100" channel="Fútbol 1">
+  <programme start="20260818084221 +0100" stop="20260818124221 +0100" channel="Fútbol 1">
     <title>Próximo partido: Atlético - Málaga (Miércoles 19/08 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Miércoles 19/08 - 21:00)</desc>
   </programme>
-  <programme start="20260817125517 +0100" stop="20260817165517 +0100" channel="Fútbol 1">
+  <programme start="20260818124221 +0100" stop="20260818164221 +0100" channel="Fútbol 1">
     <title>Próximo partido: Atlético - Málaga (Miércoles 19/08 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Miércoles 19/08 - 21:00)</desc>
   </programme>
-  <programme start="20260817165517 +0100" stop="20260817205517 +0100" channel="Fútbol 1">
+  <programme start="20260818164221 +0100" stop="20260818204221 +0100" channel="Fútbol 1">
     <title>Próximo partido: Atlético - Málaga (Miércoles 19/08 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Miércoles 19/08 - 21:00)</desc>
   </programme>
-  <programme start="20260817205517 +0100" stop="20260818005517 +0100" channel="Fútbol 1">
+  <programme start="20260818204221 +0100" stop="20260819004221 +0100" channel="Fútbol 1">
     <title>Próximo partido: Atlético - Málaga (Miércoles 19/08 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Miércoles 19/08 - 21:00)</desc>
   </programme>
-  <programme start="20260818005517 +0100" stop="20260818045517 +0100" channel="Fútbol 1">
+  <programme start="20260819004221 +0100" stop="20260819044221 +0100" channel="Fútbol 1">
     <title>Próximo partido: Atlético - Málaga (Miércoles 19/08 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Miércoles 19/08 - 21:00)</desc>
   </programme>
-  <programme start="20260818045517 +0100" stop="20260818085517 +0100" channel="Fútbol 1">
+  <programme start="20260819044221 +0100" stop="20260819084221 +0100" channel="Fútbol 1">
     <title>Próximo partido: Atlético - Málaga (Miércoles 19/08 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Miércoles 19/08 - 21:00)</desc>
   </programme>
-  <programme start="20260818085517 +0100" stop="20260818125517 +0100" channel="Fútbol 1">
+  <programme start="20260819084221 +0100" stop="20260819124221 +0100" channel="Fútbol 1">
     <title>Próximo partido: Atlético - Málaga (Miércoles 19/08 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Miércoles 19/08 - 21:00)</desc>
   </programme>
-  <programme start="20260818125517 +0100" stop="20260818165517 +0100" channel="Fútbol 1">
+  <programme start="20260819124221 +0100" stop="20260819164221 +0100" channel="Fútbol 1">
     <title>Próximo partido: Atlético - Málaga (Miércoles 19/08 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Miércoles 19/08 - 21:00)</desc>
   </programme>
-  <programme start="20260818165517 +0100" stop="20260818205517 +0100" channel="Fútbol 1">
+  <programme start="20260819164221 +0100" stop="20260819204221 +0100" channel="Fútbol 1">
     <title>Próximo partido: Atlético - Málaga (Miércoles 19/08 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Miércoles 19/08 - 21:00)</desc>
   </programme>
-  <programme start="20260818205517 +0100" stop="20260819005517 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Atlético - Málaga (Miércoles 19/08 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Miércoles 19/08 - 21:00)</desc>
-  </programme>
-  <programme start="20260819005517 +0100" stop="20260819045517 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Atlético - Málaga (Miércoles 19/08 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Miércoles 19/08 - 21:00)</desc>
-  </programme>
-  <programme start="20260819045517 +0100" stop="20260819085517 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Atlético - Málaga (Miércoles 19/08 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Miércoles 19/08 - 21:00)</desc>
-  </programme>
-  <programme start="20260819085517 +0100" stop="20260819125517 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Atlético - Málaga (Miércoles 19/08 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Miércoles 19/08 - 21:00)</desc>
-  </programme>
-  <programme start="20260819125517 +0100" stop="20260819165517 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Atlético - Málaga (Miércoles 19/08 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Miércoles 19/08 - 21:00)</desc>
-  </programme>
-  <programme start="20260819165517 +0100" stop="20260819205517 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Atlético - Málaga (Miércoles 19/08 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Miércoles 19/08 - 21:00)</desc>
-  </programme>
-  <programme start="20260819205517 +0100" stop="20260819210000 +0100" channel="Fútbol 1">
+  <programme start="20260819204221 +0100" stop="20260819210000 +0100" channel="Fútbol 1">
     <title>Próximo partido: Atlético - Málaga (Miércoles 19/08 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Miércoles 19/08 - 21:00)</desc>
   </programme>
@@ -346,119 +318,91 @@
   <channel id="Fútbol 2">
     <display-name>Fútbol 2</display-name>
   </channel>
-  <programme start="20260816190000 +0100" stop="20260816210000 +0100" channel="Fútbol 2">
-    <title>Laliga Hypermotion: Girona - Leganés</title>
-    <desc>Fútbol en directo - Laliga Hypermotion: Girona - Leganés</desc>
-  </programme>
-  <programme start="20260817085517 +0100" stop="20260817125517 +0100" channel="Fútbol 2">
+  <programme start="20260818084221 +0100" stop="20260818124221 +0100" channel="Fútbol 2">
     <title>Próximo partido: Córdoba - Girona (Viernes 21/08 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Viernes 21/08 - 21:00)</desc>
   </programme>
-  <programme start="20260817125517 +0100" stop="20260817165517 +0100" channel="Fútbol 2">
+  <programme start="20260818124221 +0100" stop="20260818164221 +0100" channel="Fútbol 2">
     <title>Próximo partido: Córdoba - Girona (Viernes 21/08 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Viernes 21/08 - 21:00)</desc>
   </programme>
-  <programme start="20260817165517 +0100" stop="20260817205517 +0100" channel="Fútbol 2">
+  <programme start="20260818164221 +0100" stop="20260818204221 +0100" channel="Fútbol 2">
     <title>Próximo partido: Córdoba - Girona (Viernes 21/08 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Viernes 21/08 - 21:00)</desc>
   </programme>
-  <programme start="20260817205517 +0100" stop="20260818005517 +0100" channel="Fútbol 2">
+  <programme start="20260818204221 +0100" stop="20260819004221 +0100" channel="Fútbol 2">
     <title>Próximo partido: Córdoba - Girona (Viernes 21/08 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Viernes 21/08 - 21:00)</desc>
   </programme>
-  <programme start="20260818005517 +0100" stop="20260818045517 +0100" channel="Fútbol 2">
+  <programme start="20260819004221 +0100" stop="20260819044221 +0100" channel="Fútbol 2">
     <title>Próximo partido: Córdoba - Girona (Viernes 21/08 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Viernes 21/08 - 21:00)</desc>
   </programme>
-  <programme start="20260818045517 +0100" stop="20260818085517 +0100" channel="Fútbol 2">
+  <programme start="20260819044221 +0100" stop="20260819084221 +0100" channel="Fútbol 2">
     <title>Próximo partido: Córdoba - Girona (Viernes 21/08 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Viernes 21/08 - 21:00)</desc>
   </programme>
-  <programme start="20260818085517 +0100" stop="20260818125517 +0100" channel="Fútbol 2">
+  <programme start="20260819084221 +0100" stop="20260819124221 +0100" channel="Fútbol 2">
     <title>Próximo partido: Córdoba - Girona (Viernes 21/08 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Viernes 21/08 - 21:00)</desc>
   </programme>
-  <programme start="20260818125517 +0100" stop="20260818165517 +0100" channel="Fútbol 2">
+  <programme start="20260819124221 +0100" stop="20260819164221 +0100" channel="Fútbol 2">
     <title>Próximo partido: Córdoba - Girona (Viernes 21/08 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Viernes 21/08 - 21:00)</desc>
   </programme>
-  <programme start="20260818165517 +0100" stop="20260818205517 +0100" channel="Fútbol 2">
+  <programme start="20260819164221 +0100" stop="20260819204221 +0100" channel="Fútbol 2">
     <title>Próximo partido: Córdoba - Girona (Viernes 21/08 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Viernes 21/08 - 21:00)</desc>
   </programme>
-  <programme start="20260818205517 +0100" stop="20260819005517 +0100" channel="Fútbol 2">
+  <programme start="20260819204221 +0100" stop="20260820004221 +0100" channel="Fútbol 2">
     <title>Próximo partido: Córdoba - Girona (Viernes 21/08 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Viernes 21/08 - 21:00)</desc>
   </programme>
-  <programme start="20260819005517 +0100" stop="20260819045517 +0100" channel="Fútbol 2">
+  <programme start="20260820004221 +0100" stop="20260820044221 +0100" channel="Fútbol 2">
     <title>Próximo partido: Córdoba - Girona (Viernes 21/08 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Viernes 21/08 - 21:00)</desc>
   </programme>
-  <programme start="20260819045517 +0100" stop="20260819085517 +0100" channel="Fútbol 2">
+  <programme start="20260820044221 +0100" stop="20260820084221 +0100" channel="Fútbol 2">
     <title>Próximo partido: Córdoba - Girona (Viernes 21/08 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Viernes 21/08 - 21:00)</desc>
   </programme>
-  <programme start="20260819085517 +0100" stop="20260819125517 +0100" channel="Fútbol 2">
+  <programme start="20260820084221 +0100" stop="20260820124221 +0100" channel="Fútbol 2">
     <title>Próximo partido: Córdoba - Girona (Viernes 21/08 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Viernes 21/08 - 21:00)</desc>
   </programme>
-  <programme start="20260819125517 +0100" stop="20260819165517 +0100" channel="Fútbol 2">
+  <programme start="20260820124221 +0100" stop="20260820164221 +0100" channel="Fútbol 2">
     <title>Próximo partido: Córdoba - Girona (Viernes 21/08 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Viernes 21/08 - 21:00)</desc>
   </programme>
-  <programme start="20260819165517 +0100" stop="20260819205517 +0100" channel="Fútbol 2">
+  <programme start="20260820164221 +0100" stop="20260820204221 +0100" channel="Fútbol 2">
     <title>Próximo partido: Córdoba - Girona (Viernes 21/08 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Viernes 21/08 - 21:00)</desc>
   </programme>
-  <programme start="20260819205517 +0100" stop="20260820005517 +0100" channel="Fútbol 2">
+  <programme start="20260820204221 +0100" stop="20260821004221 +0100" channel="Fútbol 2">
     <title>Próximo partido: Córdoba - Girona (Viernes 21/08 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Viernes 21/08 - 21:00)</desc>
   </programme>
-  <programme start="20260820005517 +0100" stop="20260820045517 +0100" channel="Fútbol 2">
+  <programme start="20260821004221 +0100" stop="20260821044221 +0100" channel="Fútbol 2">
     <title>Próximo partido: Córdoba - Girona (Viernes 21/08 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Viernes 21/08 - 21:00)</desc>
   </programme>
-  <programme start="20260820045517 +0100" stop="20260820085517 +0100" channel="Fútbol 2">
+  <programme start="20260821044221 +0100" stop="20260821084221 +0100" channel="Fútbol 2">
     <title>Próximo partido: Córdoba - Girona (Viernes 21/08 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Viernes 21/08 - 21:00)</desc>
   </programme>
-  <programme start="20260820085517 +0100" stop="20260820125517 +0100" channel="Fútbol 2">
+  <programme start="20260821084221 +0100" stop="20260821124221 +0100" channel="Fútbol 2">
     <title>Próximo partido: Córdoba - Girona (Viernes 21/08 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Viernes 21/08 - 21:00)</desc>
   </programme>
-  <programme start="20260820125517 +0100" stop="20260820165517 +0100" channel="Fútbol 2">
+  <programme start="20260821124221 +0100" stop="20260821164221 +0100" channel="Fútbol 2">
     <title>Próximo partido: Córdoba - Girona (Viernes 21/08 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Viernes 21/08 - 21:00)</desc>
   </programme>
-  <programme start="20260820165517 +0100" stop="20260820205517 +0100" channel="Fútbol 2">
+  <programme start="20260821164221 +0100" stop="20260821204221 +0100" channel="Fútbol 2">
     <title>Próximo partido: Córdoba - Girona (Viernes 21/08 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Viernes 21/08 - 21:00)</desc>
   </programme>
-  <programme start="20260820205517 +0100" stop="20260821005517 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Córdoba - Girona (Viernes 21/08 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Viernes 21/08 - 21:00)</desc>
-  </programme>
-  <programme start="20260821005517 +0100" stop="20260821045517 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Córdoba - Girona (Viernes 21/08 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Viernes 21/08 - 21:00)</desc>
-  </programme>
-  <programme start="20260821045517 +0100" stop="20260821085517 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Córdoba - Girona (Viernes 21/08 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Viernes 21/08 - 21:00)</desc>
-  </programme>
-  <programme start="20260821085517 +0100" stop="20260821125517 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Córdoba - Girona (Viernes 21/08 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Viernes 21/08 - 21:00)</desc>
-  </programme>
-  <programme start="20260821125517 +0100" stop="20260821165517 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Córdoba - Girona (Viernes 21/08 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Viernes 21/08 - 21:00)</desc>
-  </programme>
-  <programme start="20260821165517 +0100" stop="20260821205517 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Córdoba - Girona (Viernes 21/08 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Viernes 21/08 - 21:00)</desc>
-  </programme>
-  <programme start="20260821205517 +0100" stop="20260821210000 +0100" channel="Fútbol 2">
+  <programme start="20260821204221 +0100" stop="20260821210000 +0100" channel="Fútbol 2">
     <title>Próximo partido: Córdoba - Girona (Viernes 21/08 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Viernes 21/08 - 21:00)</desc>
   </programme>
