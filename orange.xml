@@ -3,119 +3,95 @@
   <channel id="Fútbol 1">
     <display-name>Fútbol 1</display-name>
   </channel>
-  <programme start="20260819084236 +0100" stop="20260819124236 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Atlético - Málaga (Miércoles 19/08 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Miércoles 19/08 - 21:00)</desc>
-  </programme>
-  <programme start="20260819124236 +0100" stop="20260819164236 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Atlético - Málaga (Miércoles 19/08 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Miércoles 19/08 - 21:00)</desc>
-  </programme>
-  <programme start="20260819164236 +0100" stop="20260819204236 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Atlético - Málaga (Miércoles 19/08 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Miércoles 19/08 - 21:00)</desc>
-  </programme>
-  <programme start="20260819204236 +0100" stop="20260819210000 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Atlético - Málaga (Miércoles 19/08 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Miércoles 19/08 - 21:00)</desc>
-  </programme>
   <programme start="20260819210000 +0100" stop="20260819230000 +0100" channel="Fútbol 1">
     <title>Laliga Ea Sports: Atlético - Málaga</title>
     <desc>Fútbol en directo - Laliga Ea Sports: Atlético - Málaga</desc>
   </programme>
-  <programme start="20260819230000 +0100" stop="20260820030000 +0100" channel="Fútbol 1">
+  <programme start="20260820084507 +0100" stop="20260820124507 +0100" channel="Fútbol 1">
     <title>Próximo partido: Elche - Barcelona (Domingo 23/08 - 21:30)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Domingo 23/08 - 21:30)</desc>
   </programme>
-  <programme start="20260820030000 +0100" stop="20260820070000 +0100" channel="Fútbol 1">
+  <programme start="20260820124507 +0100" stop="20260820164507 +0100" channel="Fútbol 1">
     <title>Próximo partido: Elche - Barcelona (Domingo 23/08 - 21:30)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Domingo 23/08 - 21:30)</desc>
   </programme>
-  <programme start="20260820070000 +0100" stop="20260820110000 +0100" channel="Fútbol 1">
+  <programme start="20260820164507 +0100" stop="20260820204507 +0100" channel="Fútbol 1">
     <title>Próximo partido: Elche - Barcelona (Domingo 23/08 - 21:30)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Domingo 23/08 - 21:30)</desc>
   </programme>
-  <programme start="20260820110000 +0100" stop="20260820150000 +0100" channel="Fútbol 1">
+  <programme start="20260820204507 +0100" stop="20260821004507 +0100" channel="Fútbol 1">
     <title>Próximo partido: Elche - Barcelona (Domingo 23/08 - 21:30)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Domingo 23/08 - 21:30)</desc>
   </programme>
-  <programme start="20260820150000 +0100" stop="20260820190000 +0100" channel="Fútbol 1">
+  <programme start="20260821004507 +0100" stop="20260821044507 +0100" channel="Fútbol 1">
     <title>Próximo partido: Elche - Barcelona (Domingo 23/08 - 21:30)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Domingo 23/08 - 21:30)</desc>
   </programme>
-  <programme start="20260820190000 +0100" stop="20260820230000 +0100" channel="Fútbol 1">
+  <programme start="20260821044507 +0100" stop="20260821084507 +0100" channel="Fútbol 1">
     <title>Próximo partido: Elche - Barcelona (Domingo 23/08 - 21:30)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Domingo 23/08 - 21:30)</desc>
   </programme>
-  <programme start="20260820230000 +0100" stop="20260821030000 +0100" channel="Fútbol 1">
+  <programme start="20260821084507 +0100" stop="20260821124507 +0100" channel="Fútbol 1">
     <title>Próximo partido: Elche - Barcelona (Domingo 23/08 - 21:30)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Domingo 23/08 - 21:30)</desc>
   </programme>
-  <programme start="20260821030000 +0100" stop="20260821070000 +0100" channel="Fútbol 1">
+  <programme start="20260821124507 +0100" stop="20260821164507 +0100" channel="Fútbol 1">
     <title>Próximo partido: Elche - Barcelona (Domingo 23/08 - 21:30)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Domingo 23/08 - 21:30)</desc>
   </programme>
-  <programme start="20260821070000 +0100" stop="20260821110000 +0100" channel="Fútbol 1">
+  <programme start="20260821164507 +0100" stop="20260821204507 +0100" channel="Fútbol 1">
     <title>Próximo partido: Elche - Barcelona (Domingo 23/08 - 21:30)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Domingo 23/08 - 21:30)</desc>
   </programme>
-  <programme start="20260821110000 +0100" stop="20260821150000 +0100" channel="Fútbol 1">
+  <programme start="20260821204507 +0100" stop="20260822004507 +0100" channel="Fútbol 1">
     <title>Próximo partido: Elche - Barcelona (Domingo 23/08 - 21:30)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Domingo 23/08 - 21:30)</desc>
   </programme>
-  <programme start="20260821150000 +0100" stop="20260821190000 +0100" channel="Fútbol 1">
+  <programme start="20260822004507 +0100" stop="20260822044507 +0100" channel="Fútbol 1">
     <title>Próximo partido: Elche - Barcelona (Domingo 23/08 - 21:30)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Domingo 23/08 - 21:30)</desc>
   </programme>
-  <programme start="20260821190000 +0100" stop="20260821230000 +0100" channel="Fútbol 1">
+  <programme start="20260822044507 +0100" stop="20260822084507 +0100" channel="Fútbol 1">
     <title>Próximo partido: Elche - Barcelona (Domingo 23/08 - 21:30)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Domingo 23/08 - 21:30)</desc>
   </programme>
-  <programme start="20260821230000 +0100" stop="20260822030000 +0100" channel="Fútbol 1">
+  <programme start="20260822084507 +0100" stop="20260822124507 +0100" channel="Fútbol 1">
     <title>Próximo partido: Elche - Barcelona (Domingo 23/08 - 21:30)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Domingo 23/08 - 21:30)</desc>
   </programme>
-  <programme start="20260822030000 +0100" stop="20260822070000 +0100" channel="Fútbol 1">
+  <programme start="20260822124507 +0100" stop="20260822164507 +0100" channel="Fútbol 1">
     <title>Próximo partido: Elche - Barcelona (Domingo 23/08 - 21:30)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Domingo 23/08 - 21:30)</desc>
   </programme>
-  <programme start="20260822070000 +0100" stop="20260822110000 +0100" channel="Fútbol 1">
+  <programme start="20260822164507 +0100" stop="20260822204507 +0100" channel="Fútbol 1">
     <title>Próximo partido: Elche - Barcelona (Domingo 23/08 - 21:30)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Domingo 23/08 - 21:30)</desc>
   </programme>
-  <programme start="20260822110000 +0100" stop="20260822150000 +0100" channel="Fútbol 1">
+  <programme start="20260822204507 +0100" stop="20260823004507 +0100" channel="Fútbol 1">
     <title>Próximo partido: Elche - Barcelona (Domingo 23/08 - 21:30)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Domingo 23/08 - 21:30)</desc>
   </programme>
-  <programme start="20260822150000 +0100" stop="20260822190000 +0100" channel="Fútbol 1">
+  <programme start="20260823004507 +0100" stop="20260823044507 +0100" channel="Fútbol 1">
     <title>Próximo partido: Elche - Barcelona (Domingo 23/08 - 21:30)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Domingo 23/08 - 21:30)</desc>
   </programme>
-  <programme start="20260822190000 +0100" stop="20260822230000 +0100" channel="Fútbol 1">
+  <programme start="20260823044507 +0100" stop="20260823084507 +0100" channel="Fútbol 1">
     <title>Próximo partido: Elche - Barcelona (Domingo 23/08 - 21:30)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Domingo 23/08 - 21:30)</desc>
   </programme>
-  <programme start="20260822230000 +0100" stop="20260823030000 +0100" channel="Fútbol 1">
+  <programme start="20260823084507 +0100" stop="20260823124507 +0100" channel="Fútbol 1">
     <title>Próximo partido: Elche - Barcelona (Domingo 23/08 - 21:30)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Domingo 23/08 - 21:30)</desc>
   </programme>
-  <programme start="20260823030000 +0100" stop="20260823070000 +0100" channel="Fútbol 1">
+  <programme start="20260823124507 +0100" stop="20260823164507 +0100" channel="Fútbol 1">
     <title>Próximo partido: Elche - Barcelona (Domingo 23/08 - 21:30)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Domingo 23/08 - 21:30)</desc>
   </programme>
-  <programme start="20260823070000 +0100" stop="20260823110000 +0100" channel="Fútbol 1">
+  <programme start="20260823164507 +0100" stop="20260823204507 +0100" channel="Fútbol 1">
     <title>Próximo partido: Elche - Barcelona (Domingo 23/08 - 21:30)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Domingo 23/08 - 21:30)</desc>
   </programme>
-  <programme start="20260823110000 +0100" stop="20260823150000 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Elche - Barcelona (Domingo 23/08 - 21:30)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Domingo 23/08 - 21:30)</desc>
-  </programme>
-  <programme start="20260823150000 +0100" stop="20260823190000 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Elche - Barcelona (Domingo 23/08 - 21:30)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Domingo 23/08 - 21:30)</desc>
-  </programme>
-  <programme start="20260823190000 +0100" stop="20260823213000 +0100" channel="Fútbol 1">
+  <programme start="20260823204507 +0100" stop="20260823213000 +0100" channel="Fútbol 1">
     <title>Próximo partido: Elche - Barcelona (Domingo 23/08 - 21:30)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Domingo 23/08 - 21:30)</desc>
   </programme>
@@ -294,67 +270,43 @@
   <channel id="Fútbol 2">
     <display-name>Fútbol 2</display-name>
   </channel>
-  <programme start="20260819084236 +0100" stop="20260819124236 +0100" channel="Fútbol 2">
+  <programme start="20260820084507 +0100" stop="20260820124507 +0100" channel="Fútbol 2">
     <title>Próximo partido: Córdoba - Girona (Viernes 21/08 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Viernes 21/08 - 21:00)</desc>
   </programme>
-  <programme start="20260819124236 +0100" stop="20260819164236 +0100" channel="Fútbol 2">
+  <programme start="20260820124507 +0100" stop="20260820164507 +0100" channel="Fútbol 2">
     <title>Próximo partido: Córdoba - Girona (Viernes 21/08 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Viernes 21/08 - 21:00)</desc>
   </programme>
-  <programme start="20260819164236 +0100" stop="20260819204236 +0100" channel="Fútbol 2">
+  <programme start="20260820164507 +0100" stop="20260820204507 +0100" channel="Fútbol 2">
     <title>Próximo partido: Córdoba - Girona (Viernes 21/08 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Viernes 21/08 - 21:00)</desc>
   </programme>
-  <programme start="20260819204236 +0100" stop="20260820004236 +0100" channel="Fútbol 2">
+  <programme start="20260820204507 +0100" stop="20260821004507 +0100" channel="Fútbol 2">
     <title>Próximo partido: Córdoba - Girona (Viernes 21/08 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Viernes 21/08 - 21:00)</desc>
   </programme>
-  <programme start="20260820004236 +0100" stop="20260820044236 +0100" channel="Fútbol 2">
+  <programme start="20260821004507 +0100" stop="20260821044507 +0100" channel="Fútbol 2">
     <title>Próximo partido: Córdoba - Girona (Viernes 21/08 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Viernes 21/08 - 21:00)</desc>
   </programme>
-  <programme start="20260820044236 +0100" stop="20260820084236 +0100" channel="Fútbol 2">
+  <programme start="20260821044507 +0100" stop="20260821084507 +0100" channel="Fútbol 2">
     <title>Próximo partido: Córdoba - Girona (Viernes 21/08 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Viernes 21/08 - 21:00)</desc>
   </programme>
-  <programme start="20260820084236 +0100" stop="20260820124236 +0100" channel="Fútbol 2">
+  <programme start="20260821084507 +0100" stop="20260821124507 +0100" channel="Fútbol 2">
     <title>Próximo partido: Córdoba - Girona (Viernes 21/08 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Viernes 21/08 - 21:00)</desc>
   </programme>
-  <programme start="20260820124236 +0100" stop="20260820164236 +0100" channel="Fútbol 2">
+  <programme start="20260821124507 +0100" stop="20260821164507 +0100" channel="Fútbol 2">
     <title>Próximo partido: Córdoba - Girona (Viernes 21/08 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Viernes 21/08 - 21:00)</desc>
   </programme>
-  <programme start="20260820164236 +0100" stop="20260820204236 +0100" channel="Fútbol 2">
+  <programme start="20260821164507 +0100" stop="20260821204507 +0100" channel="Fútbol 2">
     <title>Próximo partido: Córdoba - Girona (Viernes 21/08 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Viernes 21/08 - 21:00)</desc>
   </programme>
-  <programme start="20260820204236 +0100" stop="20260821004236 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Córdoba - Girona (Viernes 21/08 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Viernes 21/08 - 21:00)</desc>
-  </programme>
-  <programme start="20260821004236 +0100" stop="20260821044236 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Córdoba - Girona (Viernes 21/08 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Viernes 21/08 - 21:00)</desc>
-  </programme>
-  <programme start="20260821044236 +0100" stop="20260821084236 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Córdoba - Girona (Viernes 21/08 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Viernes 21/08 - 21:00)</desc>
-  </programme>
-  <programme start="20260821084236 +0100" stop="20260821124236 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Córdoba - Girona (Viernes 21/08 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Viernes 21/08 - 21:00)</desc>
-  </programme>
-  <programme start="20260821124236 +0100" stop="20260821164236 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Córdoba - Girona (Viernes 21/08 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Viernes 21/08 - 21:00)</desc>
-  </programme>
-  <programme start="20260821164236 +0100" stop="20260821204236 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Córdoba - Girona (Viernes 21/08 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Viernes 21/08 - 21:00)</desc>
-  </programme>
-  <programme start="20260821204236 +0100" stop="20260821210000 +0100" channel="Fútbol 2">
+  <programme start="20260821204507 +0100" stop="20260821210000 +0100" channel="Fútbol 2">
     <title>Próximo partido: Córdoba - Girona (Viernes 21/08 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Viernes 21/08 - 21:00)</desc>
   </programme>
