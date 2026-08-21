@@ -3,95 +3,67 @@
   <channel id="Fútbol 1">
     <display-name>Fútbol 1</display-name>
   </channel>
-  <programme start="20260819210000 +0100" stop="20260819230000 +0100" channel="Fútbol 1">
-    <title>Laliga Ea Sports: Atlético - Málaga</title>
-    <desc>Fútbol en directo - Laliga Ea Sports: Atlético - Málaga</desc>
-  </programme>
-  <programme start="20260820084507 +0100" stop="20260820124507 +0100" channel="Fútbol 1">
+  <programme start="20260821084638 +0100" stop="20260821124638 +0100" channel="Fútbol 1">
     <title>Próximo partido: Elche - Barcelona (Domingo 23/08 - 21:30)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Domingo 23/08 - 21:30)</desc>
   </programme>
-  <programme start="20260820124507 +0100" stop="20260820164507 +0100" channel="Fútbol 1">
+  <programme start="20260821124638 +0100" stop="20260821164638 +0100" channel="Fútbol 1">
     <title>Próximo partido: Elche - Barcelona (Domingo 23/08 - 21:30)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Domingo 23/08 - 21:30)</desc>
   </programme>
-  <programme start="20260820164507 +0100" stop="20260820204507 +0100" channel="Fútbol 1">
+  <programme start="20260821164638 +0100" stop="20260821204638 +0100" channel="Fútbol 1">
     <title>Próximo partido: Elche - Barcelona (Domingo 23/08 - 21:30)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Domingo 23/08 - 21:30)</desc>
   </programme>
-  <programme start="20260820204507 +0100" stop="20260821004507 +0100" channel="Fútbol 1">
+  <programme start="20260821204638 +0100" stop="20260822004638 +0100" channel="Fútbol 1">
     <title>Próximo partido: Elche - Barcelona (Domingo 23/08 - 21:30)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Domingo 23/08 - 21:30)</desc>
   </programme>
-  <programme start="20260821004507 +0100" stop="20260821044507 +0100" channel="Fútbol 1">
+  <programme start="20260822004638 +0100" stop="20260822044638 +0100" channel="Fútbol 1">
     <title>Próximo partido: Elche - Barcelona (Domingo 23/08 - 21:30)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Domingo 23/08 - 21:30)</desc>
   </programme>
-  <programme start="20260821044507 +0100" stop="20260821084507 +0100" channel="Fútbol 1">
+  <programme start="20260822044638 +0100" stop="20260822084638 +0100" channel="Fútbol 1">
     <title>Próximo partido: Elche - Barcelona (Domingo 23/08 - 21:30)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Domingo 23/08 - 21:30)</desc>
   </programme>
-  <programme start="20260821084507 +0100" stop="20260821124507 +0100" channel="Fútbol 1">
+  <programme start="20260822084638 +0100" stop="20260822124638 +0100" channel="Fútbol 1">
     <title>Próximo partido: Elche - Barcelona (Domingo 23/08 - 21:30)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Domingo 23/08 - 21:30)</desc>
   </programme>
-  <programme start="20260821124507 +0100" stop="20260821164507 +0100" channel="Fútbol 1">
+  <programme start="20260822124638 +0100" stop="20260822164638 +0100" channel="Fútbol 1">
     <title>Próximo partido: Elche - Barcelona (Domingo 23/08 - 21:30)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Domingo 23/08 - 21:30)</desc>
   </programme>
-  <programme start="20260821164507 +0100" stop="20260821204507 +0100" channel="Fútbol 1">
+  <programme start="20260822164638 +0100" stop="20260822204638 +0100" channel="Fútbol 1">
     <title>Próximo partido: Elche - Barcelona (Domingo 23/08 - 21:30)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Domingo 23/08 - 21:30)</desc>
   </programme>
-  <programme start="20260821204507 +0100" stop="20260822004507 +0100" channel="Fútbol 1">
+  <programme start="20260822204638 +0100" stop="20260823004638 +0100" channel="Fútbol 1">
     <title>Próximo partido: Elche - Barcelona (Domingo 23/08 - 21:30)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Domingo 23/08 - 21:30)</desc>
   </programme>
-  <programme start="20260822004507 +0100" stop="20260822044507 +0100" channel="Fútbol 1">
+  <programme start="20260823004638 +0100" stop="20260823044638 +0100" channel="Fútbol 1">
     <title>Próximo partido: Elche - Barcelona (Domingo 23/08 - 21:30)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Domingo 23/08 - 21:30)</desc>
   </programme>
-  <programme start="20260822044507 +0100" stop="20260822084507 +0100" channel="Fútbol 1">
+  <programme start="20260823044638 +0100" stop="20260823084638 +0100" channel="Fútbol 1">
     <title>Próximo partido: Elche - Barcelona (Domingo 23/08 - 21:30)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Domingo 23/08 - 21:30)</desc>
   </programme>
-  <programme start="20260822084507 +0100" stop="20260822124507 +0100" channel="Fútbol 1">
+  <programme start="20260823084638 +0100" stop="20260823124638 +0100" channel="Fútbol 1">
     <title>Próximo partido: Elche - Barcelona (Domingo 23/08 - 21:30)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Domingo 23/08 - 21:30)</desc>
   </programme>
-  <programme start="20260822124507 +0100" stop="20260822164507 +0100" channel="Fútbol 1">
+  <programme start="20260823124638 +0100" stop="20260823164638 +0100" channel="Fútbol 1">
     <title>Próximo partido: Elche - Barcelona (Domingo 23/08 - 21:30)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Domingo 23/08 - 21:30)</desc>
   </programme>
-  <programme start="20260822164507 +0100" stop="20260822204507 +0100" channel="Fútbol 1">
+  <programme start="20260823164638 +0100" stop="20260823204638 +0100" channel="Fútbol 1">
     <title>Próximo partido: Elche - Barcelona (Domingo 23/08 - 21:30)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Domingo 23/08 - 21:30)</desc>
   </programme>
-  <programme start="20260822204507 +0100" stop="20260823004507 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Elche - Barcelona (Domingo 23/08 - 21:30)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Domingo 23/08 - 21:30)</desc>
-  </programme>
-  <programme start="20260823004507 +0100" stop="20260823044507 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Elche - Barcelona (Domingo 23/08 - 21:30)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Domingo 23/08 - 21:30)</desc>
-  </programme>
-  <programme start="20260823044507 +0100" stop="20260823084507 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Elche - Barcelona (Domingo 23/08 - 21:30)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Domingo 23/08 - 21:30)</desc>
-  </programme>
-  <programme start="20260823084507 +0100" stop="20260823124507 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Elche - Barcelona (Domingo 23/08 - 21:30)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Domingo 23/08 - 21:30)</desc>
-  </programme>
-  <programme start="20260823124507 +0100" stop="20260823164507 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Elche - Barcelona (Domingo 23/08 - 21:30)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Domingo 23/08 - 21:30)</desc>
-  </programme>
-  <programme start="20260823164507 +0100" stop="20260823204507 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Elche - Barcelona (Domingo 23/08 - 21:30)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Domingo 23/08 - 21:30)</desc>
-  </programme>
-  <programme start="20260823204507 +0100" stop="20260823213000 +0100" channel="Fútbol 1">
+  <programme start="20260823204638 +0100" stop="20260823213000 +0100" channel="Fútbol 1">
     <title>Próximo partido: Elche - Barcelona (Domingo 23/08 - 21:30)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Domingo 23/08 - 21:30)</desc>
   </programme>
@@ -270,43 +242,19 @@
   <channel id="Fútbol 2">
     <display-name>Fútbol 2</display-name>
   </channel>
-  <programme start="20260820084507 +0100" stop="20260820124507 +0100" channel="Fútbol 2">
+  <programme start="20260821084638 +0100" stop="20260821124638 +0100" channel="Fútbol 2">
     <title>Próximo partido: Córdoba - Girona (Viernes 21/08 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Viernes 21/08 - 21:00)</desc>
   </programme>
-  <programme start="20260820124507 +0100" stop="20260820164507 +0100" channel="Fútbol 2">
+  <programme start="20260821124638 +0100" stop="20260821164638 +0100" channel="Fútbol 2">
     <title>Próximo partido: Córdoba - Girona (Viernes 21/08 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Viernes 21/08 - 21:00)</desc>
   </programme>
-  <programme start="20260820164507 +0100" stop="20260820204507 +0100" channel="Fútbol 2">
+  <programme start="20260821164638 +0100" stop="20260821204638 +0100" channel="Fútbol 2">
     <title>Próximo partido: Córdoba - Girona (Viernes 21/08 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Viernes 21/08 - 21:00)</desc>
   </programme>
-  <programme start="20260820204507 +0100" stop="20260821004507 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Córdoba - Girona (Viernes 21/08 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Viernes 21/08 - 21:00)</desc>
-  </programme>
-  <programme start="20260821004507 +0100" stop="20260821044507 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Córdoba - Girona (Viernes 21/08 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Viernes 21/08 - 21:00)</desc>
-  </programme>
-  <programme start="20260821044507 +0100" stop="20260821084507 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Córdoba - Girona (Viernes 21/08 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Viernes 21/08 - 21:00)</desc>
-  </programme>
-  <programme start="20260821084507 +0100" stop="20260821124507 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Córdoba - Girona (Viernes 21/08 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Viernes 21/08 - 21:00)</desc>
-  </programme>
-  <programme start="20260821124507 +0100" stop="20260821164507 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Córdoba - Girona (Viernes 21/08 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Viernes 21/08 - 21:00)</desc>
-  </programme>
-  <programme start="20260821164507 +0100" stop="20260821204507 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Córdoba - Girona (Viernes 21/08 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Viernes 21/08 - 21:00)</desc>
-  </programme>
-  <programme start="20260821204507 +0100" stop="20260821210000 +0100" channel="Fútbol 2">
+  <programme start="20260821204638 +0100" stop="20260821210000 +0100" channel="Fútbol 2">
     <title>Próximo partido: Córdoba - Girona (Viernes 21/08 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Viernes 21/08 - 21:00)</desc>
   </programme>
@@ -398,7 +346,407 @@
     <title>Laliga Hypermotion: Granada - Mallorca</title>
     <desc>Fútbol en directo - Laliga Hypermotion: Granada - Mallorca</desc>
   </programme>
+  <programme start="20260824233000 +0100" stop="20260825033000 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Tenerife - Sporting (Viernes 28/08 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 2 | (Viernes 28/08 - 21:00)</desc>
+  </programme>
+  <programme start="20260825033000 +0100" stop="20260825073000 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Tenerife - Sporting (Viernes 28/08 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 2 | (Viernes 28/08 - 21:00)</desc>
+  </programme>
+  <programme start="20260825073000 +0100" stop="20260825113000 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Tenerife - Sporting (Viernes 28/08 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 2 | (Viernes 28/08 - 21:00)</desc>
+  </programme>
+  <programme start="20260825113000 +0100" stop="20260825153000 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Tenerife - Sporting (Viernes 28/08 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 2 | (Viernes 28/08 - 21:00)</desc>
+  </programme>
+  <programme start="20260825153000 +0100" stop="20260825193000 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Tenerife - Sporting (Viernes 28/08 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 2 | (Viernes 28/08 - 21:00)</desc>
+  </programme>
+  <programme start="20260825193000 +0100" stop="20260825233000 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Tenerife - Sporting (Viernes 28/08 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 2 | (Viernes 28/08 - 21:00)</desc>
+  </programme>
+  <programme start="20260825233000 +0100" stop="20260826033000 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Tenerife - Sporting (Viernes 28/08 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 2 | (Viernes 28/08 - 21:00)</desc>
+  </programme>
+  <programme start="20260826033000 +0100" stop="20260826073000 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Tenerife - Sporting (Viernes 28/08 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 2 | (Viernes 28/08 - 21:00)</desc>
+  </programme>
+  <programme start="20260826073000 +0100" stop="20260826113000 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Tenerife - Sporting (Viernes 28/08 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 2 | (Viernes 28/08 - 21:00)</desc>
+  </programme>
+  <programme start="20260826113000 +0100" stop="20260826153000 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Tenerife - Sporting (Viernes 28/08 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 2 | (Viernes 28/08 - 21:00)</desc>
+  </programme>
+  <programme start="20260826153000 +0100" stop="20260826193000 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Tenerife - Sporting (Viernes 28/08 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 2 | (Viernes 28/08 - 21:00)</desc>
+  </programme>
+  <programme start="20260826193000 +0100" stop="20260826233000 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Tenerife - Sporting (Viernes 28/08 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 2 | (Viernes 28/08 - 21:00)</desc>
+  </programme>
+  <programme start="20260826233000 +0100" stop="20260827033000 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Tenerife - Sporting (Viernes 28/08 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 2 | (Viernes 28/08 - 21:00)</desc>
+  </programme>
+  <programme start="20260827033000 +0100" stop="20260827073000 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Tenerife - Sporting (Viernes 28/08 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 2 | (Viernes 28/08 - 21:00)</desc>
+  </programme>
+  <programme start="20260827073000 +0100" stop="20260827113000 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Tenerife - Sporting (Viernes 28/08 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 2 | (Viernes 28/08 - 21:00)</desc>
+  </programme>
+  <programme start="20260827113000 +0100" stop="20260827153000 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Tenerife - Sporting (Viernes 28/08 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 2 | (Viernes 28/08 - 21:00)</desc>
+  </programme>
+  <programme start="20260827153000 +0100" stop="20260827193000 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Tenerife - Sporting (Viernes 28/08 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 2 | (Viernes 28/08 - 21:00)</desc>
+  </programme>
+  <programme start="20260827193000 +0100" stop="20260827233000 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Tenerife - Sporting (Viernes 28/08 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 2 | (Viernes 28/08 - 21:00)</desc>
+  </programme>
+  <programme start="20260827233000 +0100" stop="20260828033000 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Tenerife - Sporting (Viernes 28/08 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 2 | (Viernes 28/08 - 21:00)</desc>
+  </programme>
+  <programme start="20260828033000 +0100" stop="20260828073000 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Tenerife - Sporting (Viernes 28/08 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 2 | (Viernes 28/08 - 21:00)</desc>
+  </programme>
+  <programme start="20260828073000 +0100" stop="20260828113000 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Tenerife - Sporting (Viernes 28/08 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 2 | (Viernes 28/08 - 21:00)</desc>
+  </programme>
+  <programme start="20260828113000 +0100" stop="20260828153000 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Tenerife - Sporting (Viernes 28/08 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 2 | (Viernes 28/08 - 21:00)</desc>
+  </programme>
+  <programme start="20260828153000 +0100" stop="20260828193000 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Tenerife - Sporting (Viernes 28/08 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 2 | (Viernes 28/08 - 21:00)</desc>
+  </programme>
+  <programme start="20260828193000 +0100" stop="20260828210000 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Tenerife - Sporting (Viernes 28/08 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 2 | (Viernes 28/08 - 21:00)</desc>
+  </programme>
+  <programme start="20260828210000 +0100" stop="20260828230000 +0100" channel="Fútbol 2">
+    <title>Laliga Hypermotion: Tenerife - Sporting</title>
+    <desc>Fútbol en directo - Laliga Hypermotion: Tenerife - Sporting</desc>
+  </programme>
+  <programme start="20260828230000 +0100" stop="20260829030000 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Girona - Las Palmas (Sábado 29/08 - 21:30)</title>
+    <desc>Siguiente emisión en Fútbol 2 | (Sábado 29/08 - 21:30)</desc>
+  </programme>
+  <programme start="20260829030000 +0100" stop="20260829070000 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Girona - Las Palmas (Sábado 29/08 - 21:30)</title>
+    <desc>Siguiente emisión en Fútbol 2 | (Sábado 29/08 - 21:30)</desc>
+  </programme>
+  <programme start="20260829070000 +0100" stop="20260829110000 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Girona - Las Palmas (Sábado 29/08 - 21:30)</title>
+    <desc>Siguiente emisión en Fútbol 2 | (Sábado 29/08 - 21:30)</desc>
+  </programme>
+  <programme start="20260829110000 +0100" stop="20260829150000 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Girona - Las Palmas (Sábado 29/08 - 21:30)</title>
+    <desc>Siguiente emisión en Fútbol 2 | (Sábado 29/08 - 21:30)</desc>
+  </programme>
+  <programme start="20260829150000 +0100" stop="20260829190000 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Girona - Las Palmas (Sábado 29/08 - 21:30)</title>
+    <desc>Siguiente emisión en Fútbol 2 | (Sábado 29/08 - 21:30)</desc>
+  </programme>
+  <programme start="20260829190000 +0100" stop="20260829213000 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Girona - Las Palmas (Sábado 29/08 - 21:30)</title>
+    <desc>Siguiente emisión en Fútbol 2 | (Sábado 29/08 - 21:30)</desc>
+  </programme>
+  <programme start="20260829213000 +0100" stop="20260829233000 +0100" channel="Fútbol 2">
+    <title>Laliga Hypermotion: Girona - Las Palmas</title>
+    <desc>Fútbol en directo - Laliga Hypermotion: Girona - Las Palmas</desc>
+  </programme>
+  <programme start="20260829233000 +0100" stop="20260830033000 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Cádiz - Valladolid (Domingo 30/08 - 19:00)</title>
+    <desc>Siguiente emisión en Fútbol 2 | (Domingo 30/08 - 19:00)</desc>
+  </programme>
+  <programme start="20260830033000 +0100" stop="20260830073000 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Cádiz - Valladolid (Domingo 30/08 - 19:00)</title>
+    <desc>Siguiente emisión en Fútbol 2 | (Domingo 30/08 - 19:00)</desc>
+  </programme>
+  <programme start="20260830073000 +0100" stop="20260830113000 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Cádiz - Valladolid (Domingo 30/08 - 19:00)</title>
+    <desc>Siguiente emisión en Fútbol 2 | (Domingo 30/08 - 19:00)</desc>
+  </programme>
+  <programme start="20260830113000 +0100" stop="20260830153000 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Cádiz - Valladolid (Domingo 30/08 - 19:00)</title>
+    <desc>Siguiente emisión en Fútbol 2 | (Domingo 30/08 - 19:00)</desc>
+  </programme>
+  <programme start="20260830153000 +0100" stop="20260830190000 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Cádiz - Valladolid (Domingo 30/08 - 19:00)</title>
+    <desc>Siguiente emisión en Fútbol 2 | (Domingo 30/08 - 19:00)</desc>
+  </programme>
+  <programme start="20260830190000 +0100" stop="20260830210000 +0100" channel="Fútbol 2">
+    <title>Laliga Hypermotion: Cádiz - Valladolid</title>
+    <desc>Fútbol en directo - Laliga Hypermotion: Cádiz - Valladolid</desc>
+  </programme>
+  <programme start="20260830210000 +0100" stop="20260831010000 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Celta B - Castellón (Lunes 31/08 - 21:30)</title>
+    <desc>Siguiente emisión en Fútbol 2 | (Lunes 31/08 - 21:30)</desc>
+  </programme>
+  <programme start="20260831010000 +0100" stop="20260831050000 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Celta B - Castellón (Lunes 31/08 - 21:30)</title>
+    <desc>Siguiente emisión en Fútbol 2 | (Lunes 31/08 - 21:30)</desc>
+  </programme>
+  <programme start="20260831050000 +0100" stop="20260831090000 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Celta B - Castellón (Lunes 31/08 - 21:30)</title>
+    <desc>Siguiente emisión en Fútbol 2 | (Lunes 31/08 - 21:30)</desc>
+  </programme>
+  <programme start="20260831090000 +0100" stop="20260831130000 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Celta B - Castellón (Lunes 31/08 - 21:30)</title>
+    <desc>Siguiente emisión en Fútbol 2 | (Lunes 31/08 - 21:30)</desc>
+  </programme>
+  <programme start="20260831130000 +0100" stop="20260831170000 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Celta B - Castellón (Lunes 31/08 - 21:30)</title>
+    <desc>Siguiente emisión en Fútbol 2 | (Lunes 31/08 - 21:30)</desc>
+  </programme>
+  <programme start="20260831170000 +0100" stop="20260831210000 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Celta B - Castellón (Lunes 31/08 - 21:30)</title>
+    <desc>Siguiente emisión en Fútbol 2 | (Lunes 31/08 - 21:30)</desc>
+  </programme>
+  <programme start="20260831210000 +0100" stop="20260831213000 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Celta B - Castellón (Lunes 31/08 - 21:30)</title>
+    <desc>Siguiente emisión en Fútbol 2 | (Lunes 31/08 - 21:30)</desc>
+  </programme>
+  <programme start="20260831213000 +0100" stop="20260831233000 +0100" channel="Fútbol 2">
+    <title>Laliga Hypermotion: Celta B - Castellón</title>
+    <desc>Fútbol en directo - Laliga Hypermotion: Celta B - Castellón</desc>
+  </programme>
   <channel id="Fútbol 3">
     <display-name>Fútbol 3</display-name>
   </channel>
+  <programme start="20260821084638 +0100" stop="20260821124638 +0100" channel="Fútbol 3">
+    <title>Próximo partido: Udinese - Como (Sábado 22/08 - 18:30)</title>
+    <desc>Siguiente emisión en Fútbol 3 | (Sábado 22/08 - 18:30)</desc>
+  </programme>
+  <programme start="20260821124638 +0100" stop="20260821164638 +0100" channel="Fútbol 3">
+    <title>Próximo partido: Udinese - Como (Sábado 22/08 - 18:30)</title>
+    <desc>Siguiente emisión en Fútbol 3 | (Sábado 22/08 - 18:30)</desc>
+  </programme>
+  <programme start="20260821164638 +0100" stop="20260821204638 +0100" channel="Fútbol 3">
+    <title>Próximo partido: Udinese - Como (Sábado 22/08 - 18:30)</title>
+    <desc>Siguiente emisión en Fútbol 3 | (Sábado 22/08 - 18:30)</desc>
+  </programme>
+  <programme start="20260821204638 +0100" stop="20260822004638 +0100" channel="Fútbol 3">
+    <title>Próximo partido: Udinese - Como (Sábado 22/08 - 18:30)</title>
+    <desc>Siguiente emisión en Fútbol 3 | (Sábado 22/08 - 18:30)</desc>
+  </programme>
+  <programme start="20260822004638 +0100" stop="20260822044638 +0100" channel="Fútbol 3">
+    <title>Próximo partido: Udinese - Como (Sábado 22/08 - 18:30)</title>
+    <desc>Siguiente emisión en Fútbol 3 | (Sábado 22/08 - 18:30)</desc>
+  </programme>
+  <programme start="20260822044638 +0100" stop="20260822084638 +0100" channel="Fútbol 3">
+    <title>Próximo partido: Udinese - Como (Sábado 22/08 - 18:30)</title>
+    <desc>Siguiente emisión en Fútbol 3 | (Sábado 22/08 - 18:30)</desc>
+  </programme>
+  <programme start="20260822084638 +0100" stop="20260822124638 +0100" channel="Fútbol 3">
+    <title>Próximo partido: Udinese - Como (Sábado 22/08 - 18:30)</title>
+    <desc>Siguiente emisión en Fútbol 3 | (Sábado 22/08 - 18:30)</desc>
+  </programme>
+  <programme start="20260822124638 +0100" stop="20260822164638 +0100" channel="Fútbol 3">
+    <title>Próximo partido: Udinese - Como (Sábado 22/08 - 18:30)</title>
+    <desc>Siguiente emisión en Fútbol 3 | (Sábado 22/08 - 18:30)</desc>
+  </programme>
+  <programme start="20260822164638 +0100" stop="20260822183000 +0100" channel="Fútbol 3">
+    <title>Próximo partido: Udinese - Como (Sábado 22/08 - 18:30)</title>
+    <desc>Siguiente emisión en Fútbol 3 | (Sábado 22/08 - 18:30)</desc>
+  </programme>
+  <programme start="20260822183000 +0100" stop="20260822203000 +0100" channel="Fútbol 3">
+    <title>Serie A: Udinese - Como</title>
+    <desc>Fútbol en directo - Serie A: Udinese - Como</desc>
+  </programme>
+  <programme start="20260822203000 +0100" stop="20260823003000 +0100" channel="Fútbol 3">
+    <title>Próximo partido: Juventus - Parma (Sábado 29/08 - 20:45)</title>
+    <desc>Siguiente emisión en Fútbol 3 | (Sábado 29/08 - 20:45)</desc>
+  </programme>
+  <programme start="20260823003000 +0100" stop="20260823043000 +0100" channel="Fútbol 3">
+    <title>Próximo partido: Juventus - Parma (Sábado 29/08 - 20:45)</title>
+    <desc>Siguiente emisión en Fútbol 3 | (Sábado 29/08 - 20:45)</desc>
+  </programme>
+  <programme start="20260823043000 +0100" stop="20260823083000 +0100" channel="Fútbol 3">
+    <title>Próximo partido: Juventus - Parma (Sábado 29/08 - 20:45)</title>
+    <desc>Siguiente emisión en Fútbol 3 | (Sábado 29/08 - 20:45)</desc>
+  </programme>
+  <programme start="20260823083000 +0100" stop="20260823123000 +0100" channel="Fútbol 3">
+    <title>Próximo partido: Juventus - Parma (Sábado 29/08 - 20:45)</title>
+    <desc>Siguiente emisión en Fútbol 3 | (Sábado 29/08 - 20:45)</desc>
+  </programme>
+  <programme start="20260823123000 +0100" stop="20260823163000 +0100" channel="Fútbol 3">
+    <title>Próximo partido: Juventus - Parma (Sábado 29/08 - 20:45)</title>
+    <desc>Siguiente emisión en Fútbol 3 | (Sábado 29/08 - 20:45)</desc>
+  </programme>
+  <programme start="20260823163000 +0100" stop="20260823203000 +0100" channel="Fútbol 3">
+    <title>Próximo partido: Juventus - Parma (Sábado 29/08 - 20:45)</title>
+    <desc>Siguiente emisión en Fútbol 3 | (Sábado 29/08 - 20:45)</desc>
+  </programme>
+  <programme start="20260823203000 +0100" stop="20260824003000 +0100" channel="Fútbol 3">
+    <title>Próximo partido: Juventus - Parma (Sábado 29/08 - 20:45)</title>
+    <desc>Siguiente emisión en Fútbol 3 | (Sábado 29/08 - 20:45)</desc>
+  </programme>
+  <programme start="20260824003000 +0100" stop="20260824043000 +0100" channel="Fútbol 3">
+    <title>Próximo partido: Juventus - Parma (Sábado 29/08 - 20:45)</title>
+    <desc>Siguiente emisión en Fútbol 3 | (Sábado 29/08 - 20:45)</desc>
+  </programme>
+  <programme start="20260824043000 +0100" stop="20260824083000 +0100" channel="Fútbol 3">
+    <title>Próximo partido: Juventus - Parma (Sábado 29/08 - 20:45)</title>
+    <desc>Siguiente emisión en Fútbol 3 | (Sábado 29/08 - 20:45)</desc>
+  </programme>
+  <programme start="20260824083000 +0100" stop="20260824123000 +0100" channel="Fútbol 3">
+    <title>Próximo partido: Juventus - Parma (Sábado 29/08 - 20:45)</title>
+    <desc>Siguiente emisión en Fútbol 3 | (Sábado 29/08 - 20:45)</desc>
+  </programme>
+  <programme start="20260824123000 +0100" stop="20260824163000 +0100" channel="Fútbol 3">
+    <title>Próximo partido: Juventus - Parma (Sábado 29/08 - 20:45)</title>
+    <desc>Siguiente emisión en Fútbol 3 | (Sábado 29/08 - 20:45)</desc>
+  </programme>
+  <programme start="20260824163000 +0100" stop="20260824203000 +0100" channel="Fútbol 3">
+    <title>Próximo partido: Juventus - Parma (Sábado 29/08 - 20:45)</title>
+    <desc>Siguiente emisión en Fútbol 3 | (Sábado 29/08 - 20:45)</desc>
+  </programme>
+  <programme start="20260824203000 +0100" stop="20260825003000 +0100" channel="Fútbol 3">
+    <title>Próximo partido: Juventus - Parma (Sábado 29/08 - 20:45)</title>
+    <desc>Siguiente emisión en Fútbol 3 | (Sábado 29/08 - 20:45)</desc>
+  </programme>
+  <programme start="20260825003000 +0100" stop="20260825043000 +0100" channel="Fútbol 3">
+    <title>Próximo partido: Juventus - Parma (Sábado 29/08 - 20:45)</title>
+    <desc>Siguiente emisión en Fútbol 3 | (Sábado 29/08 - 20:45)</desc>
+  </programme>
+  <programme start="20260825043000 +0100" stop="20260825083000 +0100" channel="Fútbol 3">
+    <title>Próximo partido: Juventus - Parma (Sábado 29/08 - 20:45)</title>
+    <desc>Siguiente emisión en Fútbol 3 | (Sábado 29/08 - 20:45)</desc>
+  </programme>
+  <programme start="20260825083000 +0100" stop="20260825123000 +0100" channel="Fútbol 3">
+    <title>Próximo partido: Juventus - Parma (Sábado 29/08 - 20:45)</title>
+    <desc>Siguiente emisión en Fútbol 3 | (Sábado 29/08 - 20:45)</desc>
+  </programme>
+  <programme start="20260825123000 +0100" stop="20260825163000 +0100" channel="Fútbol 3">
+    <title>Próximo partido: Juventus - Parma (Sábado 29/08 - 20:45)</title>
+    <desc>Siguiente emisión en Fútbol 3 | (Sábado 29/08 - 20:45)</desc>
+  </programme>
+  <programme start="20260825163000 +0100" stop="20260825203000 +0100" channel="Fútbol 3">
+    <title>Próximo partido: Juventus - Parma (Sábado 29/08 - 20:45)</title>
+    <desc>Siguiente emisión en Fútbol 3 | (Sábado 29/08 - 20:45)</desc>
+  </programme>
+  <programme start="20260825203000 +0100" stop="20260826003000 +0100" channel="Fútbol 3">
+    <title>Próximo partido: Juventus - Parma (Sábado 29/08 - 20:45)</title>
+    <desc>Siguiente emisión en Fútbol 3 | (Sábado 29/08 - 20:45)</desc>
+  </programme>
+  <programme start="20260826003000 +0100" stop="20260826043000 +0100" channel="Fútbol 3">
+    <title>Próximo partido: Juventus - Parma (Sábado 29/08 - 20:45)</title>
+    <desc>Siguiente emisión en Fútbol 3 | (Sábado 29/08 - 20:45)</desc>
+  </programme>
+  <programme start="20260826043000 +0100" stop="20260826083000 +0100" channel="Fútbol 3">
+    <title>Próximo partido: Juventus - Parma (Sábado 29/08 - 20:45)</title>
+    <desc>Siguiente emisión en Fútbol 3 | (Sábado 29/08 - 20:45)</desc>
+  </programme>
+  <programme start="20260826083000 +0100" stop="20260826123000 +0100" channel="Fútbol 3">
+    <title>Próximo partido: Juventus - Parma (Sábado 29/08 - 20:45)</title>
+    <desc>Siguiente emisión en Fútbol 3 | (Sábado 29/08 - 20:45)</desc>
+  </programme>
+  <programme start="20260826123000 +0100" stop="20260826163000 +0100" channel="Fútbol 3">
+    <title>Próximo partido: Juventus - Parma (Sábado 29/08 - 20:45)</title>
+    <desc>Siguiente emisión en Fútbol 3 | (Sábado 29/08 - 20:45)</desc>
+  </programme>
+  <programme start="20260826163000 +0100" stop="20260826203000 +0100" channel="Fútbol 3">
+    <title>Próximo partido: Juventus - Parma (Sábado 29/08 - 20:45)</title>
+    <desc>Siguiente emisión en Fútbol 3 | (Sábado 29/08 - 20:45)</desc>
+  </programme>
+  <programme start="20260826203000 +0100" stop="20260827003000 +0100" channel="Fútbol 3">
+    <title>Próximo partido: Juventus - Parma (Sábado 29/08 - 20:45)</title>
+    <desc>Siguiente emisión en Fútbol 3 | (Sábado 29/08 - 20:45)</desc>
+  </programme>
+  <programme start="20260827003000 +0100" stop="20260827043000 +0100" channel="Fútbol 3">
+    <title>Próximo partido: Juventus - Parma (Sábado 29/08 - 20:45)</title>
+    <desc>Siguiente emisión en Fútbol 3 | (Sábado 29/08 - 20:45)</desc>
+  </programme>
+  <programme start="20260827043000 +0100" stop="20260827083000 +0100" channel="Fútbol 3">
+    <title>Próximo partido: Juventus - Parma (Sábado 29/08 - 20:45)</title>
+    <desc>Siguiente emisión en Fútbol 3 | (Sábado 29/08 - 20:45)</desc>
+  </programme>
+  <programme start="20260827083000 +0100" stop="20260827123000 +0100" channel="Fútbol 3">
+    <title>Próximo partido: Juventus - Parma (Sábado 29/08 - 20:45)</title>
+    <desc>Siguiente emisión en Fútbol 3 | (Sábado 29/08 - 20:45)</desc>
+  </programme>
+  <programme start="20260827123000 +0100" stop="20260827163000 +0100" channel="Fútbol 3">
+    <title>Próximo partido: Juventus - Parma (Sábado 29/08 - 20:45)</title>
+    <desc>Siguiente emisión en Fútbol 3 | (Sábado 29/08 - 20:45)</desc>
+  </programme>
+  <programme start="20260827163000 +0100" stop="20260827203000 +0100" channel="Fútbol 3">
+    <title>Próximo partido: Juventus - Parma (Sábado 29/08 - 20:45)</title>
+    <desc>Siguiente emisión en Fútbol 3 | (Sábado 29/08 - 20:45)</desc>
+  </programme>
+  <programme start="20260827203000 +0100" stop="20260828003000 +0100" channel="Fútbol 3">
+    <title>Próximo partido: Juventus - Parma (Sábado 29/08 - 20:45)</title>
+    <desc>Siguiente emisión en Fútbol 3 | (Sábado 29/08 - 20:45)</desc>
+  </programme>
+  <programme start="20260828003000 +0100" stop="20260828043000 +0100" channel="Fútbol 3">
+    <title>Próximo partido: Juventus - Parma (Sábado 29/08 - 20:45)</title>
+    <desc>Siguiente emisión en Fútbol 3 | (Sábado 29/08 - 20:45)</desc>
+  </programme>
+  <programme start="20260828043000 +0100" stop="20260828083000 +0100" channel="Fútbol 3">
+    <title>Próximo partido: Juventus - Parma (Sábado 29/08 - 20:45)</title>
+    <desc>Siguiente emisión en Fútbol 3 | (Sábado 29/08 - 20:45)</desc>
+  </programme>
+  <programme start="20260828083000 +0100" stop="20260828123000 +0100" channel="Fútbol 3">
+    <title>Próximo partido: Juventus - Parma (Sábado 29/08 - 20:45)</title>
+    <desc>Siguiente emisión en Fútbol 3 | (Sábado 29/08 - 20:45)</desc>
+  </programme>
+  <programme start="20260828123000 +0100" stop="20260828163000 +0100" channel="Fútbol 3">
+    <title>Próximo partido: Juventus - Parma (Sábado 29/08 - 20:45)</title>
+    <desc>Siguiente emisión en Fútbol 3 | (Sábado 29/08 - 20:45)</desc>
+  </programme>
+  <programme start="20260828163000 +0100" stop="20260828203000 +0100" channel="Fútbol 3">
+    <title>Próximo partido: Juventus - Parma (Sábado 29/08 - 20:45)</title>
+    <desc>Siguiente emisión en Fútbol 3 | (Sábado 29/08 - 20:45)</desc>
+  </programme>
+  <programme start="20260828203000 +0100" stop="20260829003000 +0100" channel="Fútbol 3">
+    <title>Próximo partido: Juventus - Parma (Sábado 29/08 - 20:45)</title>
+    <desc>Siguiente emisión en Fútbol 3 | (Sábado 29/08 - 20:45)</desc>
+  </programme>
+  <programme start="20260829003000 +0100" stop="20260829043000 +0100" channel="Fútbol 3">
+    <title>Próximo partido: Juventus - Parma (Sábado 29/08 - 20:45)</title>
+    <desc>Siguiente emisión en Fútbol 3 | (Sábado 29/08 - 20:45)</desc>
+  </programme>
+  <programme start="20260829043000 +0100" stop="20260829083000 +0100" channel="Fútbol 3">
+    <title>Próximo partido: Juventus - Parma (Sábado 29/08 - 20:45)</title>
+    <desc>Siguiente emisión en Fútbol 3 | (Sábado 29/08 - 20:45)</desc>
+  </programme>
+  <programme start="20260829083000 +0100" stop="20260829123000 +0100" channel="Fútbol 3">
+    <title>Próximo partido: Juventus - Parma (Sábado 29/08 - 20:45)</title>
+    <desc>Siguiente emisión en Fútbol 3 | (Sábado 29/08 - 20:45)</desc>
+  </programme>
+  <programme start="20260829123000 +0100" stop="20260829163000 +0100" channel="Fútbol 3">
+    <title>Próximo partido: Juventus - Parma (Sábado 29/08 - 20:45)</title>
+    <desc>Siguiente emisión en Fútbol 3 | (Sábado 29/08 - 20:45)</desc>
+  </programme>
+  <programme start="20260829163000 +0100" stop="20260829203000 +0100" channel="Fútbol 3">
+    <title>Próximo partido: Juventus - Parma (Sábado 29/08 - 20:45)</title>
+    <desc>Siguiente emisión en Fútbol 3 | (Sábado 29/08 - 20:45)</desc>
+  </programme>
+  <programme start="20260829203000 +0100" stop="20260829204500 +0100" channel="Fútbol 3">
+    <title>Próximo partido: Juventus - Parma (Sábado 29/08 - 20:45)</title>
+    <desc>Siguiente emisión en Fútbol 3 | (Sábado 29/08 - 20:45)</desc>
+  </programme>
+  <programme start="20260829204500 +0100" stop="20260829224500 +0100" channel="Fútbol 3">
+    <title>Serie A: Juventus - Parma</title>
+    <desc>Fútbol en directo - Serie A: Juventus - Parma</desc>
+  </programme>
 </tv>
