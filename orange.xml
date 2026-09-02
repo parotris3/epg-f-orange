@@ -3,87 +3,59 @@
   <channel id="Fútbol 1">
     <display-name>Fútbol 1</display-name>
   </channel>
-  <programme start="20260831213000 +0100" stop="20260831233000 +0100" channel="Fútbol 1">
-    <title>Laliga Hypermotion: Celta B - Castellón</title>
-    <desc>Fútbol en directo - Laliga Hypermotion: Celta B - Castellón</desc>
-  </programme>
-  <programme start="20260901131304 +0100" stop="20260901171304 +0100" channel="Fútbol 1">
+  <programme start="20260902124645 +0100" stop="20260902164645 +0100" channel="Fútbol 1">
     <title>Próximo partido: Las Palmas - Leganés (Viernes 04/09 - 20:30)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Viernes 04/09 - 20:30)</desc>
   </programme>
-  <programme start="20260901171304 +0100" stop="20260901211304 +0100" channel="Fútbol 1">
+  <programme start="20260902164645 +0100" stop="20260902204645 +0100" channel="Fútbol 1">
     <title>Próximo partido: Las Palmas - Leganés (Viernes 04/09 - 20:30)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Viernes 04/09 - 20:30)</desc>
   </programme>
-  <programme start="20260901211304 +0100" stop="20260902011304 +0100" channel="Fútbol 1">
+  <programme start="20260902204645 +0100" stop="20260903004645 +0100" channel="Fútbol 1">
     <title>Próximo partido: Las Palmas - Leganés (Viernes 04/09 - 20:30)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Viernes 04/09 - 20:30)</desc>
   </programme>
-  <programme start="20260902011304 +0100" stop="20260902051304 +0100" channel="Fútbol 1">
+  <programme start="20260903004645 +0100" stop="20260903044645 +0100" channel="Fútbol 1">
     <title>Próximo partido: Las Palmas - Leganés (Viernes 04/09 - 20:30)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Viernes 04/09 - 20:30)</desc>
   </programme>
-  <programme start="20260902051304 +0100" stop="20260902091304 +0100" channel="Fútbol 1">
+  <programme start="20260903044645 +0100" stop="20260903084645 +0100" channel="Fútbol 1">
     <title>Próximo partido: Las Palmas - Leganés (Viernes 04/09 - 20:30)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Viernes 04/09 - 20:30)</desc>
   </programme>
-  <programme start="20260902091304 +0100" stop="20260902131304 +0100" channel="Fútbol 1">
+  <programme start="20260903084645 +0100" stop="20260903124645 +0100" channel="Fútbol 1">
     <title>Próximo partido: Las Palmas - Leganés (Viernes 04/09 - 20:30)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Viernes 04/09 - 20:30)</desc>
   </programme>
-  <programme start="20260902131304 +0100" stop="20260902171304 +0100" channel="Fútbol 1">
+  <programme start="20260903124645 +0100" stop="20260903164645 +0100" channel="Fútbol 1">
     <title>Próximo partido: Las Palmas - Leganés (Viernes 04/09 - 20:30)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Viernes 04/09 - 20:30)</desc>
   </programme>
-  <programme start="20260902171304 +0100" stop="20260902211304 +0100" channel="Fútbol 1">
+  <programme start="20260903164645 +0100" stop="20260903204645 +0100" channel="Fútbol 1">
     <title>Próximo partido: Las Palmas - Leganés (Viernes 04/09 - 20:30)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Viernes 04/09 - 20:30)</desc>
   </programme>
-  <programme start="20260902211304 +0100" stop="20260903011304 +0100" channel="Fútbol 1">
+  <programme start="20260903204645 +0100" stop="20260904004645 +0100" channel="Fútbol 1">
     <title>Próximo partido: Las Palmas - Leganés (Viernes 04/09 - 20:30)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Viernes 04/09 - 20:30)</desc>
   </programme>
-  <programme start="20260903011304 +0100" stop="20260903051304 +0100" channel="Fútbol 1">
+  <programme start="20260904004645 +0100" stop="20260904044645 +0100" channel="Fútbol 1">
     <title>Próximo partido: Las Palmas - Leganés (Viernes 04/09 - 20:30)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Viernes 04/09 - 20:30)</desc>
   </programme>
-  <programme start="20260903051304 +0100" stop="20260903091304 +0100" channel="Fútbol 1">
+  <programme start="20260904044645 +0100" stop="20260904084645 +0100" channel="Fútbol 1">
     <title>Próximo partido: Las Palmas - Leganés (Viernes 04/09 - 20:30)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Viernes 04/09 - 20:30)</desc>
   </programme>
-  <programme start="20260903091304 +0100" stop="20260903131304 +0100" channel="Fútbol 1">
+  <programme start="20260904084645 +0100" stop="20260904124645 +0100" channel="Fútbol 1">
     <title>Próximo partido: Las Palmas - Leganés (Viernes 04/09 - 20:30)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Viernes 04/09 - 20:30)</desc>
   </programme>
-  <programme start="20260903131304 +0100" stop="20260903171304 +0100" channel="Fútbol 1">
+  <programme start="20260904124645 +0100" stop="20260904164645 +0100" channel="Fútbol 1">
     <title>Próximo partido: Las Palmas - Leganés (Viernes 04/09 - 20:30)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Viernes 04/09 - 20:30)</desc>
   </programme>
-  <programme start="20260903171304 +0100" stop="20260903211304 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Las Palmas - Leganés (Viernes 04/09 - 20:30)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Viernes 04/09 - 20:30)</desc>
-  </programme>
-  <programme start="20260903211304 +0100" stop="20260904011304 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Las Palmas - Leganés (Viernes 04/09 - 20:30)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Viernes 04/09 - 20:30)</desc>
-  </programme>
-  <programme start="20260904011304 +0100" stop="20260904051304 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Las Palmas - Leganés (Viernes 04/09 - 20:30)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Viernes 04/09 - 20:30)</desc>
-  </programme>
-  <programme start="20260904051304 +0100" stop="20260904091304 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Las Palmas - Leganés (Viernes 04/09 - 20:30)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Viernes 04/09 - 20:30)</desc>
-  </programme>
-  <programme start="20260904091304 +0100" stop="20260904131304 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Las Palmas - Leganés (Viernes 04/09 - 20:30)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Viernes 04/09 - 20:30)</desc>
-  </programme>
-  <programme start="20260904131304 +0100" stop="20260904171304 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Las Palmas - Leganés (Viernes 04/09 - 20:30)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Viernes 04/09 - 20:30)</desc>
-  </programme>
-  <programme start="20260904171304 +0100" stop="20260904203000 +0100" channel="Fútbol 1">
+  <programme start="20260904164645 +0100" stop="20260904203000 +0100" channel="Fútbol 1">
     <title>Próximo partido: Las Palmas - Leganés (Viernes 04/09 - 20:30)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Viernes 04/09 - 20:30)</desc>
   </programme>
@@ -118,111 +90,79 @@
   <channel id="Fútbol 2">
     <display-name>Fútbol 2</display-name>
   </channel>
-  <programme start="20260831190000 +0100" stop="20260831210000 +0100" channel="Fútbol 2">
-    <title>Primera Federación: Ud Logroñés - Cd Extremadura</title>
-    <desc>Fútbol en directo - Primera Federación: Ud Logroñés - Cd Extremadura</desc>
-  </programme>
-  <programme start="20260831211500 +0100" stop="20260831231500 +0100" channel="Fútbol 2">
-    <title>Primera Federación: Cd Teruel - Real Madrid Castilla</title>
-    <desc>Fútbol en directo - Primera Federación: Cd Teruel - Real Madrid Castilla</desc>
-  </programme>
-  <programme start="20260901131304 +0100" stop="20260901171304 +0100" channel="Fútbol 2">
+  <programme start="20260902124645 +0100" stop="20260902164645 +0100" channel="Fútbol 2">
     <title>Próximo partido: Sporting - Girona (Sábado 05/09 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 05/09 - 16:15)</desc>
   </programme>
-  <programme start="20260901171304 +0100" stop="20260901211304 +0100" channel="Fútbol 2">
+  <programme start="20260902164645 +0100" stop="20260902204645 +0100" channel="Fútbol 2">
     <title>Próximo partido: Sporting - Girona (Sábado 05/09 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 05/09 - 16:15)</desc>
   </programme>
-  <programme start="20260901211304 +0100" stop="20260902011304 +0100" channel="Fútbol 2">
+  <programme start="20260902204645 +0100" stop="20260903004645 +0100" channel="Fútbol 2">
     <title>Próximo partido: Sporting - Girona (Sábado 05/09 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 05/09 - 16:15)</desc>
   </programme>
-  <programme start="20260902011304 +0100" stop="20260902051304 +0100" channel="Fútbol 2">
+  <programme start="20260903004645 +0100" stop="20260903044645 +0100" channel="Fútbol 2">
     <title>Próximo partido: Sporting - Girona (Sábado 05/09 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 05/09 - 16:15)</desc>
   </programme>
-  <programme start="20260902051304 +0100" stop="20260902091304 +0100" channel="Fútbol 2">
+  <programme start="20260903044645 +0100" stop="20260903084645 +0100" channel="Fútbol 2">
     <title>Próximo partido: Sporting - Girona (Sábado 05/09 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 05/09 - 16:15)</desc>
   </programme>
-  <programme start="20260902091304 +0100" stop="20260902131304 +0100" channel="Fútbol 2">
+  <programme start="20260903084645 +0100" stop="20260903124645 +0100" channel="Fútbol 2">
     <title>Próximo partido: Sporting - Girona (Sábado 05/09 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 05/09 - 16:15)</desc>
   </programme>
-  <programme start="20260902131304 +0100" stop="20260902171304 +0100" channel="Fútbol 2">
+  <programme start="20260903124645 +0100" stop="20260903164645 +0100" channel="Fútbol 2">
     <title>Próximo partido: Sporting - Girona (Sábado 05/09 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 05/09 - 16:15)</desc>
   </programme>
-  <programme start="20260902171304 +0100" stop="20260902211304 +0100" channel="Fútbol 2">
+  <programme start="20260903164645 +0100" stop="20260903204645 +0100" channel="Fútbol 2">
     <title>Próximo partido: Sporting - Girona (Sábado 05/09 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 05/09 - 16:15)</desc>
   </programme>
-  <programme start="20260902211304 +0100" stop="20260903011304 +0100" channel="Fútbol 2">
+  <programme start="20260903204645 +0100" stop="20260904004645 +0100" channel="Fútbol 2">
     <title>Próximo partido: Sporting - Girona (Sábado 05/09 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 05/09 - 16:15)</desc>
   </programme>
-  <programme start="20260903011304 +0100" stop="20260903051304 +0100" channel="Fútbol 2">
+  <programme start="20260904004645 +0100" stop="20260904044645 +0100" channel="Fútbol 2">
     <title>Próximo partido: Sporting - Girona (Sábado 05/09 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 05/09 - 16:15)</desc>
   </programme>
-  <programme start="20260903051304 +0100" stop="20260903091304 +0100" channel="Fútbol 2">
+  <programme start="20260904044645 +0100" stop="20260904084645 +0100" channel="Fútbol 2">
     <title>Próximo partido: Sporting - Girona (Sábado 05/09 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 05/09 - 16:15)</desc>
   </programme>
-  <programme start="20260903091304 +0100" stop="20260903131304 +0100" channel="Fútbol 2">
+  <programme start="20260904084645 +0100" stop="20260904124645 +0100" channel="Fútbol 2">
     <title>Próximo partido: Sporting - Girona (Sábado 05/09 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 05/09 - 16:15)</desc>
   </programme>
-  <programme start="20260903131304 +0100" stop="20260903171304 +0100" channel="Fútbol 2">
+  <programme start="20260904124645 +0100" stop="20260904164645 +0100" channel="Fútbol 2">
     <title>Próximo partido: Sporting - Girona (Sábado 05/09 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 05/09 - 16:15)</desc>
   </programme>
-  <programme start="20260903171304 +0100" stop="20260903211304 +0100" channel="Fútbol 2">
+  <programme start="20260904164645 +0100" stop="20260904204645 +0100" channel="Fútbol 2">
     <title>Próximo partido: Sporting - Girona (Sábado 05/09 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 05/09 - 16:15)</desc>
   </programme>
-  <programme start="20260903211304 +0100" stop="20260904011304 +0100" channel="Fútbol 2">
+  <programme start="20260904204645 +0100" stop="20260905004645 +0100" channel="Fútbol 2">
     <title>Próximo partido: Sporting - Girona (Sábado 05/09 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 05/09 - 16:15)</desc>
   </programme>
-  <programme start="20260904011304 +0100" stop="20260904051304 +0100" channel="Fútbol 2">
+  <programme start="20260905004645 +0100" stop="20260905044645 +0100" channel="Fútbol 2">
     <title>Próximo partido: Sporting - Girona (Sábado 05/09 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 05/09 - 16:15)</desc>
   </programme>
-  <programme start="20260904051304 +0100" stop="20260904091304 +0100" channel="Fútbol 2">
+  <programme start="20260905044645 +0100" stop="20260905084645 +0100" channel="Fútbol 2">
     <title>Próximo partido: Sporting - Girona (Sábado 05/09 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 05/09 - 16:15)</desc>
   </programme>
-  <programme start="20260904091304 +0100" stop="20260904131304 +0100" channel="Fútbol 2">
+  <programme start="20260905084645 +0100" stop="20260905124645 +0100" channel="Fútbol 2">
     <title>Próximo partido: Sporting - Girona (Sábado 05/09 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 05/09 - 16:15)</desc>
   </programme>
-  <programme start="20260904131304 +0100" stop="20260904171304 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Sporting - Girona (Sábado 05/09 - 16:15)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Sábado 05/09 - 16:15)</desc>
-  </programme>
-  <programme start="20260904171304 +0100" stop="20260904211304 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Sporting - Girona (Sábado 05/09 - 16:15)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Sábado 05/09 - 16:15)</desc>
-  </programme>
-  <programme start="20260904211304 +0100" stop="20260905011304 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Sporting - Girona (Sábado 05/09 - 16:15)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Sábado 05/09 - 16:15)</desc>
-  </programme>
-  <programme start="20260905011304 +0100" stop="20260905051304 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Sporting - Girona (Sábado 05/09 - 16:15)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Sábado 05/09 - 16:15)</desc>
-  </programme>
-  <programme start="20260905051304 +0100" stop="20260905091304 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Sporting - Girona (Sábado 05/09 - 16:15)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Sábado 05/09 - 16:15)</desc>
-  </programme>
-  <programme start="20260905091304 +0100" stop="20260905131304 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Sporting - Girona (Sábado 05/09 - 16:15)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Sábado 05/09 - 16:15)</desc>
-  </programme>
-  <programme start="20260905131304 +0100" stop="20260905161500 +0100" channel="Fútbol 2">
+  <programme start="20260905124645 +0100" stop="20260905161500 +0100" channel="Fútbol 2">
     <title>Próximo partido: Sporting - Girona (Sábado 05/09 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 05/09 - 16:15)</desc>
   </programme>
@@ -269,107 +209,83 @@
   <channel id="Fútbol 3">
     <display-name>Fútbol 3</display-name>
   </channel>
-  <programme start="20260901131304 +0100" stop="20260901171304 +0100" channel="Fútbol 3">
+  <programme start="20260902124645 +0100" stop="20260902164645 +0100" channel="Fútbol 3">
     <title>Próximo partido: Roma - Atalanta (Sábado 05/09 - 20:45)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 05/09 - 20:45)</desc>
   </programme>
-  <programme start="20260901171304 +0100" stop="20260901211304 +0100" channel="Fútbol 3">
+  <programme start="20260902164645 +0100" stop="20260902204645 +0100" channel="Fútbol 3">
     <title>Próximo partido: Roma - Atalanta (Sábado 05/09 - 20:45)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 05/09 - 20:45)</desc>
   </programme>
-  <programme start="20260901211304 +0100" stop="20260902011304 +0100" channel="Fútbol 3">
+  <programme start="20260902204645 +0100" stop="20260903004645 +0100" channel="Fútbol 3">
     <title>Próximo partido: Roma - Atalanta (Sábado 05/09 - 20:45)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 05/09 - 20:45)</desc>
   </programme>
-  <programme start="20260902011304 +0100" stop="20260902051304 +0100" channel="Fútbol 3">
+  <programme start="20260903004645 +0100" stop="20260903044645 +0100" channel="Fútbol 3">
     <title>Próximo partido: Roma - Atalanta (Sábado 05/09 - 20:45)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 05/09 - 20:45)</desc>
   </programme>
-  <programme start="20260902051304 +0100" stop="20260902091304 +0100" channel="Fútbol 3">
+  <programme start="20260903044645 +0100" stop="20260903084645 +0100" channel="Fútbol 3">
     <title>Próximo partido: Roma - Atalanta (Sábado 05/09 - 20:45)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 05/09 - 20:45)</desc>
   </programme>
-  <programme start="20260902091304 +0100" stop="20260902131304 +0100" channel="Fútbol 3">
+  <programme start="20260903084645 +0100" stop="20260903124645 +0100" channel="Fútbol 3">
     <title>Próximo partido: Roma - Atalanta (Sábado 05/09 - 20:45)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 05/09 - 20:45)</desc>
   </programme>
-  <programme start="20260902131304 +0100" stop="20260902171304 +0100" channel="Fútbol 3">
+  <programme start="20260903124645 +0100" stop="20260903164645 +0100" channel="Fútbol 3">
     <title>Próximo partido: Roma - Atalanta (Sábado 05/09 - 20:45)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 05/09 - 20:45)</desc>
   </programme>
-  <programme start="20260902171304 +0100" stop="20260902211304 +0100" channel="Fútbol 3">
+  <programme start="20260903164645 +0100" stop="20260903204645 +0100" channel="Fútbol 3">
     <title>Próximo partido: Roma - Atalanta (Sábado 05/09 - 20:45)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 05/09 - 20:45)</desc>
   </programme>
-  <programme start="20260902211304 +0100" stop="20260903011304 +0100" channel="Fútbol 3">
+  <programme start="20260903204645 +0100" stop="20260904004645 +0100" channel="Fútbol 3">
     <title>Próximo partido: Roma - Atalanta (Sábado 05/09 - 20:45)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 05/09 - 20:45)</desc>
   </programme>
-  <programme start="20260903011304 +0100" stop="20260903051304 +0100" channel="Fútbol 3">
+  <programme start="20260904004645 +0100" stop="20260904044645 +0100" channel="Fútbol 3">
     <title>Próximo partido: Roma - Atalanta (Sábado 05/09 - 20:45)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 05/09 - 20:45)</desc>
   </programme>
-  <programme start="20260903051304 +0100" stop="20260903091304 +0100" channel="Fútbol 3">
+  <programme start="20260904044645 +0100" stop="20260904084645 +0100" channel="Fútbol 3">
     <title>Próximo partido: Roma - Atalanta (Sábado 05/09 - 20:45)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 05/09 - 20:45)</desc>
   </programme>
-  <programme start="20260903091304 +0100" stop="20260903131304 +0100" channel="Fútbol 3">
+  <programme start="20260904084645 +0100" stop="20260904124645 +0100" channel="Fútbol 3">
     <title>Próximo partido: Roma - Atalanta (Sábado 05/09 - 20:45)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 05/09 - 20:45)</desc>
   </programme>
-  <programme start="20260903131304 +0100" stop="20260903171304 +0100" channel="Fútbol 3">
+  <programme start="20260904124645 +0100" stop="20260904164645 +0100" channel="Fútbol 3">
     <title>Próximo partido: Roma - Atalanta (Sábado 05/09 - 20:45)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 05/09 - 20:45)</desc>
   </programme>
-  <programme start="20260903171304 +0100" stop="20260903211304 +0100" channel="Fútbol 3">
+  <programme start="20260904164645 +0100" stop="20260904204645 +0100" channel="Fútbol 3">
     <title>Próximo partido: Roma - Atalanta (Sábado 05/09 - 20:45)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 05/09 - 20:45)</desc>
   </programme>
-  <programme start="20260903211304 +0100" stop="20260904011304 +0100" channel="Fútbol 3">
+  <programme start="20260904204645 +0100" stop="20260905004645 +0100" channel="Fútbol 3">
     <title>Próximo partido: Roma - Atalanta (Sábado 05/09 - 20:45)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 05/09 - 20:45)</desc>
   </programme>
-  <programme start="20260904011304 +0100" stop="20260904051304 +0100" channel="Fútbol 3">
+  <programme start="20260905004645 +0100" stop="20260905044645 +0100" channel="Fútbol 3">
     <title>Próximo partido: Roma - Atalanta (Sábado 05/09 - 20:45)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 05/09 - 20:45)</desc>
   </programme>
-  <programme start="20260904051304 +0100" stop="20260904091304 +0100" channel="Fútbol 3">
+  <programme start="20260905044645 +0100" stop="20260905084645 +0100" channel="Fútbol 3">
     <title>Próximo partido: Roma - Atalanta (Sábado 05/09 - 20:45)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 05/09 - 20:45)</desc>
   </programme>
-  <programme start="20260904091304 +0100" stop="20260904131304 +0100" channel="Fútbol 3">
+  <programme start="20260905084645 +0100" stop="20260905124645 +0100" channel="Fútbol 3">
     <title>Próximo partido: Roma - Atalanta (Sábado 05/09 - 20:45)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 05/09 - 20:45)</desc>
   </programme>
-  <programme start="20260904131304 +0100" stop="20260904171304 +0100" channel="Fútbol 3">
+  <programme start="20260905124645 +0100" stop="20260905164645 +0100" channel="Fútbol 3">
     <title>Próximo partido: Roma - Atalanta (Sábado 05/09 - 20:45)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 05/09 - 20:45)</desc>
   </programme>
-  <programme start="20260904171304 +0100" stop="20260904211304 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Roma - Atalanta (Sábado 05/09 - 20:45)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Sábado 05/09 - 20:45)</desc>
-  </programme>
-  <programme start="20260904211304 +0100" stop="20260905011304 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Roma - Atalanta (Sábado 05/09 - 20:45)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Sábado 05/09 - 20:45)</desc>
-  </programme>
-  <programme start="20260905011304 +0100" stop="20260905051304 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Roma - Atalanta (Sábado 05/09 - 20:45)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Sábado 05/09 - 20:45)</desc>
-  </programme>
-  <programme start="20260905051304 +0100" stop="20260905091304 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Roma - Atalanta (Sábado 05/09 - 20:45)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Sábado 05/09 - 20:45)</desc>
-  </programme>
-  <programme start="20260905091304 +0100" stop="20260905131304 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Roma - Atalanta (Sábado 05/09 - 20:45)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Sábado 05/09 - 20:45)</desc>
-  </programme>
-  <programme start="20260905131304 +0100" stop="20260905171304 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Roma - Atalanta (Sábado 05/09 - 20:45)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Sábado 05/09 - 20:45)</desc>
-  </programme>
-  <programme start="20260905171304 +0100" stop="20260905204500 +0100" channel="Fútbol 3">
+  <programme start="20260905164645 +0100" stop="20260905204500 +0100" channel="Fútbol 3">
     <title>Próximo partido: Roma - Atalanta (Sábado 05/09 - 20:45)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 05/09 - 20:45)</desc>
   </programme>
