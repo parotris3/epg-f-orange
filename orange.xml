@@ -3,67 +3,35 @@
   <channel id="Fútbol 1">
     <display-name>Fútbol 1</display-name>
   </channel>
-  <programme start="20260905161500 +0100" stop="20260905181500 +0100" channel="Fútbol 1">
-    <title>Laliga Ea Sports: Athletic Club - Atlético</title>
-    <desc>Fútbol en directo - Laliga Ea Sports: Athletic Club - Atlético</desc>
-  </programme>
-  <programme start="20260906122338 +0100" stop="20260906162338 +0100" channel="Fútbol 1">
+  <programme start="20260907134450 +0100" stop="20260907174450 +0100" channel="Fútbol 1">
     <title>Próximo partido: Real Madrid - Inter (Martes 08/09 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Martes 08/09 - 21:00)</desc>
   </programme>
-  <programme start="20260906162338 +0100" stop="20260906202338 +0100" channel="Fútbol 1">
+  <programme start="20260907174450 +0100" stop="20260907214450 +0100" channel="Fútbol 1">
     <title>Próximo partido: Real Madrid - Inter (Martes 08/09 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Martes 08/09 - 21:00)</desc>
   </programme>
-  <programme start="20260906202338 +0100" stop="20260907002338 +0100" channel="Fútbol 1">
+  <programme start="20260907214450 +0100" stop="20260908014450 +0100" channel="Fútbol 1">
     <title>Próximo partido: Real Madrid - Inter (Martes 08/09 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Martes 08/09 - 21:00)</desc>
   </programme>
-  <programme start="20260907002338 +0100" stop="20260907042338 +0100" channel="Fútbol 1">
+  <programme start="20260908014450 +0100" stop="20260908054450 +0100" channel="Fútbol 1">
     <title>Próximo partido: Real Madrid - Inter (Martes 08/09 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Martes 08/09 - 21:00)</desc>
   </programme>
-  <programme start="20260907042338 +0100" stop="20260907082338 +0100" channel="Fútbol 1">
+  <programme start="20260908054450 +0100" stop="20260908094450 +0100" channel="Fútbol 1">
     <title>Próximo partido: Real Madrid - Inter (Martes 08/09 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Martes 08/09 - 21:00)</desc>
   </programme>
-  <programme start="20260907082338 +0100" stop="20260907122338 +0100" channel="Fútbol 1">
+  <programme start="20260908094450 +0100" stop="20260908134450 +0100" channel="Fútbol 1">
     <title>Próximo partido: Real Madrid - Inter (Martes 08/09 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Martes 08/09 - 21:00)</desc>
   </programme>
-  <programme start="20260907122338 +0100" stop="20260907162338 +0100" channel="Fútbol 1">
+  <programme start="20260908134450 +0100" stop="20260908174450 +0100" channel="Fútbol 1">
     <title>Próximo partido: Real Madrid - Inter (Martes 08/09 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Martes 08/09 - 21:00)</desc>
   </programme>
-  <programme start="20260907162338 +0100" stop="20260907202338 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Real Madrid - Inter (Martes 08/09 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Martes 08/09 - 21:00)</desc>
-  </programme>
-  <programme start="20260907202338 +0100" stop="20260908002338 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Real Madrid - Inter (Martes 08/09 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Martes 08/09 - 21:00)</desc>
-  </programme>
-  <programme start="20260908002338 +0100" stop="20260908042338 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Real Madrid - Inter (Martes 08/09 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Martes 08/09 - 21:00)</desc>
-  </programme>
-  <programme start="20260908042338 +0100" stop="20260908082338 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Real Madrid - Inter (Martes 08/09 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Martes 08/09 - 21:00)</desc>
-  </programme>
-  <programme start="20260908082338 +0100" stop="20260908122338 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Real Madrid - Inter (Martes 08/09 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Martes 08/09 - 21:00)</desc>
-  </programme>
-  <programme start="20260908122338 +0100" stop="20260908162338 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Real Madrid - Inter (Martes 08/09 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Martes 08/09 - 21:00)</desc>
-  </programme>
-  <programme start="20260908162338 +0100" stop="20260908202338 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Real Madrid - Inter (Martes 08/09 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Martes 08/09 - 21:00)</desc>
-  </programme>
-  <programme start="20260908202338 +0100" stop="20260908210000 +0100" channel="Fútbol 1">
+  <programme start="20260908174450 +0100" stop="20260908210000 +0100" channel="Fútbol 1">
     <title>Próximo partido: Real Madrid - Inter (Martes 08/09 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Martes 08/09 - 21:00)</desc>
   </programme>
@@ -350,167 +318,131 @@
   <channel id="Fútbol 2">
     <display-name>Fútbol 2</display-name>
   </channel>
-  <programme start="20260905161500 +0100" stop="20260905181500 +0100" channel="Fútbol 2">
-    <title>Laliga Hypermotion: Sporting - Girona</title>
-    <desc>Fútbol en directo - Laliga Hypermotion: Sporting - Girona</desc>
-  </programme>
-  <programme start="20260905210000 +0100" stop="20260905230000 +0100" channel="Fútbol 2">
-    <title>Laliga Hypermotion: Eldense - Mallorca</title>
-    <desc>Fútbol en directo - Laliga Hypermotion: Eldense - Mallorca</desc>
-  </programme>
-  <programme start="20260906122338 +0100" stop="20260906162338 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Almería - Cádiz (Domingo 06/09 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Domingo 06/09 - 21:00)</desc>
-  </programme>
-  <programme start="20260906162338 +0100" stop="20260906202338 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Almería - Cádiz (Domingo 06/09 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Domingo 06/09 - 21:00)</desc>
-  </programme>
-  <programme start="20260906202338 +0100" stop="20260906210000 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Almería - Cádiz (Domingo 06/09 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Domingo 06/09 - 21:00)</desc>
-  </programme>
   <programme start="20260906210000 +0100" stop="20260906230000 +0100" channel="Fútbol 2">
     <title>Laliga Hypermotion: Almería - Cádiz</title>
     <desc>Fútbol en directo - Laliga Hypermotion: Almería - Cádiz</desc>
   </programme>
-  <programme start="20260906230000 +0100" stop="20260907030000 +0100" channel="Fútbol 2">
+  <programme start="20260907134450 +0100" stop="20260907174450 +0100" channel="Fútbol 2">
     <title>Próximo partido: Cádiz - Las Palmas (Sábado 12/09 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 12/09 - 16:15)</desc>
   </programme>
-  <programme start="20260907030000 +0100" stop="20260907070000 +0100" channel="Fútbol 2">
+  <programme start="20260907174450 +0100" stop="20260907214450 +0100" channel="Fútbol 2">
     <title>Próximo partido: Cádiz - Las Palmas (Sábado 12/09 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 12/09 - 16:15)</desc>
   </programme>
-  <programme start="20260907070000 +0100" stop="20260907110000 +0100" channel="Fútbol 2">
+  <programme start="20260907214450 +0100" stop="20260908014450 +0100" channel="Fútbol 2">
     <title>Próximo partido: Cádiz - Las Palmas (Sábado 12/09 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 12/09 - 16:15)</desc>
   </programme>
-  <programme start="20260907110000 +0100" stop="20260907150000 +0100" channel="Fútbol 2">
+  <programme start="20260908014450 +0100" stop="20260908054450 +0100" channel="Fútbol 2">
     <title>Próximo partido: Cádiz - Las Palmas (Sábado 12/09 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 12/09 - 16:15)</desc>
   </programme>
-  <programme start="20260907150000 +0100" stop="20260907190000 +0100" channel="Fútbol 2">
+  <programme start="20260908054450 +0100" stop="20260908094450 +0100" channel="Fútbol 2">
     <title>Próximo partido: Cádiz - Las Palmas (Sábado 12/09 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 12/09 - 16:15)</desc>
   </programme>
-  <programme start="20260907190000 +0100" stop="20260907230000 +0100" channel="Fútbol 2">
+  <programme start="20260908094450 +0100" stop="20260908134450 +0100" channel="Fútbol 2">
     <title>Próximo partido: Cádiz - Las Palmas (Sábado 12/09 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 12/09 - 16:15)</desc>
   </programme>
-  <programme start="20260907230000 +0100" stop="20260908030000 +0100" channel="Fútbol 2">
+  <programme start="20260908134450 +0100" stop="20260908174450 +0100" channel="Fútbol 2">
     <title>Próximo partido: Cádiz - Las Palmas (Sábado 12/09 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 12/09 - 16:15)</desc>
   </programme>
-  <programme start="20260908030000 +0100" stop="20260908070000 +0100" channel="Fútbol 2">
+  <programme start="20260908174450 +0100" stop="20260908214450 +0100" channel="Fútbol 2">
     <title>Próximo partido: Cádiz - Las Palmas (Sábado 12/09 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 12/09 - 16:15)</desc>
   </programme>
-  <programme start="20260908070000 +0100" stop="20260908110000 +0100" channel="Fútbol 2">
+  <programme start="20260908214450 +0100" stop="20260909014450 +0100" channel="Fútbol 2">
     <title>Próximo partido: Cádiz - Las Palmas (Sábado 12/09 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 12/09 - 16:15)</desc>
   </programme>
-  <programme start="20260908110000 +0100" stop="20260908150000 +0100" channel="Fútbol 2">
+  <programme start="20260909014450 +0100" stop="20260909054450 +0100" channel="Fútbol 2">
     <title>Próximo partido: Cádiz - Las Palmas (Sábado 12/09 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 12/09 - 16:15)</desc>
   </programme>
-  <programme start="20260908150000 +0100" stop="20260908190000 +0100" channel="Fútbol 2">
+  <programme start="20260909054450 +0100" stop="20260909094450 +0100" channel="Fútbol 2">
     <title>Próximo partido: Cádiz - Las Palmas (Sábado 12/09 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 12/09 - 16:15)</desc>
   </programme>
-  <programme start="20260908190000 +0100" stop="20260908230000 +0100" channel="Fútbol 2">
+  <programme start="20260909094450 +0100" stop="20260909134450 +0100" channel="Fútbol 2">
     <title>Próximo partido: Cádiz - Las Palmas (Sábado 12/09 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 12/09 - 16:15)</desc>
   </programme>
-  <programme start="20260908230000 +0100" stop="20260909030000 +0100" channel="Fútbol 2">
+  <programme start="20260909134450 +0100" stop="20260909174450 +0100" channel="Fútbol 2">
     <title>Próximo partido: Cádiz - Las Palmas (Sábado 12/09 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 12/09 - 16:15)</desc>
   </programme>
-  <programme start="20260909030000 +0100" stop="20260909070000 +0100" channel="Fútbol 2">
+  <programme start="20260909174450 +0100" stop="20260909214450 +0100" channel="Fútbol 2">
     <title>Próximo partido: Cádiz - Las Palmas (Sábado 12/09 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 12/09 - 16:15)</desc>
   </programme>
-  <programme start="20260909070000 +0100" stop="20260909110000 +0100" channel="Fútbol 2">
+  <programme start="20260909214450 +0100" stop="20260910014450 +0100" channel="Fútbol 2">
     <title>Próximo partido: Cádiz - Las Palmas (Sábado 12/09 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 12/09 - 16:15)</desc>
   </programme>
-  <programme start="20260909110000 +0100" stop="20260909150000 +0100" channel="Fútbol 2">
+  <programme start="20260910014450 +0100" stop="20260910054450 +0100" channel="Fútbol 2">
     <title>Próximo partido: Cádiz - Las Palmas (Sábado 12/09 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 12/09 - 16:15)</desc>
   </programme>
-  <programme start="20260909150000 +0100" stop="20260909190000 +0100" channel="Fútbol 2">
+  <programme start="20260910054450 +0100" stop="20260910094450 +0100" channel="Fútbol 2">
     <title>Próximo partido: Cádiz - Las Palmas (Sábado 12/09 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 12/09 - 16:15)</desc>
   </programme>
-  <programme start="20260909190000 +0100" stop="20260909230000 +0100" channel="Fútbol 2">
+  <programme start="20260910094450 +0100" stop="20260910134450 +0100" channel="Fútbol 2">
     <title>Próximo partido: Cádiz - Las Palmas (Sábado 12/09 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 12/09 - 16:15)</desc>
   </programme>
-  <programme start="20260909230000 +0100" stop="20260910030000 +0100" channel="Fútbol 2">
+  <programme start="20260910134450 +0100" stop="20260910174450 +0100" channel="Fútbol 2">
     <title>Próximo partido: Cádiz - Las Palmas (Sábado 12/09 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 12/09 - 16:15)</desc>
   </programme>
-  <programme start="20260910030000 +0100" stop="20260910070000 +0100" channel="Fútbol 2">
+  <programme start="20260910174450 +0100" stop="20260910214450 +0100" channel="Fútbol 2">
     <title>Próximo partido: Cádiz - Las Palmas (Sábado 12/09 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 12/09 - 16:15)</desc>
   </programme>
-  <programme start="20260910070000 +0100" stop="20260910110000 +0100" channel="Fútbol 2">
+  <programme start="20260910214450 +0100" stop="20260911014450 +0100" channel="Fútbol 2">
     <title>Próximo partido: Cádiz - Las Palmas (Sábado 12/09 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 12/09 - 16:15)</desc>
   </programme>
-  <programme start="20260910110000 +0100" stop="20260910150000 +0100" channel="Fútbol 2">
+  <programme start="20260911014450 +0100" stop="20260911054450 +0100" channel="Fútbol 2">
     <title>Próximo partido: Cádiz - Las Palmas (Sábado 12/09 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 12/09 - 16:15)</desc>
   </programme>
-  <programme start="20260910150000 +0100" stop="20260910190000 +0100" channel="Fútbol 2">
+  <programme start="20260911054450 +0100" stop="20260911094450 +0100" channel="Fútbol 2">
     <title>Próximo partido: Cádiz - Las Palmas (Sábado 12/09 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 12/09 - 16:15)</desc>
   </programme>
-  <programme start="20260910190000 +0100" stop="20260910230000 +0100" channel="Fútbol 2">
+  <programme start="20260911094450 +0100" stop="20260911134450 +0100" channel="Fútbol 2">
     <title>Próximo partido: Cádiz - Las Palmas (Sábado 12/09 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 12/09 - 16:15)</desc>
   </programme>
-  <programme start="20260910230000 +0100" stop="20260911030000 +0100" channel="Fútbol 2">
+  <programme start="20260911134450 +0100" stop="20260911174450 +0100" channel="Fútbol 2">
     <title>Próximo partido: Cádiz - Las Palmas (Sábado 12/09 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 12/09 - 16:15)</desc>
   </programme>
-  <programme start="20260911030000 +0100" stop="20260911070000 +0100" channel="Fútbol 2">
+  <programme start="20260911174450 +0100" stop="20260911214450 +0100" channel="Fútbol 2">
     <title>Próximo partido: Cádiz - Las Palmas (Sábado 12/09 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 12/09 - 16:15)</desc>
   </programme>
-  <programme start="20260911070000 +0100" stop="20260911110000 +0100" channel="Fútbol 2">
+  <programme start="20260911214450 +0100" stop="20260912014450 +0100" channel="Fútbol 2">
     <title>Próximo partido: Cádiz - Las Palmas (Sábado 12/09 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 12/09 - 16:15)</desc>
   </programme>
-  <programme start="20260911110000 +0100" stop="20260911150000 +0100" channel="Fútbol 2">
+  <programme start="20260912014450 +0100" stop="20260912054450 +0100" channel="Fútbol 2">
     <title>Próximo partido: Cádiz - Las Palmas (Sábado 12/09 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 12/09 - 16:15)</desc>
   </programme>
-  <programme start="20260911150000 +0100" stop="20260911190000 +0100" channel="Fútbol 2">
+  <programme start="20260912054450 +0100" stop="20260912094450 +0100" channel="Fútbol 2">
     <title>Próximo partido: Cádiz - Las Palmas (Sábado 12/09 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 12/09 - 16:15)</desc>
   </programme>
-  <programme start="20260911190000 +0100" stop="20260911230000 +0100" channel="Fútbol 2">
+  <programme start="20260912094450 +0100" stop="20260912134450 +0100" channel="Fútbol 2">
     <title>Próximo partido: Cádiz - Las Palmas (Sábado 12/09 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 12/09 - 16:15)</desc>
   </programme>
-  <programme start="20260911230000 +0100" stop="20260912030000 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Cádiz - Las Palmas (Sábado 12/09 - 16:15)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Sábado 12/09 - 16:15)</desc>
-  </programme>
-  <programme start="20260912030000 +0100" stop="20260912070000 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Cádiz - Las Palmas (Sábado 12/09 - 16:15)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Sábado 12/09 - 16:15)</desc>
-  </programme>
-  <programme start="20260912070000 +0100" stop="20260912110000 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Cádiz - Las Palmas (Sábado 12/09 - 16:15)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Sábado 12/09 - 16:15)</desc>
-  </programme>
-  <programme start="20260912110000 +0100" stop="20260912150000 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Cádiz - Las Palmas (Sábado 12/09 - 16:15)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Sábado 12/09 - 16:15)</desc>
-  </programme>
-  <programme start="20260912150000 +0100" stop="20260912161500 +0100" channel="Fútbol 2">
+  <programme start="20260912134450 +0100" stop="20260912161500 +0100" channel="Fútbol 2">
     <title>Próximo partido: Cádiz - Las Palmas (Sábado 12/09 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 12/09 - 16:15)</desc>
   </programme>
@@ -749,159 +681,131 @@
   <channel id="Fútbol 3">
     <display-name>Fútbol 3</display-name>
   </channel>
-  <programme start="20260905204500 +0100" stop="20260905224500 +0100" channel="Fútbol 3">
-    <title>Serie A: Roma - Atalanta</title>
-    <desc>Fútbol en directo - Serie A: Roma - Atalanta</desc>
-  </programme>
-  <programme start="20260906122338 +0100" stop="20260906162338 +0100" channel="Fútbol 3">
+  <programme start="20260907134450 +0100" stop="20260907174450 +0100" channel="Fútbol 3">
     <title>Próximo partido: Lazio - Milan (Sábado 12/09 - 18:00)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 12/09 - 18:00)</desc>
   </programme>
-  <programme start="20260906162338 +0100" stop="20260906202338 +0100" channel="Fútbol 3">
+  <programme start="20260907174450 +0100" stop="20260907214450 +0100" channel="Fútbol 3">
     <title>Próximo partido: Lazio - Milan (Sábado 12/09 - 18:00)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 12/09 - 18:00)</desc>
   </programme>
-  <programme start="20260906202338 +0100" stop="20260907002338 +0100" channel="Fútbol 3">
+  <programme start="20260907214450 +0100" stop="20260908014450 +0100" channel="Fútbol 3">
     <title>Próximo partido: Lazio - Milan (Sábado 12/09 - 18:00)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 12/09 - 18:00)</desc>
   </programme>
-  <programme start="20260907002338 +0100" stop="20260907042338 +0100" channel="Fútbol 3">
+  <programme start="20260908014450 +0100" stop="20260908054450 +0100" channel="Fútbol 3">
     <title>Próximo partido: Lazio - Milan (Sábado 12/09 - 18:00)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 12/09 - 18:00)</desc>
   </programme>
-  <programme start="20260907042338 +0100" stop="20260907082338 +0100" channel="Fútbol 3">
+  <programme start="20260908054450 +0100" stop="20260908094450 +0100" channel="Fútbol 3">
     <title>Próximo partido: Lazio - Milan (Sábado 12/09 - 18:00)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 12/09 - 18:00)</desc>
   </programme>
-  <programme start="20260907082338 +0100" stop="20260907122338 +0100" channel="Fútbol 3">
+  <programme start="20260908094450 +0100" stop="20260908134450 +0100" channel="Fútbol 3">
     <title>Próximo partido: Lazio - Milan (Sábado 12/09 - 18:00)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 12/09 - 18:00)</desc>
   </programme>
-  <programme start="20260907122338 +0100" stop="20260907162338 +0100" channel="Fútbol 3">
+  <programme start="20260908134450 +0100" stop="20260908174450 +0100" channel="Fútbol 3">
     <title>Próximo partido: Lazio - Milan (Sábado 12/09 - 18:00)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 12/09 - 18:00)</desc>
   </programme>
-  <programme start="20260907162338 +0100" stop="20260907202338 +0100" channel="Fútbol 3">
+  <programme start="20260908174450 +0100" stop="20260908214450 +0100" channel="Fútbol 3">
     <title>Próximo partido: Lazio - Milan (Sábado 12/09 - 18:00)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 12/09 - 18:00)</desc>
   </programme>
-  <programme start="20260907202338 +0100" stop="20260908002338 +0100" channel="Fútbol 3">
+  <programme start="20260908214450 +0100" stop="20260909014450 +0100" channel="Fútbol 3">
     <title>Próximo partido: Lazio - Milan (Sábado 12/09 - 18:00)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 12/09 - 18:00)</desc>
   </programme>
-  <programme start="20260908002338 +0100" stop="20260908042338 +0100" channel="Fútbol 3">
+  <programme start="20260909014450 +0100" stop="20260909054450 +0100" channel="Fútbol 3">
     <title>Próximo partido: Lazio - Milan (Sábado 12/09 - 18:00)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 12/09 - 18:00)</desc>
   </programme>
-  <programme start="20260908042338 +0100" stop="20260908082338 +0100" channel="Fútbol 3">
+  <programme start="20260909054450 +0100" stop="20260909094450 +0100" channel="Fútbol 3">
     <title>Próximo partido: Lazio - Milan (Sábado 12/09 - 18:00)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 12/09 - 18:00)</desc>
   </programme>
-  <programme start="20260908082338 +0100" stop="20260908122338 +0100" channel="Fútbol 3">
+  <programme start="20260909094450 +0100" stop="20260909134450 +0100" channel="Fútbol 3">
     <title>Próximo partido: Lazio - Milan (Sábado 12/09 - 18:00)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 12/09 - 18:00)</desc>
   </programme>
-  <programme start="20260908122338 +0100" stop="20260908162338 +0100" channel="Fútbol 3">
+  <programme start="20260909134450 +0100" stop="20260909174450 +0100" channel="Fútbol 3">
     <title>Próximo partido: Lazio - Milan (Sábado 12/09 - 18:00)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 12/09 - 18:00)</desc>
   </programme>
-  <programme start="20260908162338 +0100" stop="20260908202338 +0100" channel="Fútbol 3">
+  <programme start="20260909174450 +0100" stop="20260909214450 +0100" channel="Fútbol 3">
     <title>Próximo partido: Lazio - Milan (Sábado 12/09 - 18:00)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 12/09 - 18:00)</desc>
   </programme>
-  <programme start="20260908202338 +0100" stop="20260909002338 +0100" channel="Fútbol 3">
+  <programme start="20260909214450 +0100" stop="20260910014450 +0100" channel="Fútbol 3">
     <title>Próximo partido: Lazio - Milan (Sábado 12/09 - 18:00)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 12/09 - 18:00)</desc>
   </programme>
-  <programme start="20260909002338 +0100" stop="20260909042338 +0100" channel="Fútbol 3">
+  <programme start="20260910014450 +0100" stop="20260910054450 +0100" channel="Fútbol 3">
     <title>Próximo partido: Lazio - Milan (Sábado 12/09 - 18:00)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 12/09 - 18:00)</desc>
   </programme>
-  <programme start="20260909042338 +0100" stop="20260909082338 +0100" channel="Fútbol 3">
+  <programme start="20260910054450 +0100" stop="20260910094450 +0100" channel="Fútbol 3">
     <title>Próximo partido: Lazio - Milan (Sábado 12/09 - 18:00)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 12/09 - 18:00)</desc>
   </programme>
-  <programme start="20260909082338 +0100" stop="20260909122338 +0100" channel="Fútbol 3">
+  <programme start="20260910094450 +0100" stop="20260910134450 +0100" channel="Fútbol 3">
     <title>Próximo partido: Lazio - Milan (Sábado 12/09 - 18:00)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 12/09 - 18:00)</desc>
   </programme>
-  <programme start="20260909122338 +0100" stop="20260909162338 +0100" channel="Fútbol 3">
+  <programme start="20260910134450 +0100" stop="20260910174450 +0100" channel="Fútbol 3">
     <title>Próximo partido: Lazio - Milan (Sábado 12/09 - 18:00)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 12/09 - 18:00)</desc>
   </programme>
-  <programme start="20260909162338 +0100" stop="20260909202338 +0100" channel="Fútbol 3">
+  <programme start="20260910174450 +0100" stop="20260910214450 +0100" channel="Fútbol 3">
     <title>Próximo partido: Lazio - Milan (Sábado 12/09 - 18:00)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 12/09 - 18:00)</desc>
   </programme>
-  <programme start="20260909202338 +0100" stop="20260910002338 +0100" channel="Fútbol 3">
+  <programme start="20260910214450 +0100" stop="20260911014450 +0100" channel="Fútbol 3">
     <title>Próximo partido: Lazio - Milan (Sábado 12/09 - 18:00)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 12/09 - 18:00)</desc>
   </programme>
-  <programme start="20260910002338 +0100" stop="20260910042338 +0100" channel="Fútbol 3">
+  <programme start="20260911014450 +0100" stop="20260911054450 +0100" channel="Fútbol 3">
     <title>Próximo partido: Lazio - Milan (Sábado 12/09 - 18:00)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 12/09 - 18:00)</desc>
   </programme>
-  <programme start="20260910042338 +0100" stop="20260910082338 +0100" channel="Fútbol 3">
+  <programme start="20260911054450 +0100" stop="20260911094450 +0100" channel="Fútbol 3">
     <title>Próximo partido: Lazio - Milan (Sábado 12/09 - 18:00)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 12/09 - 18:00)</desc>
   </programme>
-  <programme start="20260910082338 +0100" stop="20260910122338 +0100" channel="Fútbol 3">
+  <programme start="20260911094450 +0100" stop="20260911134450 +0100" channel="Fútbol 3">
     <title>Próximo partido: Lazio - Milan (Sábado 12/09 - 18:00)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 12/09 - 18:00)</desc>
   </programme>
-  <programme start="20260910122338 +0100" stop="20260910162338 +0100" channel="Fútbol 3">
+  <programme start="20260911134450 +0100" stop="20260911174450 +0100" channel="Fútbol 3">
     <title>Próximo partido: Lazio - Milan (Sábado 12/09 - 18:00)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 12/09 - 18:00)</desc>
   </programme>
-  <programme start="20260910162338 +0100" stop="20260910202338 +0100" channel="Fútbol 3">
+  <programme start="20260911174450 +0100" stop="20260911214450 +0100" channel="Fútbol 3">
     <title>Próximo partido: Lazio - Milan (Sábado 12/09 - 18:00)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 12/09 - 18:00)</desc>
   </programme>
-  <programme start="20260910202338 +0100" stop="20260911002338 +0100" channel="Fútbol 3">
+  <programme start="20260911214450 +0100" stop="20260912014450 +0100" channel="Fútbol 3">
     <title>Próximo partido: Lazio - Milan (Sábado 12/09 - 18:00)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 12/09 - 18:00)</desc>
   </programme>
-  <programme start="20260911002338 +0100" stop="20260911042338 +0100" channel="Fútbol 3">
+  <programme start="20260912014450 +0100" stop="20260912054450 +0100" channel="Fútbol 3">
     <title>Próximo partido: Lazio - Milan (Sábado 12/09 - 18:00)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 12/09 - 18:00)</desc>
   </programme>
-  <programme start="20260911042338 +0100" stop="20260911082338 +0100" channel="Fútbol 3">
+  <programme start="20260912054450 +0100" stop="20260912094450 +0100" channel="Fútbol 3">
     <title>Próximo partido: Lazio - Milan (Sábado 12/09 - 18:00)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 12/09 - 18:00)</desc>
   </programme>
-  <programme start="20260911082338 +0100" stop="20260911122338 +0100" channel="Fútbol 3">
+  <programme start="20260912094450 +0100" stop="20260912134450 +0100" channel="Fútbol 3">
     <title>Próximo partido: Lazio - Milan (Sábado 12/09 - 18:00)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 12/09 - 18:00)</desc>
   </programme>
-  <programme start="20260911122338 +0100" stop="20260911162338 +0100" channel="Fútbol 3">
+  <programme start="20260912134450 +0100" stop="20260912174450 +0100" channel="Fútbol 3">
     <title>Próximo partido: Lazio - Milan (Sábado 12/09 - 18:00)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 12/09 - 18:00)</desc>
   </programme>
-  <programme start="20260911162338 +0100" stop="20260911202338 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Lazio - Milan (Sábado 12/09 - 18:00)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Sábado 12/09 - 18:00)</desc>
-  </programme>
-  <programme start="20260911202338 +0100" stop="20260912002338 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Lazio - Milan (Sábado 12/09 - 18:00)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Sábado 12/09 - 18:00)</desc>
-  </programme>
-  <programme start="20260912002338 +0100" stop="20260912042338 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Lazio - Milan (Sábado 12/09 - 18:00)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Sábado 12/09 - 18:00)</desc>
-  </programme>
-  <programme start="20260912042338 +0100" stop="20260912082338 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Lazio - Milan (Sábado 12/09 - 18:00)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Sábado 12/09 - 18:00)</desc>
-  </programme>
-  <programme start="20260912082338 +0100" stop="20260912122338 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Lazio - Milan (Sábado 12/09 - 18:00)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Sábado 12/09 - 18:00)</desc>
-  </programme>
-  <programme start="20260912122338 +0100" stop="20260912162338 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Lazio - Milan (Sábado 12/09 - 18:00)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Sábado 12/09 - 18:00)</desc>
-  </programme>
-  <programme start="20260912162338 +0100" stop="20260912180000 +0100" channel="Fútbol 3">
+  <programme start="20260912174450 +0100" stop="20260912180000 +0100" channel="Fútbol 3">
     <title>Próximo partido: Lazio - Milan (Sábado 12/09 - 18:00)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 12/09 - 18:00)</desc>
   </programme>
