@@ -3,91 +3,59 @@
   <channel id="Fútbol 1">
     <display-name>Fútbol 1</display-name>
   </channel>
-  <programme start="20260915213000 +0100" stop="20260915233000 +0100" channel="Fútbol 1">
-    <title>Laliga Ea Sports: Elche - Real Madrid</title>
-    <desc>Fútbol en directo - Laliga Ea Sports: Elche - Real Madrid</desc>
-  </programme>
-  <programme start="20260916125721 +0100" stop="20260916165721 +0100" channel="Fútbol 1">
+  <programme start="20260917130637 +0100" stop="20260917170637 +0100" channel="Fútbol 1">
     <title>Próximo partido: Sevilla - Barcelona (Sábado 19/09 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 19/09 - 21:00)</desc>
   </programme>
-  <programme start="20260916165721 +0100" stop="20260916205721 +0100" channel="Fútbol 1">
+  <programme start="20260917170637 +0100" stop="20260917210637 +0100" channel="Fútbol 1">
     <title>Próximo partido: Sevilla - Barcelona (Sábado 19/09 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 19/09 - 21:00)</desc>
   </programme>
-  <programme start="20260916205721 +0100" stop="20260917005721 +0100" channel="Fútbol 1">
+  <programme start="20260917210637 +0100" stop="20260918010637 +0100" channel="Fútbol 1">
     <title>Próximo partido: Sevilla - Barcelona (Sábado 19/09 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 19/09 - 21:00)</desc>
   </programme>
-  <programme start="20260917005721 +0100" stop="20260917045721 +0100" channel="Fútbol 1">
+  <programme start="20260918010637 +0100" stop="20260918050637 +0100" channel="Fútbol 1">
     <title>Próximo partido: Sevilla - Barcelona (Sábado 19/09 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 19/09 - 21:00)</desc>
   </programme>
-  <programme start="20260917045721 +0100" stop="20260917085721 +0100" channel="Fútbol 1">
+  <programme start="20260918050637 +0100" stop="20260918090637 +0100" channel="Fútbol 1">
     <title>Próximo partido: Sevilla - Barcelona (Sábado 19/09 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 19/09 - 21:00)</desc>
   </programme>
-  <programme start="20260917085721 +0100" stop="20260917125721 +0100" channel="Fútbol 1">
+  <programme start="20260918090637 +0100" stop="20260918130637 +0100" channel="Fútbol 1">
     <title>Próximo partido: Sevilla - Barcelona (Sábado 19/09 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 19/09 - 21:00)</desc>
   </programme>
-  <programme start="20260917125721 +0100" stop="20260917165721 +0100" channel="Fútbol 1">
+  <programme start="20260918130637 +0100" stop="20260918170637 +0100" channel="Fútbol 1">
     <title>Próximo partido: Sevilla - Barcelona (Sábado 19/09 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 19/09 - 21:00)</desc>
   </programme>
-  <programme start="20260917165721 +0100" stop="20260917205721 +0100" channel="Fútbol 1">
+  <programme start="20260918170637 +0100" stop="20260918210637 +0100" channel="Fútbol 1">
     <title>Próximo partido: Sevilla - Barcelona (Sábado 19/09 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 19/09 - 21:00)</desc>
   </programme>
-  <programme start="20260917205721 +0100" stop="20260918005721 +0100" channel="Fútbol 1">
+  <programme start="20260918210637 +0100" stop="20260919010637 +0100" channel="Fútbol 1">
     <title>Próximo partido: Sevilla - Barcelona (Sábado 19/09 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 19/09 - 21:00)</desc>
   </programme>
-  <programme start="20260918005721 +0100" stop="20260918045721 +0100" channel="Fútbol 1">
+  <programme start="20260919010637 +0100" stop="20260919050637 +0100" channel="Fútbol 1">
     <title>Próximo partido: Sevilla - Barcelona (Sábado 19/09 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 19/09 - 21:00)</desc>
   </programme>
-  <programme start="20260918045721 +0100" stop="20260918085721 +0100" channel="Fútbol 1">
+  <programme start="20260919050637 +0100" stop="20260919090637 +0100" channel="Fútbol 1">
     <title>Próximo partido: Sevilla - Barcelona (Sábado 19/09 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 19/09 - 21:00)</desc>
   </programme>
-  <programme start="20260918085721 +0100" stop="20260918125721 +0100" channel="Fútbol 1">
+  <programme start="20260919090637 +0100" stop="20260919130637 +0100" channel="Fútbol 1">
     <title>Próximo partido: Sevilla - Barcelona (Sábado 19/09 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 19/09 - 21:00)</desc>
   </programme>
-  <programme start="20260918125721 +0100" stop="20260918165721 +0100" channel="Fútbol 1">
+  <programme start="20260919130637 +0100" stop="20260919170637 +0100" channel="Fútbol 1">
     <title>Próximo partido: Sevilla - Barcelona (Sábado 19/09 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 19/09 - 21:00)</desc>
   </programme>
-  <programme start="20260918165721 +0100" stop="20260918205721 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Sevilla - Barcelona (Sábado 19/09 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Sábado 19/09 - 21:00)</desc>
-  </programme>
-  <programme start="20260918205721 +0100" stop="20260919005721 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Sevilla - Barcelona (Sábado 19/09 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Sábado 19/09 - 21:00)</desc>
-  </programme>
-  <programme start="20260919005721 +0100" stop="20260919045721 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Sevilla - Barcelona (Sábado 19/09 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Sábado 19/09 - 21:00)</desc>
-  </programme>
-  <programme start="20260919045721 +0100" stop="20260919085721 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Sevilla - Barcelona (Sábado 19/09 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Sábado 19/09 - 21:00)</desc>
-  </programme>
-  <programme start="20260919085721 +0100" stop="20260919125721 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Sevilla - Barcelona (Sábado 19/09 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Sábado 19/09 - 21:00)</desc>
-  </programme>
-  <programme start="20260919125721 +0100" stop="20260919165721 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Sevilla - Barcelona (Sábado 19/09 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Sábado 19/09 - 21:00)</desc>
-  </programme>
-  <programme start="20260919165721 +0100" stop="20260919205721 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Sevilla - Barcelona (Sábado 19/09 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Sábado 19/09 - 21:00)</desc>
-  </programme>
-  <programme start="20260919205721 +0100" stop="20260919210000 +0100" channel="Fútbol 1">
+  <programme start="20260919170637 +0100" stop="20260919210000 +0100" channel="Fútbol 1">
     <title>Próximo partido: Sevilla - Barcelona (Sábado 19/09 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 19/09 - 21:00)</desc>
   </programme>
@@ -98,87 +66,59 @@
   <channel id="Fútbol 2">
     <display-name>Fútbol 2</display-name>
   </channel>
-  <programme start="20260916125721 +0100" stop="20260916165721 +0100" channel="Fútbol 2">
+  <programme start="20260917130637 +0100" stop="20260917170637 +0100" channel="Fútbol 2">
     <title>Próximo partido: Cádiz - Girona (Sábado 19/09 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 19/09 - 21:00)</desc>
   </programme>
-  <programme start="20260916165721 +0100" stop="20260916205721 +0100" channel="Fútbol 2">
+  <programme start="20260917170637 +0100" stop="20260917210637 +0100" channel="Fútbol 2">
     <title>Próximo partido: Cádiz - Girona (Sábado 19/09 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 19/09 - 21:00)</desc>
   </programme>
-  <programme start="20260916205721 +0100" stop="20260917005721 +0100" channel="Fútbol 2">
+  <programme start="20260917210637 +0100" stop="20260918010637 +0100" channel="Fútbol 2">
     <title>Próximo partido: Cádiz - Girona (Sábado 19/09 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 19/09 - 21:00)</desc>
   </programme>
-  <programme start="20260917005721 +0100" stop="20260917045721 +0100" channel="Fútbol 2">
+  <programme start="20260918010637 +0100" stop="20260918050637 +0100" channel="Fútbol 2">
     <title>Próximo partido: Cádiz - Girona (Sábado 19/09 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 19/09 - 21:00)</desc>
   </programme>
-  <programme start="20260917045721 +0100" stop="20260917085721 +0100" channel="Fútbol 2">
+  <programme start="20260918050637 +0100" stop="20260918090637 +0100" channel="Fútbol 2">
     <title>Próximo partido: Cádiz - Girona (Sábado 19/09 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 19/09 - 21:00)</desc>
   </programme>
-  <programme start="20260917085721 +0100" stop="20260917125721 +0100" channel="Fútbol 2">
+  <programme start="20260918090637 +0100" stop="20260918130637 +0100" channel="Fútbol 2">
     <title>Próximo partido: Cádiz - Girona (Sábado 19/09 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 19/09 - 21:00)</desc>
   </programme>
-  <programme start="20260917125721 +0100" stop="20260917165721 +0100" channel="Fútbol 2">
+  <programme start="20260918130637 +0100" stop="20260918170637 +0100" channel="Fútbol 2">
     <title>Próximo partido: Cádiz - Girona (Sábado 19/09 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 19/09 - 21:00)</desc>
   </programme>
-  <programme start="20260917165721 +0100" stop="20260917205721 +0100" channel="Fútbol 2">
+  <programme start="20260918170637 +0100" stop="20260918210637 +0100" channel="Fútbol 2">
     <title>Próximo partido: Cádiz - Girona (Sábado 19/09 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 19/09 - 21:00)</desc>
   </programme>
-  <programme start="20260917205721 +0100" stop="20260918005721 +0100" channel="Fútbol 2">
+  <programme start="20260918210637 +0100" stop="20260919010637 +0100" channel="Fútbol 2">
     <title>Próximo partido: Cádiz - Girona (Sábado 19/09 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 19/09 - 21:00)</desc>
   </programme>
-  <programme start="20260918005721 +0100" stop="20260918045721 +0100" channel="Fútbol 2">
+  <programme start="20260919010637 +0100" stop="20260919050637 +0100" channel="Fútbol 2">
     <title>Próximo partido: Cádiz - Girona (Sábado 19/09 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 19/09 - 21:00)</desc>
   </programme>
-  <programme start="20260918045721 +0100" stop="20260918085721 +0100" channel="Fútbol 2">
+  <programme start="20260919050637 +0100" stop="20260919090637 +0100" channel="Fútbol 2">
     <title>Próximo partido: Cádiz - Girona (Sábado 19/09 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 19/09 - 21:00)</desc>
   </programme>
-  <programme start="20260918085721 +0100" stop="20260918125721 +0100" channel="Fútbol 2">
+  <programme start="20260919090637 +0100" stop="20260919130637 +0100" channel="Fútbol 2">
     <title>Próximo partido: Cádiz - Girona (Sábado 19/09 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 19/09 - 21:00)</desc>
   </programme>
-  <programme start="20260918125721 +0100" stop="20260918165721 +0100" channel="Fútbol 2">
+  <programme start="20260919130637 +0100" stop="20260919170637 +0100" channel="Fútbol 2">
     <title>Próximo partido: Cádiz - Girona (Sábado 19/09 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 19/09 - 21:00)</desc>
   </programme>
-  <programme start="20260918165721 +0100" stop="20260918205721 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Cádiz - Girona (Sábado 19/09 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Sábado 19/09 - 21:00)</desc>
-  </programme>
-  <programme start="20260918205721 +0100" stop="20260919005721 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Cádiz - Girona (Sábado 19/09 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Sábado 19/09 - 21:00)</desc>
-  </programme>
-  <programme start="20260919005721 +0100" stop="20260919045721 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Cádiz - Girona (Sábado 19/09 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Sábado 19/09 - 21:00)</desc>
-  </programme>
-  <programme start="20260919045721 +0100" stop="20260919085721 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Cádiz - Girona (Sábado 19/09 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Sábado 19/09 - 21:00)</desc>
-  </programme>
-  <programme start="20260919085721 +0100" stop="20260919125721 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Cádiz - Girona (Sábado 19/09 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Sábado 19/09 - 21:00)</desc>
-  </programme>
-  <programme start="20260919125721 +0100" stop="20260919165721 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Cádiz - Girona (Sábado 19/09 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Sábado 19/09 - 21:00)</desc>
-  </programme>
-  <programme start="20260919165721 +0100" stop="20260919205721 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Cádiz - Girona (Sábado 19/09 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Sábado 19/09 - 21:00)</desc>
-  </programme>
-  <programme start="20260919205721 +0100" stop="20260919210000 +0100" channel="Fútbol 2">
+  <programme start="20260919170637 +0100" stop="20260919210000 +0100" channel="Fútbol 2">
     <title>Próximo partido: Cádiz - Girona (Sábado 19/09 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 19/09 - 21:00)</desc>
   </programme>
@@ -225,99 +165,79 @@
   <channel id="Fútbol 3">
     <display-name>Fútbol 3</display-name>
   </channel>
-  <programme start="20260916125721 +0100" stop="20260916165721 +0100" channel="Fútbol 3">
+  <programme start="20260917130637 +0100" stop="20260917170637 +0100" channel="Fútbol 3">
+    <title>Próximo partido: Stuttgart - Borussia Dortmund (Sábado 19/09 - 18:30)</title>
+    <desc>Siguiente emisión en Fútbol 3 | (Sábado 19/09 - 18:30)</desc>
+  </programme>
+  <programme start="20260917170637 +0100" stop="20260917210637 +0100" channel="Fútbol 3">
+    <title>Próximo partido: Stuttgart - Borussia Dortmund (Sábado 19/09 - 18:30)</title>
+    <desc>Siguiente emisión en Fútbol 3 | (Sábado 19/09 - 18:30)</desc>
+  </programme>
+  <programme start="20260917210637 +0100" stop="20260918010637 +0100" channel="Fútbol 3">
+    <title>Próximo partido: Stuttgart - Borussia Dortmund (Sábado 19/09 - 18:30)</title>
+    <desc>Siguiente emisión en Fútbol 3 | (Sábado 19/09 - 18:30)</desc>
+  </programme>
+  <programme start="20260918010637 +0100" stop="20260918050637 +0100" channel="Fútbol 3">
+    <title>Próximo partido: Stuttgart - Borussia Dortmund (Sábado 19/09 - 18:30)</title>
+    <desc>Siguiente emisión en Fútbol 3 | (Sábado 19/09 - 18:30)</desc>
+  </programme>
+  <programme start="20260918050637 +0100" stop="20260918090637 +0100" channel="Fútbol 3">
+    <title>Próximo partido: Stuttgart - Borussia Dortmund (Sábado 19/09 - 18:30)</title>
+    <desc>Siguiente emisión en Fútbol 3 | (Sábado 19/09 - 18:30)</desc>
+  </programme>
+  <programme start="20260918090637 +0100" stop="20260918130637 +0100" channel="Fútbol 3">
+    <title>Próximo partido: Stuttgart - Borussia Dortmund (Sábado 19/09 - 18:30)</title>
+    <desc>Siguiente emisión en Fútbol 3 | (Sábado 19/09 - 18:30)</desc>
+  </programme>
+  <programme start="20260918130637 +0100" stop="20260918170637 +0100" channel="Fútbol 3">
+    <title>Próximo partido: Stuttgart - Borussia Dortmund (Sábado 19/09 - 18:30)</title>
+    <desc>Siguiente emisión en Fútbol 3 | (Sábado 19/09 - 18:30)</desc>
+  </programme>
+  <programme start="20260918170637 +0100" stop="20260918210637 +0100" channel="Fútbol 3">
+    <title>Próximo partido: Stuttgart - Borussia Dortmund (Sábado 19/09 - 18:30)</title>
+    <desc>Siguiente emisión en Fútbol 3 | (Sábado 19/09 - 18:30)</desc>
+  </programme>
+  <programme start="20260918210637 +0100" stop="20260919010637 +0100" channel="Fútbol 3">
+    <title>Próximo partido: Stuttgart - Borussia Dortmund (Sábado 19/09 - 18:30)</title>
+    <desc>Siguiente emisión en Fútbol 3 | (Sábado 19/09 - 18:30)</desc>
+  </programme>
+  <programme start="20260919010637 +0100" stop="20260919050637 +0100" channel="Fútbol 3">
+    <title>Próximo partido: Stuttgart - Borussia Dortmund (Sábado 19/09 - 18:30)</title>
+    <desc>Siguiente emisión en Fútbol 3 | (Sábado 19/09 - 18:30)</desc>
+  </programme>
+  <programme start="20260919050637 +0100" stop="20260919090637 +0100" channel="Fútbol 3">
+    <title>Próximo partido: Stuttgart - Borussia Dortmund (Sábado 19/09 - 18:30)</title>
+    <desc>Siguiente emisión en Fútbol 3 | (Sábado 19/09 - 18:30)</desc>
+  </programme>
+  <programme start="20260919090637 +0100" stop="20260919130637 +0100" channel="Fútbol 3">
+    <title>Próximo partido: Stuttgart - Borussia Dortmund (Sábado 19/09 - 18:30)</title>
+    <desc>Siguiente emisión en Fútbol 3 | (Sábado 19/09 - 18:30)</desc>
+  </programme>
+  <programme start="20260919130637 +0100" stop="20260919170637 +0100" channel="Fútbol 3">
+    <title>Próximo partido: Stuttgart - Borussia Dortmund (Sábado 19/09 - 18:30)</title>
+    <desc>Siguiente emisión en Fútbol 3 | (Sábado 19/09 - 18:30)</desc>
+  </programme>
+  <programme start="20260919170637 +0100" stop="20260919183000 +0100" channel="Fútbol 3">
+    <title>Próximo partido: Stuttgart - Borussia Dortmund (Sábado 19/09 - 18:30)</title>
+    <desc>Siguiente emisión en Fútbol 3 | (Sábado 19/09 - 18:30)</desc>
+  </programme>
+  <programme start="20260919183000 +0100" stop="20260919203000 +0100" channel="Fútbol 3">
+    <title>Bundesliga: Stuttgart - Borussia Dortmund</title>
+    <desc>Fútbol en directo - Bundesliga: Stuttgart - Borussia Dortmund</desc>
+  </programme>
+  <programme start="20260919203000 +0100" stop="20260920003000 +0100" channel="Fútbol 3">
     <title>Próximo partido: Fiorentina - Nápoles (Domingo 20/09 - 12:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Domingo 20/09 - 12:30)</desc>
   </programme>
-  <programme start="20260916165721 +0100" stop="20260916205721 +0100" channel="Fútbol 3">
+  <programme start="20260920003000 +0100" stop="20260920043000 +0100" channel="Fútbol 3">
     <title>Próximo partido: Fiorentina - Nápoles (Domingo 20/09 - 12:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Domingo 20/09 - 12:30)</desc>
   </programme>
-  <programme start="20260916205721 +0100" stop="20260917005721 +0100" channel="Fútbol 3">
+  <programme start="20260920043000 +0100" stop="20260920083000 +0100" channel="Fútbol 3">
     <title>Próximo partido: Fiorentina - Nápoles (Domingo 20/09 - 12:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Domingo 20/09 - 12:30)</desc>
   </programme>
-  <programme start="20260917005721 +0100" stop="20260917045721 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Fiorentina - Nápoles (Domingo 20/09 - 12:30)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Domingo 20/09 - 12:30)</desc>
-  </programme>
-  <programme start="20260917045721 +0100" stop="20260917085721 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Fiorentina - Nápoles (Domingo 20/09 - 12:30)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Domingo 20/09 - 12:30)</desc>
-  </programme>
-  <programme start="20260917085721 +0100" stop="20260917125721 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Fiorentina - Nápoles (Domingo 20/09 - 12:30)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Domingo 20/09 - 12:30)</desc>
-  </programme>
-  <programme start="20260917125721 +0100" stop="20260917165721 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Fiorentina - Nápoles (Domingo 20/09 - 12:30)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Domingo 20/09 - 12:30)</desc>
-  </programme>
-  <programme start="20260917165721 +0100" stop="20260917205721 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Fiorentina - Nápoles (Domingo 20/09 - 12:30)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Domingo 20/09 - 12:30)</desc>
-  </programme>
-  <programme start="20260917205721 +0100" stop="20260918005721 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Fiorentina - Nápoles (Domingo 20/09 - 12:30)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Domingo 20/09 - 12:30)</desc>
-  </programme>
-  <programme start="20260918005721 +0100" stop="20260918045721 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Fiorentina - Nápoles (Domingo 20/09 - 12:30)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Domingo 20/09 - 12:30)</desc>
-  </programme>
-  <programme start="20260918045721 +0100" stop="20260918085721 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Fiorentina - Nápoles (Domingo 20/09 - 12:30)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Domingo 20/09 - 12:30)</desc>
-  </programme>
-  <programme start="20260918085721 +0100" stop="20260918125721 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Fiorentina - Nápoles (Domingo 20/09 - 12:30)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Domingo 20/09 - 12:30)</desc>
-  </programme>
-  <programme start="20260918125721 +0100" stop="20260918165721 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Fiorentina - Nápoles (Domingo 20/09 - 12:30)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Domingo 20/09 - 12:30)</desc>
-  </programme>
-  <programme start="20260918165721 +0100" stop="20260918205721 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Fiorentina - Nápoles (Domingo 20/09 - 12:30)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Domingo 20/09 - 12:30)</desc>
-  </programme>
-  <programme start="20260918205721 +0100" stop="20260919005721 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Fiorentina - Nápoles (Domingo 20/09 - 12:30)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Domingo 20/09 - 12:30)</desc>
-  </programme>
-  <programme start="20260919005721 +0100" stop="20260919045721 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Fiorentina - Nápoles (Domingo 20/09 - 12:30)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Domingo 20/09 - 12:30)</desc>
-  </programme>
-  <programme start="20260919045721 +0100" stop="20260919085721 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Fiorentina - Nápoles (Domingo 20/09 - 12:30)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Domingo 20/09 - 12:30)</desc>
-  </programme>
-  <programme start="20260919085721 +0100" stop="20260919125721 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Fiorentina - Nápoles (Domingo 20/09 - 12:30)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Domingo 20/09 - 12:30)</desc>
-  </programme>
-  <programme start="20260919125721 +0100" stop="20260919165721 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Fiorentina - Nápoles (Domingo 20/09 - 12:30)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Domingo 20/09 - 12:30)</desc>
-  </programme>
-  <programme start="20260919165721 +0100" stop="20260919205721 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Fiorentina - Nápoles (Domingo 20/09 - 12:30)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Domingo 20/09 - 12:30)</desc>
-  </programme>
-  <programme start="20260919205721 +0100" stop="20260920005721 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Fiorentina - Nápoles (Domingo 20/09 - 12:30)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Domingo 20/09 - 12:30)</desc>
-  </programme>
-  <programme start="20260920005721 +0100" stop="20260920045721 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Fiorentina - Nápoles (Domingo 20/09 - 12:30)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Domingo 20/09 - 12:30)</desc>
-  </programme>
-  <programme start="20260920045721 +0100" stop="20260920085721 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Fiorentina - Nápoles (Domingo 20/09 - 12:30)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Domingo 20/09 - 12:30)</desc>
-  </programme>
-  <programme start="20260920085721 +0100" stop="20260920123000 +0100" channel="Fútbol 3">
+  <programme start="20260920083000 +0100" stop="20260920123000 +0100" channel="Fútbol 3">
     <title>Próximo partido: Fiorentina - Nápoles (Domingo 20/09 - 12:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Domingo 20/09 - 12:30)</desc>
   </programme>
