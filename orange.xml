@@ -6,49 +6,177 @@
   <channel id="Fútbol 2">
     <display-name>Fútbol 2</display-name>
   </channel>
-  <programme start="20260927133145 +0100" stop="20260927161500 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Mallorca - Almería (Domingo 27/09 - 16:15)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Domingo 27/09 - 16:15)</desc>
-  </programme>
-  <programme start="20260927161500 +0100" stop="20260927181500 +0100" channel="Fútbol 2">
-    <title>Laliga Hypermotion: Mallorca - Almería</title>
-    <desc>Fútbol en directo - Laliga Hypermotion: Mallorca - Almería</desc>
-  </programme>
-  <programme start="20260927181500 +0100" stop="20260927210000 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Oviedo - Sporting (Domingo 27/09 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Domingo 27/09 - 21:00)</desc>
-  </programme>
-  <programme start="20260927210000 +0100" stop="20260927230000 +0100" channel="Fútbol 2">
-    <title>Laliga Hypermotion: Oviedo - Sporting</title>
-    <desc>Fútbol en directo - Laliga Hypermotion: Oviedo - Sporting</desc>
-  </programme>
-  <programme start="20260927230000 +0100" stop="20260928030000 +0100" channel="Fútbol 2">
+  <programme start="20260928150514 +0100" stop="20260928190514 +0100" channel="Fútbol 2">
     <title>Próximo partido: Leganés - Castellón (Lunes 28/09 - 20:30)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Lunes 28/09 - 20:30)</desc>
   </programme>
-  <programme start="20260928030000 +0100" stop="20260928070000 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Leganés - Castellón (Lunes 28/09 - 20:30)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Lunes 28/09 - 20:30)</desc>
-  </programme>
-  <programme start="20260928070000 +0100" stop="20260928110000 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Leganés - Castellón (Lunes 28/09 - 20:30)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Lunes 28/09 - 20:30)</desc>
-  </programme>
-  <programme start="20260928110000 +0100" stop="20260928150000 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Leganés - Castellón (Lunes 28/09 - 20:30)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Lunes 28/09 - 20:30)</desc>
-  </programme>
-  <programme start="20260928150000 +0100" stop="20260928190000 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Leganés - Castellón (Lunes 28/09 - 20:30)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Lunes 28/09 - 20:30)</desc>
-  </programme>
-  <programme start="20260928190000 +0100" stop="20260928203000 +0100" channel="Fútbol 2">
+  <programme start="20260928190514 +0100" stop="20260928203000 +0100" channel="Fútbol 2">
     <title>Próximo partido: Leganés - Castellón (Lunes 28/09 - 20:30)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Lunes 28/09 - 20:30)</desc>
   </programme>
   <programme start="20260928203000 +0100" stop="20260928223000 +0100" channel="Fútbol 2">
     <title>Laliga Hypermotion: Leganés - Castellón</title>
     <desc>Fútbol en directo - Laliga Hypermotion: Leganés - Castellón</desc>
+  </programme>
+  <programme start="20260928223000 +0100" stop="20260929023000 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Cádiz - Leganés (Sábado 03/10 - 18:30)</title>
+    <desc>Siguiente emisión en Fútbol 2 | (Sábado 03/10 - 18:30)</desc>
+  </programme>
+  <programme start="20260929023000 +0100" stop="20260929063000 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Cádiz - Leganés (Sábado 03/10 - 18:30)</title>
+    <desc>Siguiente emisión en Fútbol 2 | (Sábado 03/10 - 18:30)</desc>
+  </programme>
+  <programme start="20260929063000 +0100" stop="20260929103000 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Cádiz - Leganés (Sábado 03/10 - 18:30)</title>
+    <desc>Siguiente emisión en Fútbol 2 | (Sábado 03/10 - 18:30)</desc>
+  </programme>
+  <programme start="20260929103000 +0100" stop="20260929143000 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Cádiz - Leganés (Sábado 03/10 - 18:30)</title>
+    <desc>Siguiente emisión en Fútbol 2 | (Sábado 03/10 - 18:30)</desc>
+  </programme>
+  <programme start="20260929143000 +0100" stop="20260929183000 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Cádiz - Leganés (Sábado 03/10 - 18:30)</title>
+    <desc>Siguiente emisión en Fútbol 2 | (Sábado 03/10 - 18:30)</desc>
+  </programme>
+  <programme start="20260929183000 +0100" stop="20260929223000 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Cádiz - Leganés (Sábado 03/10 - 18:30)</title>
+    <desc>Siguiente emisión en Fútbol 2 | (Sábado 03/10 - 18:30)</desc>
+  </programme>
+  <programme start="20260929223000 +0100" stop="20260930023000 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Cádiz - Leganés (Sábado 03/10 - 18:30)</title>
+    <desc>Siguiente emisión en Fútbol 2 | (Sábado 03/10 - 18:30)</desc>
+  </programme>
+  <programme start="20260930023000 +0100" stop="20260930063000 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Cádiz - Leganés (Sábado 03/10 - 18:30)</title>
+    <desc>Siguiente emisión en Fútbol 2 | (Sábado 03/10 - 18:30)</desc>
+  </programme>
+  <programme start="20260930063000 +0100" stop="20260930103000 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Cádiz - Leganés (Sábado 03/10 - 18:30)</title>
+    <desc>Siguiente emisión en Fútbol 2 | (Sábado 03/10 - 18:30)</desc>
+  </programme>
+  <programme start="20260930103000 +0100" stop="20260930143000 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Cádiz - Leganés (Sábado 03/10 - 18:30)</title>
+    <desc>Siguiente emisión en Fútbol 2 | (Sábado 03/10 - 18:30)</desc>
+  </programme>
+  <programme start="20260930143000 +0100" stop="20260930183000 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Cádiz - Leganés (Sábado 03/10 - 18:30)</title>
+    <desc>Siguiente emisión en Fútbol 2 | (Sábado 03/10 - 18:30)</desc>
+  </programme>
+  <programme start="20260930183000 +0100" stop="20260930223000 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Cádiz - Leganés (Sábado 03/10 - 18:30)</title>
+    <desc>Siguiente emisión en Fútbol 2 | (Sábado 03/10 - 18:30)</desc>
+  </programme>
+  <programme start="20260930223000 +0100" stop="20261001023000 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Cádiz - Leganés (Sábado 03/10 - 18:30)</title>
+    <desc>Siguiente emisión en Fútbol 2 | (Sábado 03/10 - 18:30)</desc>
+  </programme>
+  <programme start="20261001023000 +0100" stop="20261001063000 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Cádiz - Leganés (Sábado 03/10 - 18:30)</title>
+    <desc>Siguiente emisión en Fútbol 2 | (Sábado 03/10 - 18:30)</desc>
+  </programme>
+  <programme start="20261001063000 +0100" stop="20261001103000 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Cádiz - Leganés (Sábado 03/10 - 18:30)</title>
+    <desc>Siguiente emisión en Fútbol 2 | (Sábado 03/10 - 18:30)</desc>
+  </programme>
+  <programme start="20261001103000 +0100" stop="20261001143000 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Cádiz - Leganés (Sábado 03/10 - 18:30)</title>
+    <desc>Siguiente emisión en Fútbol 2 | (Sábado 03/10 - 18:30)</desc>
+  </programme>
+  <programme start="20261001143000 +0100" stop="20261001183000 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Cádiz - Leganés (Sábado 03/10 - 18:30)</title>
+    <desc>Siguiente emisión en Fútbol 2 | (Sábado 03/10 - 18:30)</desc>
+  </programme>
+  <programme start="20261001183000 +0100" stop="20261001223000 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Cádiz - Leganés (Sábado 03/10 - 18:30)</title>
+    <desc>Siguiente emisión en Fútbol 2 | (Sábado 03/10 - 18:30)</desc>
+  </programme>
+  <programme start="20261001223000 +0100" stop="20261002023000 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Cádiz - Leganés (Sábado 03/10 - 18:30)</title>
+    <desc>Siguiente emisión en Fútbol 2 | (Sábado 03/10 - 18:30)</desc>
+  </programme>
+  <programme start="20261002023000 +0100" stop="20261002063000 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Cádiz - Leganés (Sábado 03/10 - 18:30)</title>
+    <desc>Siguiente emisión en Fútbol 2 | (Sábado 03/10 - 18:30)</desc>
+  </programme>
+  <programme start="20261002063000 +0100" stop="20261002103000 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Cádiz - Leganés (Sábado 03/10 - 18:30)</title>
+    <desc>Siguiente emisión en Fútbol 2 | (Sábado 03/10 - 18:30)</desc>
+  </programme>
+  <programme start="20261002103000 +0100" stop="20261002143000 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Cádiz - Leganés (Sábado 03/10 - 18:30)</title>
+    <desc>Siguiente emisión en Fútbol 2 | (Sábado 03/10 - 18:30)</desc>
+  </programme>
+  <programme start="20261002143000 +0100" stop="20261002183000 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Cádiz - Leganés (Sábado 03/10 - 18:30)</title>
+    <desc>Siguiente emisión en Fútbol 2 | (Sábado 03/10 - 18:30)</desc>
+  </programme>
+  <programme start="20261002183000 +0100" stop="20261002223000 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Cádiz - Leganés (Sábado 03/10 - 18:30)</title>
+    <desc>Siguiente emisión en Fútbol 2 | (Sábado 03/10 - 18:30)</desc>
+  </programme>
+  <programme start="20261002223000 +0100" stop="20261003023000 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Cádiz - Leganés (Sábado 03/10 - 18:30)</title>
+    <desc>Siguiente emisión en Fútbol 2 | (Sábado 03/10 - 18:30)</desc>
+  </programme>
+  <programme start="20261003023000 +0100" stop="20261003063000 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Cádiz - Leganés (Sábado 03/10 - 18:30)</title>
+    <desc>Siguiente emisión en Fútbol 2 | (Sábado 03/10 - 18:30)</desc>
+  </programme>
+  <programme start="20261003063000 +0100" stop="20261003103000 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Cádiz - Leganés (Sábado 03/10 - 18:30)</title>
+    <desc>Siguiente emisión en Fútbol 2 | (Sábado 03/10 - 18:30)</desc>
+  </programme>
+  <programme start="20261003103000 +0100" stop="20261003143000 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Cádiz - Leganés (Sábado 03/10 - 18:30)</title>
+    <desc>Siguiente emisión en Fútbol 2 | (Sábado 03/10 - 18:30)</desc>
+  </programme>
+  <programme start="20261003143000 +0100" stop="20261003183000 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Cádiz - Leganés (Sábado 03/10 - 18:30)</title>
+    <desc>Siguiente emisión en Fútbol 2 | (Sábado 03/10 - 18:30)</desc>
+  </programme>
+  <programme start="20261003183000 +0100" stop="20261003203000 +0100" channel="Fútbol 2">
+    <title>Laliga Hypermotion: Cádiz - Leganés</title>
+    <desc>Fútbol en directo - Laliga Hypermotion: Cádiz - Leganés</desc>
+  </programme>
+  <programme start="20261003203000 +0100" stop="20261004003000 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Sporting - Celta B (Domingo 04/10 - 16:15)</title>
+    <desc>Siguiente emisión en Fútbol 2 | (Domingo 04/10 - 16:15)</desc>
+  </programme>
+  <programme start="20261004003000 +0100" stop="20261004043000 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Sporting - Celta B (Domingo 04/10 - 16:15)</title>
+    <desc>Siguiente emisión en Fútbol 2 | (Domingo 04/10 - 16:15)</desc>
+  </programme>
+  <programme start="20261004043000 +0100" stop="20261004083000 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Sporting - Celta B (Domingo 04/10 - 16:15)</title>
+    <desc>Siguiente emisión en Fútbol 2 | (Domingo 04/10 - 16:15)</desc>
+  </programme>
+  <programme start="20261004083000 +0100" stop="20261004123000 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Sporting - Celta B (Domingo 04/10 - 16:15)</title>
+    <desc>Siguiente emisión en Fútbol 2 | (Domingo 04/10 - 16:15)</desc>
+  </programme>
+  <programme start="20261004123000 +0100" stop="20261004161500 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Sporting - Celta B (Domingo 04/10 - 16:15)</title>
+    <desc>Siguiente emisión en Fútbol 2 | (Domingo 04/10 - 16:15)</desc>
+  </programme>
+  <programme start="20261004161500 +0100" stop="20261004181500 +0100" channel="Fútbol 2">
+    <title>Laliga Hypermotion: Sporting - Celta B</title>
+    <desc>Fútbol en directo - Laliga Hypermotion: Sporting - Celta B</desc>
+  </programme>
+  <programme start="20261004181500 +0100" stop="20261004183000 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Las Palmas - Valladolid (Domingo 04/10 - 18:30)</title>
+    <desc>Siguiente emisión en Fútbol 2 | (Domingo 04/10 - 18:30)</desc>
+  </programme>
+  <programme start="20261004183000 +0100" stop="20261004203000 +0100" channel="Fútbol 2">
+    <title>Laliga Hypermotion: Las Palmas - Valladolid</title>
+    <desc>Fútbol en directo - Laliga Hypermotion: Las Palmas - Valladolid</desc>
+  </programme>
+  <programme start="20261004203000 +0100" stop="20261004210000 +0100" channel="Fútbol 2">
+    <title>Próximo partido: Girona - Mallorca (Domingo 04/10 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 2 | (Domingo 04/10 - 21:00)</desc>
+  </programme>
+  <programme start="20261004210000 +0100" stop="20261004230000 +0100" channel="Fútbol 2">
+    <title>Laliga Hypermotion: Girona - Mallorca</title>
+    <desc>Fútbol en directo - Laliga Hypermotion: Girona - Mallorca</desc>
   </programme>
   <channel id="Fútbol 3">
     <display-name>Fútbol 3</display-name>
