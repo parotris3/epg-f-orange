@@ -3,90 +3,462 @@
   <channel id="Fútbol 1">
     <display-name>Fútbol 1</display-name>
   </channel>
+  <programme start="20261001143417 +0100" stop="20261001183417 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Real Madrid - Villarreal (Sábado 10/10 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Sábado 10/10 - 21:00)</desc>
+  </programme>
+  <programme start="20261001183417 +0100" stop="20261001223417 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Real Madrid - Villarreal (Sábado 10/10 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Sábado 10/10 - 21:00)</desc>
+  </programme>
+  <programme start="20261001223417 +0100" stop="20261002023417 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Real Madrid - Villarreal (Sábado 10/10 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Sábado 10/10 - 21:00)</desc>
+  </programme>
+  <programme start="20261002023417 +0100" stop="20261002063417 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Real Madrid - Villarreal (Sábado 10/10 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Sábado 10/10 - 21:00)</desc>
+  </programme>
+  <programme start="20261002063417 +0100" stop="20261002103417 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Real Madrid - Villarreal (Sábado 10/10 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Sábado 10/10 - 21:00)</desc>
+  </programme>
+  <programme start="20261002103417 +0100" stop="20261002143417 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Real Madrid - Villarreal (Sábado 10/10 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Sábado 10/10 - 21:00)</desc>
+  </programme>
+  <programme start="20261002143417 +0100" stop="20261002183417 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Real Madrid - Villarreal (Sábado 10/10 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Sábado 10/10 - 21:00)</desc>
+  </programme>
+  <programme start="20261002183417 +0100" stop="20261002223417 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Real Madrid - Villarreal (Sábado 10/10 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Sábado 10/10 - 21:00)</desc>
+  </programme>
+  <programme start="20261002223417 +0100" stop="20261003023417 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Real Madrid - Villarreal (Sábado 10/10 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Sábado 10/10 - 21:00)</desc>
+  </programme>
+  <programme start="20261003023417 +0100" stop="20261003063417 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Real Madrid - Villarreal (Sábado 10/10 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Sábado 10/10 - 21:00)</desc>
+  </programme>
+  <programme start="20261003063417 +0100" stop="20261003103417 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Real Madrid - Villarreal (Sábado 10/10 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Sábado 10/10 - 21:00)</desc>
+  </programme>
+  <programme start="20261003103417 +0100" stop="20261003143417 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Real Madrid - Villarreal (Sábado 10/10 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Sábado 10/10 - 21:00)</desc>
+  </programme>
+  <programme start="20261003143417 +0100" stop="20261003183417 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Real Madrid - Villarreal (Sábado 10/10 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Sábado 10/10 - 21:00)</desc>
+  </programme>
+  <programme start="20261003183417 +0100" stop="20261003223417 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Real Madrid - Villarreal (Sábado 10/10 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Sábado 10/10 - 21:00)</desc>
+  </programme>
+  <programme start="20261003223417 +0100" stop="20261004023417 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Real Madrid - Villarreal (Sábado 10/10 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Sábado 10/10 - 21:00)</desc>
+  </programme>
+  <programme start="20261004023417 +0100" stop="20261004063417 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Real Madrid - Villarreal (Sábado 10/10 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Sábado 10/10 - 21:00)</desc>
+  </programme>
+  <programme start="20261004063417 +0100" stop="20261004103417 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Real Madrid - Villarreal (Sábado 10/10 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Sábado 10/10 - 21:00)</desc>
+  </programme>
+  <programme start="20261004103417 +0100" stop="20261004143417 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Real Madrid - Villarreal (Sábado 10/10 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Sábado 10/10 - 21:00)</desc>
+  </programme>
+  <programme start="20261004143417 +0100" stop="20261004183417 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Real Madrid - Villarreal (Sábado 10/10 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Sábado 10/10 - 21:00)</desc>
+  </programme>
+  <programme start="20261004183417 +0100" stop="20261004223417 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Real Madrid - Villarreal (Sábado 10/10 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Sábado 10/10 - 21:00)</desc>
+  </programme>
+  <programme start="20261004223417 +0100" stop="20261005023417 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Real Madrid - Villarreal (Sábado 10/10 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Sábado 10/10 - 21:00)</desc>
+  </programme>
+  <programme start="20261005023417 +0100" stop="20261005063417 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Real Madrid - Villarreal (Sábado 10/10 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Sábado 10/10 - 21:00)</desc>
+  </programme>
+  <programme start="20261005063417 +0100" stop="20261005103417 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Real Madrid - Villarreal (Sábado 10/10 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Sábado 10/10 - 21:00)</desc>
+  </programme>
+  <programme start="20261005103417 +0100" stop="20261005143417 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Real Madrid - Villarreal (Sábado 10/10 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Sábado 10/10 - 21:00)</desc>
+  </programme>
+  <programme start="20261005143417 +0100" stop="20261005183417 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Real Madrid - Villarreal (Sábado 10/10 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Sábado 10/10 - 21:00)</desc>
+  </programme>
+  <programme start="20261005183417 +0100" stop="20261005223417 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Real Madrid - Villarreal (Sábado 10/10 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Sábado 10/10 - 21:00)</desc>
+  </programme>
+  <programme start="20261005223417 +0100" stop="20261006023417 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Real Madrid - Villarreal (Sábado 10/10 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Sábado 10/10 - 21:00)</desc>
+  </programme>
+  <programme start="20261006023417 +0100" stop="20261006063417 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Real Madrid - Villarreal (Sábado 10/10 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Sábado 10/10 - 21:00)</desc>
+  </programme>
+  <programme start="20261006063417 +0100" stop="20261006103417 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Real Madrid - Villarreal (Sábado 10/10 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Sábado 10/10 - 21:00)</desc>
+  </programme>
+  <programme start="20261006103417 +0100" stop="20261006143417 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Real Madrid - Villarreal (Sábado 10/10 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Sábado 10/10 - 21:00)</desc>
+  </programme>
+  <programme start="20261006143417 +0100" stop="20261006183417 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Real Madrid - Villarreal (Sábado 10/10 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Sábado 10/10 - 21:00)</desc>
+  </programme>
+  <programme start="20261006183417 +0100" stop="20261006223417 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Real Madrid - Villarreal (Sábado 10/10 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Sábado 10/10 - 21:00)</desc>
+  </programme>
+  <programme start="20261006223417 +0100" stop="20261007023417 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Real Madrid - Villarreal (Sábado 10/10 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Sábado 10/10 - 21:00)</desc>
+  </programme>
+  <programme start="20261007023417 +0100" stop="20261007063417 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Real Madrid - Villarreal (Sábado 10/10 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Sábado 10/10 - 21:00)</desc>
+  </programme>
+  <programme start="20261007063417 +0100" stop="20261007103417 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Real Madrid - Villarreal (Sábado 10/10 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Sábado 10/10 - 21:00)</desc>
+  </programme>
+  <programme start="20261007103417 +0100" stop="20261007143417 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Real Madrid - Villarreal (Sábado 10/10 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Sábado 10/10 - 21:00)</desc>
+  </programme>
+  <programme start="20261007143417 +0100" stop="20261007183417 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Real Madrid - Villarreal (Sábado 10/10 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Sábado 10/10 - 21:00)</desc>
+  </programme>
+  <programme start="20261007183417 +0100" stop="20261007223417 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Real Madrid - Villarreal (Sábado 10/10 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Sábado 10/10 - 21:00)</desc>
+  </programme>
+  <programme start="20261007223417 +0100" stop="20261008023417 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Real Madrid - Villarreal (Sábado 10/10 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Sábado 10/10 - 21:00)</desc>
+  </programme>
+  <programme start="20261008023417 +0100" stop="20261008063417 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Real Madrid - Villarreal (Sábado 10/10 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Sábado 10/10 - 21:00)</desc>
+  </programme>
+  <programme start="20261008063417 +0100" stop="20261008103417 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Real Madrid - Villarreal (Sábado 10/10 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Sábado 10/10 - 21:00)</desc>
+  </programme>
+  <programme start="20261008103417 +0100" stop="20261008143417 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Real Madrid - Villarreal (Sábado 10/10 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Sábado 10/10 - 21:00)</desc>
+  </programme>
+  <programme start="20261008143417 +0100" stop="20261008183417 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Real Madrid - Villarreal (Sábado 10/10 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Sábado 10/10 - 21:00)</desc>
+  </programme>
+  <programme start="20261008183417 +0100" stop="20261008223417 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Real Madrid - Villarreal (Sábado 10/10 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Sábado 10/10 - 21:00)</desc>
+  </programme>
+  <programme start="20261008223417 +0100" stop="20261009023417 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Real Madrid - Villarreal (Sábado 10/10 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Sábado 10/10 - 21:00)</desc>
+  </programme>
+  <programme start="20261009023417 +0100" stop="20261009063417 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Real Madrid - Villarreal (Sábado 10/10 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Sábado 10/10 - 21:00)</desc>
+  </programme>
+  <programme start="20261009063417 +0100" stop="20261009103417 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Real Madrid - Villarreal (Sábado 10/10 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Sábado 10/10 - 21:00)</desc>
+  </programme>
+  <programme start="20261009103417 +0100" stop="20261009143417 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Real Madrid - Villarreal (Sábado 10/10 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Sábado 10/10 - 21:00)</desc>
+  </programme>
+  <programme start="20261009143417 +0100" stop="20261009183417 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Real Madrid - Villarreal (Sábado 10/10 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Sábado 10/10 - 21:00)</desc>
+  </programme>
+  <programme start="20261009183417 +0100" stop="20261009223417 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Real Madrid - Villarreal (Sábado 10/10 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Sábado 10/10 - 21:00)</desc>
+  </programme>
+  <programme start="20261009223417 +0100" stop="20261010023417 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Real Madrid - Villarreal (Sábado 10/10 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Sábado 10/10 - 21:00)</desc>
+  </programme>
+  <programme start="20261010023417 +0100" stop="20261010063417 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Real Madrid - Villarreal (Sábado 10/10 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Sábado 10/10 - 21:00)</desc>
+  </programme>
+  <programme start="20261010063417 +0100" stop="20261010103417 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Real Madrid - Villarreal (Sábado 10/10 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Sábado 10/10 - 21:00)</desc>
+  </programme>
+  <programme start="20261010103417 +0100" stop="20261010143417 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Real Madrid - Villarreal (Sábado 10/10 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Sábado 10/10 - 21:00)</desc>
+  </programme>
+  <programme start="20261010143417 +0100" stop="20261010183417 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Real Madrid - Villarreal (Sábado 10/10 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Sábado 10/10 - 21:00)</desc>
+  </programme>
+  <programme start="20261010183417 +0100" stop="20261010210000 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Real Madrid - Villarreal (Sábado 10/10 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Sábado 10/10 - 21:00)</desc>
+  </programme>
+  <programme start="20261010210000 +0100" stop="20261010230000 +0100" channel="Fútbol 1">
+    <title>Laliga Ea Sports: Real Madrid - Villarreal</title>
+    <desc>Fútbol en directo - Laliga Ea Sports: Real Madrid - Villarreal</desc>
+  </programme>
+  <programme start="20261010230000 +0100" stop="20261011030000 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Galatasaray - Barcelona (Martes 13/10 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Martes 13/10 - 21:00)</desc>
+  </programme>
+  <programme start="20261011030000 +0100" stop="20261011070000 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Galatasaray - Barcelona (Martes 13/10 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Martes 13/10 - 21:00)</desc>
+  </programme>
+  <programme start="20261011070000 +0100" stop="20261011110000 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Galatasaray - Barcelona (Martes 13/10 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Martes 13/10 - 21:00)</desc>
+  </programme>
+  <programme start="20261011110000 +0100" stop="20261011150000 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Galatasaray - Barcelona (Martes 13/10 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Martes 13/10 - 21:00)</desc>
+  </programme>
+  <programme start="20261011150000 +0100" stop="20261011190000 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Galatasaray - Barcelona (Martes 13/10 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Martes 13/10 - 21:00)</desc>
+  </programme>
+  <programme start="20261011190000 +0100" stop="20261011230000 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Galatasaray - Barcelona (Martes 13/10 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Martes 13/10 - 21:00)</desc>
+  </programme>
+  <programme start="20261011230000 +0100" stop="20261012030000 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Galatasaray - Barcelona (Martes 13/10 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Martes 13/10 - 21:00)</desc>
+  </programme>
+  <programme start="20261012030000 +0100" stop="20261012070000 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Galatasaray - Barcelona (Martes 13/10 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Martes 13/10 - 21:00)</desc>
+  </programme>
+  <programme start="20261012070000 +0100" stop="20261012110000 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Galatasaray - Barcelona (Martes 13/10 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Martes 13/10 - 21:00)</desc>
+  </programme>
+  <programme start="20261012110000 +0100" stop="20261012150000 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Galatasaray - Barcelona (Martes 13/10 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Martes 13/10 - 21:00)</desc>
+  </programme>
+  <programme start="20261012150000 +0100" stop="20261012190000 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Galatasaray - Barcelona (Martes 13/10 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Martes 13/10 - 21:00)</desc>
+  </programme>
+  <programme start="20261012190000 +0100" stop="20261012230000 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Galatasaray - Barcelona (Martes 13/10 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Martes 13/10 - 21:00)</desc>
+  </programme>
+  <programme start="20261012230000 +0100" stop="20261013030000 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Galatasaray - Barcelona (Martes 13/10 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Martes 13/10 - 21:00)</desc>
+  </programme>
+  <programme start="20261013030000 +0100" stop="20261013070000 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Galatasaray - Barcelona (Martes 13/10 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Martes 13/10 - 21:00)</desc>
+  </programme>
+  <programme start="20261013070000 +0100" stop="20261013110000 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Galatasaray - Barcelona (Martes 13/10 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Martes 13/10 - 21:00)</desc>
+  </programme>
+  <programme start="20261013110000 +0100" stop="20261013150000 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Galatasaray - Barcelona (Martes 13/10 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Martes 13/10 - 21:00)</desc>
+  </programme>
+  <programme start="20261013150000 +0100" stop="20261013190000 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Galatasaray - Barcelona (Martes 13/10 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Martes 13/10 - 21:00)</desc>
+  </programme>
+  <programme start="20261013190000 +0100" stop="20261013210000 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Galatasaray - Barcelona (Martes 13/10 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Martes 13/10 - 21:00)</desc>
+  </programme>
+  <programme start="20261013210000 +0100" stop="20261013230000 +0100" channel="Fútbol 1">
+    <title>Champions League: Galatasaray - Barcelona</title>
+    <desc>Fútbol en directo - Champions League: Galatasaray - Barcelona</desc>
+  </programme>
+  <programme start="20261013230000 +0100" stop="20261014030000 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Valencia - Athletic Club (Sábado 17/10 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Sábado 17/10 - 21:00)</desc>
+  </programme>
+  <programme start="20261014030000 +0100" stop="20261014070000 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Valencia - Athletic Club (Sábado 17/10 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Sábado 17/10 - 21:00)</desc>
+  </programme>
+  <programme start="20261014070000 +0100" stop="20261014110000 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Valencia - Athletic Club (Sábado 17/10 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Sábado 17/10 - 21:00)</desc>
+  </programme>
+  <programme start="20261014110000 +0100" stop="20261014150000 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Valencia - Athletic Club (Sábado 17/10 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Sábado 17/10 - 21:00)</desc>
+  </programme>
+  <programme start="20261014150000 +0100" stop="20261014190000 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Valencia - Athletic Club (Sábado 17/10 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Sábado 17/10 - 21:00)</desc>
+  </programme>
+  <programme start="20261014190000 +0100" stop="20261014230000 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Valencia - Athletic Club (Sábado 17/10 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Sábado 17/10 - 21:00)</desc>
+  </programme>
+  <programme start="20261014230000 +0100" stop="20261015030000 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Valencia - Athletic Club (Sábado 17/10 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Sábado 17/10 - 21:00)</desc>
+  </programme>
+  <programme start="20261015030000 +0100" stop="20261015070000 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Valencia - Athletic Club (Sábado 17/10 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Sábado 17/10 - 21:00)</desc>
+  </programme>
+  <programme start="20261015070000 +0100" stop="20261015110000 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Valencia - Athletic Club (Sábado 17/10 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Sábado 17/10 - 21:00)</desc>
+  </programme>
+  <programme start="20261015110000 +0100" stop="20261015150000 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Valencia - Athletic Club (Sábado 17/10 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Sábado 17/10 - 21:00)</desc>
+  </programme>
+  <programme start="20261015150000 +0100" stop="20261015190000 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Valencia - Athletic Club (Sábado 17/10 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Sábado 17/10 - 21:00)</desc>
+  </programme>
+  <programme start="20261015190000 +0100" stop="20261015230000 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Valencia - Athletic Club (Sábado 17/10 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Sábado 17/10 - 21:00)</desc>
+  </programme>
+  <programme start="20261015230000 +0100" stop="20261016030000 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Valencia - Athletic Club (Sábado 17/10 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Sábado 17/10 - 21:00)</desc>
+  </programme>
+  <programme start="20261016030000 +0100" stop="20261016070000 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Valencia - Athletic Club (Sábado 17/10 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Sábado 17/10 - 21:00)</desc>
+  </programme>
+  <programme start="20261016070000 +0100" stop="20261016110000 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Valencia - Athletic Club (Sábado 17/10 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Sábado 17/10 - 21:00)</desc>
+  </programme>
+  <programme start="20261016110000 +0100" stop="20261016150000 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Valencia - Athletic Club (Sábado 17/10 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Sábado 17/10 - 21:00)</desc>
+  </programme>
+  <programme start="20261016150000 +0100" stop="20261016190000 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Valencia - Athletic Club (Sábado 17/10 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Sábado 17/10 - 21:00)</desc>
+  </programme>
+  <programme start="20261016190000 +0100" stop="20261016230000 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Valencia - Athletic Club (Sábado 17/10 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Sábado 17/10 - 21:00)</desc>
+  </programme>
+  <programme start="20261016230000 +0100" stop="20261017030000 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Valencia - Athletic Club (Sábado 17/10 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Sábado 17/10 - 21:00)</desc>
+  </programme>
+  <programme start="20261017030000 +0100" stop="20261017070000 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Valencia - Athletic Club (Sábado 17/10 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Sábado 17/10 - 21:00)</desc>
+  </programme>
+  <programme start="20261017070000 +0100" stop="20261017110000 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Valencia - Athletic Club (Sábado 17/10 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Sábado 17/10 - 21:00)</desc>
+  </programme>
+  <programme start="20261017110000 +0100" stop="20261017150000 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Valencia - Athletic Club (Sábado 17/10 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Sábado 17/10 - 21:00)</desc>
+  </programme>
+  <programme start="20261017150000 +0100" stop="20261017190000 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Valencia - Athletic Club (Sábado 17/10 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Sábado 17/10 - 21:00)</desc>
+  </programme>
+  <programme start="20261017190000 +0100" stop="20261017210000 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Valencia - Athletic Club (Sábado 17/10 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Sábado 17/10 - 21:00)</desc>
+  </programme>
+  <programme start="20261017210000 +0100" stop="20261017230000 +0100" channel="Fútbol 1">
+    <title>Laliga Ea Sports: Valencia - Athletic Club</title>
+    <desc>Fútbol en directo - Laliga Ea Sports: Valencia - Athletic Club</desc>
+  </programme>
   <channel id="Fútbol 2">
     <display-name>Fútbol 2</display-name>
   </channel>
-  <programme start="20260928203000 +0100" stop="20260928223000 +0100" channel="Fútbol 2">
-    <title>Laliga Hypermotion: Leganés - Castellón</title>
-    <desc>Fútbol en directo - Laliga Hypermotion: Leganés - Castellón</desc>
-  </programme>
-  <programme start="20260930140128 +0100" stop="20260930180128 +0100" channel="Fútbol 2">
+  <programme start="20261001143417 +0100" stop="20261001183417 +0100" channel="Fútbol 2">
     <title>Próximo partido: Cádiz - Leganés (Sábado 03/10 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 03/10 - 18:30)</desc>
   </programme>
-  <programme start="20260930180128 +0100" stop="20260930220128 +0100" channel="Fútbol 2">
+  <programme start="20261001183417 +0100" stop="20261001223417 +0100" channel="Fútbol 2">
     <title>Próximo partido: Cádiz - Leganés (Sábado 03/10 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 03/10 - 18:30)</desc>
   </programme>
-  <programme start="20260930220128 +0100" stop="20261001020128 +0100" channel="Fútbol 2">
+  <programme start="20261001223417 +0100" stop="20261002023417 +0100" channel="Fútbol 2">
     <title>Próximo partido: Cádiz - Leganés (Sábado 03/10 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 03/10 - 18:30)</desc>
   </programme>
-  <programme start="20261001020128 +0100" stop="20261001060128 +0100" channel="Fútbol 2">
+  <programme start="20261002023417 +0100" stop="20261002063417 +0100" channel="Fútbol 2">
     <title>Próximo partido: Cádiz - Leganés (Sábado 03/10 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 03/10 - 18:30)</desc>
   </programme>
-  <programme start="20261001060128 +0100" stop="20261001100128 +0100" channel="Fútbol 2">
+  <programme start="20261002063417 +0100" stop="20261002103417 +0100" channel="Fútbol 2">
     <title>Próximo partido: Cádiz - Leganés (Sábado 03/10 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 03/10 - 18:30)</desc>
   </programme>
-  <programme start="20261001100128 +0100" stop="20261001140128 +0100" channel="Fútbol 2">
+  <programme start="20261002103417 +0100" stop="20261002143417 +0100" channel="Fútbol 2">
     <title>Próximo partido: Cádiz - Leganés (Sábado 03/10 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 03/10 - 18:30)</desc>
   </programme>
-  <programme start="20261001140128 +0100" stop="20261001180128 +0100" channel="Fútbol 2">
+  <programme start="20261002143417 +0100" stop="20261002183417 +0100" channel="Fútbol 2">
     <title>Próximo partido: Cádiz - Leganés (Sábado 03/10 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 03/10 - 18:30)</desc>
   </programme>
-  <programme start="20261001180128 +0100" stop="20261001220128 +0100" channel="Fútbol 2">
+  <programme start="20261002183417 +0100" stop="20261002223417 +0100" channel="Fútbol 2">
     <title>Próximo partido: Cádiz - Leganés (Sábado 03/10 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 03/10 - 18:30)</desc>
   </programme>
-  <programme start="20261001220128 +0100" stop="20261002020128 +0100" channel="Fútbol 2">
+  <programme start="20261002223417 +0100" stop="20261003023417 +0100" channel="Fútbol 2">
     <title>Próximo partido: Cádiz - Leganés (Sábado 03/10 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 03/10 - 18:30)</desc>
   </programme>
-  <programme start="20261002020128 +0100" stop="20261002060128 +0100" channel="Fútbol 2">
+  <programme start="20261003023417 +0100" stop="20261003063417 +0100" channel="Fútbol 2">
     <title>Próximo partido: Cádiz - Leganés (Sábado 03/10 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 03/10 - 18:30)</desc>
   </programme>
-  <programme start="20261002060128 +0100" stop="20261002100128 +0100" channel="Fútbol 2">
+  <programme start="20261003063417 +0100" stop="20261003103417 +0100" channel="Fútbol 2">
     <title>Próximo partido: Cádiz - Leganés (Sábado 03/10 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 03/10 - 18:30)</desc>
   </programme>
-  <programme start="20261002100128 +0100" stop="20261002140128 +0100" channel="Fútbol 2">
+  <programme start="20261003103417 +0100" stop="20261003143417 +0100" channel="Fútbol 2">
     <title>Próximo partido: Cádiz - Leganés (Sábado 03/10 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 03/10 - 18:30)</desc>
   </programme>
-  <programme start="20261002140128 +0100" stop="20261002180128 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Cádiz - Leganés (Sábado 03/10 - 18:30)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Sábado 03/10 - 18:30)</desc>
-  </programme>
-  <programme start="20261002180128 +0100" stop="20261002220128 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Cádiz - Leganés (Sábado 03/10 - 18:30)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Sábado 03/10 - 18:30)</desc>
-  </programme>
-  <programme start="20261002220128 +0100" stop="20261003020128 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Cádiz - Leganés (Sábado 03/10 - 18:30)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Sábado 03/10 - 18:30)</desc>
-  </programme>
-  <programme start="20261003020128 +0100" stop="20261003060128 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Cádiz - Leganés (Sábado 03/10 - 18:30)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Sábado 03/10 - 18:30)</desc>
-  </programme>
-  <programme start="20261003060128 +0100" stop="20261003100128 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Cádiz - Leganés (Sábado 03/10 - 18:30)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Sábado 03/10 - 18:30)</desc>
-  </programme>
-  <programme start="20261003100128 +0100" stop="20261003140128 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Cádiz - Leganés (Sábado 03/10 - 18:30)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Sábado 03/10 - 18:30)</desc>
-  </programme>
-  <programme start="20261003140128 +0100" stop="20261003180128 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Cádiz - Leganés (Sábado 03/10 - 18:30)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Sábado 03/10 - 18:30)</desc>
-  </programme>
-  <programme start="20261003180128 +0100" stop="20261003183000 +0100" channel="Fútbol 2">
+  <programme start="20261003143417 +0100" stop="20261003183000 +0100" channel="Fútbol 2">
     <title>Próximo partido: Cádiz - Leganés (Sábado 03/10 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 03/10 - 18:30)</desc>
   </programme>
