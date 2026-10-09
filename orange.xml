@@ -3,59 +3,35 @@
   <channel id="Fútbol 1">
     <display-name>Fútbol 1</display-name>
   </channel>
-  <programme start="20261008145616 +0100" stop="20261008185616 +0100" channel="Fútbol 1">
+  <programme start="20261009144127 +0100" stop="20261009184127 +0100" channel="Fútbol 1">
     <title>Próximo partido: Real Madrid - Villarreal (Sábado 10/10 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 10/10 - 21:00)</desc>
   </programme>
-  <programme start="20261008185616 +0100" stop="20261008225616 +0100" channel="Fútbol 1">
+  <programme start="20261009184127 +0100" stop="20261009224127 +0100" channel="Fútbol 1">
     <title>Próximo partido: Real Madrid - Villarreal (Sábado 10/10 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 10/10 - 21:00)</desc>
   </programme>
-  <programme start="20261008225616 +0100" stop="20261009025616 +0100" channel="Fútbol 1">
+  <programme start="20261009224127 +0100" stop="20261010024127 +0100" channel="Fútbol 1">
     <title>Próximo partido: Real Madrid - Villarreal (Sábado 10/10 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 10/10 - 21:00)</desc>
   </programme>
-  <programme start="20261009025616 +0100" stop="20261009065616 +0100" channel="Fútbol 1">
+  <programme start="20261010024127 +0100" stop="20261010064127 +0100" channel="Fútbol 1">
     <title>Próximo partido: Real Madrid - Villarreal (Sábado 10/10 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 10/10 - 21:00)</desc>
   </programme>
-  <programme start="20261009065616 +0100" stop="20261009105616 +0100" channel="Fútbol 1">
+  <programme start="20261010064127 +0100" stop="20261010104127 +0100" channel="Fútbol 1">
     <title>Próximo partido: Real Madrid - Villarreal (Sábado 10/10 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 10/10 - 21:00)</desc>
   </programme>
-  <programme start="20261009105616 +0100" stop="20261009145616 +0100" channel="Fútbol 1">
+  <programme start="20261010104127 +0100" stop="20261010144127 +0100" channel="Fútbol 1">
     <title>Próximo partido: Real Madrid - Villarreal (Sábado 10/10 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 10/10 - 21:00)</desc>
   </programme>
-  <programme start="20261009145616 +0100" stop="20261009185616 +0100" channel="Fútbol 1">
+  <programme start="20261010144127 +0100" stop="20261010184127 +0100" channel="Fútbol 1">
     <title>Próximo partido: Real Madrid - Villarreal (Sábado 10/10 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 10/10 - 21:00)</desc>
   </programme>
-  <programme start="20261009185616 +0100" stop="20261009225616 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Real Madrid - Villarreal (Sábado 10/10 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Sábado 10/10 - 21:00)</desc>
-  </programme>
-  <programme start="20261009225616 +0100" stop="20261010025616 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Real Madrid - Villarreal (Sábado 10/10 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Sábado 10/10 - 21:00)</desc>
-  </programme>
-  <programme start="20261010025616 +0100" stop="20261010065616 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Real Madrid - Villarreal (Sábado 10/10 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Sábado 10/10 - 21:00)</desc>
-  </programme>
-  <programme start="20261010065616 +0100" stop="20261010105616 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Real Madrid - Villarreal (Sábado 10/10 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Sábado 10/10 - 21:00)</desc>
-  </programme>
-  <programme start="20261010105616 +0100" stop="20261010145616 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Real Madrid - Villarreal (Sábado 10/10 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Sábado 10/10 - 21:00)</desc>
-  </programme>
-  <programme start="20261010145616 +0100" stop="20261010185616 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Real Madrid - Villarreal (Sábado 10/10 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Sábado 10/10 - 21:00)</desc>
-  </programme>
-  <programme start="20261010185616 +0100" stop="20261010210000 +0100" channel="Fútbol 1">
+  <programme start="20261010184127 +0100" stop="20261010210000 +0100" channel="Fútbol 1">
     <title>Próximo partido: Real Madrid - Villarreal (Sábado 10/10 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 10/10 - 21:00)</desc>
   </programme>
@@ -418,79 +394,55 @@
   <channel id="Fútbol 2">
     <display-name>Fútbol 2</display-name>
   </channel>
-  <programme start="20261008145616 +0100" stop="20261008185616 +0100" channel="Fútbol 2">
+  <programme start="20261009144127 +0100" stop="20261009184127 +0100" channel="Fútbol 2">
     <title>Próximo partido: Mallorca - Las Palmas (Domingo 11/10 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Domingo 11/10 - 18:30)</desc>
   </programme>
-  <programme start="20261008185616 +0100" stop="20261008225616 +0100" channel="Fútbol 2">
+  <programme start="20261009184127 +0100" stop="20261009224127 +0100" channel="Fútbol 2">
     <title>Próximo partido: Mallorca - Las Palmas (Domingo 11/10 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Domingo 11/10 - 18:30)</desc>
   </programme>
-  <programme start="20261008225616 +0100" stop="20261009025616 +0100" channel="Fútbol 2">
+  <programme start="20261009224127 +0100" stop="20261010024127 +0100" channel="Fútbol 2">
     <title>Próximo partido: Mallorca - Las Palmas (Domingo 11/10 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Domingo 11/10 - 18:30)</desc>
   </programme>
-  <programme start="20261009025616 +0100" stop="20261009065616 +0100" channel="Fútbol 2">
+  <programme start="20261010024127 +0100" stop="20261010064127 +0100" channel="Fútbol 2">
     <title>Próximo partido: Mallorca - Las Palmas (Domingo 11/10 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Domingo 11/10 - 18:30)</desc>
   </programme>
-  <programme start="20261009065616 +0100" stop="20261009105616 +0100" channel="Fútbol 2">
+  <programme start="20261010064127 +0100" stop="20261010104127 +0100" channel="Fútbol 2">
     <title>Próximo partido: Mallorca - Las Palmas (Domingo 11/10 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Domingo 11/10 - 18:30)</desc>
   </programme>
-  <programme start="20261009105616 +0100" stop="20261009145616 +0100" channel="Fútbol 2">
+  <programme start="20261010104127 +0100" stop="20261010144127 +0100" channel="Fútbol 2">
     <title>Próximo partido: Mallorca - Las Palmas (Domingo 11/10 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Domingo 11/10 - 18:30)</desc>
   </programme>
-  <programme start="20261009145616 +0100" stop="20261009185616 +0100" channel="Fútbol 2">
+  <programme start="20261010144127 +0100" stop="20261010184127 +0100" channel="Fútbol 2">
     <title>Próximo partido: Mallorca - Las Palmas (Domingo 11/10 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Domingo 11/10 - 18:30)</desc>
   </programme>
-  <programme start="20261009185616 +0100" stop="20261009225616 +0100" channel="Fútbol 2">
+  <programme start="20261010184127 +0100" stop="20261010224127 +0100" channel="Fútbol 2">
     <title>Próximo partido: Mallorca - Las Palmas (Domingo 11/10 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Domingo 11/10 - 18:30)</desc>
   </programme>
-  <programme start="20261009225616 +0100" stop="20261010025616 +0100" channel="Fútbol 2">
+  <programme start="20261010224127 +0100" stop="20261011024127 +0100" channel="Fútbol 2">
     <title>Próximo partido: Mallorca - Las Palmas (Domingo 11/10 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Domingo 11/10 - 18:30)</desc>
   </programme>
-  <programme start="20261010025616 +0100" stop="20261010065616 +0100" channel="Fútbol 2">
+  <programme start="20261011024127 +0100" stop="20261011064127 +0100" channel="Fútbol 2">
     <title>Próximo partido: Mallorca - Las Palmas (Domingo 11/10 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Domingo 11/10 - 18:30)</desc>
   </programme>
-  <programme start="20261010065616 +0100" stop="20261010105616 +0100" channel="Fútbol 2">
+  <programme start="20261011064127 +0100" stop="20261011104127 +0100" channel="Fútbol 2">
     <title>Próximo partido: Mallorca - Las Palmas (Domingo 11/10 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Domingo 11/10 - 18:30)</desc>
   </programme>
-  <programme start="20261010105616 +0100" stop="20261010145616 +0100" channel="Fútbol 2">
+  <programme start="20261011104127 +0100" stop="20261011144127 +0100" channel="Fútbol 2">
     <title>Próximo partido: Mallorca - Las Palmas (Domingo 11/10 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Domingo 11/10 - 18:30)</desc>
   </programme>
-  <programme start="20261010145616 +0100" stop="20261010185616 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Mallorca - Las Palmas (Domingo 11/10 - 18:30)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Domingo 11/10 - 18:30)</desc>
-  </programme>
-  <programme start="20261010185616 +0100" stop="20261010225616 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Mallorca - Las Palmas (Domingo 11/10 - 18:30)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Domingo 11/10 - 18:30)</desc>
-  </programme>
-  <programme start="20261010225616 +0100" stop="20261011025616 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Mallorca - Las Palmas (Domingo 11/10 - 18:30)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Domingo 11/10 - 18:30)</desc>
-  </programme>
-  <programme start="20261011025616 +0100" stop="20261011065616 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Mallorca - Las Palmas (Domingo 11/10 - 18:30)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Domingo 11/10 - 18:30)</desc>
-  </programme>
-  <programme start="20261011065616 +0100" stop="20261011105616 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Mallorca - Las Palmas (Domingo 11/10 - 18:30)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Domingo 11/10 - 18:30)</desc>
-  </programme>
-  <programme start="20261011105616 +0100" stop="20261011145616 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Mallorca - Las Palmas (Domingo 11/10 - 18:30)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Domingo 11/10 - 18:30)</desc>
-  </programme>
-  <programme start="20261011145616 +0100" stop="20261011183000 +0100" channel="Fútbol 2">
+  <programme start="20261011144127 +0100" stop="20261011183000 +0100" channel="Fútbol 2">
     <title>Próximo partido: Mallorca - Las Palmas (Domingo 11/10 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Domingo 11/10 - 18:30)</desc>
   </programme>
@@ -881,31 +833,7 @@
   <channel id="Fútbol 3">
     <display-name>Fútbol 3</display-name>
   </channel>
-  <programme start="20261008145616 +0100" stop="20261008185616 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Borussia Dortmund - Werder Bremen (Viernes 09/10 - 18:30)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Viernes 09/10 - 18:30)</desc>
-  </programme>
-  <programme start="20261008185616 +0100" stop="20261008225616 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Borussia Dortmund - Werder Bremen (Viernes 09/10 - 18:30)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Viernes 09/10 - 18:30)</desc>
-  </programme>
-  <programme start="20261008225616 +0100" stop="20261009025616 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Borussia Dortmund - Werder Bremen (Viernes 09/10 - 18:30)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Viernes 09/10 - 18:30)</desc>
-  </programme>
-  <programme start="20261009025616 +0100" stop="20261009065616 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Borussia Dortmund - Werder Bremen (Viernes 09/10 - 18:30)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Viernes 09/10 - 18:30)</desc>
-  </programme>
-  <programme start="20261009065616 +0100" stop="20261009105616 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Borussia Dortmund - Werder Bremen (Viernes 09/10 - 18:30)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Viernes 09/10 - 18:30)</desc>
-  </programme>
-  <programme start="20261009105616 +0100" stop="20261009145616 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Borussia Dortmund - Werder Bremen (Viernes 09/10 - 18:30)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Viernes 09/10 - 18:30)</desc>
-  </programme>
-  <programme start="20261009145616 +0100" stop="20261009183000 +0100" channel="Fútbol 3">
+  <programme start="20261009144127 +0100" stop="20261009183000 +0100" channel="Fútbol 3">
     <title>Próximo partido: Borussia Dortmund - Werder Bremen (Viernes 09/10 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Viernes 09/10 - 18:30)</desc>
   </programme>
