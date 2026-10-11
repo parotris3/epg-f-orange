@@ -3,87 +3,59 @@
   <channel id="Fútbol 1">
     <display-name>Fútbol 1</display-name>
   </channel>
-  <programme start="20261010140052 +0100" stop="20261010180052 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Real Madrid - Villarreal (Sábado 10/10 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Sábado 10/10 - 21:00)</desc>
-  </programme>
-  <programme start="20261010180052 +0100" stop="20261010210000 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Real Madrid - Villarreal (Sábado 10/10 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Sábado 10/10 - 21:00)</desc>
-  </programme>
-  <programme start="20261010210000 +0100" stop="20261010230000 +0100" channel="Fútbol 1">
-    <title>Laliga Ea Sports: Real Madrid - Villarreal</title>
-    <desc>Fútbol en directo - Laliga Ea Sports: Real Madrid - Villarreal</desc>
-  </programme>
-  <programme start="20261010230000 +0100" stop="20261011030000 +0100" channel="Fútbol 1">
+  <programme start="20261011141344 +0100" stop="20261011181344 +0100" channel="Fútbol 1">
     <title>Próximo partido: Galatasaray - Barcelona (Martes 13/10 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Martes 13/10 - 21:00)</desc>
   </programme>
-  <programme start="20261011030000 +0100" stop="20261011070000 +0100" channel="Fútbol 1">
+  <programme start="20261011181344 +0100" stop="20261011221344 +0100" channel="Fútbol 1">
     <title>Próximo partido: Galatasaray - Barcelona (Martes 13/10 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Martes 13/10 - 21:00)</desc>
   </programme>
-  <programme start="20261011070000 +0100" stop="20261011110000 +0100" channel="Fútbol 1">
+  <programme start="20261011221344 +0100" stop="20261012021344 +0100" channel="Fútbol 1">
     <title>Próximo partido: Galatasaray - Barcelona (Martes 13/10 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Martes 13/10 - 21:00)</desc>
   </programme>
-  <programme start="20261011110000 +0100" stop="20261011150000 +0100" channel="Fútbol 1">
+  <programme start="20261012021344 +0100" stop="20261012061344 +0100" channel="Fútbol 1">
     <title>Próximo partido: Galatasaray - Barcelona (Martes 13/10 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Martes 13/10 - 21:00)</desc>
   </programme>
-  <programme start="20261011150000 +0100" stop="20261011190000 +0100" channel="Fútbol 1">
+  <programme start="20261012061344 +0100" stop="20261012101344 +0100" channel="Fútbol 1">
     <title>Próximo partido: Galatasaray - Barcelona (Martes 13/10 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Martes 13/10 - 21:00)</desc>
   </programme>
-  <programme start="20261011190000 +0100" stop="20261011230000 +0100" channel="Fútbol 1">
+  <programme start="20261012101344 +0100" stop="20261012141344 +0100" channel="Fútbol 1">
     <title>Próximo partido: Galatasaray - Barcelona (Martes 13/10 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Martes 13/10 - 21:00)</desc>
   </programme>
-  <programme start="20261011230000 +0100" stop="20261012030000 +0100" channel="Fútbol 1">
+  <programme start="20261012141344 +0100" stop="20261012181344 +0100" channel="Fútbol 1">
     <title>Próximo partido: Galatasaray - Barcelona (Martes 13/10 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Martes 13/10 - 21:00)</desc>
   </programme>
-  <programme start="20261012030000 +0100" stop="20261012070000 +0100" channel="Fútbol 1">
+  <programme start="20261012181344 +0100" stop="20261012221344 +0100" channel="Fútbol 1">
     <title>Próximo partido: Galatasaray - Barcelona (Martes 13/10 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Martes 13/10 - 21:00)</desc>
   </programme>
-  <programme start="20261012070000 +0100" stop="20261012110000 +0100" channel="Fútbol 1">
+  <programme start="20261012221344 +0100" stop="20261013021344 +0100" channel="Fútbol 1">
     <title>Próximo partido: Galatasaray - Barcelona (Martes 13/10 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Martes 13/10 - 21:00)</desc>
   </programme>
-  <programme start="20261012110000 +0100" stop="20261012150000 +0100" channel="Fútbol 1">
+  <programme start="20261013021344 +0100" stop="20261013061344 +0100" channel="Fútbol 1">
     <title>Próximo partido: Galatasaray - Barcelona (Martes 13/10 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Martes 13/10 - 21:00)</desc>
   </programme>
-  <programme start="20261012150000 +0100" stop="20261012190000 +0100" channel="Fútbol 1">
+  <programme start="20261013061344 +0100" stop="20261013101344 +0100" channel="Fútbol 1">
     <title>Próximo partido: Galatasaray - Barcelona (Martes 13/10 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Martes 13/10 - 21:00)</desc>
   </programme>
-  <programme start="20261012190000 +0100" stop="20261012230000 +0100" channel="Fútbol 1">
+  <programme start="20261013101344 +0100" stop="20261013141344 +0100" channel="Fútbol 1">
     <title>Próximo partido: Galatasaray - Barcelona (Martes 13/10 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Martes 13/10 - 21:00)</desc>
   </programme>
-  <programme start="20261012230000 +0100" stop="20261013030000 +0100" channel="Fútbol 1">
+  <programme start="20261013141344 +0100" stop="20261013181344 +0100" channel="Fútbol 1">
     <title>Próximo partido: Galatasaray - Barcelona (Martes 13/10 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Martes 13/10 - 21:00)</desc>
   </programme>
-  <programme start="20261013030000 +0100" stop="20261013070000 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Galatasaray - Barcelona (Martes 13/10 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Martes 13/10 - 21:00)</desc>
-  </programme>
-  <programme start="20261013070000 +0100" stop="20261013110000 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Galatasaray - Barcelona (Martes 13/10 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Martes 13/10 - 21:00)</desc>
-  </programme>
-  <programme start="20261013110000 +0100" stop="20261013150000 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Galatasaray - Barcelona (Martes 13/10 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Martes 13/10 - 21:00)</desc>
-  </programme>
-  <programme start="20261013150000 +0100" stop="20261013190000 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Galatasaray - Barcelona (Martes 13/10 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Martes 13/10 - 21:00)</desc>
-  </programme>
-  <programme start="20261013190000 +0100" stop="20261013210000 +0100" channel="Fútbol 1">
+  <programme start="20261013181344 +0100" stop="20261013210000 +0100" channel="Fútbol 1">
     <title>Próximo partido: Galatasaray - Barcelona (Martes 13/10 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Martes 13/10 - 21:00)</desc>
   </programme>
@@ -370,35 +342,11 @@
   <channel id="Fútbol 2">
     <display-name>Fútbol 2</display-name>
   </channel>
-  <programme start="20261010140052 +0100" stop="20261010180052 +0100" channel="Fútbol 2">
+  <programme start="20261011141344 +0100" stop="20261011181344 +0100" channel="Fútbol 2">
     <title>Próximo partido: Mallorca - Las Palmas (Domingo 11/10 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Domingo 11/10 - 18:30)</desc>
   </programme>
-  <programme start="20261010180052 +0100" stop="20261010220052 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Mallorca - Las Palmas (Domingo 11/10 - 18:30)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Domingo 11/10 - 18:30)</desc>
-  </programme>
-  <programme start="20261010220052 +0100" stop="20261011020052 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Mallorca - Las Palmas (Domingo 11/10 - 18:30)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Domingo 11/10 - 18:30)</desc>
-  </programme>
-  <programme start="20261011020052 +0100" stop="20261011060052 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Mallorca - Las Palmas (Domingo 11/10 - 18:30)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Domingo 11/10 - 18:30)</desc>
-  </programme>
-  <programme start="20261011060052 +0100" stop="20261011100052 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Mallorca - Las Palmas (Domingo 11/10 - 18:30)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Domingo 11/10 - 18:30)</desc>
-  </programme>
-  <programme start="20261011100052 +0100" stop="20261011140052 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Mallorca - Las Palmas (Domingo 11/10 - 18:30)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Domingo 11/10 - 18:30)</desc>
-  </programme>
-  <programme start="20261011140052 +0100" stop="20261011180052 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Mallorca - Las Palmas (Domingo 11/10 - 18:30)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Domingo 11/10 - 18:30)</desc>
-  </programme>
-  <programme start="20261011180052 +0100" stop="20261011183000 +0100" channel="Fútbol 2">
+  <programme start="20261011181344 +0100" stop="20261011183000 +0100" channel="Fútbol 2">
     <title>Próximo partido: Mallorca - Las Palmas (Domingo 11/10 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Domingo 11/10 - 18:30)</desc>
   </programme>
@@ -789,35 +737,11 @@
   <channel id="Fútbol 3">
     <display-name>Fútbol 3</display-name>
   </channel>
-  <programme start="20261010140052 +0100" stop="20261010180052 +0100" channel="Fútbol 3">
+  <programme start="20261011141344 +0100" stop="20261011181344 +0100" channel="Fútbol 3">
     <title>Próximo partido: Cagliari - Juventus (Domingo 11/10 - 20:45)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Domingo 11/10 - 20:45)</desc>
   </programme>
-  <programme start="20261010180052 +0100" stop="20261010220052 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Cagliari - Juventus (Domingo 11/10 - 20:45)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Domingo 11/10 - 20:45)</desc>
-  </programme>
-  <programme start="20261010220052 +0100" stop="20261011020052 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Cagliari - Juventus (Domingo 11/10 - 20:45)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Domingo 11/10 - 20:45)</desc>
-  </programme>
-  <programme start="20261011020052 +0100" stop="20261011060052 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Cagliari - Juventus (Domingo 11/10 - 20:45)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Domingo 11/10 - 20:45)</desc>
-  </programme>
-  <programme start="20261011060052 +0100" stop="20261011100052 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Cagliari - Juventus (Domingo 11/10 - 20:45)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Domingo 11/10 - 20:45)</desc>
-  </programme>
-  <programme start="20261011100052 +0100" stop="20261011140052 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Cagliari - Juventus (Domingo 11/10 - 20:45)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Domingo 11/10 - 20:45)</desc>
-  </programme>
-  <programme start="20261011140052 +0100" stop="20261011180052 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Cagliari - Juventus (Domingo 11/10 - 20:45)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Domingo 11/10 - 20:45)</desc>
-  </programme>
-  <programme start="20261011180052 +0100" stop="20261011204500 +0100" channel="Fútbol 3">
+  <programme start="20261011181344 +0100" stop="20261011204500 +0100" channel="Fútbol 3">
     <title>Próximo partido: Cagliari - Juventus (Domingo 11/10 - 20:45)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Domingo 11/10 - 20:45)</desc>
   </programme>
