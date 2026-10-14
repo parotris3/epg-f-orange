@@ -3,111 +3,87 @@
   <channel id="Fútbol 1">
     <display-name>Fútbol 1</display-name>
   </channel>
-  <programme start="20261013154118 +0100" stop="20261013194118 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Galatasaray - Barcelona (Martes 13/10 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Martes 13/10 - 21:00)</desc>
-  </programme>
-  <programme start="20261013194118 +0100" stop="20261013210000 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Galatasaray - Barcelona (Martes 13/10 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Martes 13/10 - 21:00)</desc>
-  </programme>
   <programme start="20261013210000 +0100" stop="20261013230000 +0100" channel="Fútbol 1">
     <title>Champions League: Galatasaray - Barcelona</title>
     <desc>Fútbol en directo - Champions League: Galatasaray - Barcelona</desc>
   </programme>
-  <programme start="20261013230000 +0100" stop="20261014030000 +0100" channel="Fútbol 1">
+  <programme start="20261014131957 +0100" stop="20261014171957 +0100" channel="Fútbol 1">
     <title>Próximo partido: Valencia - Athletic Club (Sábado 17/10 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 17/10 - 21:00)</desc>
   </programme>
-  <programme start="20261014030000 +0100" stop="20261014070000 +0100" channel="Fútbol 1">
+  <programme start="20261014171957 +0100" stop="20261014211957 +0100" channel="Fútbol 1">
     <title>Próximo partido: Valencia - Athletic Club (Sábado 17/10 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 17/10 - 21:00)</desc>
   </programme>
-  <programme start="20261014070000 +0100" stop="20261014110000 +0100" channel="Fútbol 1">
+  <programme start="20261014211957 +0100" stop="20261015011957 +0100" channel="Fútbol 1">
     <title>Próximo partido: Valencia - Athletic Club (Sábado 17/10 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 17/10 - 21:00)</desc>
   </programme>
-  <programme start="20261014110000 +0100" stop="20261014150000 +0100" channel="Fútbol 1">
+  <programme start="20261015011957 +0100" stop="20261015051957 +0100" channel="Fútbol 1">
     <title>Próximo partido: Valencia - Athletic Club (Sábado 17/10 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 17/10 - 21:00)</desc>
   </programme>
-  <programme start="20261014150000 +0100" stop="20261014190000 +0100" channel="Fútbol 1">
+  <programme start="20261015051957 +0100" stop="20261015091957 +0100" channel="Fútbol 1">
     <title>Próximo partido: Valencia - Athletic Club (Sábado 17/10 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 17/10 - 21:00)</desc>
   </programme>
-  <programme start="20261014190000 +0100" stop="20261014230000 +0100" channel="Fútbol 1">
+  <programme start="20261015091957 +0100" stop="20261015131957 +0100" channel="Fútbol 1">
     <title>Próximo partido: Valencia - Athletic Club (Sábado 17/10 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 17/10 - 21:00)</desc>
   </programme>
-  <programme start="20261014230000 +0100" stop="20261015030000 +0100" channel="Fútbol 1">
+  <programme start="20261015131957 +0100" stop="20261015171957 +0100" channel="Fútbol 1">
     <title>Próximo partido: Valencia - Athletic Club (Sábado 17/10 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 17/10 - 21:00)</desc>
   </programme>
-  <programme start="20261015030000 +0100" stop="20261015070000 +0100" channel="Fútbol 1">
+  <programme start="20261015171957 +0100" stop="20261015211957 +0100" channel="Fútbol 1">
     <title>Próximo partido: Valencia - Athletic Club (Sábado 17/10 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 17/10 - 21:00)</desc>
   </programme>
-  <programme start="20261015070000 +0100" stop="20261015110000 +0100" channel="Fútbol 1">
+  <programme start="20261015211957 +0100" stop="20261016011957 +0100" channel="Fútbol 1">
     <title>Próximo partido: Valencia - Athletic Club (Sábado 17/10 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 17/10 - 21:00)</desc>
   </programme>
-  <programme start="20261015110000 +0100" stop="20261015150000 +0100" channel="Fútbol 1">
+  <programme start="20261016011957 +0100" stop="20261016051957 +0100" channel="Fútbol 1">
     <title>Próximo partido: Valencia - Athletic Club (Sábado 17/10 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 17/10 - 21:00)</desc>
   </programme>
-  <programme start="20261015150000 +0100" stop="20261015190000 +0100" channel="Fútbol 1">
+  <programme start="20261016051957 +0100" stop="20261016091957 +0100" channel="Fútbol 1">
     <title>Próximo partido: Valencia - Athletic Club (Sábado 17/10 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 17/10 - 21:00)</desc>
   </programme>
-  <programme start="20261015190000 +0100" stop="20261015230000 +0100" channel="Fútbol 1">
+  <programme start="20261016091957 +0100" stop="20261016131957 +0100" channel="Fútbol 1">
     <title>Próximo partido: Valencia - Athletic Club (Sábado 17/10 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 17/10 - 21:00)</desc>
   </programme>
-  <programme start="20261015230000 +0100" stop="20261016030000 +0100" channel="Fútbol 1">
+  <programme start="20261016131957 +0100" stop="20261016171957 +0100" channel="Fútbol 1">
     <title>Próximo partido: Valencia - Athletic Club (Sábado 17/10 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 17/10 - 21:00)</desc>
   </programme>
-  <programme start="20261016030000 +0100" stop="20261016070000 +0100" channel="Fútbol 1">
+  <programme start="20261016171957 +0100" stop="20261016211957 +0100" channel="Fútbol 1">
     <title>Próximo partido: Valencia - Athletic Club (Sábado 17/10 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 17/10 - 21:00)</desc>
   </programme>
-  <programme start="20261016070000 +0100" stop="20261016110000 +0100" channel="Fútbol 1">
+  <programme start="20261016211957 +0100" stop="20261017011957 +0100" channel="Fútbol 1">
     <title>Próximo partido: Valencia - Athletic Club (Sábado 17/10 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 17/10 - 21:00)</desc>
   </programme>
-  <programme start="20261016110000 +0100" stop="20261016150000 +0100" channel="Fútbol 1">
+  <programme start="20261017011957 +0100" stop="20261017051957 +0100" channel="Fútbol 1">
     <title>Próximo partido: Valencia - Athletic Club (Sábado 17/10 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 17/10 - 21:00)</desc>
   </programme>
-  <programme start="20261016150000 +0100" stop="20261016190000 +0100" channel="Fútbol 1">
+  <programme start="20261017051957 +0100" stop="20261017091957 +0100" channel="Fútbol 1">
     <title>Próximo partido: Valencia - Athletic Club (Sábado 17/10 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 17/10 - 21:00)</desc>
   </programme>
-  <programme start="20261016190000 +0100" stop="20261016230000 +0100" channel="Fútbol 1">
+  <programme start="20261017091957 +0100" stop="20261017131957 +0100" channel="Fútbol 1">
     <title>Próximo partido: Valencia - Athletic Club (Sábado 17/10 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 17/10 - 21:00)</desc>
   </programme>
-  <programme start="20261016230000 +0100" stop="20261017030000 +0100" channel="Fútbol 1">
+  <programme start="20261017131957 +0100" stop="20261017171957 +0100" channel="Fútbol 1">
     <title>Próximo partido: Valencia - Athletic Club (Sábado 17/10 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 17/10 - 21:00)</desc>
   </programme>
-  <programme start="20261017030000 +0100" stop="20261017070000 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Valencia - Athletic Club (Sábado 17/10 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Sábado 17/10 - 21:00)</desc>
-  </programme>
-  <programme start="20261017070000 +0100" stop="20261017110000 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Valencia - Athletic Club (Sábado 17/10 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Sábado 17/10 - 21:00)</desc>
-  </programme>
-  <programme start="20261017110000 +0100" stop="20261017150000 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Valencia - Athletic Club (Sábado 17/10 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Sábado 17/10 - 21:00)</desc>
-  </programme>
-  <programme start="20261017150000 +0100" stop="20261017190000 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Valencia - Athletic Club (Sábado 17/10 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Sábado 17/10 - 21:00)</desc>
-  </programme>
-  <programme start="20261017190000 +0100" stop="20261017210000 +0100" channel="Fútbol 1">
+  <programme start="20261017171957 +0100" stop="20261017210000 +0100" channel="Fútbol 1">
     <title>Próximo partido: Valencia - Athletic Club (Sábado 17/10 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Sábado 17/10 - 21:00)</desc>
   </programme>
@@ -294,83 +270,59 @@
   <channel id="Fútbol 2">
     <display-name>Fútbol 2</display-name>
   </channel>
-  <programme start="20261013154118 +0100" stop="20261013194118 +0100" channel="Fútbol 2">
+  <programme start="20261014131957 +0100" stop="20261014171957 +0100" channel="Fútbol 2">
     <title>Próximo partido: Leganés - Córdoba (Viernes 16/10 - 20:30)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Viernes 16/10 - 20:30)</desc>
   </programme>
-  <programme start="20261013194118 +0100" stop="20261013234118 +0100" channel="Fútbol 2">
+  <programme start="20261014171957 +0100" stop="20261014211957 +0100" channel="Fútbol 2">
     <title>Próximo partido: Leganés - Córdoba (Viernes 16/10 - 20:30)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Viernes 16/10 - 20:30)</desc>
   </programme>
-  <programme start="20261013234118 +0100" stop="20261014034118 +0100" channel="Fútbol 2">
+  <programme start="20261014211957 +0100" stop="20261015011957 +0100" channel="Fútbol 2">
     <title>Próximo partido: Leganés - Córdoba (Viernes 16/10 - 20:30)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Viernes 16/10 - 20:30)</desc>
   </programme>
-  <programme start="20261014034118 +0100" stop="20261014074118 +0100" channel="Fútbol 2">
+  <programme start="20261015011957 +0100" stop="20261015051957 +0100" channel="Fútbol 2">
     <title>Próximo partido: Leganés - Córdoba (Viernes 16/10 - 20:30)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Viernes 16/10 - 20:30)</desc>
   </programme>
-  <programme start="20261014074118 +0100" stop="20261014114118 +0100" channel="Fútbol 2">
+  <programme start="20261015051957 +0100" stop="20261015091957 +0100" channel="Fútbol 2">
     <title>Próximo partido: Leganés - Córdoba (Viernes 16/10 - 20:30)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Viernes 16/10 - 20:30)</desc>
   </programme>
-  <programme start="20261014114118 +0100" stop="20261014154118 +0100" channel="Fútbol 2">
+  <programme start="20261015091957 +0100" stop="20261015131957 +0100" channel="Fútbol 2">
     <title>Próximo partido: Leganés - Córdoba (Viernes 16/10 - 20:30)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Viernes 16/10 - 20:30)</desc>
   </programme>
-  <programme start="20261014154118 +0100" stop="20261014194118 +0100" channel="Fútbol 2">
+  <programme start="20261015131957 +0100" stop="20261015171957 +0100" channel="Fútbol 2">
     <title>Próximo partido: Leganés - Córdoba (Viernes 16/10 - 20:30)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Viernes 16/10 - 20:30)</desc>
   </programme>
-  <programme start="20261014194118 +0100" stop="20261014234118 +0100" channel="Fútbol 2">
+  <programme start="20261015171957 +0100" stop="20261015211957 +0100" channel="Fútbol 2">
     <title>Próximo partido: Leganés - Córdoba (Viernes 16/10 - 20:30)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Viernes 16/10 - 20:30)</desc>
   </programme>
-  <programme start="20261014234118 +0100" stop="20261015034118 +0100" channel="Fútbol 2">
+  <programme start="20261015211957 +0100" stop="20261016011957 +0100" channel="Fútbol 2">
     <title>Próximo partido: Leganés - Córdoba (Viernes 16/10 - 20:30)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Viernes 16/10 - 20:30)</desc>
   </programme>
-  <programme start="20261015034118 +0100" stop="20261015074118 +0100" channel="Fútbol 2">
+  <programme start="20261016011957 +0100" stop="20261016051957 +0100" channel="Fútbol 2">
     <title>Próximo partido: Leganés - Córdoba (Viernes 16/10 - 20:30)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Viernes 16/10 - 20:30)</desc>
   </programme>
-  <programme start="20261015074118 +0100" stop="20261015114118 +0100" channel="Fútbol 2">
+  <programme start="20261016051957 +0100" stop="20261016091957 +0100" channel="Fútbol 2">
     <title>Próximo partido: Leganés - Córdoba (Viernes 16/10 - 20:30)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Viernes 16/10 - 20:30)</desc>
   </programme>
-  <programme start="20261015114118 +0100" stop="20261015154118 +0100" channel="Fútbol 2">
+  <programme start="20261016091957 +0100" stop="20261016131957 +0100" channel="Fútbol 2">
     <title>Próximo partido: Leganés - Córdoba (Viernes 16/10 - 20:30)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Viernes 16/10 - 20:30)</desc>
   </programme>
-  <programme start="20261015154118 +0100" stop="20261015194118 +0100" channel="Fútbol 2">
+  <programme start="20261016131957 +0100" stop="20261016171957 +0100" channel="Fútbol 2">
     <title>Próximo partido: Leganés - Córdoba (Viernes 16/10 - 20:30)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Viernes 16/10 - 20:30)</desc>
   </programme>
-  <programme start="20261015194118 +0100" stop="20261015234118 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Leganés - Córdoba (Viernes 16/10 - 20:30)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Viernes 16/10 - 20:30)</desc>
-  </programme>
-  <programme start="20261015234118 +0100" stop="20261016034118 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Leganés - Córdoba (Viernes 16/10 - 20:30)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Viernes 16/10 - 20:30)</desc>
-  </programme>
-  <programme start="20261016034118 +0100" stop="20261016074118 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Leganés - Córdoba (Viernes 16/10 - 20:30)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Viernes 16/10 - 20:30)</desc>
-  </programme>
-  <programme start="20261016074118 +0100" stop="20261016114118 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Leganés - Córdoba (Viernes 16/10 - 20:30)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Viernes 16/10 - 20:30)</desc>
-  </programme>
-  <programme start="20261016114118 +0100" stop="20261016154118 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Leganés - Córdoba (Viernes 16/10 - 20:30)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Viernes 16/10 - 20:30)</desc>
-  </programme>
-  <programme start="20261016154118 +0100" stop="20261016194118 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Leganés - Córdoba (Viernes 16/10 - 20:30)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Viernes 16/10 - 20:30)</desc>
-  </programme>
-  <programme start="20261016194118 +0100" stop="20261016203000 +0100" channel="Fútbol 2">
+  <programme start="20261016171957 +0100" stop="20261016203000 +0100" channel="Fútbol 2">
     <title>Próximo partido: Leganés - Córdoba (Viernes 16/10 - 20:30)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Viernes 16/10 - 20:30)</desc>
   </programme>
@@ -621,99 +573,79 @@
   <channel id="Fútbol 3">
     <display-name>Fútbol 3</display-name>
   </channel>
-  <programme start="20261013154118 +0100" stop="20261013194118 +0100" channel="Fútbol 3">
+  <programme start="20261014131957 +0100" stop="20261014171957 +0100" channel="Fútbol 3">
     <title>Próximo partido: Union Berlín - Borussia Dortmund (Sábado 17/10 - 15:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 17/10 - 15:30)</desc>
   </programme>
-  <programme start="20261013194118 +0100" stop="20261013234118 +0100" channel="Fútbol 3">
+  <programme start="20261014171957 +0100" stop="20261014211957 +0100" channel="Fútbol 3">
     <title>Próximo partido: Union Berlín - Borussia Dortmund (Sábado 17/10 - 15:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 17/10 - 15:30)</desc>
   </programme>
-  <programme start="20261013234118 +0100" stop="20261014034118 +0100" channel="Fútbol 3">
+  <programme start="20261014211957 +0100" stop="20261015011957 +0100" channel="Fútbol 3">
     <title>Próximo partido: Union Berlín - Borussia Dortmund (Sábado 17/10 - 15:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 17/10 - 15:30)</desc>
   </programme>
-  <programme start="20261014034118 +0100" stop="20261014074118 +0100" channel="Fútbol 3">
+  <programme start="20261015011957 +0100" stop="20261015051957 +0100" channel="Fútbol 3">
     <title>Próximo partido: Union Berlín - Borussia Dortmund (Sábado 17/10 - 15:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 17/10 - 15:30)</desc>
   </programme>
-  <programme start="20261014074118 +0100" stop="20261014114118 +0100" channel="Fútbol 3">
+  <programme start="20261015051957 +0100" stop="20261015091957 +0100" channel="Fútbol 3">
     <title>Próximo partido: Union Berlín - Borussia Dortmund (Sábado 17/10 - 15:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 17/10 - 15:30)</desc>
   </programme>
-  <programme start="20261014114118 +0100" stop="20261014154118 +0100" channel="Fútbol 3">
+  <programme start="20261015091957 +0100" stop="20261015131957 +0100" channel="Fútbol 3">
     <title>Próximo partido: Union Berlín - Borussia Dortmund (Sábado 17/10 - 15:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 17/10 - 15:30)</desc>
   </programme>
-  <programme start="20261014154118 +0100" stop="20261014194118 +0100" channel="Fútbol 3">
+  <programme start="20261015131957 +0100" stop="20261015171957 +0100" channel="Fútbol 3">
     <title>Próximo partido: Union Berlín - Borussia Dortmund (Sábado 17/10 - 15:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 17/10 - 15:30)</desc>
   </programme>
-  <programme start="20261014194118 +0100" stop="20261014234118 +0100" channel="Fútbol 3">
+  <programme start="20261015171957 +0100" stop="20261015211957 +0100" channel="Fútbol 3">
     <title>Próximo partido: Union Berlín - Borussia Dortmund (Sábado 17/10 - 15:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 17/10 - 15:30)</desc>
   </programme>
-  <programme start="20261014234118 +0100" stop="20261015034118 +0100" channel="Fútbol 3">
+  <programme start="20261015211957 +0100" stop="20261016011957 +0100" channel="Fútbol 3">
     <title>Próximo partido: Union Berlín - Borussia Dortmund (Sábado 17/10 - 15:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 17/10 - 15:30)</desc>
   </programme>
-  <programme start="20261015034118 +0100" stop="20261015074118 +0100" channel="Fútbol 3">
+  <programme start="20261016011957 +0100" stop="20261016051957 +0100" channel="Fútbol 3">
     <title>Próximo partido: Union Berlín - Borussia Dortmund (Sábado 17/10 - 15:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 17/10 - 15:30)</desc>
   </programme>
-  <programme start="20261015074118 +0100" stop="20261015114118 +0100" channel="Fútbol 3">
+  <programme start="20261016051957 +0100" stop="20261016091957 +0100" channel="Fútbol 3">
     <title>Próximo partido: Union Berlín - Borussia Dortmund (Sábado 17/10 - 15:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 17/10 - 15:30)</desc>
   </programme>
-  <programme start="20261015114118 +0100" stop="20261015154118 +0100" channel="Fútbol 3">
+  <programme start="20261016091957 +0100" stop="20261016131957 +0100" channel="Fútbol 3">
     <title>Próximo partido: Union Berlín - Borussia Dortmund (Sábado 17/10 - 15:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 17/10 - 15:30)</desc>
   </programme>
-  <programme start="20261015154118 +0100" stop="20261015194118 +0100" channel="Fútbol 3">
+  <programme start="20261016131957 +0100" stop="20261016171957 +0100" channel="Fútbol 3">
     <title>Próximo partido: Union Berlín - Borussia Dortmund (Sábado 17/10 - 15:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 17/10 - 15:30)</desc>
   </programme>
-  <programme start="20261015194118 +0100" stop="20261015234118 +0100" channel="Fútbol 3">
+  <programme start="20261016171957 +0100" stop="20261016211957 +0100" channel="Fútbol 3">
     <title>Próximo partido: Union Berlín - Borussia Dortmund (Sábado 17/10 - 15:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 17/10 - 15:30)</desc>
   </programme>
-  <programme start="20261015234118 +0100" stop="20261016034118 +0100" channel="Fútbol 3">
+  <programme start="20261016211957 +0100" stop="20261017011957 +0100" channel="Fútbol 3">
     <title>Próximo partido: Union Berlín - Borussia Dortmund (Sábado 17/10 - 15:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 17/10 - 15:30)</desc>
   </programme>
-  <programme start="20261016034118 +0100" stop="20261016074118 +0100" channel="Fútbol 3">
+  <programme start="20261017011957 +0100" stop="20261017051957 +0100" channel="Fútbol 3">
     <title>Próximo partido: Union Berlín - Borussia Dortmund (Sábado 17/10 - 15:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 17/10 - 15:30)</desc>
   </programme>
-  <programme start="20261016074118 +0100" stop="20261016114118 +0100" channel="Fútbol 3">
+  <programme start="20261017051957 +0100" stop="20261017091957 +0100" channel="Fútbol 3">
     <title>Próximo partido: Union Berlín - Borussia Dortmund (Sábado 17/10 - 15:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 17/10 - 15:30)</desc>
   </programme>
-  <programme start="20261016114118 +0100" stop="20261016154118 +0100" channel="Fútbol 3">
+  <programme start="20261017091957 +0100" stop="20261017131957 +0100" channel="Fútbol 3">
     <title>Próximo partido: Union Berlín - Borussia Dortmund (Sábado 17/10 - 15:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 17/10 - 15:30)</desc>
   </programme>
-  <programme start="20261016154118 +0100" stop="20261016194118 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Union Berlín - Borussia Dortmund (Sábado 17/10 - 15:30)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Sábado 17/10 - 15:30)</desc>
-  </programme>
-  <programme start="20261016194118 +0100" stop="20261016234118 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Union Berlín - Borussia Dortmund (Sábado 17/10 - 15:30)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Sábado 17/10 - 15:30)</desc>
-  </programme>
-  <programme start="20261016234118 +0100" stop="20261017034118 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Union Berlín - Borussia Dortmund (Sábado 17/10 - 15:30)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Sábado 17/10 - 15:30)</desc>
-  </programme>
-  <programme start="20261017034118 +0100" stop="20261017074118 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Union Berlín - Borussia Dortmund (Sábado 17/10 - 15:30)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Sábado 17/10 - 15:30)</desc>
-  </programme>
-  <programme start="20261017074118 +0100" stop="20261017114118 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Union Berlín - Borussia Dortmund (Sábado 17/10 - 15:30)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Sábado 17/10 - 15:30)</desc>
-  </programme>
-  <programme start="20261017114118 +0100" stop="20261017153000 +0100" channel="Fútbol 3">
+  <programme start="20261017131957 +0100" stop="20261017153000 +0100" channel="Fútbol 3">
     <title>Próximo partido: Union Berlín - Borussia Dortmund (Sábado 17/10 - 15:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 17/10 - 15:30)</desc>
   </programme>
