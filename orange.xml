@@ -3,115 +3,95 @@
   <channel id="Fútbol 1">
     <display-name>Fútbol 1</display-name>
   </channel>
-  <programme start="20261017121453 +0100" stop="20261017161453 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Valencia - Athletic Club (Sábado 17/10 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Sábado 17/10 - 21:00)</desc>
-  </programme>
-  <programme start="20261017161453 +0100" stop="20261017201453 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Valencia - Athletic Club (Sábado 17/10 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Sábado 17/10 - 21:00)</desc>
-  </programme>
-  <programme start="20261017201453 +0100" stop="20261017210000 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Valencia - Athletic Club (Sábado 17/10 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Sábado 17/10 - 21:00)</desc>
+  <programme start="20261017161500 +0100" stop="20261017181500 +0100" channel="Fútbol 1">
+    <title>Laliga Hypermotion: Eibar - Mallorca</title>
+    <desc>Fútbol en directo - Laliga Hypermotion: Eibar - Mallorca</desc>
   </programme>
   <programme start="20261017210000 +0100" stop="20261017230000 +0100" channel="Fútbol 1">
     <title>Laliga Ea Sports: Valencia - Athletic Club</title>
     <desc>Fútbol en directo - Laliga Ea Sports: Valencia - Athletic Club</desc>
   </programme>
-  <programme start="20261017230000 +0100" stop="20261018030000 +0100" channel="Fútbol 1">
+  <programme start="20261018123028 +0100" stop="20261018163028 +0100" channel="Fútbol 1">
     <title>Próximo partido: Real Madrid - Leipzig (Miércoles 21/10 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Miércoles 21/10 - 21:00)</desc>
   </programme>
-  <programme start="20261018030000 +0100" stop="20261018070000 +0100" channel="Fútbol 1">
+  <programme start="20261018163028 +0100" stop="20261018203028 +0100" channel="Fútbol 1">
     <title>Próximo partido: Real Madrid - Leipzig (Miércoles 21/10 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Miércoles 21/10 - 21:00)</desc>
   </programme>
-  <programme start="20261018070000 +0100" stop="20261018110000 +0100" channel="Fútbol 1">
+  <programme start="20261018203028 +0100" stop="20261019003028 +0100" channel="Fútbol 1">
     <title>Próximo partido: Real Madrid - Leipzig (Miércoles 21/10 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Miércoles 21/10 - 21:00)</desc>
   </programme>
-  <programme start="20261018110000 +0100" stop="20261018150000 +0100" channel="Fútbol 1">
+  <programme start="20261019003028 +0100" stop="20261019043028 +0100" channel="Fútbol 1">
     <title>Próximo partido: Real Madrid - Leipzig (Miércoles 21/10 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Miércoles 21/10 - 21:00)</desc>
   </programme>
-  <programme start="20261018150000 +0100" stop="20261018190000 +0100" channel="Fútbol 1">
+  <programme start="20261019043028 +0100" stop="20261019083028 +0100" channel="Fútbol 1">
     <title>Próximo partido: Real Madrid - Leipzig (Miércoles 21/10 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Miércoles 21/10 - 21:00)</desc>
   </programme>
-  <programme start="20261018190000 +0100" stop="20261018230000 +0100" channel="Fútbol 1">
+  <programme start="20261019083028 +0100" stop="20261019123028 +0100" channel="Fútbol 1">
     <title>Próximo partido: Real Madrid - Leipzig (Miércoles 21/10 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Miércoles 21/10 - 21:00)</desc>
   </programme>
-  <programme start="20261018230000 +0100" stop="20261019030000 +0100" channel="Fútbol 1">
+  <programme start="20261019123028 +0100" stop="20261019163028 +0100" channel="Fútbol 1">
     <title>Próximo partido: Real Madrid - Leipzig (Miércoles 21/10 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Miércoles 21/10 - 21:00)</desc>
   </programme>
-  <programme start="20261019030000 +0100" stop="20261019070000 +0100" channel="Fútbol 1">
+  <programme start="20261019163028 +0100" stop="20261019203028 +0100" channel="Fútbol 1">
     <title>Próximo partido: Real Madrid - Leipzig (Miércoles 21/10 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Miércoles 21/10 - 21:00)</desc>
   </programme>
-  <programme start="20261019070000 +0100" stop="20261019110000 +0100" channel="Fútbol 1">
+  <programme start="20261019203028 +0100" stop="20261020003028 +0100" channel="Fútbol 1">
     <title>Próximo partido: Real Madrid - Leipzig (Miércoles 21/10 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Miércoles 21/10 - 21:00)</desc>
   </programme>
-  <programme start="20261019110000 +0100" stop="20261019150000 +0100" channel="Fútbol 1">
+  <programme start="20261020003028 +0100" stop="20261020043028 +0100" channel="Fútbol 1">
     <title>Próximo partido: Real Madrid - Leipzig (Miércoles 21/10 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Miércoles 21/10 - 21:00)</desc>
   </programme>
-  <programme start="20261019150000 +0100" stop="20261019190000 +0100" channel="Fútbol 1">
+  <programme start="20261020043028 +0100" stop="20261020083028 +0100" channel="Fútbol 1">
     <title>Próximo partido: Real Madrid - Leipzig (Miércoles 21/10 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Miércoles 21/10 - 21:00)</desc>
   </programme>
-  <programme start="20261019190000 +0100" stop="20261019230000 +0100" channel="Fútbol 1">
+  <programme start="20261020083028 +0100" stop="20261020123028 +0100" channel="Fútbol 1">
     <title>Próximo partido: Real Madrid - Leipzig (Miércoles 21/10 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Miércoles 21/10 - 21:00)</desc>
   </programme>
-  <programme start="20261019230000 +0100" stop="20261020030000 +0100" channel="Fútbol 1">
+  <programme start="20261020123028 +0100" stop="20261020163028 +0100" channel="Fútbol 1">
     <title>Próximo partido: Real Madrid - Leipzig (Miércoles 21/10 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Miércoles 21/10 - 21:00)</desc>
   </programme>
-  <programme start="20261020030000 +0100" stop="20261020070000 +0100" channel="Fútbol 1">
+  <programme start="20261020163028 +0100" stop="20261020203028 +0100" channel="Fútbol 1">
     <title>Próximo partido: Real Madrid - Leipzig (Miércoles 21/10 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Miércoles 21/10 - 21:00)</desc>
   </programme>
-  <programme start="20261020070000 +0100" stop="20261020110000 +0100" channel="Fútbol 1">
+  <programme start="20261020203028 +0100" stop="20261021003028 +0100" channel="Fútbol 1">
     <title>Próximo partido: Real Madrid - Leipzig (Miércoles 21/10 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Miércoles 21/10 - 21:00)</desc>
   </programme>
-  <programme start="20261020110000 +0100" stop="20261020150000 +0100" channel="Fútbol 1">
+  <programme start="20261021003028 +0100" stop="20261021043028 +0100" channel="Fútbol 1">
     <title>Próximo partido: Real Madrid - Leipzig (Miércoles 21/10 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Miércoles 21/10 - 21:00)</desc>
   </programme>
-  <programme start="20261020150000 +0100" stop="20261020190000 +0100" channel="Fútbol 1">
+  <programme start="20261021043028 +0100" stop="20261021083028 +0100" channel="Fútbol 1">
     <title>Próximo partido: Real Madrid - Leipzig (Miércoles 21/10 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Miércoles 21/10 - 21:00)</desc>
   </programme>
-  <programme start="20261020190000 +0100" stop="20261020230000 +0100" channel="Fútbol 1">
+  <programme start="20261021083028 +0100" stop="20261021123028 +0100" channel="Fútbol 1">
     <title>Próximo partido: Real Madrid - Leipzig (Miércoles 21/10 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Miércoles 21/10 - 21:00)</desc>
   </programme>
-  <programme start="20261020230000 +0100" stop="20261021030000 +0100" channel="Fútbol 1">
+  <programme start="20261021123028 +0100" stop="20261021163028 +0100" channel="Fútbol 1">
     <title>Próximo partido: Real Madrid - Leipzig (Miércoles 21/10 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Miércoles 21/10 - 21:00)</desc>
   </programme>
-  <programme start="20261021030000 +0100" stop="20261021070000 +0100" channel="Fútbol 1">
+  <programme start="20261021163028 +0100" stop="20261021203028 +0100" channel="Fútbol 1">
     <title>Próximo partido: Real Madrid - Leipzig (Miércoles 21/10 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Miércoles 21/10 - 21:00)</desc>
   </programme>
-  <programme start="20261021070000 +0100" stop="20261021110000 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Real Madrid - Leipzig (Miércoles 21/10 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Miércoles 21/10 - 21:00)</desc>
-  </programme>
-  <programme start="20261021110000 +0100" stop="20261021150000 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Real Madrid - Leipzig (Miércoles 21/10 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Miércoles 21/10 - 21:00)</desc>
-  </programme>
-  <programme start="20261021150000 +0100" stop="20261021190000 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Real Madrid - Leipzig (Miércoles 21/10 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Miércoles 21/10 - 21:00)</desc>
-  </programme>
-  <programme start="20261021190000 +0100" stop="20261021210000 +0100" channel="Fútbol 1">
+  <programme start="20261021203028 +0100" stop="20261021210000 +0100" channel="Fútbol 1">
     <title>Próximo partido: Real Madrid - Leipzig (Miércoles 21/10 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Miércoles 21/10 - 21:00)</desc>
   </programme>
@@ -198,47 +178,11 @@
   <channel id="Fútbol 2">
     <display-name>Fútbol 2</display-name>
   </channel>
-  <programme start="20261016203000 +0100" stop="20261016223000 +0100" channel="Fútbol 2">
-    <title>Laliga Hypermotion: Leganés - Córdoba</title>
-    <desc>Fútbol en directo - Laliga Hypermotion: Leganés - Córdoba</desc>
-  </programme>
-  <programme start="20261017121453 +0100" stop="20261017161453 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Eibar - Mallorca (Sábado 17/10 - 16:15)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Sábado 17/10 - 16:15)</desc>
-  </programme>
-  <programme start="20261017161453 +0100" stop="20261017161500 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Eibar - Mallorca (Sábado 17/10 - 16:15)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Sábado 17/10 - 16:15)</desc>
-  </programme>
-  <programme start="20261017161500 +0100" stop="20261017181500 +0100" channel="Fútbol 2">
-    <title>Laliga Hypermotion: Eibar - Mallorca</title>
-    <desc>Fútbol en directo - Laliga Hypermotion: Eibar - Mallorca</desc>
-  </programme>
-  <programme start="20261017181500 +0100" stop="20261017210000 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Las Palmas - Castellón (Sábado 17/10 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Sábado 17/10 - 21:00)</desc>
-  </programme>
   <programme start="20261017210000 +0100" stop="20261017230000 +0100" channel="Fútbol 2">
     <title>Laliga Hypermotion: Las Palmas - Castellón</title>
     <desc>Fútbol en directo - Laliga Hypermotion: Las Palmas - Castellón</desc>
   </programme>
-  <programme start="20261017230000 +0100" stop="20261018030000 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Granada - Cádiz (Domingo 18/10 - 16:15)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Domingo 18/10 - 16:15)</desc>
-  </programme>
-  <programme start="20261018030000 +0100" stop="20261018070000 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Granada - Cádiz (Domingo 18/10 - 16:15)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Domingo 18/10 - 16:15)</desc>
-  </programme>
-  <programme start="20261018070000 +0100" stop="20261018110000 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Granada - Cádiz (Domingo 18/10 - 16:15)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Domingo 18/10 - 16:15)</desc>
-  </programme>
-  <programme start="20261018110000 +0100" stop="20261018150000 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Granada - Cádiz (Domingo 18/10 - 16:15)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Domingo 18/10 - 16:15)</desc>
-  </programme>
-  <programme start="20261018150000 +0100" stop="20261018161500 +0100" channel="Fútbol 2">
+  <programme start="20261018123028 +0100" stop="20261018161500 +0100" channel="Fútbol 2">
     <title>Próximo partido: Granada - Cádiz (Domingo 18/10 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Domingo 18/10 - 16:15)</desc>
   </programme>
@@ -433,33 +377,9 @@
   <channel id="Fútbol 3">
     <display-name>Fútbol 3</display-name>
   </channel>
-  <programme start="20261017121453 +0100" stop="20261017153000 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Union Berlín - Borussia Dortmund (Sábado 17/10 - 15:30)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Sábado 17/10 - 15:30)</desc>
-  </programme>
   <programme start="20261017153000 +0100" stop="20261017173000 +0100" channel="Fútbol 3">
     <title>Bundesliga: Union Berlín - Borussia Dortmund</title>
     <desc>Fútbol en directo - Bundesliga: Union Berlín - Borussia Dortmund</desc>
-  </programme>
-  <programme start="20261017173000 +0100" stop="20261017213000 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Fiorentina - Como (Domingo 18/10 - 12:00)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Domingo 18/10 - 12:00)</desc>
-  </programme>
-  <programme start="20261017213000 +0100" stop="20261018013000 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Fiorentina - Como (Domingo 18/10 - 12:00)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Domingo 18/10 - 12:00)</desc>
-  </programme>
-  <programme start="20261018013000 +0100" stop="20261018053000 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Fiorentina - Como (Domingo 18/10 - 12:00)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Domingo 18/10 - 12:00)</desc>
-  </programme>
-  <programme start="20261018053000 +0100" stop="20261018093000 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Fiorentina - Como (Domingo 18/10 - 12:00)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Domingo 18/10 - 12:00)</desc>
-  </programme>
-  <programme start="20261018093000 +0100" stop="20261018120000 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Fiorentina - Como (Domingo 18/10 - 12:00)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Domingo 18/10 - 12:00)</desc>
   </programme>
   <programme start="20261018120000 +0100" stop="20261018140000 +0100" channel="Fútbol 3">
     <title>Serie A: Fiorentina - Como</title>
