@@ -3,59 +3,35 @@
   <channel id="Fútbol 1">
     <display-name>Fútbol 1</display-name>
   </channel>
-  <programme start="20261019141956 +0100" stop="20261019181956 +0100" channel="Fútbol 1">
+  <programme start="20261020130030 +0100" stop="20261020170030 +0100" channel="Fútbol 1">
     <title>Próximo partido: Real Madrid - Leipzig (Miércoles 21/10 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Miércoles 21/10 - 21:00)</desc>
   </programme>
-  <programme start="20261019181956 +0100" stop="20261019221956 +0100" channel="Fútbol 1">
+  <programme start="20261020170030 +0100" stop="20261020210030 +0100" channel="Fútbol 1">
     <title>Próximo partido: Real Madrid - Leipzig (Miércoles 21/10 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Miércoles 21/10 - 21:00)</desc>
   </programme>
-  <programme start="20261019221956 +0100" stop="20261020021956 +0100" channel="Fútbol 1">
+  <programme start="20261020210030 +0100" stop="20261021010030 +0100" channel="Fútbol 1">
     <title>Próximo partido: Real Madrid - Leipzig (Miércoles 21/10 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Miércoles 21/10 - 21:00)</desc>
   </programme>
-  <programme start="20261020021956 +0100" stop="20261020061956 +0100" channel="Fútbol 1">
+  <programme start="20261021010030 +0100" stop="20261021050030 +0100" channel="Fútbol 1">
     <title>Próximo partido: Real Madrid - Leipzig (Miércoles 21/10 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Miércoles 21/10 - 21:00)</desc>
   </programme>
-  <programme start="20261020061956 +0100" stop="20261020101956 +0100" channel="Fútbol 1">
+  <programme start="20261021050030 +0100" stop="20261021090030 +0100" channel="Fútbol 1">
     <title>Próximo partido: Real Madrid - Leipzig (Miércoles 21/10 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Miércoles 21/10 - 21:00)</desc>
   </programme>
-  <programme start="20261020101956 +0100" stop="20261020141956 +0100" channel="Fútbol 1">
+  <programme start="20261021090030 +0100" stop="20261021130030 +0100" channel="Fútbol 1">
     <title>Próximo partido: Real Madrid - Leipzig (Miércoles 21/10 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Miércoles 21/10 - 21:00)</desc>
   </programme>
-  <programme start="20261020141956 +0100" stop="20261020181956 +0100" channel="Fútbol 1">
+  <programme start="20261021130030 +0100" stop="20261021170030 +0100" channel="Fútbol 1">
     <title>Próximo partido: Real Madrid - Leipzig (Miércoles 21/10 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Miércoles 21/10 - 21:00)</desc>
   </programme>
-  <programme start="20261020181956 +0100" stop="20261020221956 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Real Madrid - Leipzig (Miércoles 21/10 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Miércoles 21/10 - 21:00)</desc>
-  </programme>
-  <programme start="20261020221956 +0100" stop="20261021021956 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Real Madrid - Leipzig (Miércoles 21/10 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Miércoles 21/10 - 21:00)</desc>
-  </programme>
-  <programme start="20261021021956 +0100" stop="20261021061956 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Real Madrid - Leipzig (Miércoles 21/10 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Miércoles 21/10 - 21:00)</desc>
-  </programme>
-  <programme start="20261021061956 +0100" stop="20261021101956 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Real Madrid - Leipzig (Miércoles 21/10 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Miércoles 21/10 - 21:00)</desc>
-  </programme>
-  <programme start="20261021101956 +0100" stop="20261021141956 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Real Madrid - Leipzig (Miércoles 21/10 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Miércoles 21/10 - 21:00)</desc>
-  </programme>
-  <programme start="20261021141956 +0100" stop="20261021181956 +0100" channel="Fútbol 1">
-    <title>Próximo partido: Real Madrid - Leipzig (Miércoles 21/10 - 21:00)</title>
-    <desc>Siguiente emisión en Fútbol 1 | (Miércoles 21/10 - 21:00)</desc>
-  </programme>
-  <programme start="20261021181956 +0100" stop="20261021210000 +0100" channel="Fútbol 1">
+  <programme start="20261021170030 +0100" stop="20261021210000 +0100" channel="Fútbol 1">
     <title>Próximo partido: Real Madrid - Leipzig (Miércoles 21/10 - 21:00)</title>
     <desc>Siguiente emisión en Fútbol 1 | (Miércoles 21/10 - 21:00)</desc>
   </programme>
@@ -139,134 +115,278 @@
     <title>Laliga Ea Sports: Atlético - Deportivo</title>
     <desc>Fútbol en directo - Laliga Ea Sports: Atlético - Deportivo</desc>
   </programme>
+  <programme start="20261024230000 +0100" stop="20261025030000 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Barcelona - Alavés (Sábado 31/10 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Sábado 31/10 - 21:00)</desc>
+  </programme>
+  <programme start="20261025030000 +0100" stop="20261025070000 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Barcelona - Alavés (Sábado 31/10 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Sábado 31/10 - 21:00)</desc>
+  </programme>
+  <programme start="20261025070000 +0100" stop="20261025110000 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Barcelona - Alavés (Sábado 31/10 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Sábado 31/10 - 21:00)</desc>
+  </programme>
+  <programme start="20261025110000 +0100" stop="20261025150000 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Barcelona - Alavés (Sábado 31/10 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Sábado 31/10 - 21:00)</desc>
+  </programme>
+  <programme start="20261025150000 +0100" stop="20261025190000 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Barcelona - Alavés (Sábado 31/10 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Sábado 31/10 - 21:00)</desc>
+  </programme>
+  <programme start="20261025190000 +0100" stop="20261025230000 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Barcelona - Alavés (Sábado 31/10 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Sábado 31/10 - 21:00)</desc>
+  </programme>
+  <programme start="20261025230000 +0100" stop="20261026030000 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Barcelona - Alavés (Sábado 31/10 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Sábado 31/10 - 21:00)</desc>
+  </programme>
+  <programme start="20261026030000 +0100" stop="20261026070000 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Barcelona - Alavés (Sábado 31/10 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Sábado 31/10 - 21:00)</desc>
+  </programme>
+  <programme start="20261026070000 +0100" stop="20261026110000 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Barcelona - Alavés (Sábado 31/10 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Sábado 31/10 - 21:00)</desc>
+  </programme>
+  <programme start="20261026110000 +0100" stop="20261026150000 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Barcelona - Alavés (Sábado 31/10 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Sábado 31/10 - 21:00)</desc>
+  </programme>
+  <programme start="20261026150000 +0100" stop="20261026190000 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Barcelona - Alavés (Sábado 31/10 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Sábado 31/10 - 21:00)</desc>
+  </programme>
+  <programme start="20261026190000 +0100" stop="20261026230000 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Barcelona - Alavés (Sábado 31/10 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Sábado 31/10 - 21:00)</desc>
+  </programme>
+  <programme start="20261026230000 +0100" stop="20261027030000 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Barcelona - Alavés (Sábado 31/10 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Sábado 31/10 - 21:00)</desc>
+  </programme>
+  <programme start="20261027030000 +0100" stop="20261027070000 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Barcelona - Alavés (Sábado 31/10 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Sábado 31/10 - 21:00)</desc>
+  </programme>
+  <programme start="20261027070000 +0100" stop="20261027110000 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Barcelona - Alavés (Sábado 31/10 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Sábado 31/10 - 21:00)</desc>
+  </programme>
+  <programme start="20261027110000 +0100" stop="20261027150000 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Barcelona - Alavés (Sábado 31/10 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Sábado 31/10 - 21:00)</desc>
+  </programme>
+  <programme start="20261027150000 +0100" stop="20261027190000 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Barcelona - Alavés (Sábado 31/10 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Sábado 31/10 - 21:00)</desc>
+  </programme>
+  <programme start="20261027190000 +0100" stop="20261027230000 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Barcelona - Alavés (Sábado 31/10 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Sábado 31/10 - 21:00)</desc>
+  </programme>
+  <programme start="20261027230000 +0100" stop="20261028030000 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Barcelona - Alavés (Sábado 31/10 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Sábado 31/10 - 21:00)</desc>
+  </programme>
+  <programme start="20261028030000 +0100" stop="20261028070000 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Barcelona - Alavés (Sábado 31/10 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Sábado 31/10 - 21:00)</desc>
+  </programme>
+  <programme start="20261028070000 +0100" stop="20261028110000 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Barcelona - Alavés (Sábado 31/10 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Sábado 31/10 - 21:00)</desc>
+  </programme>
+  <programme start="20261028110000 +0100" stop="20261028150000 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Barcelona - Alavés (Sábado 31/10 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Sábado 31/10 - 21:00)</desc>
+  </programme>
+  <programme start="20261028150000 +0100" stop="20261028190000 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Barcelona - Alavés (Sábado 31/10 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Sábado 31/10 - 21:00)</desc>
+  </programme>
+  <programme start="20261028190000 +0100" stop="20261028230000 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Barcelona - Alavés (Sábado 31/10 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Sábado 31/10 - 21:00)</desc>
+  </programme>
+  <programme start="20261028230000 +0100" stop="20261029030000 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Barcelona - Alavés (Sábado 31/10 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Sábado 31/10 - 21:00)</desc>
+  </programme>
+  <programme start="20261029030000 +0100" stop="20261029070000 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Barcelona - Alavés (Sábado 31/10 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Sábado 31/10 - 21:00)</desc>
+  </programme>
+  <programme start="20261029070000 +0100" stop="20261029110000 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Barcelona - Alavés (Sábado 31/10 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Sábado 31/10 - 21:00)</desc>
+  </programme>
+  <programme start="20261029110000 +0100" stop="20261029150000 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Barcelona - Alavés (Sábado 31/10 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Sábado 31/10 - 21:00)</desc>
+  </programme>
+  <programme start="20261029150000 +0100" stop="20261029190000 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Barcelona - Alavés (Sábado 31/10 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Sábado 31/10 - 21:00)</desc>
+  </programme>
+  <programme start="20261029190000 +0100" stop="20261029230000 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Barcelona - Alavés (Sábado 31/10 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Sábado 31/10 - 21:00)</desc>
+  </programme>
+  <programme start="20261029230000 +0100" stop="20261030030000 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Barcelona - Alavés (Sábado 31/10 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Sábado 31/10 - 21:00)</desc>
+  </programme>
+  <programme start="20261030030000 +0100" stop="20261030070000 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Barcelona - Alavés (Sábado 31/10 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Sábado 31/10 - 21:00)</desc>
+  </programme>
+  <programme start="20261030070000 +0100" stop="20261030110000 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Barcelona - Alavés (Sábado 31/10 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Sábado 31/10 - 21:00)</desc>
+  </programme>
+  <programme start="20261030110000 +0100" stop="20261030150000 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Barcelona - Alavés (Sábado 31/10 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Sábado 31/10 - 21:00)</desc>
+  </programme>
+  <programme start="20261030150000 +0100" stop="20261030190000 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Barcelona - Alavés (Sábado 31/10 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Sábado 31/10 - 21:00)</desc>
+  </programme>
+  <programme start="20261030190000 +0100" stop="20261030230000 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Barcelona - Alavés (Sábado 31/10 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Sábado 31/10 - 21:00)</desc>
+  </programme>
+  <programme start="20261030230000 +0100" stop="20261031030000 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Barcelona - Alavés (Sábado 31/10 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Sábado 31/10 - 21:00)</desc>
+  </programme>
+  <programme start="20261031030000 +0100" stop="20261031070000 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Barcelona - Alavés (Sábado 31/10 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Sábado 31/10 - 21:00)</desc>
+  </programme>
+  <programme start="20261031070000 +0100" stop="20261031110000 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Barcelona - Alavés (Sábado 31/10 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Sábado 31/10 - 21:00)</desc>
+  </programme>
+  <programme start="20261031110000 +0100" stop="20261031150000 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Barcelona - Alavés (Sábado 31/10 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Sábado 31/10 - 21:00)</desc>
+  </programme>
+  <programme start="20261031150000 +0100" stop="20261031190000 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Barcelona - Alavés (Sábado 31/10 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Sábado 31/10 - 21:00)</desc>
+  </programme>
+  <programme start="20261031190000 +0100" stop="20261031210000 +0100" channel="Fútbol 1">
+    <title>Próximo partido: Barcelona - Alavés (Sábado 31/10 - 21:00)</title>
+    <desc>Siguiente emisión en Fútbol 1 | (Sábado 31/10 - 21:00)</desc>
+  </programme>
+  <programme start="20261031210000 +0100" stop="20261031230000 +0100" channel="Fútbol 1">
+    <title>Laliga Ea Sports: Barcelona - Alavés</title>
+    <desc>Fútbol en directo - Laliga Ea Sports: Barcelona - Alavés</desc>
+  </programme>
   <channel id="Fútbol 2">
     <display-name>Fútbol 2</display-name>
   </channel>
-  <programme start="20261018161500 +0100" stop="20261018181500 +0100" channel="Fútbol 2">
-    <title>Laliga Hypermotion: Granada - Cádiz</title>
-    <desc>Fútbol en directo - Laliga Hypermotion: Granada - Cádiz</desc>
-  </programme>
-  <programme start="20261019141956 +0100" stop="20261019181956 +0100" channel="Fútbol 2">
+  <programme start="20261020130030 +0100" stop="20261020170030 +0100" channel="Fútbol 2">
     <title>Próximo partido: Leganés - Mallorca (Sábado 24/10 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 24/10 - 16:15)</desc>
   </programme>
-  <programme start="20261019181956 +0100" stop="20261019221956 +0100" channel="Fútbol 2">
+  <programme start="20261020170030 +0100" stop="20261020210030 +0100" channel="Fútbol 2">
     <title>Próximo partido: Leganés - Mallorca (Sábado 24/10 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 24/10 - 16:15)</desc>
   </programme>
-  <programme start="20261019221956 +0100" stop="20261020021956 +0100" channel="Fútbol 2">
+  <programme start="20261020210030 +0100" stop="20261021010030 +0100" channel="Fútbol 2">
     <title>Próximo partido: Leganés - Mallorca (Sábado 24/10 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 24/10 - 16:15)</desc>
   </programme>
-  <programme start="20261020021956 +0100" stop="20261020061956 +0100" channel="Fútbol 2">
+  <programme start="20261021010030 +0100" stop="20261021050030 +0100" channel="Fútbol 2">
     <title>Próximo partido: Leganés - Mallorca (Sábado 24/10 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 24/10 - 16:15)</desc>
   </programme>
-  <programme start="20261020061956 +0100" stop="20261020101956 +0100" channel="Fútbol 2">
+  <programme start="20261021050030 +0100" stop="20261021090030 +0100" channel="Fútbol 2">
     <title>Próximo partido: Leganés - Mallorca (Sábado 24/10 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 24/10 - 16:15)</desc>
   </programme>
-  <programme start="20261020101956 +0100" stop="20261020141956 +0100" channel="Fútbol 2">
+  <programme start="20261021090030 +0100" stop="20261021130030 +0100" channel="Fútbol 2">
     <title>Próximo partido: Leganés - Mallorca (Sábado 24/10 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 24/10 - 16:15)</desc>
   </programme>
-  <programme start="20261020141956 +0100" stop="20261020181956 +0100" channel="Fútbol 2">
+  <programme start="20261021130030 +0100" stop="20261021170030 +0100" channel="Fútbol 2">
     <title>Próximo partido: Leganés - Mallorca (Sábado 24/10 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 24/10 - 16:15)</desc>
   </programme>
-  <programme start="20261020181956 +0100" stop="20261020221956 +0100" channel="Fútbol 2">
+  <programme start="20261021170030 +0100" stop="20261021210030 +0100" channel="Fútbol 2">
     <title>Próximo partido: Leganés - Mallorca (Sábado 24/10 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 24/10 - 16:15)</desc>
   </programme>
-  <programme start="20261020221956 +0100" stop="20261021021956 +0100" channel="Fútbol 2">
+  <programme start="20261021210030 +0100" stop="20261022010030 +0100" channel="Fútbol 2">
     <title>Próximo partido: Leganés - Mallorca (Sábado 24/10 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 24/10 - 16:15)</desc>
   </programme>
-  <programme start="20261021021956 +0100" stop="20261021061956 +0100" channel="Fútbol 2">
+  <programme start="20261022010030 +0100" stop="20261022050030 +0100" channel="Fútbol 2">
     <title>Próximo partido: Leganés - Mallorca (Sábado 24/10 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 24/10 - 16:15)</desc>
   </programme>
-  <programme start="20261021061956 +0100" stop="20261021101956 +0100" channel="Fútbol 2">
+  <programme start="20261022050030 +0100" stop="20261022090030 +0100" channel="Fútbol 2">
     <title>Próximo partido: Leganés - Mallorca (Sábado 24/10 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 24/10 - 16:15)</desc>
   </programme>
-  <programme start="20261021101956 +0100" stop="20261021141956 +0100" channel="Fútbol 2">
+  <programme start="20261022090030 +0100" stop="20261022130030 +0100" channel="Fútbol 2">
     <title>Próximo partido: Leganés - Mallorca (Sábado 24/10 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 24/10 - 16:15)</desc>
   </programme>
-  <programme start="20261021141956 +0100" stop="20261021181956 +0100" channel="Fútbol 2">
+  <programme start="20261022130030 +0100" stop="20261022170030 +0100" channel="Fútbol 2">
     <title>Próximo partido: Leganés - Mallorca (Sábado 24/10 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 24/10 - 16:15)</desc>
   </programme>
-  <programme start="20261021181956 +0100" stop="20261021221956 +0100" channel="Fútbol 2">
+  <programme start="20261022170030 +0100" stop="20261022210030 +0100" channel="Fútbol 2">
     <title>Próximo partido: Leganés - Mallorca (Sábado 24/10 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 24/10 - 16:15)</desc>
   </programme>
-  <programme start="20261021221956 +0100" stop="20261022021956 +0100" channel="Fútbol 2">
+  <programme start="20261022210030 +0100" stop="20261023010030 +0100" channel="Fútbol 2">
     <title>Próximo partido: Leganés - Mallorca (Sábado 24/10 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 24/10 - 16:15)</desc>
   </programme>
-  <programme start="20261022021956 +0100" stop="20261022061956 +0100" channel="Fútbol 2">
+  <programme start="20261023010030 +0100" stop="20261023050030 +0100" channel="Fútbol 2">
     <title>Próximo partido: Leganés - Mallorca (Sábado 24/10 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 24/10 - 16:15)</desc>
   </programme>
-  <programme start="20261022061956 +0100" stop="20261022101956 +0100" channel="Fútbol 2">
+  <programme start="20261023050030 +0100" stop="20261023090030 +0100" channel="Fútbol 2">
     <title>Próximo partido: Leganés - Mallorca (Sábado 24/10 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 24/10 - 16:15)</desc>
   </programme>
-  <programme start="20261022101956 +0100" stop="20261022141956 +0100" channel="Fútbol 2">
+  <programme start="20261023090030 +0100" stop="20261023130030 +0100" channel="Fútbol 2">
     <title>Próximo partido: Leganés - Mallorca (Sábado 24/10 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 24/10 - 16:15)</desc>
   </programme>
-  <programme start="20261022141956 +0100" stop="20261022181956 +0100" channel="Fútbol 2">
+  <programme start="20261023130030 +0100" stop="20261023170030 +0100" channel="Fútbol 2">
     <title>Próximo partido: Leganés - Mallorca (Sábado 24/10 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 24/10 - 16:15)</desc>
   </programme>
-  <programme start="20261022181956 +0100" stop="20261022221956 +0100" channel="Fútbol 2">
+  <programme start="20261023170030 +0100" stop="20261023210030 +0100" channel="Fútbol 2">
     <title>Próximo partido: Leganés - Mallorca (Sábado 24/10 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 24/10 - 16:15)</desc>
   </programme>
-  <programme start="20261022221956 +0100" stop="20261023021956 +0100" channel="Fútbol 2">
+  <programme start="20261023210030 +0100" stop="20261024010030 +0100" channel="Fútbol 2">
     <title>Próximo partido: Leganés - Mallorca (Sábado 24/10 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 24/10 - 16:15)</desc>
   </programme>
-  <programme start="20261023021956 +0100" stop="20261023061956 +0100" channel="Fútbol 2">
+  <programme start="20261024010030 +0100" stop="20261024050030 +0100" channel="Fútbol 2">
     <title>Próximo partido: Leganés - Mallorca (Sábado 24/10 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 24/10 - 16:15)</desc>
   </programme>
-  <programme start="20261023061956 +0100" stop="20261023101956 +0100" channel="Fútbol 2">
+  <programme start="20261024050030 +0100" stop="20261024090030 +0100" channel="Fútbol 2">
     <title>Próximo partido: Leganés - Mallorca (Sábado 24/10 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 24/10 - 16:15)</desc>
   </programme>
-  <programme start="20261023101956 +0100" stop="20261023141956 +0100" channel="Fútbol 2">
+  <programme start="20261024090030 +0100" stop="20261024130030 +0100" channel="Fútbol 2">
     <title>Próximo partido: Leganés - Mallorca (Sábado 24/10 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 24/10 - 16:15)</desc>
   </programme>
-  <programme start="20261023141956 +0100" stop="20261023181956 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Leganés - Mallorca (Sábado 24/10 - 16:15)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Sábado 24/10 - 16:15)</desc>
-  </programme>
-  <programme start="20261023181956 +0100" stop="20261023221956 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Leganés - Mallorca (Sábado 24/10 - 16:15)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Sábado 24/10 - 16:15)</desc>
-  </programme>
-  <programme start="20261023221956 +0100" stop="20261024021956 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Leganés - Mallorca (Sábado 24/10 - 16:15)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Sábado 24/10 - 16:15)</desc>
-  </programme>
-  <programme start="20261024021956 +0100" stop="20261024061956 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Leganés - Mallorca (Sábado 24/10 - 16:15)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Sábado 24/10 - 16:15)</desc>
-  </programme>
-  <programme start="20261024061956 +0100" stop="20261024101956 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Leganés - Mallorca (Sábado 24/10 - 16:15)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Sábado 24/10 - 16:15)</desc>
-  </programme>
-  <programme start="20261024101956 +0100" stop="20261024141956 +0100" channel="Fútbol 2">
-    <title>Próximo partido: Leganés - Mallorca (Sábado 24/10 - 16:15)</title>
-    <desc>Siguiente emisión en Fútbol 2 | (Sábado 24/10 - 16:15)</desc>
-  </programme>
-  <programme start="20261024141956 +0100" stop="20261024161500 +0100" channel="Fútbol 2">
+  <programme start="20261024130030 +0100" stop="20261024161500 +0100" channel="Fútbol 2">
     <title>Próximo partido: Leganés - Mallorca (Sábado 24/10 - 16:15)</title>
     <desc>Siguiente emisión en Fútbol 2 | (Sábado 24/10 - 16:15)</desc>
   </programme>
@@ -313,135 +433,107 @@
   <channel id="Fútbol 3">
     <display-name>Fútbol 3</display-name>
   </channel>
-  <programme start="20261018120000 +0100" stop="20261018140000 +0100" channel="Fútbol 3">
-    <title>Serie A: Fiorentina - Como</title>
-    <desc>Fútbol en directo - Serie A: Fiorentina - Como</desc>
-  </programme>
-  <programme start="20261019141956 +0100" stop="20261019181956 +0100" channel="Fútbol 3">
+  <programme start="20261020130030 +0100" stop="20261020170030 +0100" channel="Fútbol 3">
     <title>Próximo partido: Borussia Dortmund - Eintracht Francfort (Sábado 24/10 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 24/10 - 18:30)</desc>
   </programme>
-  <programme start="20261019181956 +0100" stop="20261019221956 +0100" channel="Fútbol 3">
+  <programme start="20261020170030 +0100" stop="20261020210030 +0100" channel="Fútbol 3">
     <title>Próximo partido: Borussia Dortmund - Eintracht Francfort (Sábado 24/10 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 24/10 - 18:30)</desc>
   </programme>
-  <programme start="20261019221956 +0100" stop="20261020021956 +0100" channel="Fútbol 3">
+  <programme start="20261020210030 +0100" stop="20261021010030 +0100" channel="Fútbol 3">
     <title>Próximo partido: Borussia Dortmund - Eintracht Francfort (Sábado 24/10 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 24/10 - 18:30)</desc>
   </programme>
-  <programme start="20261020021956 +0100" stop="20261020061956 +0100" channel="Fútbol 3">
+  <programme start="20261021010030 +0100" stop="20261021050030 +0100" channel="Fútbol 3">
     <title>Próximo partido: Borussia Dortmund - Eintracht Francfort (Sábado 24/10 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 24/10 - 18:30)</desc>
   </programme>
-  <programme start="20261020061956 +0100" stop="20261020101956 +0100" channel="Fútbol 3">
+  <programme start="20261021050030 +0100" stop="20261021090030 +0100" channel="Fútbol 3">
     <title>Próximo partido: Borussia Dortmund - Eintracht Francfort (Sábado 24/10 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 24/10 - 18:30)</desc>
   </programme>
-  <programme start="20261020101956 +0100" stop="20261020141956 +0100" channel="Fútbol 3">
+  <programme start="20261021090030 +0100" stop="20261021130030 +0100" channel="Fútbol 3">
     <title>Próximo partido: Borussia Dortmund - Eintracht Francfort (Sábado 24/10 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 24/10 - 18:30)</desc>
   </programme>
-  <programme start="20261020141956 +0100" stop="20261020181956 +0100" channel="Fútbol 3">
+  <programme start="20261021130030 +0100" stop="20261021170030 +0100" channel="Fútbol 3">
     <title>Próximo partido: Borussia Dortmund - Eintracht Francfort (Sábado 24/10 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 24/10 - 18:30)</desc>
   </programme>
-  <programme start="20261020181956 +0100" stop="20261020221956 +0100" channel="Fútbol 3">
+  <programme start="20261021170030 +0100" stop="20261021210030 +0100" channel="Fútbol 3">
     <title>Próximo partido: Borussia Dortmund - Eintracht Francfort (Sábado 24/10 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 24/10 - 18:30)</desc>
   </programme>
-  <programme start="20261020221956 +0100" stop="20261021021956 +0100" channel="Fútbol 3">
+  <programme start="20261021210030 +0100" stop="20261022010030 +0100" channel="Fútbol 3">
     <title>Próximo partido: Borussia Dortmund - Eintracht Francfort (Sábado 24/10 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 24/10 - 18:30)</desc>
   </programme>
-  <programme start="20261021021956 +0100" stop="20261021061956 +0100" channel="Fútbol 3">
+  <programme start="20261022010030 +0100" stop="20261022050030 +0100" channel="Fútbol 3">
     <title>Próximo partido: Borussia Dortmund - Eintracht Francfort (Sábado 24/10 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 24/10 - 18:30)</desc>
   </programme>
-  <programme start="20261021061956 +0100" stop="20261021101956 +0100" channel="Fútbol 3">
+  <programme start="20261022050030 +0100" stop="20261022090030 +0100" channel="Fútbol 3">
     <title>Próximo partido: Borussia Dortmund - Eintracht Francfort (Sábado 24/10 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 24/10 - 18:30)</desc>
   </programme>
-  <programme start="20261021101956 +0100" stop="20261021141956 +0100" channel="Fútbol 3">
+  <programme start="20261022090030 +0100" stop="20261022130030 +0100" channel="Fútbol 3">
     <title>Próximo partido: Borussia Dortmund - Eintracht Francfort (Sábado 24/10 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 24/10 - 18:30)</desc>
   </programme>
-  <programme start="20261021141956 +0100" stop="20261021181956 +0100" channel="Fútbol 3">
+  <programme start="20261022130030 +0100" stop="20261022170030 +0100" channel="Fútbol 3">
     <title>Próximo partido: Borussia Dortmund - Eintracht Francfort (Sábado 24/10 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 24/10 - 18:30)</desc>
   </programme>
-  <programme start="20261021181956 +0100" stop="20261021221956 +0100" channel="Fútbol 3">
+  <programme start="20261022170030 +0100" stop="20261022210030 +0100" channel="Fútbol 3">
     <title>Próximo partido: Borussia Dortmund - Eintracht Francfort (Sábado 24/10 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 24/10 - 18:30)</desc>
   </programme>
-  <programme start="20261021221956 +0100" stop="20261022021956 +0100" channel="Fútbol 3">
+  <programme start="20261022210030 +0100" stop="20261023010030 +0100" channel="Fútbol 3">
     <title>Próximo partido: Borussia Dortmund - Eintracht Francfort (Sábado 24/10 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 24/10 - 18:30)</desc>
   </programme>
-  <programme start="20261022021956 +0100" stop="20261022061956 +0100" channel="Fútbol 3">
+  <programme start="20261023010030 +0100" stop="20261023050030 +0100" channel="Fútbol 3">
     <title>Próximo partido: Borussia Dortmund - Eintracht Francfort (Sábado 24/10 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 24/10 - 18:30)</desc>
   </programme>
-  <programme start="20261022061956 +0100" stop="20261022101956 +0100" channel="Fútbol 3">
+  <programme start="20261023050030 +0100" stop="20261023090030 +0100" channel="Fútbol 3">
     <title>Próximo partido: Borussia Dortmund - Eintracht Francfort (Sábado 24/10 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 24/10 - 18:30)</desc>
   </programme>
-  <programme start="20261022101956 +0100" stop="20261022141956 +0100" channel="Fútbol 3">
+  <programme start="20261023090030 +0100" stop="20261023130030 +0100" channel="Fútbol 3">
     <title>Próximo partido: Borussia Dortmund - Eintracht Francfort (Sábado 24/10 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 24/10 - 18:30)</desc>
   </programme>
-  <programme start="20261022141956 +0100" stop="20261022181956 +0100" channel="Fútbol 3">
+  <programme start="20261023130030 +0100" stop="20261023170030 +0100" channel="Fútbol 3">
     <title>Próximo partido: Borussia Dortmund - Eintracht Francfort (Sábado 24/10 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 24/10 - 18:30)</desc>
   </programme>
-  <programme start="20261022181956 +0100" stop="20261022221956 +0100" channel="Fútbol 3">
+  <programme start="20261023170030 +0100" stop="20261023210030 +0100" channel="Fútbol 3">
     <title>Próximo partido: Borussia Dortmund - Eintracht Francfort (Sábado 24/10 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 24/10 - 18:30)</desc>
   </programme>
-  <programme start="20261022221956 +0100" stop="20261023021956 +0100" channel="Fútbol 3">
+  <programme start="20261023210030 +0100" stop="20261024010030 +0100" channel="Fútbol 3">
     <title>Próximo partido: Borussia Dortmund - Eintracht Francfort (Sábado 24/10 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 24/10 - 18:30)</desc>
   </programme>
-  <programme start="20261023021956 +0100" stop="20261023061956 +0100" channel="Fútbol 3">
+  <programme start="20261024010030 +0100" stop="20261024050030 +0100" channel="Fútbol 3">
     <title>Próximo partido: Borussia Dortmund - Eintracht Francfort (Sábado 24/10 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 24/10 - 18:30)</desc>
   </programme>
-  <programme start="20261023061956 +0100" stop="20261023101956 +0100" channel="Fútbol 3">
+  <programme start="20261024050030 +0100" stop="20261024090030 +0100" channel="Fútbol 3">
     <title>Próximo partido: Borussia Dortmund - Eintracht Francfort (Sábado 24/10 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 24/10 - 18:30)</desc>
   </programme>
-  <programme start="20261023101956 +0100" stop="20261023141956 +0100" channel="Fútbol 3">
+  <programme start="20261024090030 +0100" stop="20261024130030 +0100" channel="Fútbol 3">
     <title>Próximo partido: Borussia Dortmund - Eintracht Francfort (Sábado 24/10 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 24/10 - 18:30)</desc>
   </programme>
-  <programme start="20261023141956 +0100" stop="20261023181956 +0100" channel="Fútbol 3">
+  <programme start="20261024130030 +0100" stop="20261024170030 +0100" channel="Fútbol 3">
     <title>Próximo partido: Borussia Dortmund - Eintracht Francfort (Sábado 24/10 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 24/10 - 18:30)</desc>
   </programme>
-  <programme start="20261023181956 +0100" stop="20261023221956 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Borussia Dortmund - Eintracht Francfort (Sábado 24/10 - 18:30)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Sábado 24/10 - 18:30)</desc>
-  </programme>
-  <programme start="20261023221956 +0100" stop="20261024021956 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Borussia Dortmund - Eintracht Francfort (Sábado 24/10 - 18:30)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Sábado 24/10 - 18:30)</desc>
-  </programme>
-  <programme start="20261024021956 +0100" stop="20261024061956 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Borussia Dortmund - Eintracht Francfort (Sábado 24/10 - 18:30)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Sábado 24/10 - 18:30)</desc>
-  </programme>
-  <programme start="20261024061956 +0100" stop="20261024101956 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Borussia Dortmund - Eintracht Francfort (Sábado 24/10 - 18:30)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Sábado 24/10 - 18:30)</desc>
-  </programme>
-  <programme start="20261024101956 +0100" stop="20261024141956 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Borussia Dortmund - Eintracht Francfort (Sábado 24/10 - 18:30)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Sábado 24/10 - 18:30)</desc>
-  </programme>
-  <programme start="20261024141956 +0100" stop="20261024181956 +0100" channel="Fútbol 3">
-    <title>Próximo partido: Borussia Dortmund - Eintracht Francfort (Sábado 24/10 - 18:30)</title>
-    <desc>Siguiente emisión en Fútbol 3 | (Sábado 24/10 - 18:30)</desc>
-  </programme>
-  <programme start="20261024181956 +0100" stop="20261024183000 +0100" channel="Fútbol 3">
+  <programme start="20261024170030 +0100" stop="20261024183000 +0100" channel="Fútbol 3">
     <title>Próximo partido: Borussia Dortmund - Eintracht Francfort (Sábado 24/10 - 18:30)</title>
     <desc>Siguiente emisión en Fútbol 3 | (Sábado 24/10 - 18:30)</desc>
   </programme>
